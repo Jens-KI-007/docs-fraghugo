@@ -1,49 +1,58 @@
-# Starlight Starter Kit: Basics
+# docs.fraghugo.de
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+Öffentliches Hilfe-Center für Hugo Check, Hugo DSB und Hugo Shield. Astro + Starlight, deutscher Content, Hugo-Branding.
 
-```
-npm create astro@latest -- --template starlight
-```
+## Entwicklung
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+```bash
+npm install
+npm run dev    # http://localhost:4321
+npm run build  # → dist/
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## Deployment auf Cloudflare Pages
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+1. Cloudflare Pages → **Create project** → **Connect to Git** (oder Direct Upload des `dist/`-Ordners)
+2. **Build command:** `npm run build`
+3. **Build output directory:** `dist`
+4. **Node version:** 20+
+5. **Custom domain:** `docs.fraghugo.de` → CNAME auf das Pages-Projekt
 
-Static assets, like favicons, can be placed in the `public/` directory.
+## Struktur
 
-## 🧞 Commands
+```
+src/
+├── content/docs/
+│   ├── erste-schritte/   # 3 Artikel
+│   ├── hugo-check/       # 9 Artikel
+│   ├── hugo-dsb/         # 11 Artikel
+│   ├── nis2/             # 4 Artikel
+│   ├── hugo-shield/      # 7 Artikel
+│   ├── mitarbeiter/      # 4 Artikel
+│   ├── faq/              # 3 Artikel
+│   └── index.mdx         # Landing Page
+├── components/HeaderLinks.astro
+├── styles/custom.css     # Hugo-Branding
+└── content.config.ts
+```
 
-All commands are run from the root of the project, from a terminal:
+41 Artikel insgesamt. Jeder Artikel hat:
+- Frontmatter (title, description)
+- Article-Meta-Box (Zielgruppe, Lesezeit)
+- Mindestens einen Screenshot-Verweis
+- Verwandte Artikel
+- CTA-Banner mit Brevo-Erstgesprächs-Link
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## Branding
 
-## 👀 Want to learn more?
+- **Farben:** Navy `#1A1F36`, Teal `#0EA5E9`, Amber `#F59E0B`
+- **Fonts:** Plus Jakarta Sans (Body), DM Serif Display (Headlines)
+- **Logo:** Hugo Oktopus (`/public/logo-octopus.svg`)
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+## Screenshots
+
+Liegen in `public/screenshots/`. Aktuell aus den öffentlichen Landing-Pages der drei Apps. Interne Screen-Captures (VVT-Form, NIS2-Dashboard, etc.) werden später aus den App-Repos ergänzt – die `<img>`-Pfade in den Artikeln verweisen bereits auf die richtigen Dateinamen.
+
+## Suche
+
+Pagefind ist eingebaut, indexiert alle 41 Artikel automatisch beim Build.

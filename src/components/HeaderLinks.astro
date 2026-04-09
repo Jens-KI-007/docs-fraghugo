@@ -1,0 +1,35 @@
+---
+// HeaderLinks – ersetzt SocialIcons mit Links zu den 3 Apps
+---
+
+<div class="header-links">
+  <a href="https://check.fraghugo.de" target="_blank" rel="noopener" class="app-link">Hugo Check</a>
+  <a href="https://dsb.fraghugo.de" target="_blank" rel="noopener" class="app-link">Hugo DSB</a>
+  <a href="https://shield.fraghugo.de" target="_blank" rel="noopener" class="app-link">Hugo Shield</a>
+</div>
+
+<style>
+  .header-links {
+    display: flex;
+    gap: 1.25rem;
+    align-items: center;
+  }
+
+  .app-link {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--sl-color-text);
+    text-decoration: none;
+    transition: color 0.2s;
+  }
+
+  .app-link:hover {
+    color: var(--hugo-teal, #0EA5E9);
+  }
+
+  @media (max-width: 50rem) {
+    .header-links {
+      display: none;
+    }
+  }
+</style>

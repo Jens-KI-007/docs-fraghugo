@@ -1,40 +1,125 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-template: splash # Remove or comment out this line to display the site sidebar on this page.
+title: "frag.hugo Hilfe-Center"
+description: "Anleitungen für Hugo Check, Hugo DSB und Hugo Shield – Datenschutz, NIS2 und Lieferketten-Compliance einfach erklärt für Geschäftsführer."
+template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
+  tagline: Datenschutz, NIS2 und Lieferketten-Compliance — einfach erklärt für deutsche Geschäftsführer und ihre Teams. 41 Anleitungen, eine Sprache, kein Juristendeutsch.
   actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
+    - text: Erste Schritte
+      link: /erste-schritte/uebersicht/
+      variant: primary
+    - text: Erstgespräch buchen
+      link: https://meet.brevo.com/fraghugo/intro
       variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+<div class="section-title">
+  <span class="section-title__num">01</span>
+  <span class="section-title__line"></span>
+  <span class="section-title__label">Welches Produkt für Sie?</span>
+</div>
 
-## Next steps
+<div class="product-grid">
+  <a href="/hugo-check/website-check-starten/" class="product-card">
+    <div class="product-card__num">I — Website-Scanner</div>
+    <h3 class="product-card__title">Hugo Check</h3>
+    <p class="product-card__desc">29 Checks in 60 Sekunden. DSGVO-Score, KI-Analyse, Pro-Features für Agenturen. Ohne Login startklar.</p>
+    <span class="product-card__cta">Anleitungen lesen</span>
+  </a>
+  <a href="/hugo-dsb/dsb-dashboard/" class="product-card">
+    <div class="product-card__num">II — Datenschutz</div>
+    <h3 class="product-card__title">Hugo DSB</h3>
+    <p class="product-card__desc">VVT, AVV, TOMs, DSE-Generator, Schulungen und NIS2-Compliance — alles an einem Ort. Ab 49 € im Monat.</p>
+    <span class="product-card__cta">Anleitungen lesen</span>
+  </a>
+  <a href="/hugo-shield/assessment-ausfuellen/" class="product-card">
+    <div class="product-card__num">III — Lieferkette</div>
+    <h3 class="product-card__title">Hugo Shield</h3>
+    <p class="product-card__desc">Lieferketten-Compliance nach NIS2. Assessments, Scores und Reports für Auftraggeber und Zulieferer.</p>
+    <span class="product-card__cta">Anleitungen lesen</span>
+  </a>
+</div>
 
-<CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Change page layout" icon="document">
-		Delete `template: splash` in `src/content/docs/index.mdx` to display a
-		sidebar on this page.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
-</CardGrid>
+<div class="section-title">
+  <span class="section-title__num">02</span>
+  <span class="section-title__line"></span>
+  <span class="section-title__label">Häufig gesucht</span>
+</div>
+
+<ul class="topic-list">
+  <li>
+    <a href="/hugo-dsb/vvt-anlegen/">
+      <span class="topic-list__num">01</span>
+      <span class="topic-list__title">Verarbeitungsverzeichnis (VVT) anlegen</span>
+      <span class="topic-list__meta">6 Min · Pflicht nach Art. 30 DSGVO</span>
+    </a>
+  </li>
+  <li>
+    <a href="/nis2/bsi-registrierung/">
+      <span class="topic-list__num">02</span>
+      <span class="topic-list__title">BSI-Registrierung Schritt für Schritt</span>
+      <span class="topic-list__meta">7 Min · NIS2-Pflicht</span>
+    </a>
+  </li>
+  <li>
+    <a href="/hugo-dsb/datenpanne-melden/">
+      <span class="topic-list__num">03</span>
+      <span class="topic-list__title">Datenpanne in 24 Stunden melden</span>
+      <span class="topic-list__meta">6 Min · Was Sie sofort tun</span>
+    </a>
+  </li>
+  <li>
+    <a href="/nis2/gf-schulung/">
+      <span class="topic-list__num">04</span>
+      <span class="topic-list__title">GF-Schulung nach §38 BSIG</span>
+      <span class="topic-list__meta">4 Min · Persönlich pflichtig</span>
+    </a>
+  </li>
+  <li>
+    <a href="/hugo-shield/assessment-ausfuellen/">
+      <span class="topic-list__num">05</span>
+      <span class="topic-list__title">Lieferketten-Assessment ausfüllen</span>
+      <span class="topic-list__meta">5 Min · Für Zulieferer</span>
+    </a>
+  </li>
+  <li>
+    <a href="/erste-schritte/tarife/">
+      <span class="topic-list__num">06</span>
+      <span class="topic-list__title">Tarife & Preise im Überblick</span>
+      <span class="topic-list__meta">5 Min · Alle drei Produkte</span>
+    </a>
+  </li>
+</ul>
+
+<div class="section-title">
+  <span class="section-title__num">03</span>
+  <span class="section-title__line"></span>
+  <span class="section-title__label">Für Mitarbeiter</span>
+</div>
+
+<div class="product-grid">
+  <a href="/mitarbeiter/schulung-machen/" class="product-card">
+    <div class="product-card__num">→ Mitarbeiter</div>
+    <h3 class="product-card__title">Schulung machen</h3>
+    <p class="product-card__desc">Ihr Chef hat Sie eingeladen? In 15 Minuten sind Sie durch — verständlich, ohne Juristendeutsch.</p>
+    <span class="product-card__cta product-card__cta--mitarbeiter">Anleitung öffnen</span>
+  </a>
+  <a href="/mitarbeiter/quiz-bestehen/" class="product-card">
+    <div class="product-card__num">→ Mitarbeiter</div>
+    <h3 class="product-card__title">Quiz bestehen</h3>
+    <p class="product-card__desc">80 % richtig = bestanden. Mit unseren Tipps schaffen Sie es beim ersten Versuch.</p>
+    <span class="product-card__cta product-card__cta--mitarbeiter">Tipps lesen</span>
+  </a>
+  <a href="/mitarbeiter/mitarbeiter-datenpanne/" class="product-card">
+    <div class="product-card__num">→ Mitarbeiter</div>
+    <h3 class="product-card__title">Datenpanne melden</h3>
+    <p class="product-card__desc">Mail an den falschen Empfänger? USB-Stick weg? So reagieren Sie richtig — in den ersten 60 Minuten.</p>
+    <span class="product-card__cta product-card__cta--mitarbeiter">Anleitung öffnen</span>
+  </a>
+</div>
+
+<div class="landing-cta">
+  <h2>Lieber direkt mit jemandem sprechen?</h2>
+  <p>Buchen Sie ein 15-minütiges Erstgespräch mit Nils Oehmichen — Datenschutzberater und Mitgründer von frag.hugo. Persönlich, kostenlos, ohne Vertrieb.</p>
+  <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+</div>
