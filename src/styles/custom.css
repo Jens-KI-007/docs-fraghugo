@@ -1,6 +1,6 @@
 /* ========================================================================
-   docs.fraghugo.de — exakt im fraghugo.de Brand
-   Quelle: https://www.fraghugo.de (extrahiert aus dem Live-Code)
+   docs.fraghugo.de — fraghugo brand, mit Liebe zum Detail
+   Quelle: https://www.fraghugo.de
    ======================================================================== */
 
 @font-face {
@@ -20,41 +20,32 @@
 }
 
 /* ------------------------------------------------------------------------
-   1. Brand Tokens — 1:1 aus tailwind.config.mjs
+   1. Brand Tokens
    ------------------------------------------------------------------------ */
 
 :root {
-  /* Hugo Navy */
   --hugo-navy:        #1A1F36;
-  --hugo-navy-50:     #F0F1F4;
   --hugo-navy-700:    #1A1F36;
   --hugo-navy-800:    #131728;
   --hugo-navy-900:    #0C0F1A;
 
-  /* Hugo Teal */
   --hugo-teal:        #0EA5E9;
   --hugo-teal-300:    #38BDF8;
   --hugo-teal-500:    #0284C7;
-  --hugo-teal-700:    #075985;
 
-  /* Hugo Amber */
   --hugo-amber:       #F59E0B;
   --hugo-amber-300:   #FCD34D;
   --hugo-amber-400:   #FBBF24;
   --hugo-amber-600:   #D97706;
 
-  /* Hugo Slate */
+  --hugo-green:       #22C55E;
+  --hugo-green-300:   #4ADE80;
+
   --hugo-slate:       #94A3B8;
-  --hugo-slate-200:   #E2E8F0;
   --hugo-slate-300:   #CBD5E1;
-  --hugo-slate-400:   #94A3B8;
-  --hugo-slate-500:   #64748B;
-  --hugo-slate-600:   #475569;
   --hugo-slate-700:   #334155;
   --hugo-slate-800:   #1E293B;
-  --hugo-slate-900:   #0F172A;
 
-  /* Background scale (matches sections on fraghugo.de) */
   --bg-base:    #0A0F1E;
   --bg-section: #0F1629;
   --bg-card:    #131A2E;
@@ -64,13 +55,14 @@
   --border-default: rgba(255, 255, 255, 0.10);
   --border-strong:  rgba(255, 255, 255, 0.16);
   --border-teal:    rgba(14, 165, 233, 0.35);
+  --border-amber:   rgba(245, 158, 11, 0.35);
+  --border-green:   rgba(34, 197, 94, 0.35);
 
   --text-primary:    #FFFFFF;
   --text-secondary:  #CBD5E1;
   --text-muted:      #94A3B8;
   --text-faint:      #64748B;
 
-  /* Type scale */
   --text-xs:    0.75rem;
   --text-sm:    0.875rem;
   --text-base:  1rem;
@@ -82,11 +74,12 @@
   --text-4xl:   2.5rem;
   --text-5xl:   3.5rem;
   --text-6xl:   4.5rem;
-  --text-7xl:   6rem;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 /* ------------------------------------------------------------------------
-   2. Starlight Token Override — Dark by default (fraghugo brand)
+   2. Starlight overrides
    ------------------------------------------------------------------------ */
 
 :root,
@@ -129,7 +122,7 @@
 }
 
 /* ------------------------------------------------------------------------
-   3. Page background — fraghugo gradient + grain
+   3. Background — atmospheric depth
    ------------------------------------------------------------------------ */
 
 html, body {
@@ -144,8 +137,9 @@ body::before {
   pointer-events: none;
   z-index: 0;
   background:
-    radial-gradient(ellipse 1200px 700px at 50% -10%, rgba(14, 165, 233, 0.12), transparent 60%),
-    radial-gradient(ellipse 900px 600px at 90% 30%, rgba(245, 158, 11, 0.06), transparent 60%),
+    radial-gradient(ellipse 1400px 800px at 50% -20%, rgba(14, 165, 233, 0.16), transparent 60%),
+    radial-gradient(ellipse 1000px 700px at 95% 30%, rgba(245, 158, 11, 0.07), transparent 60%),
+    radial-gradient(ellipse 800px 600px at 5% 60%, rgba(14, 165, 233, 0.06), transparent 60%),
     linear-gradient(180deg, var(--bg-base) 0%, #0C1322 50%, var(--bg-base) 100%);
 }
 
@@ -155,15 +149,17 @@ body::after {
   inset: 0;
   pointer-events: none;
   z-index: 0;
-  opacity: 0.4;
+  opacity: 0.35;
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
   mix-blend-mode: overlay;
 }
 
-main, .main-frame, .content-panel, header, .sidebar, .right-sidebar-container {
-  position: relative;
-  z-index: 1;
-}
+/* Stacking */
+header { position: relative; z-index: 20; }
+.sidebar { position: relative; z-index: 10; }
+.right-sidebar-container { position: relative; z-index: 10; }
+.main-frame { position: relative; z-index: 1; }
+main, .content-panel { position: relative; }
 
 /* ------------------------------------------------------------------------
    4. Typography
@@ -242,22 +238,21 @@ h1 {
   font-weight: 700;
 }
 
-/* Lead paragraph after meta */
 .content-panel > .sl-markdown-content > .article-meta + p {
   font-size: var(--text-lg);
   line-height: 1.6;
   color: var(--text-secondary);
 }
 
-/* Links */
-.sl-markdown-content a:not(.cta-button):not(.app-link):not(.hp-card):not(.hp-card-cta) {
+/* Inline links in articles */
+.sl-markdown-content a:not(.cta-button):not(.app-link):not(.hp-card):not(.hp-card-cta):not(.persona-card):not(.fh-pill):not(.employee-card):not(.persona-card__cta) {
   color: var(--hugo-teal-300);
   text-decoration: none;
   border-bottom: 1px solid rgba(56, 189, 248, 0.35);
   transition: border-color 200ms ease, color 200ms ease;
 }
 
-.sl-markdown-content a:not(.cta-button):not(.app-link):not(.hp-card):not(.hp-card-cta):hover {
+.sl-markdown-content a:not(.cta-button):not(.app-link):not(.hp-card):not(.hp-card-cta):not(.persona-card):not(.fh-pill):not(.employee-card):not(.persona-card__cta):hover {
   color: #FFFFFF;
   border-bottom-color: var(--hugo-teal-300);
 }
@@ -357,7 +352,7 @@ h1 {
   color: var(--text-primary);
 }
 
-/* Images / screenshots */
+/* Article images / screenshots */
 .sl-markdown-content img {
   border: 1px solid var(--border-default);
   border-radius: 10px;
@@ -375,7 +370,7 @@ h1 {
 }
 
 /* ------------------------------------------------------------------------
-   5. Article meta box
+   5. Article meta box (in articles)
    ------------------------------------------------------------------------ */
 
 .article-meta {
@@ -547,7 +542,7 @@ h1 {
 }
 
 /* ------------------------------------------------------------------------
-   7. Header (Starlight)
+   7. Header
    ------------------------------------------------------------------------ */
 
 header.header {
@@ -570,10 +565,8 @@ header.header {
   width: auto;
 }
 
-/* Hide theme toggle (we are dark only — fraghugo is dark) */
 starlight-theme-select { display: none !important; }
 
-/* Search bar */
 site-search button[data-open-modal] {
   background: var(--bg-card);
   border: 1px solid var(--border-default);
@@ -629,84 +622,206 @@ site-search button[data-open-modal]:hover {
 }
 
 /* ------------------------------------------------------------------------
-   9. Hero (custom — written in MDX, not the splash hero)
+   9. Splash hero — 2-column with portrait
    ------------------------------------------------------------------------ */
 
-/* Hide the title content-panel on Splash pages (the one with h1#_top) */
-main:has(.fh-hero) > .content-panel:first-child {
-  display: none !important;
-}
+main:has(.fh-hero) > .content-panel:first-child { display: none !important; }
 
-/* On splash template, widen the container to fraghugo.de proportions (1280px) */
 main:has(.fh-hero) .content-panel .sl-container {
   max-width: 1280px !important;
   width: 100% !important;
   margin-left: auto !important;
   margin-right: auto !important;
+  padding-left: 1.5rem !important;
+  padding-right: 1.5rem !important;
 }
 
-/* But on splash template, the H1 from frontmatter is hidden by default */
 .fh-hero {
-  padding: 5rem 0 3rem;
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  gap: 4rem;
+  align-items: center;
+  padding: 5rem 0 4rem;
   position: relative;
-  text-align: left;
+  animation: fhFadeUp 800ms var(--ease-out) both;
 }
+
+@keyframes fhFadeUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 64rem) {
+  .fh-hero {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    padding: 3rem 0 2rem;
+  }
+}
+
+.fh-hero-text { display: flex; flex-direction: column; align-items: flex-start; }
 
 .fh-hero-title {
   font-family: 'DM Serif Display', Georgia, serif !important;
-  font-size: clamp(3rem, 7vw + 1rem, 7rem) !important;
+  font-size: clamp(2.75rem, 5.5vw + 1rem, 5.5rem) !important;
   font-weight: 400 !important;
   line-height: 0.95 !important;
   letter-spacing: -0.028em;
   color: var(--text-primary);
   margin: 1.25rem 0 1.75rem !important;
-  max-width: 16ch;
+  max-width: 14ch;
 }
 
-.fh-hero-title span {
-  display: block;
-}
+.fh-hero-title span { display: block; }
 
 .fh-hero-title .accent {
   color: var(--hugo-teal-300);
+  background: linear-gradient(135deg, var(--hugo-teal-300) 0%, var(--hugo-teal) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .fh-hero-tagline {
   font-size: var(--text-lg);
   line-height: 1.6;
   color: var(--text-secondary);
-  max-width: 42rem;
+  max-width: 38rem;
   font-weight: 400;
   margin: 0 0 2rem;
 }
 
-.fh-hero-actions {
+.fh-hero-actions { display: flex; gap: 1rem; flex-wrap: wrap; }
+
+/* Hero portrait */
+.fh-hero-portrait {
+  position: relative;
   display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin-bottom: 4.5rem;
+  justify-content: center;
 }
 
-/* Pill buttons — exactly like fraghugo.de */
+.fh-hero-portrait-frame {
+  position: relative;
+  width: 100%;
+  max-width: 26rem;
+  border-radius: 24px;
+  overflow: hidden;
+  background: var(--bg-card-hi);
+  border: 1px solid var(--border-default);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.05),
+    0 40px 80px -20px rgba(0, 0, 0, 0.6);
+  transform: rotate(-1deg);
+  transition: transform 600ms var(--ease-out);
+}
+
+.fh-hero-portrait-frame::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(135deg, rgba(14, 165, 233, 0.5), transparent 40%, transparent 60%, rgba(245, 158, 11, 0.4));
+  border-radius: 26px;
+  z-index: -1;
+  filter: blur(24px);
+  opacity: 0.6;
+}
+
+.fh-hero-portrait-frame:hover { transform: rotate(0deg) scale(1.01); }
+
+.fh-hero-portrait-frame img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 0;
+  margin: 0;
+  border: none;
+  box-shadow: none;
+  background: transparent;
+}
+
+.fh-hero-portrait-quote {
+  position: relative;
+  padding: 2rem 1.75rem 1.75rem;
+  background: linear-gradient(180deg, transparent 0%, rgba(10, 14, 31, 0.92) 25%, rgba(10, 14, 31, 0.98) 100%);
+  margin-top: -8rem;
+  z-index: 2;
+}
+
+.fh-hero-portrait-quote .fh-quote-mark {
+  display: block;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 4.5rem;
+  line-height: 0.4;
+  color: var(--hugo-amber);
+  position: absolute;
+  top: 1.4rem;
+  left: 1.25rem;
+  pointer-events: none;
+}
+
+.fh-hero-portrait-quote p {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.0625rem;
+  line-height: 1.45;
+  color: var(--text-primary);
+  margin: 0 0 1rem;
+  padding-left: 1.75rem;
+  font-style: italic;
+  max-width: 100%;
+}
+
+.fh-hero-portrait-quote footer {
+  padding-left: 1.75rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+
+.fh-hero-portrait-quote footer strong {
+  color: var(--hugo-teal-300);
+  font-weight: 700;
+  font-size: 0.8125rem;
+}
+
+@media (max-width: 64rem) {
+  .fh-hero-portrait-frame { max-width: 22rem; transform: rotate(0deg); }
+}
+
+/* ------------------------------------------------------------------------
+   10. Pill buttons (hero + CTA)
+   ------------------------------------------------------------------------ */
+
 .fh-pill {
   display: inline-flex !important;
-  align-items: center;
+  align-items: center !important;
+  justify-content: center;
   gap: 0.625rem;
   padding: 1rem 1.75rem;
+  min-height: 3rem;
   border-radius: 999px;
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: var(--text-sm);
   font-weight: 700;
   letter-spacing: 0.01em;
   border: none !important;
-  transition: all 250ms cubic-bezier(0.22, 1, 0.36, 1);
+  transition: all 250ms var(--ease-out);
   text-decoration: none !important;
   line-height: 1 !important;
   cursor: pointer;
   white-space: nowrap;
 }
 
-.fh-pill svg {
+.fh-pill .fh-pill-label {
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+}
+
+.fh-pill .fh-pill-icon {
+  display: block;
   width: 18px;
   height: 18px;
   flex-shrink: 0;
@@ -724,13 +839,8 @@ main:has(.fh-hero) .content-panel .sl-container {
   box-shadow: 0 14px 32px -8px rgba(245, 158, 11, 0.6);
 }
 
-.fh-pill--amber svg {
-  transition: transform 250ms ease;
-}
-
-.fh-pill--amber:hover svg {
-  transform: translateX(3px);
-}
+.fh-pill--amber .fh-pill-icon { transition: transform 250ms ease; }
+.fh-pill--amber:hover .fh-pill-icon { transform: translateX(3px); }
 
 .fh-pill--teal {
   background: var(--hugo-teal) !important;
@@ -745,64 +855,10 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 /* ------------------------------------------------------------------------
-   10. Hero stats row
+   11. Section heading
    ------------------------------------------------------------------------ */
 
-.hero-stats {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 0;
-  margin-top: 4rem;
-  padding: 2rem 0;
-  border-top: 1px solid var(--border-default);
-  border-bottom: 1px solid var(--border-default);
-}
-
-.hero-stats__item {
-  padding: 0 1.5rem;
-  border-right: 1px solid var(--border-subtle);
-}
-
-.hero-stats__item:last-child { border-right: none; }
-
-.hero-stats__num {
-  font-family: 'DM Serif Display', Georgia, serif;
-  font-size: var(--text-4xl);
-  color: var(--hugo-teal-300);
-  line-height: 1;
-  font-feature-settings: 'tnum';
-  display: block;
-  margin-bottom: 0.5rem;
-}
-
-.hero-stats__label {
-  font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: var(--text-xs);
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--text-muted);
-  font-weight: 600;
-}
-
-@media (max-width: 50rem) {
-  .hero-stats {
-    grid-template-columns: 1fr;
-  }
-  .hero-stats__item {
-    border-right: none;
-    border-bottom: 1px solid var(--border-subtle);
-    padding: 1.25rem 0;
-  }
-  .hero-stats__item:last-child { border-bottom: none; }
-}
-
-/* ------------------------------------------------------------------------
-   11. Section heading (eyebrow + h2 + lead)
-   ------------------------------------------------------------------------ */
-
-.fh-section {
-  margin: 5rem 0 0;
-}
+.fh-section { margin: 5rem 0 0; }
 
 .fh-eyebrow {
   display: inline-flex;
@@ -817,12 +873,15 @@ main:has(.fh-hero) .content-panel .sl-container {
   margin-bottom: 1.25rem;
 }
 
-.fh-eyebrow::before {
-  content: '';
+.fh-eyebrow-line {
+  display: inline-block;
   width: 1.5rem;
   height: 1px;
   background: var(--hugo-teal);
+  flex-shrink: 0;
 }
+
+.fh-eyebrow::before { content: none; }
 
 .fh-section h2 {
   font-family: 'DM Serif Display', Georgia, serif !important;
@@ -832,7 +891,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   letter-spacing: -0.02em;
   color: var(--text-primary) !important;
   margin: 0 0 1rem !important;
-  max-width: 22ch;
+  max-width: 26ch;
   border: none !important;
   padding: 0 !important;
 }
@@ -844,6 +903,13 @@ main:has(.fh-hero) .content-panel .sl-container {
   color: var(--hugo-teal-300);
 }
 
+.fh-section h2 .accent {
+  background: linear-gradient(135deg, var(--hugo-teal-300) 0%, var(--hugo-teal) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .fh-section p.lead {
   font-size: var(--text-lg);
   line-height: 1.55;
@@ -853,7 +919,137 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 /* ------------------------------------------------------------------------
-   12. Product Cards (hp-card pattern from fraghugo.de)
+   12. Persona Grid (6 personas)
+   ------------------------------------------------------------------------ */
+
+.persona-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+  margin: 2rem 0 3rem;
+}
+
+@media (max-width: 64rem) {
+  .persona-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 44rem) {
+  .persona-grid { grid-template-columns: 1fr; }
+}
+
+.persona-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  padding: 1.75rem 1.5rem;
+  background: linear-gradient(180deg, var(--bg-card-hi) 0%, var(--bg-card) 100%);
+  border: 1px solid var(--border-default);
+  border-radius: 18px;
+  text-decoration: none !important;
+  background-image: linear-gradient(180deg, var(--bg-card-hi) 0%, var(--bg-card) 100%) !important;
+  color: var(--text-primary) !important;
+  border-bottom: 1px solid var(--border-default) !important;
+  overflow: hidden;
+  transition: all 350ms var(--ease-out);
+}
+
+.persona-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 240px 160px at 100% 0%, var(--persona-glow, rgba(14, 165, 233, 0.18)), transparent 70%);
+  pointer-events: none;
+  opacity: 0.7;
+  transition: opacity 350ms ease;
+}
+
+.persona-card--gf          { --persona-glow: rgba(14, 165, 233, 0.22); --persona-color: var(--hugo-teal-300); }
+.persona-card--neukunde    { --persona-glow: rgba(34, 197, 94, 0.18); --persona-color: var(--hugo-green-300); }
+.persona-card--nis2        { --persona-glow: rgba(245, 158, 11, 0.20); --persona-color: var(--hugo-amber-300); }
+.persona-card--mitarbeiter { --persona-glow: rgba(168, 85, 247, 0.18); --persona-color: #C4B5FD; }
+.persona-card--zulieferer  { --persona-glow: rgba(236, 72, 153, 0.18); --persona-color: #F9A8D4; }
+.persona-card--agentur     { --persona-glow: rgba(20, 184, 166, 0.20); --persona-color: #5EEAD4; }
+
+.persona-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--border-teal) !important;
+  box-shadow: 0 24px 48px -16px rgba(0, 0, 0, 0.55), 0 0 0 1px var(--border-teal);
+}
+
+.persona-card:hover::before { opacity: 1; }
+
+.persona-card > * { position: relative; }
+
+.persona-card__icon {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border-default);
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.persona-card__icon svg {
+  width: 24px;
+  height: 24px;
+  stroke: var(--persona-color);
+  fill: none;
+}
+
+.persona-card__body { display: flex; flex-direction: column; gap: 0.75rem; }
+
+.persona-card__role {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--persona-color);
+}
+
+.persona-card__title {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 1.3125rem;
+  line-height: 1.15;
+  letter-spacing: -0.012em;
+  color: var(--text-primary);
+  margin: 0;
+}
+
+.persona-card__desc {
+  font-size: var(--text-sm);
+  line-height: 1.55;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+.persona-card__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--persona-color) !important;
+  border: none !important;
+}
+
+.persona-card__cta svg {
+  width: 14px;
+  height: 14px;
+  transition: transform 250ms ease;
+}
+
+.persona-card:hover .persona-card__cta svg { transform: translateX(3px); }
+
+/* ------------------------------------------------------------------------
+   13. Product Cards with real screenshots
    ------------------------------------------------------------------------ */
 
 .hp-cards {
@@ -863,9 +1059,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   margin: 2rem 0;
 }
 
-@media (max-width: 64rem) {
-  .hp-cards { grid-template-columns: 1fr; }
-}
+@media (max-width: 64rem) { .hp-cards { grid-template-columns: 1fr; } }
 
 .hp-card {
   position: relative;
@@ -873,7 +1067,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   border: 1px solid var(--border-default);
   border-radius: 20px;
   overflow: hidden;
-  transition: all 350ms cubic-bezier(0.22, 1, 0.36, 1);
+  transition: all 350ms var(--ease-out);
   text-decoration: none !important;
   background-image: linear-gradient(180deg, var(--bg-card-hi) 0%, var(--bg-card) 100%) !important;
   color: var(--text-primary) !important;
@@ -889,88 +1083,36 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .hp-card-visual {
-  height: 200px;
-  background: var(--hugo-navy-800);
+  height: 220px;
+  background: var(--bg-base);
   position: relative;
   overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
   border-bottom: 1px solid var(--border-subtle);
 }
 
-.hp-card-visual::before {
-  content: '';
+.hp-card-visual--image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+  transition: transform 600ms var(--ease-out);
+}
+
+.hp-card:hover .hp-card-visual--image img { transform: scale(1.04); }
+
+.hp-card-visual__overlay {
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse 400px 200px at 50% 50%, var(--glow-color, rgba(14, 165, 233, 0.25)), transparent 70%);
+  background: linear-gradient(180deg, transparent 0%, transparent 50%, rgba(10, 15, 30, 0.75) 100%);
   pointer-events: none;
 }
 
-.hp-card--check  .hp-card-visual { --glow-color: rgba(14, 165, 233, 0.30); }
-.hp-card--dsb    .hp-card-visual { --glow-color: rgba(245, 158, 11, 0.25); }
-.hp-card--shield .hp-card-visual { --glow-color: rgba(34, 197, 94, 0.22); }
-
-.hp-card-glyph {
-  position: relative;
-  z-index: 1;
-  width: 96px;
-  height: 96px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: rgba(255, 255, 255, 0.04);
-  border: 1px solid var(--border-default);
-  border-radius: 24px;
-  backdrop-filter: blur(8px);
-}
-
-.hp-card-glyph svg {
-  width: 48px;
-  height: 48px;
-  stroke-width: 1.5;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  fill: none;
-}
-
-.hp-card--check .hp-card-glyph svg { stroke: var(--hugo-teal-300); }
-.hp-card--dsb   .hp-card-glyph svg { stroke: var(--hugo-amber); }
-.hp-card--shield .hp-card-glyph svg { stroke: #4ADE80; }
-
-/* Floating tags on visual */
-.hp-card-tag {
-  position: absolute;
-  z-index: 2;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  padding: 0.4rem 0.7rem;
-  background: rgba(10, 15, 30, 0.85);
-  backdrop-filter: blur(8px);
-  border: 1px solid var(--border-default);
-  border-radius: 999px;
-  font-size: 0.6875rem;
-  color: var(--text-primary);
-  font-weight: 600;
-  letter-spacing: 0.02em;
-  white-space: nowrap;
-}
-
-.hp-card-tag--tl { top: 1rem; left: 1rem; }
-.hp-card-tag--br { bottom: 1rem; right: 1rem; }
-
-.hp-card-tag .dot {
-  width: 6px;
-  height: 6px;
-  border-radius: 999px;
-  background: #4ADE80;
-}
-
-.hp-card-tag .dot--warn { background: var(--hugo-amber); }
-.hp-card-tag .dot--info { background: var(--hugo-teal-300); }
-
-/* Card body */
 .hp-card-info {
   padding: 1.5rem 1.5rem 1.75rem;
   display: flex;
@@ -1001,13 +1143,13 @@ main:has(.fh-hero) .content-panel .sl-container {
 .hp-badge--amber {
   background: rgba(245, 158, 11, 0.12);
   color: var(--hugo-amber-300);
-  border: 1px solid rgba(245, 158, 11, 0.30);
+  border: 1px solid var(--border-amber);
 }
 
 .hp-badge--green {
   background: rgba(34, 197, 94, 0.12);
-  color: #4ADE80;
-  border: 1px solid rgba(34, 197, 94, 0.30);
+  color: var(--hugo-green-300);
+  border: 1px solid var(--border-green);
 }
 
 .hp-card-name {
@@ -1023,14 +1165,54 @@ main:has(.fh-hero) .content-panel .sl-container {
   font-size: var(--text-sm);
   line-height: 1.6;
   color: var(--text-secondary);
-  margin: 0 0 1.5rem;
-  flex: 1;
+  margin: 0 0 1.25rem;
 }
+
+.hp-card-meta {
+  display: flex;
+  gap: 1rem;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 0 1.25rem !important;
+  flex-wrap: wrap;
+}
+
+.hp-card-meta li {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  font-weight: 600;
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: none;
+}
+
+.hp-card-meta li strong {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: var(--text-xl);
+  font-weight: 400;
+  color: var(--hugo-teal-300);
+  text-transform: none;
+  letter-spacing: 0;
+  font-feature-settings: 'tnum';
+  line-height: 1.1;
+  margin-bottom: 0.15rem;
+}
+
+.hp-card--dsb .hp-card-meta li strong { color: var(--hugo-amber-300); }
+.hp-card--shield .hp-card-meta li strong { color: var(--hugo-green-300); }
 
 .hp-card-cta {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
+  margin-top: auto;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-subtle);
   font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: var(--text-xs);
   font-weight: 700;
@@ -1038,24 +1220,118 @@ main:has(.fh-hero) .content-panel .sl-container {
   letter-spacing: 0.1em;
   color: var(--hugo-teal-300) !important;
   text-decoration: none !important;
-  border: none !important;
-  width: max-content;
+  border-bottom: none !important;
 }
 
-.hp-card-cta::after {
-  content: '→';
+.hp-card-cta svg {
+  width: 14px;
+  height: 14px;
   transition: transform 250ms ease;
 }
 
-.hp-card:hover .hp-card-cta::after {
-  transform: translateX(4px);
-}
+.hp-card:hover .hp-card-cta svg { transform: translateX(4px); }
 
 .hp-card--dsb .hp-card-cta { color: var(--hugo-amber-300) !important; }
-.hp-card--shield .hp-card-cta { color: #4ADE80 !important; }
+.hp-card--shield .hp-card-cta { color: var(--hugo-green-300) !important; }
 
 /* ------------------------------------------------------------------------
-   13. Topic strip (häufig gesucht)
+   14. NIS2 Roadmap
+   ------------------------------------------------------------------------ */
+
+.nis2-roadmap {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 2rem 0 3rem !important;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  counter-reset: none;
+}
+
+@media (max-width: 50rem) {
+  .nis2-roadmap { grid-template-columns: 1fr; }
+}
+
+.nis2-step {
+  position: relative;
+  display: flex;
+  align-items: stretch;
+  gap: 1.25rem;
+  background: linear-gradient(180deg, var(--bg-card-hi) 0%, var(--bg-card) 100%);
+  border: 1px solid var(--border-default);
+  border-radius: 16px;
+  padding: 1.5rem 1.5rem 1.5rem 1.25rem;
+  margin: 0 !important;
+  max-width: none !important;
+  overflow: hidden;
+  transition: all 350ms var(--ease-out);
+}
+
+.nis2-step::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 300px 200px at 0% 0%, rgba(245, 158, 11, 0.10), transparent 60%);
+  pointer-events: none;
+}
+
+.nis2-step:hover {
+  transform: translateY(-2px);
+  border-color: var(--border-amber) !important;
+  box-shadow: 0 16px 32px -12px rgba(0, 0, 0, 0.5), 0 0 0 1px var(--border-amber);
+}
+
+.nis2-step__num {
+  position: relative;
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: 3rem;
+  line-height: 1;
+  color: var(--hugo-amber);
+  font-feature-settings: 'tnum';
+  flex-shrink: 0;
+  width: 3rem;
+}
+
+.nis2-step__body { position: relative; flex: 1; }
+
+.nis2-step__body a {
+  display: block;
+  text-decoration: none !important;
+  color: var(--text-primary) !important;
+  border: none !important;
+}
+
+.nis2-step__body h3 {
+  font-family: 'Plus Jakarta Sans', sans-serif !important;
+  font-weight: 700 !important;
+  font-size: var(--text-lg) !important;
+  color: var(--text-primary) !important;
+  margin: 0 0 0.4rem !important;
+  padding: 0 !important;
+  border: none !important;
+  letter-spacing: -0.005em;
+}
+
+.nis2-step__body p {
+  font-size: var(--text-sm);
+  line-height: 1.55;
+  color: var(--text-secondary);
+  margin: 0 0 0.5rem;
+  max-width: none;
+}
+
+.nis2-step__meta {
+  display: inline-block;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--hugo-amber-300);
+  font-weight: 600;
+}
+
+/* ------------------------------------------------------------------------
+   15. Topic strip (häufig gesucht)
    ------------------------------------------------------------------------ */
 
 .topic-strip {
@@ -1065,9 +1341,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   margin: 2rem 0;
 }
 
-@media (max-width: 50rem) {
-  .topic-strip { grid-template-columns: 1fr; }
-}
+@media (max-width: 50rem) { .topic-strip { grid-template-columns: 1fr; } }
 
 .topic-strip a {
   display: flex;
@@ -1090,33 +1364,25 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .topic-strip__icon {
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   background: rgba(14, 165, 233, 0.10);
   border: 1px solid var(--border-teal);
-  border-radius: 8px;
+  border-radius: 10px;
 }
 
 .topic-strip__icon svg {
   width: 18px;
   height: 18px;
   stroke: var(--hugo-teal-300);
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
   fill: none;
 }
 
-.topic-strip__body {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 0.15rem;
-}
+.topic-strip__body { flex: 1; display: flex; flex-direction: column; gap: 0.2rem; }
 
 .topic-strip__title {
   font-size: var(--text-sm);
@@ -1134,15 +1400,23 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .topic-strip__arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: var(--hugo-teal-300);
-  font-size: var(--text-md);
+  flex-shrink: 0;
+}
+
+.topic-strip__arrow svg {
+  width: 16px;
+  height: 16px;
   transition: transform 250ms ease;
 }
 
-.topic-strip a:hover .topic-strip__arrow { transform: translateX(4px); }
+.topic-strip a:hover .topic-strip__arrow svg { transform: translateX(4px); }
 
 /* ------------------------------------------------------------------------
-   14. Mitarbeiter mini-cards
+   16. Mitarbeiter mini-cards
    ------------------------------------------------------------------------ */
 
 .employee-cards {
@@ -1152,14 +1426,12 @@ main:has(.fh-hero) .content-panel .sl-container {
   margin: 2rem 0;
 }
 
-@media (max-width: 64rem) {
-  .employee-cards { grid-template-columns: 1fr; }
-}
+@media (max-width: 64rem) { .employee-cards { grid-template-columns: 1fr; } }
 
 .employee-card {
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  gap: 0.875rem;
   padding: 1.5rem;
   background: var(--bg-card);
   border: 1px solid var(--border-default);
@@ -1177,23 +1449,20 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .employee-card__icon {
-  width: 40px;
-  height: 40px;
+  width: 44px;
+  height: 44px;
   display: flex;
   align-items: center;
   justify-content: center;
   background: rgba(14, 165, 233, 0.10);
   border: 1px solid var(--border-teal);
-  border-radius: 10px;
+  border-radius: 11px;
 }
 
 .employee-card__icon svg {
-  width: 20px;
-  height: 20px;
+  width: 22px;
+  height: 22px;
   stroke: var(--hugo-teal-300);
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
   fill: none;
 }
 
@@ -1217,6 +1486,8 @@ main:has(.fh-hero) .content-panel .sl-container {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
+  margin-top: 0.5rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-size: var(--text-xs);
   font-weight: 700;
   text-transform: uppercase;
@@ -1224,21 +1495,32 @@ main:has(.fh-hero) .content-panel .sl-container {
   color: var(--hugo-teal-300);
 }
 
-.employee-card__cta::after { content: '→'; transition: transform 250ms ease; }
-.employee-card:hover .employee-card__cta::after { transform: translateX(3px); }
+.employee-card__cta svg {
+  width: 14px;
+  height: 14px;
+  transition: transform 250ms ease;
+}
+
+.employee-card:hover .employee-card__cta svg { transform: translateX(3px); }
 
 /* ------------------------------------------------------------------------
-   15. Final landing CTA (Nils contact)
+   17. Final landing CTA — 2-column with team photo
    ------------------------------------------------------------------------ */
 
 .landing-cta {
   margin: 5rem 0 1rem;
-  padding: 3rem 2.5rem;
   background: linear-gradient(135deg, var(--bg-card-hi) 0%, var(--bg-card) 100%);
   border: 1px solid var(--border-default);
-  border-radius: 20px;
+  border-radius: 24px;
   position: relative;
   overflow: hidden;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  align-items: stretch;
+}
+
+@media (max-width: 64rem) {
+  .landing-cta { grid-template-columns: 1fr; }
 }
 
 .landing-cta::before {
@@ -1246,12 +1528,15 @@ main:has(.fh-hero) .content-panel .sl-container {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 600px 300px at 0% 0%, rgba(14, 165, 233, 0.18), transparent 60%),
-    radial-gradient(ellipse 500px 250px at 100% 100%, rgba(245, 158, 11, 0.12), transparent 60%);
+    radial-gradient(ellipse 700px 400px at 0% 0%, rgba(14, 165, 233, 0.20), transparent 60%),
+    radial-gradient(ellipse 600px 300px at 100% 100%, rgba(245, 158, 11, 0.14), transparent 60%);
   pointer-events: none;
 }
 
-.landing-cta > * { position: relative; }
+.landing-cta__content {
+  position: relative;
+  padding: 3.5rem 3rem;
+}
 
 .landing-cta__eyebrow {
   display: inline-flex;
@@ -1266,16 +1551,9 @@ main:has(.fh-hero) .content-panel .sl-container {
   margin-bottom: 1rem;
 }
 
-.landing-cta__eyebrow::before {
-  content: '';
-  width: 1.5rem;
-  height: 1px;
-  background: var(--hugo-teal);
-}
-
 .landing-cta h2 {
   font-family: 'DM Serif Display', Georgia, serif !important;
-  font-size: clamp(1.875rem, 2.5vw + 1rem, 2.75rem) !important;
+  font-size: clamp(1.875rem, 2.5vw + 1rem, 2.5rem) !important;
   font-weight: 400 !important;
   color: var(--text-primary) !important;
   margin: 0 0 0.875rem !important;
@@ -1288,7 +1566,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 .landing-cta p {
   color: var(--text-secondary) !important;
   font-size: var(--text-md);
-  max-width: 42rem;
+  max-width: 38rem;
   margin: 0 0 1.75rem !important;
   line-height: 1.6;
 }
@@ -1302,7 +1580,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 .landing-cta a.cta-button {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.625rem;
   padding: 1rem 1.75rem;
   background: var(--hugo-amber);
   color: var(--hugo-navy-800) !important;
@@ -1312,8 +1590,16 @@ main:has(.fh-hero) .content-panel .sl-container {
   border-radius: 999px;
   text-decoration: none !important;
   border: none !important;
-  transition: all 250ms ease;
+  transition: all 250ms var(--ease-out);
   box-shadow: 0 8px 24px -8px rgba(245, 158, 11, 0.45);
+  white-space: nowrap;
+  line-height: 1;
+}
+
+.landing-cta a.cta-button svg {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
 }
 
 .landing-cta a.cta-button:hover {
@@ -1335,8 +1621,44 @@ main:has(.fh-hero) .content-panel .sl-container {
   transform: translateY(-2px);
 }
 
+.landing-cta__photo {
+  position: relative;
+  overflow: hidden;
+  min-height: 22rem;
+}
+
+.landing-cta__photo img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  background: transparent;
+}
+
+.landing-cta__photo::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, var(--bg-card-hi) 0%, transparent 30%);
+  pointer-events: none;
+}
+
+@media (max-width: 64rem) {
+  .landing-cta__content { padding: 2.5rem 2rem; }
+  .landing-cta__photo { min-height: 16rem; }
+  .landing-cta__photo::after {
+    background: linear-gradient(180deg, transparent 60%, var(--bg-card) 100%);
+  }
+}
+
 /* ------------------------------------------------------------------------
-   16. Reduced motion
+   18. Reduced motion
    ------------------------------------------------------------------------ */
 
 @media (prefers-reduced-motion: reduce) {
