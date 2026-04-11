@@ -33,6 +33,10 @@ export default defineConfig({
 					tag: 'meta',
 					attrs: { property: 'og:image', content: 'https://docs.fraghugo.de/og-image.jpg' },
 				},
+				{
+					tag: 'script',
+					content: `var _paq=window._paq=window._paq||[];_paq.push(['disableCookies']);_paq.push(['setDoNotTrack',true]);_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function(){var u='//metomo.it-support-hamburg-24x7.de/';_paq.push(['setTrackerUrl',u+'matomo.php']);_paq.push(['setSiteId','6']);function loadMatomo(){var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.async=true;g.src=u+'matomo.js';s.parentNode.insertBefore(g,s);}function scheduleMatomo(){if('requestIdleCallback' in window){requestIdleCallback(loadMatomo,{timeout:3000});}else{setTimeout(loadMatomo,2000);}}if(document.readyState==='complete'){scheduleMatomo();}else{window.addEventListener('load',scheduleMatomo,{once:true});}})();`,
+				},
 			],
 			social: [
 				{ icon: 'external', label: 'fraghugo.de', href: 'https://www.fraghugo.de' },
