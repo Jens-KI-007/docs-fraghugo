@@ -32,7 +32,7 @@ Hugo Shield zeigt Ihnen alle 50 Fragen mit den **Antworten aus dem letzten Asses
 - **Bestätigen** – die Antwort ist immer noch korrekt
 - **Ändern** – etwas hat sich verändert
 
-![Re-Assessment mit vorausgefüllten Antworten](/screenshots/shield-features.png)
+![Detail-Ergebnisse aus Zulieferer-Sicht](/screenshots/shield-supplier-results.png)
 
 So gehen Sie schnell durch alle 50 Fragen, weil bei den meisten kein Update nötig ist.
 

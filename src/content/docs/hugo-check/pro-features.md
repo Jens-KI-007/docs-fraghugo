@@ -20,7 +20,7 @@ So bekommen Sie eine **konkrete Risiko-Bewertung** für jedes Problem:
 - **Mittleres Risiko** – Es gibt juristische Diskussionen, aber wenig konkrete Fälle
 - **Niedriges Risiko** – Theoretisch möglich, praktisch kaum relevant
 
-![Abmahn-Risiko-Analyse mit Beispiel-Fällen](/screenshots/check-ergebnis-fullpage.png)
+![Abmahn-Risiko-Bewertung mit KI-Analyse](/screenshots/check-pro-features.png)
 
 **Wofür das gut ist:** Sie können priorisieren. Statt sich um 29 Punkte gleichzeitig zu kümmern, sehen Sie, welche drei Sie zuerst angehen müssen.
 
@@ -60,7 +60,7 @@ Für jeden Scan können Sie einen **Management-Report** generieren. Das ist eine
 - Was im letzten Monat besser geworden ist
 - Was schlechter geworden ist
 
-![Management-Report Beispiel](/screenshots/check-ergebnis-fullpage.png)
+![Management-Zusammenfassung mit Quick Wins](/screenshots/check-management-report.png)
 
 **Wofür das gut ist:** Sie können das Ihrer Geschäftsleitung oder Ihrem Vorstand vorlegen, ohne dass Sie alle 29 Einzelchecks erklären müssen. „Wir haben Score 72, Trend ist positiv, das größte Risiko ist Punkt X" – das versteht jeder.
 

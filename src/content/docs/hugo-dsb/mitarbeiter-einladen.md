@@ -29,7 +29,7 @@ Klicken Sie auf **„Mitarbeiter einladen"**. Tragen Sie ein:
 
 Klicken Sie **„Einladung senden"**. Der Mitarbeiter bekommt eine Mail mit einem Link, über den er sich einloggen und die Schulung starten kann. **Kein extra Account nötig** – der Login funktioniert über den Magic Link.
 
-![Admin-Bereich Mitarbeiter-Liste](/screenshots/dsb-features.png)
+![Mitarbeiter-Verwaltung in Hugo DSB](/screenshots/dsb-mitarbeiter-admin.png)
 
 ### Option B: CSV-Import
 

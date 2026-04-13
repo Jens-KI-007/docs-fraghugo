@@ -76,7 +76,7 @@ Jede Schulung besteht aus:
 4. **Auswertung** – Score, falsche Antworten mit Erklärung
 5. **Zertifikat** – PDF mit Name, Datum, Modul, QR-Code
 
-![Schulungs-Bildschirm mit Quiz](/screenshots/dsb-features.png)
+![Schulungs-Übersicht in Hugo Learn](/screenshots/dsb-schulungen-dashboard.png)
 
 ## Bestehensregeln
 

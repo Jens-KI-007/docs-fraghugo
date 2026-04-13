@@ -35,7 +35,7 @@ Das PDF zeigt:
 - Das Logo Ihres Arbeitgebers (wenn er es hochgeladen hat)
 - Die Unterschrift des DSB Ihrer Firma (wenn aktiviert)
 
-![Zertifikat-PDF mit QR-Code](/screenshots/dsb-features.png)
+![Zertifikats-Bereich in Hugo Learn](/screenshots/dsb-nis2-gf-schulung.png)
 
 ## Schritt 3: Was tun mit dem Zertifikat?
 

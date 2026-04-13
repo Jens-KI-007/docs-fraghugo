@@ -33,7 +33,7 @@ Falls Sie unsicher sind, ob Sie betroffen sind: [NIS2-Betroffenheitscheck](/hugo
 
 In Hugo DSB öffnen Sie das NIS2-Modul und klicken auf **„BSI-Registrierung starten"**. Sie sehen einen geführten Wizard, der die Felder Schritt für Schritt erklärt.
 
-![BSI-Guide in Hugo DSB](/screenshots/dsb-features.png)
+![BSI-Registrierungs-Guide in Hugo DSB](/screenshots/dsb-nis2-bsi-registrierung.png)
 
 Hugo DSB nutzt die Daten, die Sie bereits in Ihrem Profil hinterlegt haben (Firmenname, Anschrift, GF-Daten) und füllt automatisch vor.
 

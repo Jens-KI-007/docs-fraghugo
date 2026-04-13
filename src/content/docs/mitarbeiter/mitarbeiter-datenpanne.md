@@ -74,7 +74,7 @@ Im Formular tragen Sie ein:
 - **Wer ist Empfänger oder Finder?** (wenn bekannt)
 - **Was haben Sie schon getan?**
 
-![Melde-Formular für Mitarbeiter](/screenshots/dsb-features.png)
+![Datenpannen-Meldung in Hugo DSB](/screenshots/dsb-datenpanne-melden.png)
 
 Klicken Sie auf **„Senden"**. Die Meldung geht direkt an den DSB Ihrer Firma. Er übernimmt ab dann.
 

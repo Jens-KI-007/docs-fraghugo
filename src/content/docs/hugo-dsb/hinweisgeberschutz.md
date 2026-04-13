@@ -53,7 +53,7 @@ Sie passen an:
 - **Themen-Auswahl** (Korruption, Diskriminierung, Datenschutz, Arbeitssicherheit, Steuerverstöße, etc.)
 - **Disclaimer** und **Datenschutzhinweise**
 
-![Konfigurierte Meldeseite](/screenshots/dsb-features.png)
+![Hinweisgeberschutz-Modul in Hugo DSB](/screenshots/dsb-hinweisgeberschutz.png)
 
 ## Schritt 3: Bearbeitende benennen
 

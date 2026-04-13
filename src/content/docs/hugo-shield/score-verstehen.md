@@ -35,7 +35,7 @@ So lesen Sie es:
 - **Stachelige Form** = Sie haben Stärken und Schwächen
 - **Kleine Form** = Sie haben in vielen Bereichen Lücken
 
-![Radar-Chart mit 8 Themenblöcken](/screenshots/shield-features.png)
+![Shield Score-Radar mit 6 NIS2-Kategorien](/screenshots/shield-radar-chart.png)
 
 **Beispiel-Interpretation:**
 > Ihre Stärken: Identitätsmanagement (85), Backups (90).

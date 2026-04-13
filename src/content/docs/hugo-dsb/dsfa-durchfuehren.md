@@ -88,7 +88,7 @@ Nach Anwendung der Schutzmaßnahmen: Wie hoch ist das **verbleibende Risiko**?
 
 Hugo DSB generiert ein PDF mit der vollständigen DSFA. Sie holen die Freigabe ein (Geschäftsführung, DSB, ggf. Betriebsrat) und legen das Dokument in die Compliance-Akte.
 
-![DSFA-Wizard mit Risiko-Matrix](/screenshots/dsb-features.png)
+![DSFA-Übersicht in Hugo DSB](/screenshots/dsb-dsfa.png)
 
 ## Schritt 3: Regelmäßige Überprüfung
 

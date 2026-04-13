@@ -10,6 +10,9 @@ description: "Hugo Check Pro überwacht Ihre Website automatisch. So richten Sie
 
 Ein einmaliger Scan ist nett. Ein **kontinuierliches Monitoring** ist wertvoll. Hugo Check Pro prüft Ihre Website in einem Intervall Ihrer Wahl – und meldet sich, sobald sich etwas verschlechtert.
 
+
+![Monitoring-Bereich in Hugo Check](/screenshots/check-monitoring.png)
+
 ## Warum überhaupt Monitoring?
 
 Datenschutz-Compliance ist kein Zustand, sondern ein Prozess. An jedem dieser Tage kann sich Ihre Website unbemerkt verschlechtern:

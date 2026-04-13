@@ -85,7 +85,7 @@ Jeder Check zeigt ein Symbol:
 
 Klicken Sie auf einen Check, um Details zu sehen: was geprüft wurde, was wir gefunden haben, und (im Pro-Tarif) eine Schritt-für-Schritt-Anleitung zur Behebung.
 
-![Aufgeklappter Check mit Details](/screenshots/check-ergebnis-fullpage.png)
+![Vollständiges Scan-Ergebnis mit allen Pro-Analysen](/screenshots/check-ergebnis-pro.png)
 
 ## „Mein Score ist schlecht – was jetzt?"
 

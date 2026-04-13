@@ -32,7 +32,7 @@ Sie haben Ihre Zulieferer eingeladen, Scores liegen vor – jetzt müssen Sie da
 5. Auf **„Generieren"** klicken
 6. PDF herunterladen
 
-![Report-Builder mit Vorschau](/screenshots/shield-features.png)
+![Report-Bereich in Hugo Shield](/screenshots/shield-reports.png)
 
 Der Report ist **branded** – Sie können oben Ihr Logo einfügen, unten Ihren Footer.
 

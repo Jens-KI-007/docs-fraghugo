@@ -18,7 +18,7 @@ Wenn Sie einen Cookie-Banner haben, sieht der Nutzer in der Regel nur „Notwend
 
 Die KI öffnet Ihre Seite, lässt die Cookies setzen, liest sie aus und ordnet jeden einzelnen einem Zweck zu.
 
-![Cookie-Tabelle mit Zweck-Klassifizierung](/screenshots/check-ergebnis-fullpage.png)
+![DSE-Vollständigkeitsanalyse mit kritischen Mängeln](/screenshots/check-dse-analyse.png)
 
 **Was Sie damit anfangen:**
 - Sie sehen, ob Sie heimlich Tracker laden (passiert oft bei alten WordPress-Plugins)

@@ -10,6 +10,9 @@ description: "Welches Hugo-Produkt passt zu Ihnen? So finden Sie in 2 Minuten di
 
 frag.hugo ist eine Familie aus drei Produkten – jedes löst ein konkretes Compliance-Problem für deutsche KMU. Diese Seite hilft Ihnen, in zwei Minuten zu entscheiden, welches Produkt zu Ihnen passt.
 
+
+![Hugo DSB Dashboard](/screenshots/dsb-dashboard.png)
+
 ## Welches Produkt für wen?
 
 **Sie wollen wissen, ob Ihre Website DSGVO-konform ist?**

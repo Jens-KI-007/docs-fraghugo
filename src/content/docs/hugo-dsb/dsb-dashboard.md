@@ -26,7 +26,10 @@ Wie viel Prozent Ihrer Mitarbeiter haben die aktuelle Datenschutz-Schulung abges
 **Letzte Aktivität**
 Wer hat zuletzt was geändert? So sehen Sie, ob Ihr Team aktiv mit der Plattform arbeitet oder ob nichts passiert.
 
-![Hugo DSB Dashboard mit KPI-Kacheln](/screenshots/dsb-features.png)
+![Hugo DSB Dashboard mit Compliance-Score, DSGVO-Status und Schnellzugriff](/screenshots/dsb-dashboard.png)
+
+
+![Trust-Siegel von frag.hugo](/screenshots/dsb-siegel.png)
 
 ## Die Module im Überblick
 

@@ -10,6 +10,9 @@ description: "Das Verarbeitungsverzeichnis (VVT) ist Pflicht nach Art. 30 DSGVO.
 
 Das Verarbeitungsverzeichnis (VVT) ist die wichtigste Pflichtdokumentation der DSGVO. Wenn eine Datenschutzbehörde bei Ihnen anfragt, ist das die erste Datei, die sie sehen will. Mit Hugo DSB legen Sie ein vollständiges VVT in **30 bis 60 Minuten** an – ohne Excel-Liste, ohne Word-Vorlage, ohne juristische Vorbildung.
 
+
+![Verarbeitungsverzeichnis in Hugo DSB](/screenshots/dsb-vvt-liste.png)
+
 ## Was ist ein VVT?
 
 Das Verarbeitungsverzeichnis ist eine Liste **aller Verarbeitungstätigkeiten** in Ihrem Unternehmen, bei denen personenbezogene Daten verarbeitet werden. „Verarbeitung" heißt: erheben, speichern, ändern, übermitteln, löschen.
@@ -26,6 +29,9 @@ Pro Verarbeitung müssen mindestens diese Punkte dokumentiert sein:
 6. **Drittlandtransfers** (falls Daten in Nicht-EU-Länder gehen)
 7. **Löschfristen** (wann werden Daten gelöscht?)
 8. **TOMs** (welche Schutzmaßnahmen?)
+
+
+![VVT-Wizard für eine neue Verarbeitungstätigkeit](/screenshots/dsb-vvt-wizard.png)
 
 ## Schritt 1: Modul öffnen
 

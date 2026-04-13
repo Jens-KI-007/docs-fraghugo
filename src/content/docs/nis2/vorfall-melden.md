@@ -86,7 +86,7 @@ In Hugo DSB öffnen Sie **„NIS2 → Vorfall melden"** und klicken auf **„Neu
 30-Tage-Bericht: noch 29 Tage
 ```
 
-![Vorfall-Wizard mit Countdown](/screenshots/dsb-features.png)
+![NIS2-Vorfallmeldung in Hugo DSB](/screenshots/dsb-nis2-vorfallmeldung.png)
 
 So sehen Sie immer, was als Nächstes ansteht.
 

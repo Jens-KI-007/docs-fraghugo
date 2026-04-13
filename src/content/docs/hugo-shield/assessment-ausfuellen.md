@@ -94,7 +94,7 @@ Die Fragen sind in 8 Blöcke gruppiert:
 - Wer ist für Compliance verantwortlich?
 - Welche Audits machen Sie regelmäßig?
 
-![Beispiel-Frage aus dem Assessment](/screenshots/shield-features.png)
+![Shield Assessment-Wizard aus Zulieferer-Sicht](/screenshots/shield-assessment.png)
 
 ## Schritt 4: Antworten ehrlich
 

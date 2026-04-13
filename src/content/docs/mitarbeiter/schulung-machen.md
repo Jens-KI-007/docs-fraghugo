@@ -18,6 +18,9 @@ Ihr Chef hat Sie zur Datenschutz-Schulung eingeladen. Sie haben eine E-Mail beko
 - **Zertifikat** als PDF
 - Optional: monatliche **Awareness-Lektionen** (3–5 Minuten)
 
+
+![Schulungs-Dashboard für Mitarbeiter](/screenshots/dsb-schulungen-dashboard.png)
+
 ## Schritt 1: Einladung öffnen
 
 Sie haben eine Mail bekommen mit dem Betreff **„Ihre Datenschutz-Schulung"**. Klicken Sie auf den Link in der Mail. Sie landen direkt im Schulungs-Bereich – ohne Passwort.
@@ -45,7 +48,7 @@ Die Schulung führt Sie durch mehrere Inhalts-Bildschirme. Pro Bildschirm:
 
 Sie können jeden Bildschirm so lange anschauen, wie Sie wollen. Über **„Weiter"** kommen Sie zum nächsten.
 
-![Schulungs-Bildschirm](/screenshots/dsb-features.png)
+![Hugo Learn Schulungs-Katalog](/screenshots/dsb-learn.png)
 
 ## Schritt 4: Quiz
 

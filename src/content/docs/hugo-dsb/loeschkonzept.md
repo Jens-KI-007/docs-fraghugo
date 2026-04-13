@@ -10,6 +10,10 @@ description: "Ein Löschkonzept erfüllt Art. 5(1)(e) DSGVO. Mit Hugo DSB legen 
 
 Ein **Löschkonzept** beantwortet eine simple Frage: **„Wann werden welche Daten gelöscht?"** Klingt einfach, ist es aber selten. Die meisten Unternehmen haben Daten gespeichert, die seit 10 Jahren niemand mehr braucht – und genau das ist nach Art. 5(1)(e) DSGVO unzulässig.
 
+
+
+![Löschkonzept-Modul in Hugo DSB](/screenshots/dsb-loeschkonzept.png)
+
 ## Warum brauche ich ein Löschkonzept?
 
 Die DSGVO formuliert das **Speicherbegrenzungs-Prinzip**: Daten dürfen nur so lange gespeichert werden, wie sie für den ursprünglichen Zweck erforderlich sind. Danach müssen sie gelöscht werden.

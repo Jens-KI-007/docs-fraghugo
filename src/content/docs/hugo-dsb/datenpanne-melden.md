@@ -57,7 +57,7 @@ Hugo DSB führt Sie durch ein **Incident-Formular** mit den Pflichtfeldern aus A
 - Wer wurde informiert?
 - Sind die Daten noch verbreitet?
 
-![Datenpannen-Formular im Hugo DSB](/screenshots/dsb-features.png)
+![Datenpannen-Meldeformular in Hugo DSB](/screenshots/dsb-datenpanne-melden.png)
 
 ## Phase 3: Risikobewertung (4–24 Stunden)
 

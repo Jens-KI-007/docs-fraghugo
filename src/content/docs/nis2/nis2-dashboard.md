@@ -28,7 +28,7 @@ Oben links sehen Sie eine Zahl: Ihren NIS2-Score. Er zeigt, wie weit Sie auf dem
 > 💡 **„Was bedeutet 64 %?"**
 > Es bedeutet: Sie haben rund zwei Drittel der Pflichten dokumentiert oder umgesetzt. Konkret: BSI-Registrierung erfolgt, ISMS in Aufbau, GF-Schulung absolviert, aber noch keine durchgeführte Lieferketten-Risikobewertung oder Notfall-Übung.
 
-![NIS2-Dashboard mit Score und Kacheln](/screenshots/dsb-features.png)
+![NIS2-Dashboard in Hugo DSB](/screenshots/dsb-nis2-dashboard.png)
 
 ## Die acht Kacheln
 

@@ -57,7 +57,7 @@ Beispiel-Output für ein 50-MA-Architekturbüro:
 
 …und so weiter.
 
-![TOMs-Dashboard mit KI-Vorschlägen](/screenshots/dsb-features.png)
+![TOMs-Dokumentation in Hugo DSB](/screenshots/dsb-toms.png)
 
 ## Schritt 3: Anpassen, was nicht passt
 

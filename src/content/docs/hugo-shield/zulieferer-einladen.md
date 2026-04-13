@@ -19,6 +19,9 @@ Bevor Sie einladen, sollten Sie wissen:
 - **Welcher Score** ist Ihre Mindest-Erwartung? (z. B. „mindestens C")
 - **Wer bei Ihnen** ist Ansprechpartner für Rückfragen?
 
+
+![Zulieferer-Liste nach Einladung](/screenshots/shield-zulieferer.png)
+
 ## Schritt 1: Hugo Shield als Auftraggeber öffnen
 
 Loggen Sie sich auf [shield.fraghugo.de](https://shield.fraghugo.de) ein. Im Dashboard wählen Sie die Sicht **„Auftraggeber"**. Sie sehen eine Liste Ihrer bisher eingeladenen Zulieferer (beim ersten Mal: leer).
@@ -40,7 +43,7 @@ Klicken Sie **„Einladung senden"**. Der Zulieferer bekommt eine Mail mit:
 - Einem persönlichen Login-Link
 - Der Frist
 
-![Einladungs-Formular](/screenshots/shield-features.png)
+![Zulieferer-Einladungs-Dialog in Hugo Shield](/screenshots/shield-zulieferer-einladen.png)
 
 ## Schritt 3: Bulk-Einladung per CSV
 

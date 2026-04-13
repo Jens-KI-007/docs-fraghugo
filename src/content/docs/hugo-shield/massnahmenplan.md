@@ -20,7 +20,7 @@ Hugo Shield analysiert Ihre Antworten und identifiziert die **größten Hebel**:
 
 Daraus generiert die KI einen Plan mit **10 bis 20 konkreten Maßnahmen**, sortiert nach Priorität.
 
-![Maßnahmenplan Dashboard](/screenshots/shield-features.png)
+![Reports-Bereich mit Maßnahmen-Übersicht](/screenshots/shield-reports.png)
 
 ## Aufbau einer Maßnahme
 

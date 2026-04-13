@@ -85,7 +85,7 @@ Wenn Sie einen unterschriebenen AVV als PDF haben, laden Sie ihn hoch. Hugo DSB 
 **Option C: Hugo-Vorlage nutzen**
 Für kleinere Dienstleister (z. B. Ihre regionale IT-Firma), die keinen eigenen AVV haben, generiert Hugo DSB einen aus der **Mustervorlage des BfDI**. Sie passen Firma, Anschrift und Datenkategorien an, drucken aus, beide unterschreiben.
 
-![AVV-Formular mit Dienstleister-Auswahl](/screenshots/dsb-features.png)
+![AVV-Übersicht mit Dienstleister-Liste](/screenshots/dsb-avv.png)
 
 ## Schritt 4: Verknüpfung mit dem VVT
 

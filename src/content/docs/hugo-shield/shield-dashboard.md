@@ -21,7 +21,7 @@ Das Dashboard hat vier Bereiche:
 - **Durchschnittlicher Score:** Branchenbenchmark
 - **Risiko-Lieferanten:** wie viele haben einen kritischen Score
 
-![Auftraggeber-Dashboard mit KPIs](/screenshots/shield-features.png)
+![Shield Lieferketten-Dashboard mit 6 Zulieferern und KPI-Kacheln](/screenshots/shield-dashboard.png)
 
 ### 2. Score-Verteilung
 

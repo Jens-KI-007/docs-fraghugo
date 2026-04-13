@@ -89,7 +89,7 @@ Die Schulung besteht aus **fünf Modulen**:
 - Wie erkenne ich, ob mein ISMS ausreicht?
 - Wann muss ich nachsteuern?
 
-![Schulungs-Bildschirm mit Inhalten](/screenshots/dsb-features.png)
+![GF-Schulung in Hugo DSB](/screenshots/dsb-nis2-gf-schulung.png)
 
 ## Schritt 4: Quiz absolvieren (ca. 5 Minuten)
 
@@ -118,7 +118,7 @@ Wenn Sie bestanden haben, generiert Hugo DSB ein **personalisiertes Zertifikat**
 
 Das Zertifikat ist als PDF verfügbar und wird in Ihrer Compliance-Akte gespeichert.
 
-![Zertifikat mit QR-Code](/screenshots/dsb-features.png)
+![GF-Schulungs-Bereich mit Teilnehmer-Übersicht](/screenshots/dsb-nis2-gf-schulung.png)
 
 ## Schritt 6: Wiederholung planen
 

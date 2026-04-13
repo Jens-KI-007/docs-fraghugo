@@ -65,7 +65,7 @@ Hugo DSB führt Sie durch die Pflicht-Abschnitte:
 
 Pro Abschnitt schlägt Hugo einen Mustertext vor. Sie können editieren oder durch eigenen Text ersetzen.
 
-![DSE-Wizard mit Vorschlägen](/screenshots/dsb-features.png)
+![Datenschutzerklärungs-Generator in Hugo DSB](/screenshots/dsb-dse.png)
 
 ## Schritt 5: Veröffentlichen
 

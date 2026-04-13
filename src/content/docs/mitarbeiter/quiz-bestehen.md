@@ -10,6 +10,9 @@ description: "80% richtig = bestanden. So bestehen Sie das Hugo Learn Quiz beim 
 
 Das Hugo Learn Quiz ist nicht zum Quälen gedacht – sondern zum Prüfen, ob Sie die wichtigsten Punkte verstanden haben. Trotzdem fallen viele Mitarbeiter beim ersten Versuch durch, weil sie zu schnell klicken oder die Fragen falsch lesen. Diese Anleitung zeigt, wie Sie beim ersten Mal bestehen.
 
+
+![Hugo Learn Schulungs-Katalog](/screenshots/dsb-learn.png)
+
 ## Die Regel: 80 %
 
 - Sie bekommen **5 bis 10 Fragen** pro Modul
