@@ -18,7 +18,7 @@ Diese Seite beantwortet die häufigsten Fragen zu Preisen und Abrechnung. Wenn I
 
 ### Gibt es eine kostenlose Testphase?
 
-**Ja.** Hugo DSB Professional, Hugo Shield Team und Hugo Check Pro/Agentur können Sie **14 Tage gratis** testen. Ohne Kreditkarte. Wenn Sie nicht aktiv abschließen, läuft die Testphase einfach aus – kein Auto-Renew, kein Risiko.
+**Ja.** Hugo DSB (alle Tarife), Hugo Shield Premium/Team und Hugo Check Pro/Agentur können Sie **14 Tage gratis** testen. Ohne Kreditkarte. Wenn Sie nicht aktiv abschließen, läuft die Testphase einfach aus – kein Auto-Renew, kein Risiko.
 
 ### Bekomme ich Rabatt bei Jahreszahlung?
 
@@ -28,7 +28,7 @@ Diese Seite beantwortet die häufigsten Fragen zu Preisen und Abrechnung. Wenn I
 
 In Hamburg liegt der typische Preis für einen externen DSB zwischen **200 € und 800 € pro Monat** – plus Stundensätze für jede konkrete Beratung (oft 150–250 €/h).
 
-**Hugo DSB Professional kostet 49 €/Monat** und deckt die meisten Aufgaben ab. Bei komplexen Fragen können Sie zusätzlich ein **Erstgespräch** mit unserem Team buchen.
+**Hugo DSB startet ab 149 €/Monat** (Starter) und deckt alle Datenschutz-Aufgaben ab — von VVT über AVV bis zu Schulungen. Das ist ein Bruchteil eines externen Beraters. Bei komplexen Fragen können Sie zusätzlich ein **Erstgespräch** mit unserem Team buchen.
 
 ### Was kostet das Ganze für mein Unternehmen?
 
@@ -37,11 +37,11 @@ Eine grobe Orientierung für ein KMU mit 30 Mitarbeitern:
 | Produkt | Tarif | Monatlich |
 |---|---|---|
 | Hugo Check | Pro | 29 € |
-| Hugo DSB | Professional | 49 € |
-| Hugo Shield (wenn relevant) | Starter | 99 € |
-| **Gesamt** | | **~177 €** |
+| Hugo DSB | Starter | 149 € |
+| Hugo Shield (wenn relevant) | Zulieferer Premium | 49 € |
+| **Gesamt** | | **~227 €** |
 
-Vergleichbar: Ein einziger externer DSB kostet meist mehr.
+Vergleichbar: Ein einziger externer DSB kostet meist das Doppelte.
 
 ## Hugo Check
 
@@ -63,37 +63,45 @@ Ab 5 Kunden: ja. Schreiben Sie uns mit der Anzahl Ihrer Kunden und wir machen Ih
 
 ## Hugo DSB
 
-### Was ist im Free-Tarif enthalten?
+### Welche Tarife gibt es?
 
-5 VVT-Einträge, 3 AVV-Vorlagen, 1 Mitarbeiter (Sie). Kein TOMs, kein DSE-Generator, keine Schulungen, kein NIS2.
+| Tarif | Preis | Mitarbeiter | Enthalten |
+|---|---|---|---|
+| Starter | **149 €/Monat** | bis 25 | VVT, AVV, DSFA, Hinweisgeberschutz, E-Mail-Support, 1 Jour fixe/Jahr |
+| Professional | **299 €/Monat** | bis 100 | Alles aus Starter + NIS2- & AI-Act-Module, 2 Jour fixe, Telefon-Support, individuelle Schulungen |
+| Enterprise | **499 €/Monat** | bis 250 | Alles aus Professional + 4h Reaktionszeit, Vor-Ort-Termine, Datenpannen-Sofort-Hotline |
 
-### Was kostet Professional?
+### Was kostet Starter genau?
 
-**49 €/Monat** oder **490 €/Jahr**. Inklusive unbegrenztes VVT, alle AVV-Vorlagen, TOMs, DSE-Generator, Löschkonzept, DSFA, Hinweisgeberschutz, Schulungen (Hugo Learn), NIS2-Modul, Datenpannen-Meldung, unbegrenzte Mitarbeiter.
+**149 €/Monat.** Inklusive Plattform mit VVT, AVV, DSFA, Hinweisgeberschutz, DSE-Generator und E-Mail-Support. Für Unternehmen bis 25 Mitarbeiter.
 
 ### Gibt es einen Tarif für noch kleinere Firmen?
 
-Bis 5 Mitarbeiter und ohne NIS2-Pflicht reicht oft der Free-Tarif. Wenn Sie schon 10–15 Mitarbeiter haben, lohnt sich Professional schnell – allein durch die Schulungen.
+Der Starter-Tarif ab 149 €/Monat ist unser günstigstes Paket. Für punktuelle Unterstützung bieten wir auch **Einzelstunden ab 159 €/h** oder **Stundenpakete ab 139 €/h** — ohne Mindestlaufzeit.
 
 ## Hugo Shield
 
 ### Wer zahlt für was?
 
-- **Auftraggeber zahlen** für die Nutzung (Starter, Team oder Enterprise)
-- **Zulieferer können Free nutzen** – das ist immer kostenlos, wenn sie eingeladen wurden
-- Wenn Zulieferer Premium-Features wollen (Maßnahmenplan, KI-Chat), zahlen sie selbst 19 €/Monat
+Hugo Shield hat **zwei getrennte Preismodelle** — eines für Zulieferer, eines für Auftraggeber:
 
-### Was kostet Hugo Shield für Auftraggeber?
+**Zulieferer-Tarife:**
+
+| Tarif | Preis | Enthalten |
+|---|---|---|
+| Basis | **Kostenlos** | Self-Assessment, Compliance-Score A–F, Score sichtbar für Auftraggeber |
+| Premium | **49 €/Monat** | KI-gestützter Maßnahmenplan, Branchen-Benchmark, PDF-Zertifikat, persönliche Beratung, vierteljährliche Neubewertung |
+
+**Auftraggeber-Tarife:**
 
 | Tarif | Preis | Zulieferer |
 |---|---|---|
-| Starter | 99 €/Monat | bis 25 |
-| Team | 299 €/Monat | bis 100 |
-| Enterprise | individuell | unbegrenzt |
+| Team | **199 €/Monat** | bis 25 |
+| Enterprise | **499 €/Monat** | unbegrenzt, eigene Fragensets, Custom Reports |
 
 ### Ich bin Zulieferer – muss ich zahlen?
 
-**Nein.** Wenn Sie zu einem Hugo Shield Assessment eingeladen wurden, ist das **Free-Account immer kostenlos**. Sie zahlen nur, wenn Sie zusätzliche Features (Maßnahmenplan, KI-Chat) selbst nutzen wollen.
+**Nein.** Wenn Sie zu einem Hugo Shield Assessment eingeladen wurden, ist der **Basis-Account immer kostenlos**. Sie zahlen nur, wenn Sie zusätzliche Premium-Features (Maßnahmenplan, KI-Chat, PDF-Zertifikat) selbst nutzen wollen — dann 49 €/Monat.
 
 ## Bezahlung & Abrechnung
 
