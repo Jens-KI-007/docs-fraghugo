@@ -43,6 +43,7 @@ export default defineConfig({
 			],
 			components: {
 				SocialIcons: './src/components/HeaderLinks.astro',
+				Footer: './src/components/Footer.astro',
 			},
 			sidebar: [
 				{
