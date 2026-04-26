@@ -14,45 +14,66 @@ Diese Seite zeigt alle Preise transparent – ohne Sternchen, ohne „auf Anfrag
 
 | Tarif | Free | Pro | Agentur |
 |---|---|---|---|
-| **Preis** | 0 € | 29 €/Monat | 99 €/Monat |
-| **Scans pro Monat** | unbegrenzt | unbegrenzt | unbegrenzt |
-| **DSGVO-Score** | ✓ | ✓ | ✓ |
-| **5 KI-Analysen** | ✓ | ✓ | ✓ |
-| **Abmahn-Risiko** | – | ✓ | ✓ |
-| **Fix-Anleitungen** | – | ✓ | ✓ |
-| **Monitoring (Alerts)** | – | ✓ | ✓ |
-| **PDF-Reports** | – | ✓ | ✓ |
+| **Preis monatlich** | 0 € | 29 €/Monat | 99 €/Monat |
+| **Preis jährlich** | – | 24 €/Monat (288 €/Jahr) | 82 €/Monat (984 €/Jahr) |
+| **Scans pro Monat** | 5 (derselben Domain) | 100 | 500 |
+| **Domains** | 1 (Wechsel alle 30 Tage) | beliebig viele scannen | beliebig viele scannen |
+| **Monitoring (wöchentlich)** | – | 10 Domains | unbegrenzt |
+| **DSGVO-Score & Note** | ✓ | ✓ | ✓ |
+| **21 Prüfpunkte + KI-Cookie-Analyse** | ✓ | ✓ | ✓ |
+| **NIS2-Betroffenheitscheck** | ✓ | ✓ | ✓ |
+| **Verified Badge ab Score 60** | ✓ | ✓ | ✓ |
+| **Detail-Report** | – | ✓ | ✓ |
+| **PDF-Export** | – | ✓ | ✓ |
+| **E-Mail-Alerts bei Änderungen** | – | ✓ | ✓ |
+| **KI-DSE-Analyse + Abmahn-Score** | – | ✓ | ✓ |
+| **Multi-Domain-Dashboard** | – | – | ✓ |
+| **White-Label-PDF-Reports** | – | – | ✓ |
+| **Bulk-Scan (bis 100 URLs)** | – | – | ✓ |
+| **Report-Sharing-Links** | – | – | ✓ |
 | **Konkurrenz-Vergleich** | – | – | ✓ |
-| **White-Label** | – | – | ✓ |
-| **Eigene Domains** | 1 | 5 | unbegrenzt |
+| **Prioritäts-Support** | – | – | ✓ |
+| **14 Tage gratis testen** | – | ✓ | ✓ |
 
 ![Hugo Check Pricing-Karten](/screenshots/check-pricing.png)
 
 **Welcher Tarif passt zu Ihnen?**
-- **Free** für jeden, der einmal wissen will, wie seine Website dasteht
-- **Pro (29 €)** für KMU, die Datenschutz ernst nehmen und Monitoring brauchen
-- **Agentur (99 €)** für Webdesigner und Agenturen, die mehrere Kundenseiten verwalten
+- **Free** für jeden, der einmal wissen will, wie seine Website dasteht (5 Scans/Monat reichen für eine punktuelle Prüfung)
+- **Pro (29 €)** für KMU, die Datenschutz ernst nehmen, mehrere Scans im Monat brauchen und Monitoring für bis zu 10 Domains wollen
+- **Agentur (99 €)** für Webdesigner und Datenschutzberater, die viele Kundenseiten verwalten und White-Label-Reports brauchen
 
 ## Hugo DSB (Datenschutz-Plattform)
 
-| Tarif | Free | Professional |
-|---|---|---|
-| **Preis** | 0 € | 49 €/Monat |
-| **VVT-Einträge** | 5 | unbegrenzt |
-| **AVV-Vorlagen** | 3 | alle |
-| **TOMs** | – | ✓ |
-| **DSE-Generator** | – | ✓ |
-| **Löschkonzept** | – | ✓ |
-| **DSFA** | – | ✓ |
-| **Hinweisgeberschutz** | – | ✓ |
-| **Schulungen (Hugo Learn)** | – | ✓ |
-| **NIS2-Modul** | – | ✓ |
-| **Datenpannen-Meldung** | – | ✓ |
-| **Mitarbeiter** | 1 | unbegrenzt |
+Hugo DSB hat **drei Tarife** – einen Free-Tarif gibt es nicht. Alle Tarife können 14 Tage gratis getestet werden.
+
+| Tarif | Starter | Professional | Enterprise |
+|---|---|---|---|
+| **Preis** | 149 €/Monat | 299 €/Monat | 499 €/Monat |
+| **VVT (unbegrenzt)** | ✓ | ✓ | ✓ |
+| **AVV-Verwaltung** | ✓ | ✓ | ✓ |
+| **Datenpannen-Meldung** | ✓ | ✓ | ✓ |
+| **Betroffenenrechte (DSAR)** | ✓ | ✓ | ✓ |
+| **E-Learning-Schulungen** | ✓ | ✓ | ✓ |
+| **PDF-Export** | ✓ | ✓ | ✓ |
+| **Compliance-Score-Dashboard** | ✓ | ✓ | ✓ |
+| **DSE-Generator (Textbausteine)** | ✓ | ✓ (KI + Hugo Check Sync) | ✓ (+ Monitoring & Versionierung) |
+| **Löschkonzept** | 10 Kategorien | unbegrenzt + Reminder | + Audit-Export |
+| **DSFA-Wizard** | Basis-Vorlagen | 3 Vorlagen | unbegrenzt + Custom |
+| **Hinweisgeberschutz (HinSchG)** | ✓ | 5 aktive Fälle | unbegrenzt + Branding |
+| **NIS2-Modul + Gap-Analyse** | – | ✓ | ✓ |
+| **AI-Act-KI-Register** | – | ✓ | ✓ |
+| **Live-Schulungen mit Nils** | – | ✓ | ✓ |
+| **KI-gestützte Doku-Generierung** | – | ✓ | ✓ |
+| **Monatlicher Compliance-Report** | – | ✓ | ✓ |
+| **Priorisierter Support** | – | ✓ | 4 h Reaktionszeit |
+| **Individuelle Schulungen** | – | – | ✓ |
+| **Dedizierter Ansprechpartner** | – | – | ✓ |
+| **Vor-Ort-Beratung** | – | – | 1×/Quartal |
+| **Audit-Begleitung** | – | – | ✓ |
 
 ![Hugo DSB Pricing-Karten](/screenshots/dsb-pricing.png)
 
-**Wenn Sie einen externen DSB beauftragen würden, kostet das in Hamburg zwischen 200 € und 800 € im Monat – plus Stundensätze für jede Rückfrage.** Hugo DSB Professional kostet 49 € und deckt 90 % der Aufgaben ab. Bei komplexen Fragen können Sie zusätzlich ein Erstgespräch mit unserem Team buchen.
+**Wenn Sie einen externen DSB beauftragen würden, kostet das in Hamburg zwischen 200 € und 800 € im Monat – plus Stundensätze für jede Rückfrage.** Hugo DSB Starter kostet 149 € und deckt das DSGVO-Fundament ab. Wer NIS2 oder den AI Act adressieren muss, braucht Professional (299 €).
 
 ## Hugo Shield (Lieferketten-Compliance)
 
@@ -60,47 +81,61 @@ Hugo Shield hat zwei Sichten: die Auftraggeber-Seite und die Zulieferer-Seite. B
 
 ### Für Auftraggeber
 
-| Tarif | Starter | Team | Enterprise |
-|---|---|---|---|
-| **Preis** | 99 €/Monat | 299 €/Monat | individuell |
-| **Zulieferer** | bis 25 | bis 100 | unbegrenzt |
-| **Assessments** | Standard | Standard + Custom | + eigene Fragen |
-| **Reports** | PDF | PDF + Excel | + API-Export |
-| **Re-Assessment-Zyklus** | jährlich | konfigurierbar | konfigurierbar |
-| **SSO** | – | – | ✓ |
+| Tarif | Team | Enterprise |
+|---|---|---|
+| **Preis** | 199 €/Monat | 499 €/Monat |
+| **Zulieferer** | bis 25 | unbegrenzt |
+| **Zulieferer-Dashboard** | ✓ | ✓ |
+| **Einladungs-System per E-Mail** | ✓ | ✓ |
+| **Standard-Assessment (50 Fragen)** | ✓ | ✓ |
+| **PDF-Compliance-Reports** | ✓ | ✓ |
+| **Automatische Erinnerungen** | ✓ | ✓ |
+| **Risiko-Ampel** | ✓ | ✓ |
+| **Eigene Fragen ergänzen** | – | ✓ |
+| **Custom Reports** | – | ✓ |
+| **Dedizierter Ansprechpartner** | – | ✓ |
+| **14 Tage gratis testen** | ✓ | – |
 
 ### Für Zulieferer
 
-| Tarif | Free | Premium |
+| Tarif | Basis | Premium |
 |---|---|---|
-| **Preis** | 0 € | 19 €/Monat |
-| **Assessment beantworten** | ✓ | ✓ |
-| **Score sehen** | ✓ | ✓ |
-| **Maßnahmenplan** | – | ✓ |
-| **KI-Empfehlungen** | – | ✓ |
-| **Re-Assessment Express** | – | ✓ |
+| **Preis** | 0 € | 49 €/Monat |
+| **NIS2-Self-Assessment (50 Fragen)** | ✓ | ✓ |
+| **Compliance-Score (A–F)** | ✓ | ✓ |
+| **Radar-Chart-Auswertung** | ✓ | ✓ |
+| **Score-Freigabe an Auftraggeber** | ✓ | ✓ |
+| **KI-Maßnahmenplan (personalisiert)** | – | ✓ |
+| **PDF-Compliance-Zertifikat mit QR-Code** | – | ✓ |
+| **Branchen-Benchmark** | – | ✓ |
+| **Persönliche Beratung durch Nils** | – | ✓ |
+| **Vierteljährliches Re-Assessment** | – | ✓ |
+| **Trend-Analyse über Zeit** | – | ✓ |
+| **14 Tage gratis testen** | – | ✓ |
 
-> 💡 **Wichtig:** Wenn Ihr Auftraggeber Sie zu Hugo Shield einlädt, ist das **Free-Account immer kostenlos**. Sie müssen nichts bezahlen, um Ihrem Kunden gegenüber compliant zu sein.
+> 💡 **Wichtig:** Wenn Ihr Auftraggeber Sie zu Hugo Shield einlädt, ist der **Basis-Account immer kostenlos**. Sie müssen nichts bezahlen, um Ihrem Kunden gegenüber compliant zu sein.
 
 ## Welcher Tarif passt zu meiner Unternehmensgröße?
 
 **1–10 Mitarbeiter**
 - Hugo Check Pro (29 €) für die Website
-- Hugo DSB Free, oder Professional wenn Sie Schulungen brauchen
-- Hugo Shield nur, wenn Sie Zulieferer eines NIS2-Unternehmens sind
+- Hugo DSB Starter (149 €) – günstiger als jeder externe DSB, deckt VVT, AVV, DSFA, Hinweisgeberschutz ab
+- Hugo Shield nur, wenn Sie Zulieferer eines NIS2-Unternehmens sind (Basis kostenlos)
 
 **10–50 Mitarbeiter**
 - Hugo Check Pro
-- Hugo DSB Professional (49 €) – zwingend, wenn Sie mit Personalakten oder Kundendaten arbeiten
-- Hugo Shield Starter (99 €), wenn Sie selbst eine Lieferkette haben
+- Hugo DSB Starter (149 €) oder Professional (299 €), wenn NIS2/AI Act relevant ist
+- Hugo Shield Team (199 €), wenn Sie selbst eine Lieferkette mit bis zu 25 Zulieferern haben
 
 **50–250 Mitarbeiter**
 - Hugo Check Agentur, wenn Sie mehrere Domains haben
-- Hugo DSB Professional + ggf. externer DSB als Beratung
-- Hugo Shield Team (299 €) – Sie sind höchstwahrscheinlich NIS2-betroffen
+- Hugo DSB Professional (299 €) – NIS2 trifft Sie spätestens hier
+- Hugo Shield Team (199 €) bis 25 Zulieferer, ansonsten Enterprise (499 €)
 
 **250+ Mitarbeiter**
-- Vereinbaren Sie ein Beratungsgespräch. Sie brauchen Enterprise-Features (SSO, API, Custom Assessments) und höchstwahrscheinlich begleitende Beratung.
+- Hugo DSB Enterprise (499 €) für Vor-Ort-Beratung, Audit-Begleitung und individuelle Schulungen
+- Hugo Shield Enterprise (499 €) für unbegrenzt Zulieferer und eigene Fragensets
+- Vereinbaren Sie zusätzlich ein Beratungsgespräch für die Einführung
 
 ## Häufige Fragen zu Preisen
 
