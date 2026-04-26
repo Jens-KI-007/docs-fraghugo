@@ -47,15 +47,15 @@ Vergleichbar: Ein einziger externer DSB kostet meist das Doppelte.
 
 ### Was ist im Free-Tarif enthalten?
 
-Unbegrenzte Scans, vollständiger DSGVO-Score, alle 5 KI-Analysen, NIS2-Betroffenheitscheck. Eine Domain.
+**Kostenlos.** 5 Scans pro Monat (derselben Domain, Wechsel alle 30 Tage möglich), Basis-Report mit Ampel, 21 Prüfpunkte + KI-Cookie-Analyse, Score & Note, NIS2-Betroffenheitscheck und Verified Badge ab Score 60. Keine Detail-Ansicht, kein PDF-Export, kein Monitoring.
 
 ### Was kostet Pro genau?
 
-**29 €/Monat** oder **290 €/Jahr** (etwa 17 % Rabatt). Inklusive 5 Domains, Monitoring, Fix-Anleitungen, PDF-Reports, Badge.
+**29 €/Monat** oder **24 €/Monat bei Jahreszahlung** (288 €/Jahr, ca. 17 % Rabatt). Inklusive 100 Scans/Monat, vollständigem Detail-Report, PDF-Export, Monitoring für 10 Domains, E-Mail-Alerts bei Änderungen, Score-Verlauf, KI-DSE-Analyse mit Abmahn-Score, NIS2-Check und Verified Badge. **14 Tage gratis testen.**
 
 ### Was kostet Agentur?
 
-**99 €/Monat** oder **990 €/Jahr**. Inklusive unbegrenzter Domains, Konkurrenz-Vergleich, White-Label, API.
+**99 €/Monat** oder **82 €/Monat bei Jahreszahlung** (984 €/Jahr). Inklusive 500 Scans/Monat, allem aus Pro, unbegrenztem Monitoring, Multi-Domain-Dashboard, White-Label-PDF-Reports, Bulk-Scan (bis 100 URLs), Report-Sharing-Links, Konkurrenz-Vergleich und Prioritäts-Support. **14 Tage gratis testen.**
 
 ### Bekomme ich einen Rabatt als Webdesign-Agentur?
 
@@ -65,15 +65,17 @@ Ab 5 Kunden: ja. Schreiben Sie uns mit der Anzahl Ihrer Kunden und wir machen Ih
 
 ### Welche Tarife gibt es?
 
-| Tarif | Preis | Mitarbeiter | Enthalten |
-|---|---|---|---|
-| Starter | **149 €/Monat** | bis 25 | VVT, AVV, DSFA, Hinweisgeberschutz, E-Mail-Support, 1 Jour fixe/Jahr |
-| Professional | **299 €/Monat** | bis 100 | Alles aus Starter + NIS2- & AI-Act-Module, 2 Jour fixe, Telefon-Support, individuelle Schulungen |
-| Enterprise | **499 €/Monat** | bis 250 | Alles aus Professional + 4h Reaktionszeit, Vor-Ort-Termine, Datenpannen-Sofort-Hotline |
+| Tarif | Preis | Enthalten |
+|---|---|---|
+| Starter | **149 €/Monat** | VVT (unbegrenzt), AVV-Verwaltung, Datenpannen-Meldung, Betroffenenrechte (DSAR), E-Learning-Schulungen, PDF-Export, Compliance-Score-Dashboard, DSE-Generator, Löschkonzept (10 Kategorien), DSFA-Wizard (Basis), Hinweisgeberschutz |
+| Professional | **299 €/Monat** | Alles aus Starter + NIS2-Modul (Betroffenheitscheck + Gap-Analyse), AI-Act-KI-Register, **Live-Schulungen mit Nils**, priorisierter Support, monatlicher Compliance-Report, KI-gestützte Dokumenten-Generierung, Löschkonzept unbegrenzt, DSFA (3 Vorlagen), Hinweisgeberschutz (5 aktive Fälle) |
+| Enterprise | **499 €/Monat** | Alles aus Professional + **individuelle Schulungen**, 4 h Reaktionszeit, dedizierter Ansprechpartner, individuelle Richtlinien-Erstellung, **Vor-Ort-Beratung 1×/Quartal**, Audit-Begleitung, DSE-Monitoring + Versionierung, DSFA unbegrenzt + Custom-Vorlagen, Hinweisgeberschutz unbegrenzt + Branding |
+
+Mitarbeiter-Anzahl ist in keinem Tarif technisch begrenzt — wählen Sie nach Funktions­umfang.
 
 ### Was kostet Starter genau?
 
-**149 €/Monat.** Inklusive Plattform mit VVT, AVV, DSFA, Hinweisgeberschutz, DSE-Generator und E-Mail-Support. Für Unternehmen bis 25 Mitarbeiter.
+**149 €/Monat.** Inklusive Plattform mit VVT, AVV, DSFA-Wizard, Hinweisgeberschutz, DSE-Generator, Löschkonzept und E-Mail-Support. Reicht für Unternehmen, die ein solides DSGVO-Fundament brauchen — ohne NIS2- und AI-Act-Module.
 
 ### Gibt es einen Tarif für noch kleinere Firmen?
 
