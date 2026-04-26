@@ -331,16 +331,22 @@ import { Image } from 'astro:assets';
     <h2>Lieber kurz mit jemandem sprechen?</h2>
     <p>15 Minuten mit Nils Oehmichen oder Jens Hagel. Datenschutzberater und Techniker, in Hamburg. Kein Vertrieb, keine Powerpoint — nur ehrliche Antworten auf Ihre konkreten Fragen.</p>
     <div class="landing-cta__buttons">
-      <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button" target="_blank" rel="noopener">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
-        Erstgespräch buchen
+      <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button cta-button--primary" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+        <span>Erstgespräch buchen</span>
+        <span class="cta-button__meta">15 Min · gratis</span>
       </a>
       <a href="https://www.fraghugo.de" class="cta-button cta-button--secondary">
-        Zur Hauptseite
+        <span>Zur Hauptseite</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
       </a>
     </div>
   </div>
   <div class="landing-cta__photo">
     <img src="/team/team-nils-jens.webp" alt="Nils Oehmichen und Jens Hagel — die Gründer von frag.hugo aus Hamburg" loading="lazy" />
+    <div class="landing-cta__nameplate" aria-hidden="true">
+      <span class="landing-cta__name"><span class="landing-cta__role">Datenschutz</span>Nils Oehmichen</span>
+      <span class="landing-cta__name"><span class="landing-cta__role">Technik</span>Jens Hagel</span>
+    </div>
   </div>
 </div>
