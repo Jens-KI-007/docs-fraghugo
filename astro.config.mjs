@@ -115,6 +115,12 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Für IT-Systemhäuser',
+					items: [
+						{ label: 'Empfehlungs-Programm', slug: 'partner/empfehlungs-programm' },
+					],
+				},
+				{
 					label: 'FAQ',
 					items: [
 						{ label: 'Preise & Abrechnung', slug: 'faq/faq-preise' },
