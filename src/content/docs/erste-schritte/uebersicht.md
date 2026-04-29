@@ -60,4 +60,5 @@ Wenn Sie sich entschieden haben, geht es so weiter:
   <h3>Noch unsicher, was Sie brauchen?</h3>
   <p>Buchen Sie ein 15-minütiges Erstgespräch mit Nils Oehmichen. Persönlich, kostenlos, ohne Vertrieb.</p>
   <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+  <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
 </div>

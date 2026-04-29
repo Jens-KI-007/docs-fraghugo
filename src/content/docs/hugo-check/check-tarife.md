@@ -132,4 +132,5 @@ Ja, schreiben Sie uns. Vereine bekommen Pro für 9 €/Monat.
   <h3>Welcher Tarif passt zu Ihnen?</h3>
   <p>15 Minuten mit Nils. Ehrliche Empfehlung, kein Vertrieb.</p>
   <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+  <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
 </div>

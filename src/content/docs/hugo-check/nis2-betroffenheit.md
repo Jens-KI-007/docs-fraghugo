@@ -111,4 +111,5 @@ Nein. NIS2 macht die Geschäftsführung **persönlich** verantwortlich. Sie kön
   <h3>Unsicher, ob Sie betroffen sind?</h3>
   <p>15 Minuten mit Nils. Wir gehen Ihre Situation gemeinsam durch.</p>
   <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+  <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
 </div>

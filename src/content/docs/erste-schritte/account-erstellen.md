@@ -78,4 +78,5 @@ Nach dem Login finden Sie unter „Team" oder „Mitarbeiter" die Einladungs-Fun
   <h3>Probleme beim Anmelden?</h3>
   <p>Wir helfen Ihnen persönlich – ohne Warteschleife, ohne Ticket-System.</p>
   <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+  <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
 </div>

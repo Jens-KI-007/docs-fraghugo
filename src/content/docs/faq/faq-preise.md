@@ -162,4 +162,5 @@ Ja. Schulen, Universitäten und Forschungseinrichtungen bekommen ebenfalls Sonde
   <h3>Frage nicht beantwortet?</h3>
   <p>Schreiben Sie uns oder buchen Sie ein 15-minütiges Erstgespräch.</p>
   <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+  <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
 </div>

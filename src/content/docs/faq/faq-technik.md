@@ -219,4 +219,5 @@ Ja. Im Account-Header sehen Sie ein „Was ist neu"-Icon. Außerdem schicken wir
   <h3>Technische Frage offen?</h3>
   <p>Schreiben Sie uns oder buchen Sie ein Erstgespräch – wir sind selbst Techniker und antworten ehrlich.</p>
   <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+  <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
 </div>

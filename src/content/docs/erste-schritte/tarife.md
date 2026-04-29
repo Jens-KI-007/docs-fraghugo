@@ -164,4 +164,5 @@ Ja, 14 Tage. Wenn Sie nicht zufrieden sind, schreiben Sie uns – wir erstatten 
   <h3>Welcher Tarif passt zu Ihrer Firma?</h3>
   <p>15 Minuten mit Nils. Kein Vertrieb, nur ehrliche Empfehlung.</p>
   <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button">Erstgespräch mit Nils →</a>
+  <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
 </div>
