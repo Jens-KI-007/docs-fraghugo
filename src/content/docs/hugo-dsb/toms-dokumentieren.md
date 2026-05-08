@@ -117,5 +117,5 @@ Mit den KI-Vorschlägen 1–2 Stunden für die Initialerfassung. Danach jährlic
 <div class="cta-banner">
   <h3>TOMs in 2 Stunden dokumentieren</h3>
   <p>Mit Hugo DSB Professional und KI-gestützten Vorschlägen.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

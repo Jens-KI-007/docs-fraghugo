@@ -135,5 +135,5 @@ Sie ist kostenlos. Das BSI verlangt keine Gebühr.
 <div class="cta-banner">
   <h3>BSI-Registrierung in 30 Minuten</h3>
   <p>Hugo DSB Professional führt Sie Schritt für Schritt durchs BSI-Portal.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

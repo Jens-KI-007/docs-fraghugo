@@ -108,5 +108,5 @@ Nein. Die Verifikations-Seite setzt keine Cookies und nutzt keine Analytik-Tools
 <div class="cta-banner">
   <h3>Trust-Siegel inklusive ab Professional</h3>
   <p>Verifiziertes Datenschutz-Siegel für Ihre Website – generiert in 30 Sekunden.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage kostenlos testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage kostenlos testen →</a>
 </div>

@@ -120,5 +120,5 @@ Einmal jährlich. Hugo DSB erinnert Sie automatisch.
 <div class="cta-banner">
   <h3>Löschkonzept in 1 Stunde anlegen</h3>
   <p>Mit Vorlagen, Verknüpfungen und automatischen Erinnerungen.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

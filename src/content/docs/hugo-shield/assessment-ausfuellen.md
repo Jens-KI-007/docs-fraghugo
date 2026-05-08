@@ -164,5 +164,5 @@ In der Regel jährlich. Das nennt sich [Re-Assessment](/hugo-shield/re-assessmen
 <div class="cta-banner">
   <h3>Sie wurden eingeladen?</h3>
   <p>Das Free-Account ist immer kostenlos. Sie zahlen nichts.</p>
-  <a href="https://shield.fraghugo.de" class="cta-button">Assessment starten →</a>
+  <a href="https://app.fraghugo.de/shield" class="cta-button">Assessment starten →</a>
 </div>

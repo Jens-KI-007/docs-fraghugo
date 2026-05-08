@@ -24,7 +24,7 @@ Bevor Sie einladen, sollten Sie wissen:
 
 ## Schritt 1: Hugo Shield als Auftraggeber öffnen
 
-Loggen Sie sich auf [shield.fraghugo.de](https://shield.fraghugo.de) ein. Im Dashboard wählen Sie die Sicht **„Auftraggeber"**. Sie sehen eine Liste Ihrer bisher eingeladenen Zulieferer (beim ersten Mal: leer).
+Loggen Sie sich auf [shield.fraghugo.de](https://app.fraghugo.de/shield) ein. Im Dashboard wählen Sie die Sicht **„Auftraggeber"**. Sie sehen eine Liste Ihrer bisher eingeladenen Zulieferer (beim ersten Mal: leer).
 
 ## Schritt 2: Einzeln einladen
 
@@ -161,5 +161,5 @@ Ja. Ein Zulieferer, der bei mehreren Auftraggebern in Hugo Shield ist, füllt da
 <div class="cta-banner">
   <h3>Lieferkette in 30 Tagen abdecken</h3>
   <p>14 Tage Hugo Shield Team gratis – mit Bulk-Einladung und Reports.</p>
-  <a href="https://shield.fraghugo.de/pricing" class="cta-button">Team testen →</a>
+  <a href="https://app.fraghugo.de/shield/pricing" class="cta-button">Team testen →</a>
 </div>

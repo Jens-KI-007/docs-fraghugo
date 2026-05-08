@@ -134,5 +134,5 @@ Dann dürfen Sie sie nicht durchführen. Die Konsultation ist deshalb so wichtig
 <div class="cta-banner">
   <h3>DSFA mit geführtem Wizard</h3>
   <p>Pflichtprüfung, Risikomatrix, Maßnahmen-Empfehlungen – alles in Hugo DSB Professional.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

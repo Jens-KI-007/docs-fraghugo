@@ -96,5 +96,5 @@ Ja: **„Verbindung trennen"** im M365-Settings. Refresh-Token wird gelöscht, M
 <div class="cta-banner">
   <h3>M365-Sync inklusive im Enterprise Plan</h3>
   <p>Mitarbeiter automatisch importieren, Schulungen zuweisen, NIS2/AI-Act-Pflichten erfüllen.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">Enterprise testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">Enterprise testen →</a>
 </div>

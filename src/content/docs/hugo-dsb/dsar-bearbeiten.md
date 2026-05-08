@@ -101,5 +101,5 @@ Ja. Sie sollten in einer Sprache antworten, die er versteht – idealerweise Deu
 <div class="cta-banner">
   <h3>DSAR-Workflow mit fristgerechter Wiedervorlage</h3>
   <p>Anfrage erfassen, Daten suchen, Antwort generieren – revisionssicher in Hugo DSB.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage kostenlos testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage kostenlos testen →</a>
 </div>

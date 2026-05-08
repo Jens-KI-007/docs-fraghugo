@@ -125,5 +125,5 @@ Ja. Wenn Sie einen externen DSB haben, laden Sie ihn als „Datenschutzbeauftrag
 <div class="cta-banner">
   <h3>VVT in 60 Minuten anlegen</h3>
   <p>14 Tage Hugo DSB Professional gratis – inklusive aller Vorlagen.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

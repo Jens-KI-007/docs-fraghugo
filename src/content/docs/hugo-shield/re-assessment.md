@@ -23,7 +23,7 @@ Manche Auftraggeber legen kürzere Intervalle fest (z. B. 6 Monate). Das sehen S
 
 ## Schritt 1: Re-Assessment öffnen
 
-Sie loggen sich auf [shield.fraghugo.de](https://shield.fraghugo.de) ein. Im Dashboard sehen Sie die Kachel **„Re-Assessment fällig"**. Klicken Sie darauf.
+Sie loggen sich auf [shield.fraghugo.de](https://app.fraghugo.de/shield) ein. Im Dashboard sehen Sie die Kachel **„Re-Assessment fällig"**. Klicken Sie darauf.
 
 ## Schritt 2: Vorausgefüllte Antworten sehen
 
@@ -113,5 +113,5 @@ Nein. Wenn Sie Premium aktiviert haben, gilt das durchgehend. Erst wenn Sie kün
 <div class="cta-banner">
   <h3>Re-Assessment in unter 10 Minuten</h3>
   <p>Mit Express-Modus im Premium-Tarif geht es noch schneller.</p>
-  <a href="https://shield.fraghugo.de" class="cta-button">Hugo Shield öffnen →</a>
+  <a href="https://app.fraghugo.de/shield" class="cta-button">Hugo Shield öffnen →</a>
 </div>

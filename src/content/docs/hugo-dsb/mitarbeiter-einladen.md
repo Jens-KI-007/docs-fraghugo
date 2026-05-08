@@ -139,5 +139,5 @@ Ja. Hugo Learn-Schulungen sind nach BITV 2.0 zugänglich – mit Untertiteln, Ta
 <div class="cta-banner">
   <h3>Mitarbeiter in 5 Minuten einladen</h3>
   <p>14 Tage Hugo DSB Professional gratis – inklusive automatische Erinnerungen.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

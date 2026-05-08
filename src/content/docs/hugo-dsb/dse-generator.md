@@ -124,5 +124,5 @@ Ein Anwalt nimmt für eine DSE typischerweise 800 bis 2.500 €. Hugo DSB Profes
 <div class="cta-banner">
   <h3>DSE in 15 Minuten generieren</h3>
   <p>14 Tage Hugo DSB Professional gratis – inklusive Auto-Scan und Updates.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

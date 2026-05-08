@@ -160,5 +160,5 @@ Im Enterprise-Tarif: ja. Es gibt einen API-Endpoint, der die Daten als JSON lief
 <div class="cta-banner">
   <h3>Dashboard im Team-Tarif testen</h3>
   <p>14 Tage gratis – mit allen Filtern, Alerts und Reports.</p>
-  <a href="https://shield.fraghugo.de/pricing" class="cta-button">Team testen →</a>
+  <a href="https://app.fraghugo.de/shield/pricing" class="cta-button">Team testen →</a>
 </div>

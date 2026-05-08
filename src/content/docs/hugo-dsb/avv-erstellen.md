@@ -121,5 +121,5 @@ Bei US-Anbietern brauchen Sie zusätzlich die **Standardvertragsklauseln (SCCs)*
 <div class="cta-banner">
   <h3>AVVs in 30 Minuten ordnen</h3>
   <p>Hugo DSB Professional 14 Tage gratis – mit AVV-Vorlagen für 50+ Dienstleister.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage Pro testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage Pro testen →</a>
 </div>

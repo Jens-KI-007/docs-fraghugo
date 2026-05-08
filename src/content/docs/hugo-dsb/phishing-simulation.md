@@ -103,5 +103,5 @@ Der Lern-Moment-Bildschirm beruhigt fast immer. Wenn nicht: Persönliches Gespr�
 <div class="cta-banner">
   <h3>Phishing-Simulation mit Lerneffekt</h3>
   <p>Vorlagen, automatische Nachschulung, anonyme Auswertung – alles in Hugo DSB Professional.</p>
-  <a href="https://dsb.fraghugo.de/pricing" class="cta-button">14 Tage kostenlos testen →</a>
+  <a href="https://app.fraghugo.de/dsb/pricing" class="cta-button">14 Tage kostenlos testen →</a>
 </div>

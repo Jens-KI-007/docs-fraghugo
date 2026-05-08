@@ -151,5 +151,5 @@ Erfahrungsgemäß 3 bis 6 Monate, wenn Sie konsequent jede Woche etwas tun. Die 
 <div class="cta-banner">
   <h3>Maßnahmenplan im Premium-Tarif</h3>
   <p>19€ im Monat – mit KI-Chat, Anleitungen und Express-Re-Assessment.</p>
-  <a href="https://shield.fraghugo.de/pricing" class="cta-button">Premium testen →</a>
+  <a href="https://app.fraghugo.de/shield/pricing" class="cta-button">Premium testen →</a>
 </div>

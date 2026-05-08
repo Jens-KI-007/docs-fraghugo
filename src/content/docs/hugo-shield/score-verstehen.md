@@ -127,5 +127,5 @@ Ja. Sie können einen **Score-Report** als PDF herunterladen und z. B. an weiter
 <div class="cta-banner">
   <h3>Score verbessern – mit Plan</h3>
   <p>Premium-Tarif für 19€/Monat: Maßnahmenplan, KI-Empfehlungen, Express-Re-Assessment.</p>
-  <a href="https://shield.fraghugo.de/pricing" class="cta-button">Premium testen →</a>
+  <a href="https://app.fraghugo.de/shield/pricing" class="cta-button">Premium testen →</a>
 </div>

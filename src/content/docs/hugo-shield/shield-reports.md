@@ -145,5 +145,5 @@ Ein Status-Report ist typischerweise 8–15 Seiten. Ein Audit-Report mit 100 Zul
 <div class="cta-banner">
   <h3>Reports im Team- oder Enterprise-Tarif</h3>
   <p>14 Tage gratis – mit allen Report-Templates und PDF-Branding.</p>
-  <a href="https://shield.fraghugo.de/pricing" class="cta-button">Team testen →</a>
+  <a href="https://app.fraghugo.de/shield/pricing" class="cta-button">Team testen →</a>
 </div>
