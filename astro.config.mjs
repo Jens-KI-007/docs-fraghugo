@@ -8,7 +8,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'frag.hugo Docs',
-			description: 'Hilfe-Center für Hugo Check, Hugo DSB und Hugo Shield – Datenschutz, NIS2 und Lieferketten-Compliance einfach erklärt.',
+			description: 'Hilfe-Center der frag.hugo Plattform – Datenschutz, IT-Sicherheit, NIS2 und Lieferketten-Compliance einfach erklärt.',
 			defaultLocale: 'de',
 			locales: {
 				root: { label: 'Deutsch', lang: 'de' },
@@ -55,7 +55,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Hugo Check (Website-Scanner)',
+					label: 'Website & IT-Sicherheit',
 					items: [
 						{ label: 'Ersten Scan durchführen', slug: 'hugo-check/website-check-starten' },
 						{ label: 'Scan-Ergebnis verstehen', slug: 'hugo-check/scan-ergebnis-verstehen' },
@@ -69,7 +69,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Hugo DSB (Datenschutz)',
+					label: 'Datenschutz',
 					items: [
 						{ label: 'Dashboard verstehen', slug: 'hugo-dsb/dsb-dashboard' },
 						{ label: 'VVT anlegen', slug: 'hugo-dsb/vvt-anlegen' },
@@ -94,7 +94,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Hugo Shield (Lieferkette)',
+					label: 'Lieferkette (NIS2)',
 					items: [
 						{ label: 'Assessment ausfüllen', slug: 'hugo-shield/assessment-ausfuellen' },
 						{ label: 'Score verstehen', slug: 'hugo-shield/score-verstehen' },
