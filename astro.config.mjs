@@ -94,6 +94,51 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'ISMS (NIS2 / ISO 27001)',
+					items: [
+						{ label: 'Was ist ein ISMS?', slug: 'isms/was-ist-ein-isms' },
+						{ label: 'Asset-Register', slug: 'isms/asset-register' },
+						{ label: 'Risiko-Matrix', slug: 'isms/risiko-matrix' },
+						{ label: 'Statement of Applicability', slug: 'isms/soa' },
+						{ label: 'NIS2-Vorfallmeldung', slug: 'isms/nis2-vorfallmeldung' },
+						{ label: 'VVT → ISMS Bridge', slug: 'isms/cross-modul-bridge' },
+					],
+				},
+				{
+					label: 'Audits',
+					items: [
+						{ label: 'Übersicht & 7 Kataloge', slug: 'audit/uebersicht' },
+						{ label: '3 Bericht-Stile', slug: 'audit/3-bericht-stile' },
+						{ label: 'Re-Audit Magic-Link', slug: 'audit/recall-magic-link' },
+					],
+				},
+				{
+					label: 'Public-DSAR-Portal',
+					items: [
+						{ label: '30-Sekunden-Setup', slug: 'dsar-portal/30-sekunden-setup' },
+						{ label: 'Aufsichtsbehörden Art. 77', slug: 'dsar-portal/aufsichtsbehoerden-art-77' },
+						{ label: 'Secure-Reply-Portal', slug: 'dsar-portal/secure-reply' },
+					],
+				},
+				{
+					label: 'Dokumenten-Vorlagen',
+					items: [
+						{ label: '35 Master-Vorlagen', slug: 'dokumente/uebersicht' },
+					],
+				},
+				{
+					label: 'Tätigkeitsbericht',
+					items: [
+						{ label: 'DSB-Bericht: Pflicht oder freiwillig?', slug: 'taetigkeitsbericht/uebersicht' },
+					],
+				},
+				{
+					label: 'KI-Prompt-Galerie',
+					items: [
+						{ label: 'Alle Hugo-Prompts offen', slug: 'ki-prompts/uebersicht' },
+					],
+				},
+				{
 					label: 'Lieferkette (NIS2)',
 					items: [
 						{ label: 'Assessment ausfüllen', slug: 'hugo-shield/assessment-ausfuellen' },
