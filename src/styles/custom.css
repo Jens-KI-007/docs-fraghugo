@@ -2436,3 +2436,84 @@ main:has(.fh-hero) .content-panel .sl-container {
   .mockup-email-attach { margin-left: 0.85rem !important; margin-right: 0.85rem !important; }
   .mockup-email-table { width: calc(100% - 1.7rem) !important; font-size: 0.62rem !important; }
 }
+
+/* ------------------------------------------------------------------------
+   Lead-Magnet-Formular (für /lead-magnete/*)
+   ------------------------------------------------------------------------ */
+
+.lead-magnet-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #FEF3C7 0%, #FFFBEB 100%);
+  border: 1px solid #F59E0B;
+  border-radius: 12px;
+}
+
+.lead-magnet-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #1A1F36;
+}
+
+.lead-magnet-form label.consent {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.6rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #475569;
+  line-height: 1.45;
+}
+
+.lead-magnet-form label.consent input[type="checkbox"] {
+  margin-top: 0.2rem;
+  flex-shrink: 0;
+}
+
+.lead-magnet-form input[type="email"] {
+  padding: 0.7rem 0.9rem;
+  border: 1px solid #CBD5E1;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  background: #FFFFFF;
+  font-family: inherit;
+}
+
+.lead-magnet-form input[type="email"]:focus {
+  outline: none;
+  border-color: #F59E0B;
+  box-shadow: 0 0 0 3px rgba(245, 158, 11, 0.2);
+}
+
+.lead-magnet-form button {
+  margin-top: 0.4rem;
+  padding: 0.85rem 1.4rem;
+  background: #1A1F36;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  font-family: inherit;
+}
+
+.lead-magnet-form button:hover {
+  background: #0C0F1A;
+}
+
+.lead-magnet-form a {
+  color: #1A1F36;
+  text-decoration: underline;
+}
+
+.fh-guide-count {
+  color: var(--text-muted, #94A3B8);
+}

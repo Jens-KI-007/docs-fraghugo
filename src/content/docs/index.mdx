@@ -6,16 +6,18 @@ template: splash
 
 import { Image } from 'astro:assets';
 
+export const totalGuides = 75;
+
 <section class="fh-hero">
   <div class="fh-hero-text">
-    <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Hilfe, die wirklich hilft</span>
+    <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Hilfe, die wirklich hilft · {totalGuides} Anleitungen</span>
     <h1 class="fh-hero-title">
       <span>Datenschutz.</span>
       <span>Verständlich.</span>
       <span class="accent">Erklärt.</span>
     </h1>
     <p class="fh-hero-tagline">
-      Hier finden Sie alles, was Sie über die frag.hugo Plattform wissen müssen — Datenschutz, IT-Sicherheit, NIS2 und Lieferketten in einer App. Geschrieben von Menschen, die Datenschutz für deutsche KMU jeden Tag leben. Schritt für Schritt, mit Screenshots, ohne Marketing-Sprech.
+      Hier finden Sie alles, was Sie über die frag.hugo Plattform wissen müssen — Datenschutz, IT-Sicherheit, NIS2 und Lieferketten in einer App. {totalGuides} Anleitungen geschrieben von Menschen, die Datenschutz für deutsche KMU jeden Tag leben. Schritt für Schritt, mit Screenshots, ohne Marketing-Sprech.
     </p>
     <div class="fh-hero-actions">
       <a href="/erste-schritte/uebersicht/" class="fh-pill fh-pill--amber">
@@ -140,7 +142,7 @@ import { Image } from 'astro:assets';
       <h3 class="hp-card-name">Hugo Check</h3>
       <p class="hp-card-desc">29 DSGVO-Prüfpunkte in 60 Sekunden. Score, KI-Analyse und konkrete Fix-Anleitungen — direkt nach deutschem Recht.</p>
       <ul class="hp-card-meta">
-        <li><strong>9</strong> Anleitungen</li>
+        <li><strong>12</strong> Anleitungen</li>
         <li><strong>0–99 €</strong> /Monat</li>
         <li><strong>60 Sek</strong> bis zum Score</li>
       </ul>
@@ -158,7 +160,7 @@ import { Image } from 'astro:assets';
       <h3 class="hp-card-name">Hugo DSB</h3>
       <p class="hp-card-desc">VVT, AVV, TOMs, DSE-Generator, Schulungen, NIS2 und Hinweisgeberschutz — die deutsche Datenschutz-Plattform.</p>
       <ul class="hp-card-meta">
-        <li><strong>15</strong> Anleitungen</li>
+        <li><strong>22</strong> Anleitungen</li>
         <li><strong>49 €</strong> /Monat</li>
         <li><strong>14 Tage</strong> gratis testen</li>
       </ul>
@@ -176,7 +178,7 @@ import { Image } from 'astro:assets';
       <h3 class="hp-card-name">Hugo Shield</h3>
       <p class="hp-card-desc">Lieferketten-Compliance nach NIS2. Assessments, Scores und Reports — für Auftraggeber und Zulieferer.</p>
       <ul class="hp-card-meta">
-        <li><strong>7</strong> Anleitungen</li>
+        <li><strong>11</strong> Anleitungen</li>
         <li><strong>0–299 €</strong> /Monat</li>
         <li><strong>50 Fragen</strong> Assessment</li>
       </ul>

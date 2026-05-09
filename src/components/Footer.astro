@@ -8,8 +8,13 @@
  * zurück an die Hauptseite.
  */
 import Default from '@astrojs/starlight/components/Footer.astro';
+import { getCollection } from 'astro:content';
 
 const currentYear = new Date().getFullYear();
+
+// Dynamische Anleitungen-Zählung — alle docs-Einträge ausser der Startseite
+const allDocs = await getCollection('docs');
+const guideCount = allDocs.filter((entry) => entry.slug !== '' && entry.slug !== 'index').length;
 
 const produkte = [
   { href: 'https://www.fraghugo.de/leistungen/', label: 'Alle Leistungen' },
@@ -113,7 +118,7 @@ const apps = [
     <!-- Bottom Bar -->
     <div class="fh-footer-bottom">
       <p class="fh-copyright">
-        &copy; {currentYear} frag.hugo Informationssicherheit GmbH
+        &copy; {currentYear} frag.hugo Informationssicherheit GmbH · <span class="fh-guide-count">{guideCount} Anleitungen</span>
       </p>
       <p class="fh-de-badge" aria-label="Datenverarbeitung in Deutschland">
         <svg class="fh-flag" viewBox="0 0 20 15" aria-hidden="true">

@@ -166,6 +166,19 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Lead-Magnete & Vorlagen',
+					items: [
+						{ label: 'Übersicht (7 Vorlagen)', slug: 'lead-magnete' },
+						{ label: 'DSGVO-Audit-Checkliste', slug: 'lead-magnete/dsgvo-checkliste' },
+						{ label: 'NIS2-Quick-Check', slug: 'lead-magnete/nis2-quick-check' },
+						{ label: 'VVT-Vorlagen-Pack (425)', slug: 'lead-magnete/vvt-vorlagen' },
+						{ label: 'AVV-Pack', slug: 'lead-magnete/avv-pack' },
+						{ label: 'TOMs-Vorlage', slug: 'lead-magnete/toms-vorlage' },
+						{ label: 'Datenpannen-Notfallplan', slug: 'lead-magnete/datenpannen-notfallplan' },
+						{ label: 'GF-Haftung-Whitepaper', slug: 'lead-magnete/gf-haftung' },
+					],
+				},
+				{
 					label: 'FAQ',
 					items: [
 						{ label: 'Preise & Abrechnung', slug: 'faq/faq-preise' },
