@@ -1,14 +1,14 @@
 ---
 title: Upgrade & Tarif wechseln
-description: Wie du auf einen höheren Plan wechselst, was im Preis enthalten ist und wie das Stripe-Checkout läuft.
+description: Wie Sie auf einen höheren Plan wechseln, was im Preis enthalten ist und wie das Stripe-Checkout läuft.
 ---
 
 ![Upgrade-Seite mit allen Tarifen](/screenshots/erste-schritte/upgrade.png)
 
-## So wechselst du den Plan
+## So wechseln Sie den Plan
 
 1. Über **Einstellungen → Abrechnung → Plan ändern** oder direkt die Seite [/upgrade](https://app.fraghugo.de/upgrade) öffnen.
-2. Pro Bereich (Datenschutz, Website, Lieferkette) siehst du die verfügbaren Tarife mit Featureliste.
+2. Pro Bereich (Datenschutz, Website, Lieferkette) sehen Sie die verfügbaren Tarife mit Featureliste.
 3. **Plan wählen** → Stripe-Checkout öffnet sich → Bezahlmethode angeben → fertig.
 4. Plan ist sofort aktiv. Bei Upgrades wird anteilig abgerechnet, bei Downgrade gilt der neue Preis ab nächster Periode.
 
@@ -35,9 +35,9 @@ Alle Preise netto, zzgl. USt.
 
 ## Was bekomme ich beim Upgrade?
 
-Auf der Upgrade-Seite siehst du **vorher/nachher** je Feature: KI-Vorschläge limitiert oder unbegrenzt, wie viele Scans/Monat, wie viele Mitarbeiter, etc.
+Auf der Upgrade-Seite sehen Sie **vorher/nachher** je Feature: KI-Vorschläge limitiert oder unbegrenzt, wie viele Scans/Monat, wie viele Mitarbeiter, etc.
 
-Wenn du z.B. die Datenschutz-Suite hast und brauchst nur kurzfristig 2 zusätzliche Beratungsstunden, ist ein Stundenpaket oft günstiger als ein Plan-Upgrade ([Beratung & Add-Ons](/beratung/uebersicht/)).
+Wenn Sie z.B. die Datenschutz-Suite hast und brauchst nur kurzfristig 2 zusätzliche Beratungsstunden, ist ein Stundenpaket oft günstiger als ein Plan-Upgrade ([Beratung & Add-Ons](/beratung/uebersicht/)).
 
 ## Kündigen
 

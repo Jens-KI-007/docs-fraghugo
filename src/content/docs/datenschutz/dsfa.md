@@ -5,7 +5,7 @@ description: Pflicht-Risiko-Analyse bei riskanten Verarbeitungen — Art. 35 DSG
 
 ![DSFA-Übersicht](/screenshots/datenschutz/dsfa.png)
 
-Bei einer Verarbeitung mit hohem Risiko für Betroffene musst du **vor Start** eine Datenschutz-Folgenabschätzung machen — Art. 35 DSGVO. Wenn du das nicht tust und es geht schief, ist das Bußgeld doppelt so teuer.
+Bei einer Verarbeitung mit hohem Risiko für Betroffene müssen Sie **vor Start** eine Datenschutz-Folgenabschätzung machen — Art. 35 DSGVO. Wenn Sie das nicht tust und es geht schief, ist das Bußgeld doppelt so teuer.
 
 ## Wann ist DSFA Pflicht?
 
@@ -21,11 +21,11 @@ DSK-Liste der pflichtigen Verarbeitungen ist im Wizard hinterlegt.
 
 ## Wie der Wizard läuft
 
-1. **Schritt 1: Beschreibung** — Was verarbeitest du, warum, wie. Du kannst aus VVT-Eintrag übernehmen.
-2. **Schritt 2: Notwendigkeit & Verhältnismäßigkeit** — Brauchst du wirklich diese Daten? Gibt's mildere Mittel?
+1. **Schritt 1: Beschreibung** — Was verarbeitest Sie, warum, wie. Sie können aus VVT-Eintrag übernehmen.
+2. **Schritt 2: Notwendigkeit & Verhältnismäßigkeit** — Brauchen Sie wirklich diese Daten? Gibt's mildere Mittel?
 3. **Schritt 3: Risiken identifizieren** — Hugo schlägt typische Risiken pro Verarbeitungstyp vor (Identitätsdiebstahl, Diskriminierung, finanzieller Schaden, ...).
 4. **Schritt 4: Schadenswahrscheinlichkeit + Schwere bewerten** — 4×4-Matrix, Hugo gibt Default-Werte.
-5. **Schritt 5: Maßnahmen zur Risiko-Minderung** — was kannst du tun (Pseudonymisierung, Zugriffsbeschränkung, Schulung, Audit).
+5. **Schritt 5: Maßnahmen zur Risiko-Minderung** — was können Sie tun (Pseudonymisierung, Zugriffsbeschränkung, Schulung, Audit).
 6. **Schritt 6: Restrisiko** — wenn nach Maßnahmen immer noch hoch: **Aufsichtsbehörde konsultieren** (Art. 36).
 
 ## Output
@@ -38,7 +38,7 @@ Bei Änderungen an der Verarbeitung (neue Tools, Erweiterung des Datenumfangs) z
 
 ## Beispiel
 
-Du installierst eine Kamera in der Lagerhalle für Diebstahlschutz. Mitarbeiter werden aufgezeichnet. → **DSFA-pflichtig**, weil systematische Überwachung. Im Wizard:
+Sie installieren eine Kamera in der Lagerhalle für Diebstahlschutz. Mitarbeiter werden aufgezeichnet. → **DSFA-pflichtig**, weil systematische Überwachung. Im Wizard:
 
 - Risiken: Bewegungsprofile, Druck auf Mitarbeiter
 - Maßnahmen: Schwenkbereich begrenzen, max. 24 h Speicherung, Hinweis-Schild, Betriebsrat einbeziehen, Live-Bild für niemanden

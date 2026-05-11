@@ -1,25 +1,25 @@
 ---
 title: Schulung machen
-description: Wie du eine zugewiesene Schulung startest, durchgehst und abschließt.
+description: Wie Sie eine zugewiesene Schulung startest, durchgehst und abschließt.
 ---
 
-## So findest du deine Schulungen
+## So findest Sie Ihre Schulungen
 
 1. **Login** unter app.fraghugo.de mit dem Passwort aus der Begrüßungs-Mail.
-2. **Startseite** zeigt dir oben "Deine offenen Schulungen".
-3. Klick auf eine Schulung.
+2. **Startseite** zeigt Ihnen oben "Ihre offenen Schulungen".
+3. Klicken Sie auf eine Schulung.
 
 ## So läuft eine Schulung ab
 
 1. **Intro-Video / Slides** — meist 5–15 Minuten.
-2. **Interaktive Aufgabe** dazwischen — kurze Übung, Drag-and-drop oder Klick-Reaktion.
+2. **Interaktive Aufgabe** dazwischen — kurze Übung, Drag-and-drop oder Klicken Sie-Reaktion.
 3. **Quiz** am Ende — 5–10 Fragen.
 4. **Bestehen** ab 80 % richtig → Zertifikat sofort verfügbar.
-5. **Durchgefallen?** Du kannst beliebig oft wiederholen. Keine Frustration.
+5. **Durchgefallen?** Sie können beliebig oft wiederholen. Keine Frustration.
 
 ## Speichern + Pause
 
-Du kannst die Schulung jederzeit pausieren und später weitermachen. Beim Wieder-Login springst du zur letzten Stelle.
+Sie können die Schulung jederzeit pausieren und später weitermachen. Beim Wieder-Login springst Sie zur letzten Stelle.
 
 ## Geräte
 
@@ -39,5 +39,5 @@ Mit Smartphone in der Mittagspause durchzappen — geht.
 ## Tipps
 
 - **Konzentriert durchgehen** — Tab-Wechsel + nebenher chatten ist nicht effektiv.
-- **Notizen machen** — was du nicht wusstest, schreib's auf für deinen Arbeitsalltag.
-- **Frage stellen** — am Ende jeder Schulung gibt's einen "Frage stellen"-Button. Dein DSB sieht's und antwortet.
+- **Notizen machen** — was Sie nicht wusstest, schreib's auf für Ihren Arbeitsalltag.
+- **Frage stellen** — am Ende jeder Schulung gibt's einen "Frage stellen"-Button. Ihr DSB sieht's und antwortet.

@@ -5,7 +5,7 @@ description: 12+ Kurse rund um Datenschutz, IT-Sicherheit, KI, NIS2 — Selbstle
 
 ![Hugo Learn Kurs-Katalog](/screenshots/schulungen/hugo-learn.png)
 
-Hier wählst (du oder deine Mitarbeiter) Kurse aus.
+Hier wählst (Sie oder Ihre Mitarbeiter) Kurse aus.
 
 ## Aufbau eines Kurses
 
@@ -40,7 +40,7 @@ Zusätzlich zu den Pflicht-Kursen kommt **jeden Monat eine 5-Minuten-KI-Lektion*
 
 ## Eigene Kurse
 
-Klick "+ Neuer Kurs" — du kannst PDF, Video, Slide-Deck hochladen und eigene Quiz-Fragen anlegen. Z.B. firmenspezifische Compliance-Themen.
+Klicken Sie "+ Neuer Kurs" — Sie können PDF, Video, Slide-Deck hochladen und eigene Quiz-Fragen anlegen. Z.B. firmenspezifische Compliance-Themen.
 
 ## Zertifikate
 

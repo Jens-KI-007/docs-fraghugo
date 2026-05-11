@@ -5,7 +5,7 @@ description: Wer hat welchen Kurs absolviert, wer ist überfällig — die Audit
 
 ![Schulungs-Übersicht mit Quote](/screenshots/schulungen/uebersicht.png)
 
-Die **Audit-Sicht** auf deine Schulungen. Was ein Auditor sehen will:
+Die **Audit-Sicht** auf Ihre Schulungen. Was ein Auditor sehen will:
 
 ## Kennzahlen oben
 

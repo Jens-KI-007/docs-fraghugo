@@ -5,11 +5,11 @@ description: Auto-generierter Tätigkeitsbericht des Datenschutzbeauftragten —
 
 ![Jahresbericht-Vorschau](/screenshots/datenschutz/jahresbericht.png)
 
-Wenn deine Firma einen DSB hat (intern oder extern wie Nils), ist ein **jährlicher Tätigkeitsbericht** üblich (in einigen Branchen Pflicht, sonst Best Practice für die Geschäftsführungs-Vorlage).
+Wenn Ihre Firma einen DSB hat (intern oder extern wie Nils), ist ein **jährlicher Tätigkeitsbericht** üblich (in einigen Branchen Pflicht, sonst Best Practice für die Geschäftsführungs-Vorlage).
 
 ## Was drin steht (Auto-generiert)
 
-Aus deinen Daten ziehe ich das Jahresbericht-PDF zusammen:
+Aus Ihren Daten ziehe ich das Jahresbericht-PDF zusammen:
 
 - **VVT-Stand** — wieviele Verarbeitungen, wieviele neu, wieviele veraltet
 - **AVV-Stand** — wieviele Verträge, Status, Lücken
@@ -19,13 +19,13 @@ Aus deinen Daten ziehe ich das Jahresbericht-PDF zusammen:
 - **Audits** — durchgeführte interne + externe Audits, Hauptbefunde
 - **Hinweisgeber-Fälle** (falls aktiv)
 - **DSFA** — Anzahl, Befund, Maßnahmen-Status
-- **Geplante Schwerpunkte** für nächstes Jahr (kannst du im Editor anpassen)
+- **Geplante Schwerpunkte** für nächstes Jahr (können Sie im Editor anpassen)
 
 ## Wie generieren
 
 1. **Zeitraum wählen** — Default: vergangenes Kalenderjahr.
 2. **Schwerpunkte ankreuzen** — was war 2026 wichtig (NIS2-Vorbereitung, KI-Register-Aufbau, Re-Audit Cloud-Anbieter, ...).
-3. **Generieren** — Hugo erzeugt PDF mit deinem Logo, Branding.
+3. **Generieren** — Hugo erzeugt PDF mit Ihrem Logo, Branding.
 4. **Anpassen** — Editor öffnen, Texte feinjustieren, eigene Bullet-Points hinzufügen.
 5. **Veröffentlichen** — PDF herunterladen, an Geschäftsführung schicken.
 
@@ -35,4 +35,4 @@ Zusätzlich gibt's einen kürzeren **Management-One-Pager** — perfekt für die
 
 ## Versionierung
 
-Alle erzeugten Berichte werden gespeichert. Du kannst die alten Jahresberichte einsehen.
+Alle erzeugten Berichte werden gespeichert. Sie können die alten Jahresberichte einsehen.

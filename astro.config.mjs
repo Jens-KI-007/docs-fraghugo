@@ -160,6 +160,14 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Für Partner (Systemhäuser)',
+					items: [
+						{ label: 'Übersicht', slug: 'partner/uebersicht' },
+						{ label: 'Empfehlungs-Programm', slug: 'partner/empfehlungs-programm' },
+						{ label: 'Kunden registrieren', slug: 'partner/kunden-registrieren' },
+					],
+				},
+				{
 					label: 'FAQ',
 					items: [
 						{ label: 'Preise & Abrechnung', slug: 'faq/preise' },

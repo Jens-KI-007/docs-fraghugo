@@ -9,16 +9,16 @@ Alle Daten liegen **ausschließlich in Deutschland**, auf einem dedizierten Serv
 
 ## Wer hat Zugriff auf meine Daten?
 
-- **Du und deine Mitarbeiter** (je nach Rollen-Berechtigung in der App)
-- **frag.hugo Support-Team** nur auf ausdrückliche Anfrage von dir + mit Audit-Log
-- **Externer DSB Nils** nur, wenn du ihn als deinen DSB benennst (mit Bestellungsurkunde)
+- **Sie und Ihre Mitarbeiter** (je nach Rollen-Berechtigung in der App)
+- **frag.hugo Support-Team** nur auf ausdrückliche Anfrage von Ihnen + mit Audit-Log
+- **Externer DSB Nils** nur, wenn Sie ihn als Ihren DSB benennst (mit Bestellungsurkunde)
 - **Aufsichtsbehörden** im Rahmen von §44a / §40 BDSG bei berechtigtem Anlass
 
 Nicht zugreifend:
-- Niemand bei OpenAI / Anthropic (KI-Anfragen werden ANONYMISIERT verarbeitet, kein Re-Training auf deinen Daten)
+- Niemand bei OpenAI / Anthropic (KI-Anfragen werden ANONYMISIERT verarbeitet, kein Re-Training auf Ihren Daten)
 - Niemand außerhalb der EU
 - Keine Werbung-Partner
-- Kein Microsoft / Google (außer du nutzt M365-Sync, dann liest Hugo dein Verzeichnis lesend)
+- Kein Microsoft / Google (außer Sie nutzen M365-Sync, dann liest Hugo Ihr Verzeichnis lesend)
 
 ## Sind meine Daten verschlüsselt?
 
@@ -29,7 +29,7 @@ Nicht zugreifend:
 
 ## Werden meine Daten von KI mittrainiert?
 
-**Nein.** Wir nutzen API-Anfragen an OpenAI / Anthropic mit dem No-Training-Opt-out (zero retention). Deine VVT-Einträge, Datenpannen, Mitarbeiter-Antworten werden nicht zum Training fremder Modelle benutzt.
+**Nein.** Wir nutzen API-Anfragen an OpenAI / Anthropic mit dem No-Training-Opt-out (zero retention). Ihre VVT-Einträge, Datenpannen, Mitarbeiter-Antworten werden nicht zum Training fremder Modelle benutzt.
 
 ## Was passiert bei einer Datenpanne bei euch?
 
@@ -41,17 +41,17 @@ Nicht zugreifend:
 
 ## Kann ich meine Daten exportieren?
 
-Ja, immer. **Einstellungen → Daten-Export** → ZIP mit allen deinen Daten als JSON + PDFs. Das ist nicht nur DSGVO-Pflicht (Art. 20), sondern auch eine ehrliche Lock-in-Freiheit von uns.
+Ja, immer. **Einstellungen → Daten-Export** → ZIP mit allen Ihren Daten als JSON + PDFs. Das ist nicht nur DSGVO-Pflicht (Art. 20), sondern auch eine ehrliche Lock-in-Freiheit von uns.
 
 ## Was passiert nach Kündigung?
 
-- **90 Tage** bleiben deine Daten erreichbar, du kannst exportieren
+- **90 Tage** bleiben Ihre Daten erreichbar, Sie können exportieren
 - Nach 90 Tagen: **automatische Komplett-Löschung** (alle Datensätze + alle Backups)
-- **Bestätigungs-PDF** der Löschung wird dir per Mail geschickt
+- **Bestätigungs-PDF** der Löschung wird Ihnen per Mail geschickt
 
 ## Auftragsverarbeitung — habt ihr einen AVV?
 
-Ja, **immer**. Wenn du bei uns Kunde wirst, bekommst du automatisch einen AVV nach Art. 28 DSGVO zu unterschreiben. Findest du in den **Einstellungen → Recht → AVV-Vertrag** als PDF.
+Ja, **immer**. Wenn Sie bei uns Kunde wirst, bekommen Sie automatisch einen AVV nach Art. 28 DSGVO zu unterschreiben. Findest Sie in den **Einstellungen → Recht → AVV-Vertrag** als PDF.
 
 ## Pen-Tests / Sicherheits-Audits
 

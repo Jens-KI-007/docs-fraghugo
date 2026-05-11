@@ -1,13 +1,13 @@
 ---
 title: Benachrichtigungen
-description: Die Glocke oben rechts — wann erscheint was, wie schaltest du Lärm ab.
+description: Die Glocke oben rechts — wann erscheint was, wie schaltest Sie Lärm ab.
 ---
 
 ![Benachrichtigungs-Übersicht](/screenshots/erste-schritte/notifications.png)
 
-Die Glocke oben rechts (🔔) sammelt alles, was deine Aufmerksamkeit braucht — in Echtzeit, ohne Reload.
+Die Glocke oben rechts (🔔) sammelt alles, was Ihre Aufmerksamkeit braucht — in Echtzeit, ohne Reload.
 
-## Was du hier siehst
+## Was Sie hier siehst
 
 - **Datenpannen-Meldung gestartet** — Mitarbeiter hat Vorfall gemeldet.
 - **DSAR neu** — Betroffener fragt nach seinen Daten (1-Monats-Frist startet automatisch).
@@ -18,13 +18,13 @@ Die Glocke oben rechts (🔔) sammelt alles, was deine Aufmerksamkeit braucht �
 
 ## Lesen, archivieren, filtern
 
-- Klick auf eine Benachrichtigung → springt direkt zur betroffenen Page.
+- Klicken Sie auf eine Benachrichtigung → springt direkt zur betroffenen Page.
 - **Alle als gelesen** oben rechts.
 - **Filter** nach Bereich (Datenschutz / Vorfälle / Website / NIS2 / ...).
 
 ## Wie viel kommt rein?
 
-In den **Einstellungen → Benachrichtigungen** wählst du pro Event-Typ Push/E-Mail/Aus. Vorgabe: nur kritische Ereignisse, kein Marketing-Lärm.
+In den **Einstellungen → Benachrichtigungen** wählen Sie pro Event-Typ Push/E-Mail/Aus. Vorgabe: nur kritische Ereignisse, kein Marketing-Lärm.
 
 ## Stille Stunden
 

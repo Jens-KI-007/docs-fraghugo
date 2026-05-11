@@ -1,13 +1,13 @@
 ---
 title: Für Mitarbeiter — Übersicht
-description: Wenn dein Chef dich auf die Plattform eingeladen hat — hier erfährst du, was du tun musst.
+description: Wenn Ihr Chef Sie auf die Plattform eingeladen hat — hier erfährst Sie, was Sie tun musst.
 ---
 
-Wenn du eine **Einladungs-Mail von frag.hugo** bekommen hast: Herzlich willkommen. Du musst hier nicht stundenlang Doku verstehen — diese Sektion ist kurz und für deinen Alltag gemacht.
+Wenn Sie eine **Einladungs-Mail von frag.hugo** bekommen hast: Herzlich willkommen. Sie müssen hier nicht stundenlang Doku verstehen — diese Sektion ist kurz und für Ihren Alltag gemacht.
 
 ## Wofür ist die Plattform?
 
-Deine Firma erfüllt damit Datenschutz- und Sicherheitspflichten. Dafür braucht sie ein paar Sachen von dir:
+Ihre Firma erfüllt damit Datenschutz- und Sicherheitspflichten. Dafür braucht sie ein paar Sachen von Ihnen:
 
 - **Schulungen** absolvieren (kurz, kurzweilig)
 - **Quiz** bestehen (für den Schulungsnachweis)
@@ -21,12 +21,12 @@ Deine Firma erfüllt damit Datenschutz- und Sicherheitspflichten. Dafür braucht
 | Schulung machen | [So funktioniert's](/fuer-mitarbeiter/schulung-machen/) |
 | Quiz bestehen | [Tipps fürs Quiz](/fuer-mitarbeiter/quiz-bestehen/) |
 | Zertifikat holen | [Herunterladen + speichern](/fuer-mitarbeiter/zertifikat/) |
-| Datenpanne melden | [So meldest du](/fuer-mitarbeiter/datenpanne-melden/) |
+| Datenpanne melden | [So meldest Sie](/fuer-mitarbeiter/datenpanne-melden/) |
 
-## Was du NICHT siehst
+## Was Sie NICHT siehst
 
-Als Mitarbeiter siehst du **nur** deine Schulungen + Meldefunktionen — nicht VVT, AVV, Kundenliste, Lieferanten. Dein Login ist begrenzt. Datenschutz-Team / Compliance-Officer haben mehr Rechte.
+Als Mitarbeiter sehen Sie **nur** Ihre Schulungen + Meldefunktionen — nicht VVT, AVV, Kundenliste, Lieferanten. Ihr Login ist begrenzt. Datenschutz-Team / Compliance-Officer haben mehr Rechte.
 
 ## Frage?
 
-Erste Adresse: dein Datenschutzbeauftragter oder IT-Verantwortlicher in der Firma. Steht in deiner Schulungs-Einladungs-Mail.
+Erste Adresse: Ihr Datenschutzbeauftragter oder IT-Verantwortlicher in der Firma. Steht in Ihrer Schulungs-Einladungs-Mail.

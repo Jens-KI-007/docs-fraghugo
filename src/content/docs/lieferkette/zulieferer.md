@@ -5,26 +5,26 @@ description: Lieferanten einladen, deren Profil prüfen, Re-Assessment anstoßen
 
 ![Zulieferer-Liste mit Aktionen](/screenshots/lieferkette/zulieferer.png)
 
-Die operative Seite des Lieferketten-Bereichs — hier legst du neue Zulieferer an, lädst sie ein, prüfst Antworten, fordierst Updates an.
+Die operative Seite des Lieferketten-Bereichs — hier legen Sie neue Zulieferer an, laden Sie ein, prüfen Antworten, fordern Updates an.
 
 ## Neuen Zulieferer hinzufügen
 
-Klick "+ Zulieferer". Du brauchst:
+Klicken Sie "+ Zulieferer". Sie brauchen:
 - Firmenname
 - Mail-Adresse Kontaktperson
 - Branche (optional, für Branchen-Filter)
-- Risiko-Klasse: **kritisch** (essentiell für deinen Betrieb, Ausfall = Stopp), **wichtig** (relevant), **standard** (austauschbar)
+- Risiko-Klasse: **kritisch** (essentiell für Ihren Betrieb, Ausfall = Stopp), **wichtig** (relevant), **standard** (austauschbar)
 
 Optional gleich mit einladen.
 
 ## Einladen
 
-Du wählst Lieferant + Einladungstyp:
+Sie wählen Lieferant + Einladungstyp:
 - **Standard-Self-Assessment** — bekommt den 50-Fragen-Fragebogen
-- **Plus eigene Fragen** — falls du Custom-Fragen erstellt hast
+- **Plus eigene Fragen** — falls Sie Custom-Fragen erstellt hast
 - **Nur Profil-Update** — falls schon vorhanden
 
-Lieferant bekommt Mail mit Link, registriert sich kostenlos im Basis-Plan, beantwortet, du siehst Antworten.
+Lieferant bekommt Mail mit Link, registriert sich kostenlos im Basis-Plan, beantwortet, Sie sehen Antworten.
 
 ## Status pro Lieferant
 
@@ -49,5 +49,5 @@ Pro Lieferant einstellbar. Beeinflusst:
 
 ## Tipps
 
-- **Erst Pareto**: konzentriere dich auf die 20 % kritischen Lieferanten, die 80 % deines Risikos abdecken.
+- **Erst Pareto**: konzentriere Sie auf die 20 % kritischen Lieferanten, die 80 % Ihres Risikos abdecken.
 - **Auftrags-Wertgrenze** mit Risiko-Klasse verknüpfen — z.B. "alle Lieferanten > 50k €/Jahr automatisch kritisch".

@@ -1,11 +1,11 @@
 ---
 title: Konkurrenz-Vergleich
-description: Deine Website neben Wettbewerbern — Score-Vergleich, Tracker-Vergleich, wer ist sauberer.
+description: Ihre Website neben Wettbewerbern — Score-Vergleich, Tracker-Vergleich, wer ist sauberer.
 ---
 
 ![Konkurrenz-Vergleich mit Balkendiagramm](/screenshots/website-it-sicherheit/konkurrenz-vergleich.png)
 
-Wenn du wissen willst, wo du im Branchenvergleich stehst — gib bis zu 5 Wettbewerber-URLs ein und Hugo scannt sie und deine eigene Seite, stellt nebeneinander.
+Wenn Sie wissen willst, wo Sie im Branchenvergleich stehst — gib bis zu 5 Wettbewerber-URLs ein und Hugo scannt sie und Ihre eigene Seite, stellt nebeneinander.
 
 ## So funktioniert's
 
@@ -22,7 +22,7 @@ Wenn du wissen willst, wo du im Branchenvergleich stehst — gib bis zu 5 Wettbe
 
 ## PDF-Bericht
 
-Du kannst den Vergleich als PDF exportieren — gebrandet, mit deinem Logo. Eignet sich gut zum Versenden an Geschäftsführung ("Wir liegen bei 87, Wettbewerb bei 72").
+Sie können den Vergleich als PDF exportieren — gebrandet, mit Ihrem Logo. Eignet sich gut zum Versenden an Geschäftsführung ("Wir liegen bei 87, Wettbewerb bei 72").
 
 ## Tipps
 

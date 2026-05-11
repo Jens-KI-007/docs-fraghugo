@@ -5,7 +5,7 @@ description: Compliance-Reports zum Versenden — Audit-Vorlage, Management-One-
 
 ![Reports-Auswahl](/screenshots/lieferkette/reports.png)
 
-Hier erzeugst du Berichte über deine Lieferkette für externe Stakeholder.
+Hier erzeugst Sie Berichte über Ihre Lieferkette für externe Stakeholder.
 
 ## Verfügbare Report-Typen
 
@@ -33,13 +33,13 @@ Eignet sich für externe Wirtschaftsprüfer / Aufsichts-Audits.
 Pflicht-Anhang zur **BSI-Registrierung** für betroffene Firmen.
 
 ### Custom-Report
-- Du wählst Datenfelder, Filter, Diagrammtypen.
+- Sie wählen Datenfelder, Filter, Diagrammtypen.
 - Speicherbar als Vorlage, monatlich automatisch erzeugen lassen.
 
 ## Ausgabe
 
 Alle Reports gibt's als:
-- **PDF** (gebrandet mit deinem Logo)
+- **PDF** (gebrandet mit Ihrem Logo)
 - **Excel** (Roh-Daten zum Weiterverarbeiten)
 - **Powerpoint** (für Präsentationen)
 
@@ -47,7 +47,7 @@ Alle Reports gibt's als:
 
 Pro Report-Typ einstellbar: Einmalig / Quartalsweise / Jährlich.
 
-Bei Wiederholung schickt Hugo automatisch eine Mail mit dem fertigen Report an den von dir konfigurierten Empfänger-Kreis.
+Bei Wiederholung schickt Hugo automatisch eine Mail mit dem fertigen Report an den von Ihnen konfigurierten Empfänger-Kreis.
 
 ## Tipps
 

@@ -5,11 +5,11 @@ description: Schwerwiegende Sicherheitsvorfälle nach NIS2 — 24-h-Erstmeldung,
 
 ![NIS2-Vorfälle Übersicht mit Frist-Trackern](/screenshots/isms-nis2/nis2-vorfaelle.png)
 
-Wenn ein **schwerwiegender Cybersicherheits-Vorfall** auftritt, hast du nach NIS2 (§32 BSIG) eine Meldekette mit harten Fristen.
+Wenn ein **schwerwiegender Cybersicherheits-Vorfall** auftritt, haben Sie nach NIS2 (§32 BSIG) eine Meldekette mit harten Fristen.
 
 ## Fristen-Kette
 
-| Frist | Was du melden musst |
+| Frist | Was Sie melden musst |
 |---|---|
 | **24 h ab Kenntnis** | Erstmeldung an BSI: kurze Beschreibung |
 | **72 h ab Kenntnis** | Update mit ersten Bewertungen |
@@ -29,21 +29,21 @@ Beispiele: Ransomware-Angriff, größerer Datenabfluss, signifikanter DDoS, komp
 ## Workflow
 
 1. **Vorfall anlegen** — Hugo startet den Frist-Tracker (24-h-Uhr läuft).
-2. **Erstmeldung** — Wizard zeigt das BSI-Meldeportal-Template, du fügst Beschreibung ein.
-3. **Bei BSI einreichen** — Über das BSI-Meldeportal (Hugo zeigt URL + dein Aktenzeichen einzutragen).
-4. **Update nach 72 h** — Hugo erinnert. Du ergänzt Bewertung.
+2. **Erstmeldung** — Wizard zeigt das BSI-Meldeportal-Template, Sie fügen Beschreibung ein.
+3. **Bei BSI einreichen** — Über das BSI-Meldeportal (Hugo zeigt URL + Ihr Aktenzeichen einzutragen).
+4. **Update nach 72 h** — Hugo erinnert. Sie ergänzen Bewertung.
 5. **Abschlussbericht** — formaler Bericht mit Root-Cause, Lessons Learned, Maßnahmen.
 
 ## Verbindung zu Datenpannen
 
-Vorfälle können gleichzeitig **NIS2 + DSGVO-Datenpanne** sein. Dann brauchst du beide Meldungen (BSI + Landesdatenschutzbehörde). Hugo legt parallel die Vorfälle in beiden Modulen an.
+Vorfälle können gleichzeitig **NIS2 + DSGVO-Datenpanne** sein. Dann brauchen Sie beide Meldungen (BSI + Landesdatenschutzbehörde). Hugo legt parallel die Vorfälle in beiden Modulen an.
 
 ## Audit-Log
 
-Jeder Vorfall hat einen vollständigen Audit-Trail. Bei späteren Behörden-Rückfragen kannst du jeden Schritt nachweisen.
+Jeder Vorfall hat einen vollständigen Audit-Trail. Bei späteren Behörden-Rückfragen können Sie jeden Schritt nachweisen.
 
 ## Tipps
 
 - **24 h ist viel kürzer als gedacht** — Wochenende zählt mit. Schicht-Bereitschaft im Compliance-Team einplanen.
-- **Erstmeldung darf unvollständig sein** — du musst nicht alles wissen, "Wir wissen es passierte was am Datum X, Details prüfen wir" reicht für die Erstmeldung.
+- **Erstmeldung darf unvollständig sein** — Sie müssen nicht alles wissen, "Wir wissen es passierte was am Datum X, Details prüfen wir" reicht für die Erstmeldung.
 - **Kommunikation mit IT-Forensik** — wenn ext. Forensiker dran arbeiten, halt sie informiert über die Fristen.

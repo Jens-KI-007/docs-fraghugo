@@ -68,4 +68,4 @@ Alle Preise **netto**. Bei B2B-Kunden mit gültiger USt-ID innerhalb EU: Reverse
 
 - **Yearly**: 2 Monate gratis
 - **Schul / Verein / NGO**: −30 % auf Anfrage (Mail an hugo@fraghugo.de)
-- **Partner-Programm**: Wenn du Kunden vermittelst → 20 % wiederkehrend
+- **Partner-Programm**: Wenn Sie Kunden vermittelst → 20 % wiederkehrend

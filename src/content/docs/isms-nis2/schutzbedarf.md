@@ -5,7 +5,7 @@ description: Pro Asset die drei Dimensionen Vertraulichkeit, Integrität, Verfü
 
 ![Schutzbedarf-Matrix](/screenshots/isms-nis2/schutzbedarf.png)
 
-Nicht jedes Asset ist gleich kritisch. Im Schutzbedarf legst du fest, **wie stark** ein Asset geschützt werden muss — in drei Dimensionen.
+Nicht jedes Asset ist gleich kritisch. Im Schutzbedarf legen Sie fest, **wie stark** ein Asset geschützt werden muss — in drei Dimensionen.
 
 ## Die drei Schutzziele (CIA)
 
@@ -25,9 +25,9 @@ Pro Asset, pro Schutzziel:
 
 ## Wie pflegen
 
-In der Übersicht siehst du eine Matrix: Assets in Zeilen, CIA-Stufen in Spalten. Du klickst Felder an und stufst ein.
+In der Übersicht sehen Sie eine Matrix: Assets in Zeilen, CIA-Stufen in Spalten. Sie klicken Felder an und stufst ein.
 
-Hugo schlägt Default-Werte vor — z.B. "Patientendaten" sind by-default sehr hoch in V + I + A. Du kannst überschreiben.
+Hugo schlägt Default-Werte vor — z.B. "Patientendaten" sind by-default sehr hoch in V + I + A. Sie können überschreiben.
 
 ## Aggregations-Regel
 
@@ -43,5 +43,5 @@ Alternativ: **Kumulations-Effekt** — wenn viele "Normal"-Werte zusammenkommen,
 
 ## Tipps
 
-- **Nicht inflationär hochstufen** — wenn alles "sehr hoch" ist, ist nichts wirklich kritisch und du kannst nicht priorisieren.
+- **Nicht inflationär hochstufen** — wenn alles "sehr hoch" ist, ist nichts wirklich kritisch und Sie können nicht priorisieren.
 - **Geschäftsführung muss zustimmen** — sehr-hoch-eingestufte Assets brauchen Budget für Schutzmaßnahmen. Lieber GF früh einbinden.

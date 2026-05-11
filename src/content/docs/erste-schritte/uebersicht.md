@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte
-description: Account erstellen, Dashboard verstehen, Tarif wählen — was du als Erstes wissen musst.
+description: Account erstellen, Dashboard verstehen, Tarif wählen — was Sie als Erstes wissen musst.
 ---
 
 Willkommen bei frag.hugo. Diese Sektion deckt das Grundgerüst ab.
@@ -15,7 +15,7 @@ Willkommen bei frag.hugo. Diese Sektion deckt das Grundgerüst ab.
 
 ## Sprachgebrauch
 
-- **Mandant** = die Firma, deren Compliance du verwaltest. Wenn du externer DSB bist, hast du oft mehrere.
+- **Mandant** = die Firma, deren Compliance Sie verwalten. Wenn Sie externer DSB sind, haben Sie oft mehrere.
 - **Bereich** = Hauptmenüpunkt-Gruppe in der Sidebar (Datenschutz, Vorfälle, ...).
 - **Hugo** = der KI-Assistent in der Plattform. Hilft bei VVT-Erstellung, AVV-Bewertung, DSE-Generator, etc.
-- **Externer DSB** = wenn deine Firma keinen internen Datenschutzbeauftragten hat — wir bieten das als Service ([fraghugo.de/dsb](https://fraghugo.de/dsb/)).
+- **Externer DSB** = wenn Ihre Firma keinen internen Datenschutzbeauftragten hat — wir bieten das als Service ([fraghugo.de/dsb](https://fraghugo.de/dsb/)).

@@ -5,7 +5,7 @@ description: Über 35 fertige Master-Templates für Einwilligungen, Vereinbarung
 
 ![Vorlagen-Galerie](/screenshots/datenschutz/dokumente.png)
 
-Du brauchst eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Verschwiegenheitsverpflichtung? Eine DSB-Bestellungsurkunde? Hier findest du fertige Vorlagen.
+Sie brauchen eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Verschwiegenheitsverpflichtung? Eine DSB-Bestellungsurkunde? Hier findest Sie fertige Vorlagen.
 
 ## Was drin ist (Auswahl)
 
@@ -26,7 +26,7 @@ Du brauchst eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Vers
 **Behörden:**
 - DSB-Bestellungsurkunde
 - DSB-Abberufung
-- 72-h-Meldung Datenpanne (Vorbefüllt mit deinen Daten)
+- 72-h-Meldung Datenpanne (Vorbefüllt mit Ihren Daten)
 - Antwort an Aufsichtsbehörde
 
 **Betroffenenrechte:**
@@ -38,14 +38,14 @@ Du brauchst eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Vers
 ## Wie nutzen
 
 1. Vorlage suchen (Filter oder Suche).
-2. "Anpassen" — Hugo macht ein neues Dokument aus der Vorlage, befüllt mit deinen Firmendaten.
+2. "Anpassen" — Hugo macht ein neues Dokument aus der Vorlage, befüllt mit Ihren Firmendaten.
 3. Im Editor anpassen.
 4. PDF/Word herunterladen, drucken, unterschreiben.
 
 ## Eigene Vorlagen
 
-"+ Neue Vorlage" oben rechts — du kannst eigene Templates speichern, mit Variablen (z.B. `{{firma}}`, `{{datum}}`, `{{mitarbeitername}}`).
+"+ Neue Vorlage" oben rechts — Sie können eigene Templates speichern, mit Variablen (z.B. `{{firma}}`, `{{datum}}`, `{{mitarbeitername}}`).
 
 ## Branding
 
-Alle Vorlagen werden automatisch mit deinem Logo, Firmenkopfzeile und Footer befüllt (Einstellungen → Firmendaten → Logo).
+Alle Vorlagen werden automatisch mit Ihrem Logo, Firmenkopfzeile und Footer befüllt (Einstellungen → Firmendaten → Logo).

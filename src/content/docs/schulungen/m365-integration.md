@@ -5,11 +5,11 @@ description: Mitarbeiter automatisch aus Microsoft 365 synchronisieren — keine
 
 ![M365-Integration Setup](/screenshots/schulungen/m365.png)
 
-Wenn deine Firma Microsoft 365 nutzt, hast du dort schon alle Mitarbeiter mit Mail, Abteilung, Position gepflegt. Doppelt eintragen wäre dumm. Mit dem M365-Connector kommt's automatisch.
+Wenn Ihre Firma Microsoft 365 nutzt, haben Sie dort schon alle Mitarbeiter mit Mail, Abteilung, Position gepflegt. Doppelt eintragen wäre dumm. Mit dem M365-Connector kommt's automatisch.
 
 ## Was synchronisiert wird
 
-- **Mitarbeiter** (alle aktiven Accounts in deinem M365-Tenant)
+- **Mitarbeiter** (alle aktiven Accounts in Ihrem M365-Tenant)
 - **Abteilungen** + **Manager-Hierarchie** (für Rollen-basierte Schulungen)
 - **An-/Abmeldungen** — neuer User in M365 → automatisch in Hugo, Kursauswahl, Begrüßungsmail
 - **Off-Boarding** — gelöschter M365-User → in Hugo deaktiviert, Audit-Daten archiviert
@@ -17,7 +17,7 @@ Wenn deine Firma Microsoft 365 nutzt, hast du dort schon alle Mitarbeiter mit Ma
 ## Setup
 
 1. **Einstellungen → Schulungen → M365 verbinden**
-2. **OAuth-Flow** — du loggst dich als Global-Admin in Microsoft 365 ein, gibst Hugo Read-Only-Rechte auf Verzeichnisdaten.
+2. **OAuth-Flow** — Sie loggen sich als Global-Admin in Microsoft 365 ein, geben Hugo Read-Only-Rechte auf Verzeichnisdaten.
 3. **Erste Synchronisierung** — dauert je nach Tenant-Größe 1–5 Minuten.
 4. **Sync-Frequenz wählen** — täglich (empfohlen) oder stündlich.
 
@@ -25,23 +25,23 @@ Wenn deine Firma Microsoft 365 nutzt, hast du dort schon alle Mitarbeiter mit Ma
 
 - **Keine Schreibzugriffe** auf M365 — wir lesen nur.
 - **Keine Mail-Inhalte** — nur Verzeichnis (Mitarbeiter-Stammdaten).
-- **Keine Kalender-Daten** — wir wissen nicht, wo du wann bist.
+- **Keine Kalender-Daten** — wir wissen nicht, wo Sie wann sind.
 
 ## Sicherheit
 
 - Token wird verschlüsselt gespeichert
-- Du kannst die Verbindung jederzeit trennen
+- Sie können die Verbindung jederzeit trennen
 - Audit-Log zeigt, was Hugo wann gelesen hat
 
 ## Alternative: Azure AD / Entra ID nur
 
-Wenn du Azure AD ohne M365 hast (z.B. nur für Single-Sign-On), funktioniert die Integration auch — gleiche Felder, gleiche Berechtigung.
+Wenn Sie Azure AD ohne M365 hast (z.B. nur für Single-Sign-On), funktioniert die Integration auch — gleiche Felder, gleiche Berechtigung.
 
 ## Andere HR-Systeme
 
-Direkt-Connect nur für M365. Für Personio, HRWORKS, SAP Successfactors etc. nutze den CSV-Import oder die API.
+Direkt-Connect nur für M365. Für Personio, HRWORKS, SAP Successfactors etc. nutzen Sie den CSV-Import oder die API.
 
 ## Tipps
 
-- **Manager-Hierarchie hilft** — Hugo kann dann Schulungs-Reports an Manager schicken ("Folgende deiner Mitarbeiter sind im Phishing-Test durchgefallen").
-- **Filter** — du kannst sagen "nur Mitarbeiter mit Domain @meine-firma.de synchronisieren, externe Gäste ignorieren".
+- **Manager-Hierarchie hilft** — Hugo kann dann Schulungs-Reports an Manager schicken ("Folgende Ihrer Mitarbeiter sind im Phishing-Test durchgefallen").
+- **Filter** — Sie können sagen "nur Mitarbeiter mit Domain @meine-firma.de synchronisieren, externe Gäste ignorieren".

@@ -17,11 +17,12 @@ const allDocs = await getCollection('docs');
 const guideCount = allDocs.filter((entry) => entry.slug !== '' && entry.slug !== 'index').length;
 
 const produkte = [
-  { href: 'https://www.fraghugo.de/leistungen/', label: 'Alle Leistungen' },
-  { href: 'https://www.fraghugo.de/hugo-check/', label: 'Hugo Check – Scanner' },
-  { href: 'https://www.fraghugo.de/hugo-dsb/', label: 'Hugo DSB – Datenschutz' },
-  { href: 'https://www.fraghugo.de/hugo-shield/', label: 'Hugo Shield – NIS2' },
-  { href: 'https://www.fraghugo.de/beratung/', label: 'Beratung & DSB' },
+  { href: 'https://www.fraghugo.de/leistungen/', label: 'Alle Leistungen & Preise' },
+  { href: 'https://www.fraghugo.de/datenschutz/', label: 'Datenschutz-Suite' },
+  { href: 'https://www.fraghugo.de/website-check/', label: 'Website & IT-Sicherheit' },
+  { href: 'https://www.fraghugo.de/lieferkette/', label: 'Lieferkette (Shield)' },
+  { href: 'https://www.fraghugo.de/nis2/', label: 'NIS2 & ISMS' },
+  { href: 'https://www.fraghugo.de/beratung/', label: 'Beratung & externer DSB' },
 ];
 
 const unternehmen = [
@@ -33,10 +34,11 @@ const unternehmen = [
 ];
 
 const apps = [
-  { href: 'https://www.fraghugo.de/leistungen/', label: 'Alle Leistungen & Preise' },
-  { href: 'https://check.fraghugo.de', label: 'Hugo Check öffnen' },
-  { href: 'https://app.fraghugo.de/dsb', label: 'Hugo DSB öffnen' },
-  { href: 'https://app.fraghugo.de/shield', label: 'Hugo Shield öffnen' },
+  { href: 'https://app.fraghugo.de', label: 'Plattform öffnen (Login)' },
+  { href: 'https://app.fraghugo.de/signup', label: 'Konto kostenlos anlegen' },
+  { href: 'https://check.fraghugo.de', label: 'Schnell-Check (ohne Login)' },
+  { href: 'https://www.fraghugo.de/beratung/', label: 'Erstgespräch buchen' },
+  { href: 'https://www.fraghugo.de/partner/', label: 'Partner-Programm (Systemhäuser)' },
 ];
 ---
 

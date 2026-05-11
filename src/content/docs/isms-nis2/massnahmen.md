@@ -5,7 +5,7 @@ description: Schutzmaßnahmen pro Risiko — aus BSI-Grundschutz / ISO 27001 Anh
 
 ![Maßnahmen mit Status](/screenshots/isms-nis2/massnahmen.png)
 
-Maßnahmen sind das, was du tust, um Risiken zu reduzieren. Hier landen sie alle gebündelt.
+Maßnahmen sind das, was Sie tun, um Risiken zu reduzieren. Hier landen sie alle gebündelt.
 
 ## Katalog
 
@@ -15,7 +15,7 @@ Hugo bringt **140 Standardmaßnahmen** aus:
 - NIS2 Implementing Regulation
 - DORA technische Standards
 
-Bei Anlage kannst du aus dem Katalog wählen oder Custom-Maßnahmen erstellen.
+Bei Anlage können Sie aus dem Katalog wählen oder Custom-Maßnahmen erstellen.
 
 ## Pro Maßnahme
 
@@ -24,7 +24,7 @@ Bei Anlage kannst du aus dem Katalog wählen oder Custom-Maßnahmen erstellen.
 - **Status**: geplant / in Umsetzung / umgesetzt / nicht zutreffend
 - **Verantwortlicher**
 - **Frist** — bis wann umgesetzt
-- **Wirksamkeitsprüfung** — wie wirst du prüfen, dass die Maßnahme wirkt
+- **Wirksamkeitsprüfung** — wie werden Sie prüfen, dass die Maßnahme wirkt
 - **Letzte Prüfung** — wann zuletzt geprüft
 - **Nachweis** — Dateien anhängen
 
@@ -37,7 +37,7 @@ Filterbar nach Status. Wichtige Sichten:
 
 ## Maßnahmen-Bibliothek mit AI-Hilfe
 
-Klick "Hugo, hilf mir" bei einer Maßnahme → Hugo:
+Klicken Sie "Hugo, hilf mir" bei einer Maßnahme → Hugo:
 - Erklärt was zu tun ist
 - Schlägt ein konkretes Vorgehen vor (z.B. "Backup-Strategie 3-2-1 — drei Kopien, zwei Medien, ein Off-Site")
 - Verlinkt auf BSI-Empfehlungen / Industry-Standards
@@ -49,5 +49,5 @@ Maßnahmen sind das WAS, Richtlinien das WIE. Maßnahme "Passwort-Schutz" → ve
 
 ## Tipps
 
-- **80/20-Regel** — die 20 wichtigsten Maßnahmen decken 80 % deines Risikos ab. Fang da an.
+- **80/20-Regel** — die 20 wichtigsten Maßnahmen decken 80 % Ihres Risikos ab. Fang da an.
 - **Frist realistisch** — lieber 90 Tage und es wirklich tun als 14 Tage und nie liefern.

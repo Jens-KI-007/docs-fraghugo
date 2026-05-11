@@ -5,7 +5,7 @@ description: Internes Meldesystem nach HinSchG — anonyme Meldungen, Bearbeitun
 
 ![Hinweisgeber-Fälle in der Übersicht](/screenshots/vorfaelle/hinweisgeberschutz.png)
 
-Wenn du **50 oder mehr Mitarbeiter** hast, brauchst du nach Hinweisgeberschutzgesetz (HinSchG) ein internes Meldesystem. Mit dem Hinweisgeber-Modul erfüllst du das.
+Wenn Sie **50 oder mehr Mitarbeiter** hast, brauchen Sie nach Hinweisgeberschutzgesetz (HinSchG) ein internes Meldesystem. Mit dem Hinweisgeber-Modul erfüllst Sie das.
 
 ## Was Whistleblower melden können
 
@@ -17,7 +17,7 @@ Wenn du **50 oder mehr Mitarbeiter** hast, brauchst du nach Hinweisgeberschutzge
 
 ## Meldekanäle
 
-- **Web-Portal** — anonyme Eingabe via deine Subdomain (z.B. `hinweise.mertens-logistik.de`).
+- **Web-Portal** — anonyme Eingabe via Ihre Subdomain (z.B. `hinweise.mertens-logistik.de`).
 - **Telefon-Hotline** — gegen Recurring-Add-On nimmt Nils Anrufe entgegen.
 - **Postfach** — auch handgeschriebene Briefe.
 - **Vor-Ort-Meldung** — Mitarbeiter kann persönlich zur Meldestelle.
@@ -29,10 +29,10 @@ Default: Hinweisgeber **kann** anonym bleiben. Plattform legt einen Pseudonym-Ac
 ## Bearbeitungs-Workflow
 
 ### Frist 1: Eingangsbestätigung (7 Tage)
-Sofort nach Meldung bestätigst du Eingang (Default-Mail-Template). Verpasste Eingangsbestätigung = Bußgeld.
+Sofort nach Meldung bestätigst Sie Eingang (Default-Mail-Template). Verpasste Eingangsbestätigung = Bußgeld.
 
 ### Frist 2: Rückmeldung (3 Monate)
-Innerhalb 3 Monaten musst du dem Hinweisgeber sagen, was du getan hast (geprüft, abgewiesen, in Bearbeitung). Auch wenn du "Vorwürfe nicht bestätigt" sagst — kommunizieren musst du.
+Innerhalb 3 Monaten müssen Sie dem Hinweisgeber sagen, was Sie getan hast (geprüft, abgewiesen, in Bearbeitung). Auch wenn Sie "Vorwürfe nicht bestätigt" sagst — kommunizieren müssen Sie.
 
 ### Hugo bringt
 - **Frist-Tracker** pro Fall
@@ -43,12 +43,12 @@ Innerhalb 3 Monaten musst du dem Hinweisgeber sagen, was du getan hast (geprüft
 
 - **Repressalien-Verbot** — Hinweisgeber darf nicht gekündigt, abgemahnt, benachteiligt werden wegen seiner Meldung.
 - **Beweislastumkehr** — wenn er nach Meldung sehr schnell gekündigt wird, MUSST DU beweisen, dass das nichts mit der Meldung zu tun hat.
-- **Geheimhaltung** — Identität bleibt geheim, auch innerhalb der Firma. Nur das Bearbeitungsteam (du, ggf. Compliance-Officer) sieht den Vorgang.
+- **Geheimhaltung** — Identität bleibt geheim, auch innerhalb der Firma. Nur das Bearbeitungsteam (Sie, ggf. Compliance-Officer) sieht den Vorgang.
 
 ## Externe Meldestelle (BAFin / BMJ)
 
-Hinweisgeber können auch zur **externen Meldestelle des Bundes** gehen. Wenn das passiert, kommt der Fall mit Aktenzeichen zu dir zurück, du musst antworten. Hugo zeigt die Links zu den externen Stellen.
+Hinweisgeber können auch zur **externen Meldestelle des Bundes** gehen. Wenn das passiert, kommt der Fall mit Aktenzeichen zu Ihnen zurück, Sie müssen antworten. Hugo zeigt die Links zu den externen Stellen.
 
 ## Statistik (Pflicht)
 
-Du musst eine **anonymisierte Jahresstatistik** veröffentlichen: Wie viele Meldungen, welche Themen, wie wurden sie erledigt. Hugo erzeugt das als Bestandteil deines [Jahresberichts](/datenschutz/jahresbericht/).
+Sie müssen eine **anonymisierte Jahresstatistik** veröffentlichen: Wie viele Meldungen, welche Themen, wie wurden sie erledigt. Hugo erzeugt das als Bestandteil Ihres [Jahresberichts](/datenschutz/jahresbericht/).

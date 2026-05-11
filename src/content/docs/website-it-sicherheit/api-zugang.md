@@ -3,13 +3,13 @@ title: API-Zugang
 description: Eigene Integration ins CRM oder Reporting — Scan-API, Webhooks, OpenAPI-Spec.
 ---
 
-Du willst die DSGVO-Scores in dein eigenes Reporting bringen oder ein eigenes Frontend bauen? Der Agentur-Tarif bietet API-Zugriff.
+Sie wollen die DSGVO-Scores in Ihr eigenes Reporting bringen oder ein eigenes Frontend bauen? Der Agentur-Tarif bietet API-Zugriff.
 
-## Was du kannst
+## Was Sie können
 
 - **Scan auslösen** per API-Call
 - **Scan-Ergebnis** als JSON abrufen
-- **Webhook** bei Scan-Abschluss in dein System feuern
+- **Webhook** bei Scan-Abschluss in Ihr System feuern
 - **Domains verwalten** (CRUD)
 - **Monitoring** programmatisch konfigurieren
 
@@ -18,7 +18,7 @@ Du willst die DSGVO-Scores in dein eigenes Reporting bringen oder ein eigenes Fr
 1. **Einstellungen → API** → "+ Neuer Token".
 2. **Name + Scope** wählen (Read-only oder Write).
 3. **Token kopieren** — wird nur einmal gezeigt!
-4. **Speichern** in deinem Backend als Umgebungsvariable.
+4. **Speichern** in Ihrem Backend als Umgebungsvariable.
 
 ## Beispiel-Call
 
@@ -40,7 +40,7 @@ Response (asynchron):
 
 ## Webhooks
 
-Statt zu pollen, registriere einen Webhook → du bekommst POST-Call mit Scan-Ergebnis sobald fertig.
+Statt zu pollen, registriere einen Webhook → Sie bekommen POST-Call mit Scan-Ergebnis sobald fertig.
 
 ## OpenAPI-Spec
 

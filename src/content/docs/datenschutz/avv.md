@@ -5,13 +5,13 @@ description: Externe Dienstleister mit Datenzugriff — Art. 28 DSGVO. Mit Hugos
 
 ![Auftragsverarbeiter-Übersicht](/screenshots/datenschutz/avv.png)
 
-Jeder externe Dienst, der personenbezogene Daten in deinem Auftrag verarbeitet (Cloud-Software, Newsletter-Versender, Buchhaltungsbüro), braucht einen **Auftragsverarbeitungsvertrag** nach Art. 28 DSGVO. Hier verwaltest du sie.
+Jeder externe Dienst, der personenbezogene Daten in Ihrem Auftrag verarbeitet (Cloud-Software, Newsletter-Versender, Buchhaltungsbüro), braucht einen **Auftragsverarbeitungsvertrag** nach Art. 28 DSGVO. Hier verwalten Sie sie.
 
-## Was du hier machst
+## Was Sie hier machen
 
 ### Neuer Auftragsverarbeiter
 
-Klick "Neu". Du gibst Name, Webseite, Zweck ein. Hugo macht:
+Klicken Sie "Neu". Sie geben Name, Webseite, Zweck ein. Hugo macht:
 
 - **DPA-Check** — sucht automatisch den AVV-Vertrag des Anbieters (Microsoft, Google, AWS, HubSpot, Slack haben standardisierte Verträge im Netz).
 - **Drittland-Bewertung** — Hauptsitz, Server-Standort, Standard-Vertragsklauseln (SCC), Angemessenheitsbeschluss.
@@ -20,17 +20,17 @@ Klick "Neu". Du gibst Name, Webseite, Zweck ein. Hugo macht:
 
 ### Vertrag hochladen
 
-Du kannst den unterschriebenen AVV als PDF hochladen. Erscheint in der Detailansicht, bei Audit ist alles parat.
+Sie können den unterschriebenen AVV als PDF hochladen. Erscheint in der Detailansicht, bei Audit ist alles parat.
 
 ### Status
 
-- **Vertrag fehlt** — du musst noch einen abschließen.
+- **Vertrag fehlt** — Sie müssen noch einen abschließen.
 - **Vertrag prüfen** — abgeschlossen aber Hugo hat Auffälligkeiten gefunden.
 - **OK** — alles unterschrieben, geprüft.
 
 ### Mit VVT verknüpfen
 
-Jeder AVV-Eintrag kann auf die Verarbeitungen verlinken, in denen er eingesetzt wird (z.B. "Microsoft 365" → "Mitarbeiter-Kommunikation" + "Kalender" + "Cloud-Speicher"). Bei AVV-Wechsel siehst du sofort, welche Verarbeitungen betroffen sind.
+Jeder AVV-Eintrag kann auf die Verarbeitungen verlinken, in denen er eingesetzt wird (z.B. "Microsoft 365" → "Mitarbeiter-Kommunikation" + "Kalender" + "Cloud-Speicher"). Bei AVV-Wechsel sehen Sie sofort, welche Verarbeitungen betroffen sind.
 
 ### Export
 
@@ -51,4 +51,4 @@ Jeder AVV-Eintrag kann auf die Verarbeitungen verlinken, in denen er eingesetzt 
 ## Tipps
 
 - **Wer nicht?** — Eigene Mitarbeiter sind nie AVV (interne Verarbeitung). Versicherer/Banken sind keine AVV sondern eigene Verantwortliche.
-- **Standardvertrag**: Hugo bietet einen mustergültigen AVV-Vertrag zum Herunterladen, den du Anbietern schicken kannst falls sie keinen eigenen haben.
+- **Standardvertrag**: Hugo bietet einen mustergültigen AVV-Vertrag zum Herunterladen, den Sie Anbietern schicken kannst falls sie keinen eigenen haben.

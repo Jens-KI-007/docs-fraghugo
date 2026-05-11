@@ -10,7 +10,7 @@ Schulen ist eins. Testen ist ein anderes Niveau: Echte (harmlose) Phishing-Mails
 ## So funktioniert's
 
 1. **Kampagne anlegen** — Auswahl aus 30+ Vorlagen ("Microsoft-Login abgelaufen", "Paket-Lieferung", "Geschäftsführer fordert Überweisung", "HR — neue Dienstanweisung", ...).
-2. **Anpassen** — Hugo passt die Mail an deine Firma an (Logo, Firmenname, Mitarbeiter-Namen werden eingebaut für Spear-Phishing-Realität).
+2. **Anpassen** — Hugo passt die Mail an Ihre Firma an (Logo, Firmenname, Mitarbeiter-Namen werden eingebaut für Spear-Phishing-Realität).
 3. **Empfänger wählen** — alle / Abteilung / einzelne
 4. **Zeitfenster** — von wann bis wann gehen die Mails raus (verteilt über mehrere Tage = realistisch)
 5. **Starten** — Mails gehen raus
@@ -42,7 +42,7 @@ Statt zu echtem Phishing: Mitarbeiter landet auf einer Lern-Seite mit:
 
 ## Compliance-Wert
 
-NIS2 + ISO 27001 erwarten Phishing-Simulation als Awareness-Maßnahme. Du dokumentierst:
+NIS2 + ISO 27001 erwarten Phishing-Simulation als Awareness-Maßnahme. Sie dokumentieren:
 - Häufigkeit der Kampagnen
 - Aggregierte Trefferquote
 - Folgemaßnahmen

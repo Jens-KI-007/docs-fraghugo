@@ -5,7 +5,7 @@ description: Aufbewahrungs- und Löschfristen für alle Datenkategorien — wann
 
 ![Löschkonzept mit Fristen pro Datenkategorie](/screenshots/datenschutz/loeschkonzept.png)
 
-Daten dürfen nicht ewig liegen bleiben (Art. 5 Abs. 1 e DSGVO: Speicherbegrenzung). Im Löschkonzept legst du fest: Welche Daten löscht ihr wann.
+Daten dürfen nicht ewig liegen bleiben (Art. 5 Abs. 1 e DSGVO: Speicherbegrenzung). Im Löschkonzept legen Sie fest: Welche Daten löschen Sie wann.
 
 ## Wie es aufgebaut ist
 
@@ -21,11 +21,11 @@ Die Tabelle hat eine Zeile pro **Datenkategorie**:
 
 ## Hugo's Vorschlagsliste
 
-Klick "Aus Vorlage befüllen". Hugo schlägt rund **80 Standard-Datenkategorien** vor mit korrekten Fristen aus HGB, AO, AGG, BetrVG, BDSG. Du musst nur die für dich relevanten ankreuzen und bei manchen die Methode anpassen.
+Klicken Sie "Aus Vorlage befüllen". Hugo schlägt rund **80 Standard-Datenkategorien** vor mit korrekten Fristen aus HGB, AO, AGG, BetrVG, BDSG. Sie müssen nur die für Sie relevanten ankreuzen und bei manchen die Methode anpassen.
 
 ## Automatische Lösch-Erinnerung
 
-Du kannst pro Eintrag aktivieren: **"Mich erinnern wenn fällig"**. Dann bekommst du z.B. "10 Bewerbungen sind seit über 6 Monaten gespeichert, jetzt löschen?".
+Sie können pro Eintrag aktivieren: **"Mich erinnern wenn fällig"**. Dann bekommen Sie z.B. "10 Bewerbungen sind seit über 6 Monaten gespeichert, jetzt löschen?".
 
 ## Beispiele
 

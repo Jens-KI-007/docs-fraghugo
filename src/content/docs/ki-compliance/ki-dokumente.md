@@ -5,7 +5,7 @@ description: Pflicht-Dokumentation für Hochrisiko-KI — Konformitätsbewertung
 
 ![KI-Dokumente Übersicht](/screenshots/ki-compliance/ki-dokumente.png)
 
-Für **Hochrisiko-KI** musst du eine umfangreiche technische Dokumentation führen. Hier verwaltest du die.
+Für **Hochrisiko-KI** müssen Sie eine umfangreiche technische Dokumentation führen. Hier verwalten Sie die.
 
 ## Pflicht-Dokumente (AI Act Anhang IV)
 
@@ -26,21 +26,21 @@ Hugo zeigt eine Checkliste mit allen 10 Pflicht-Bausteinen, Status (vorhanden / 
 
 ## Vorlagen
 
-Pro Baustein gibt's Hugo-Vorlagen mit Mustertexten — du musst sie nur an deine konkrete KI anpassen. Spart wochenlange Compliance-Schreiberei.
+Pro Baustein gibt's Hugo-Vorlagen mit Mustertexten — Sie müssen sie nur an Ihre konkrete KI anpassen. Spart wochenlange Compliance-Schreiberei.
 
 ## Externe Dokumente
 
-Manche Dokumente kommen vom Anbieter (z.B. OpenAI bei GPT-4, Anthropic bei Claude). Du lädst sie hoch + ergänzt firmenspezifische Anteile.
+Manche Dokumente kommen vom Anbieter (z.B. OpenAI bei GPT-4, Anthropic bei Claude). Sie laden sie hoch + ergänzt firmenspezifische Anteile.
 
 ## Konformitäts-Erklärung
 
-Für jede Hochrisiko-KI musst du **vor In-Betrieb-Nahme** eine **Konformitätserklärung** abgeben. Hugo erzeugt das offizielle PDF mit allen Pflicht-Inhalten.
+Für jede Hochrisiko-KI müssen Sie **vor In-Betrieb-Nahme** eine **Konformitätserklärung** abgeben. Hugo erzeugt das offizielle PDF mit allen Pflicht-Inhalten.
 
 ## EU-Datenbank-Anmeldung
 
-Hochrisiko-KI muss in der **EU-AI-Datenbank** registriert werden. Hugo zeigt dir das Eingabe-Mapping (welcher Wert wo eingegeben werden muss).
+Hochrisiko-KI muss in der **EU-AI-Datenbank** registriert werden. Hugo zeigt Ihnen das Eingabe-Mapping (welcher Wert wo eingegeben werden muss).
 
 ## Tipps
 
 - **Erstmal nur für Hochrisiko machen** — bei begrenztem Risiko reichen Transparenz-Maßnahmen, vollständige Doku ist überdimensioniert.
-- **Anbieter-Verträge prüfen** — Lieferanten von Hochrisiko-KI sind verpflichtet, dir Doku zu liefern. Wenn nicht, fordere ein.
+- **Anbieter-Verträge prüfen** — Lieferanten von Hochrisiko-KI sind verpflichtet, Ihnen Doku zu liefern. Wenn nicht, fordern Sie ein.

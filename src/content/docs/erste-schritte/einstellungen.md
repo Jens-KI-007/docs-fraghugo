@@ -5,12 +5,12 @@ description: Profil, Passwort, Firmendaten, Benachrichtigungen, Branding. Alles 
 
 ![Einstellungen-Seite](/screenshots/erste-schritte/settings.png)
 
-Unter **Einstellungen** (oben rechts unter deinem Avatar) findest du alles, was du nicht täglich brauchst.
+Unter **Einstellungen** (oben rechts unter Ihrem Avatar) findest Sie alles, was Sie nicht täglich brauchst.
 
 ## Profil
 
 - Name, E-Mail, Foto, Position, Telefon. Diese Daten erscheinen z.B. in Datenpannen-Meldungen an die Behörde als "Kontaktperson".
-- **Passwort ändern** — direkter Reset, du brauchst dein altes Passwort.
+- **Passwort ändern** — direkter Reset, Sie brauchen Ihr altes Passwort.
 
 ## Firmendaten
 
@@ -29,7 +29,7 @@ Standardmäßig sind alle kritischen Events aktiv (Datenpanne, abgelaufene Schul
 
 ## Mandanten verwalten
 
-Wenn du mehrere Firmen betreust (DSB-Modell), siehst du hier alle. Du kannst hinzufügen, umbenennen, löschen.
+Wenn Sie mehrere Firmen betreuen (DSB-Modell), sehen Sie hier alle. Sie können hinzufügen, umbenennen, löschen.
 
 ## Abrechnung
 

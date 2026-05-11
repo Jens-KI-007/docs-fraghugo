@@ -13,7 +13,7 @@ description: Browser-Support, App, Sprache, Single-Sign-On, Browser-Performance.
 
 ## Gibt's eine native App?
 
-Nein — die Plattform ist eine **Progressive Web App (PWA)**. Du kannst sie aber auf dem Home-Screen deines Smartphones speichern und sie verhält sich wie eine App.
+Nein — die Plattform ist eine **Progressive Web App (PWA)**. Sie können sie aber auf dem Home-Screen Ihres Smartphones speichern und sie verhält sich wie eine App.
 
 ## Single-Sign-On (SSO) mit Microsoft / Google?
 
@@ -35,7 +35,7 @@ Aktuell:
 - **Suche**: Echtzeit, < 100 ms
 - **Bei Hetzner-Hosting** (Frankfurt) — kurze Wege für DACH-User.
 
-Wenn's bei dir langsam ist: 1) Netzwerk testen 2) Browser-Cache leeren 3) Console-Errors prüfen (F12) → uns melden.
+Wenn's bei Ihnen langsam ist: 1) Netzwerk testen 2) Browser-Cache leeren 3) Console-Errors prüfen (F12) → uns melden.
 
 ## API verfügbar?
 

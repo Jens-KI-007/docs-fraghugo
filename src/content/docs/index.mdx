@@ -1,60 +1,389 @@
 ---
-title: frag.hugo — Hilfe-Center
-description: Anleitungen für alle Bereiche der frag.hugo Plattform — Datenschutz, Website-Sicherheit, NIS2, Lieferkette, KI-Compliance, Schulungen.
+title: "frag.hugo Hilfe-Center"
+description: "Eine Plattform für Datenschutz, IT-Sicherheit, NIS2, Lieferkette, KI-Compliance und Schulungen — alle Anleitungen, mit echten Screenshots, geschrieben von Menschen, die das täglich machen."
 template: splash
-hero:
-  tagline: Wie bediene ich die Plattform? Kurze, klare Anleitungen zu jedem Bereich, mit echten Screenshots.
-  actions:
-    - text: Erste Schritte
-      link: /erste-schritte/dashboard/
-      icon: right-arrow
-      variant: primary
-    - text: Direkt zur App
-      link: https://app.fraghugo.de
-      icon: external
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Image } from 'astro:assets';
 
-## Wo willst du hin?
+export const totalGuides = 70;
 
-<CardGrid>
-  <Card title="Datenschutz" icon="document">
-    VVT, AVV, TOMs, Löschkonzept, DSFA, Datenschutzerklärung — alles was Art. 30 verlangt.
-    [→ Datenschutz](/datenschutz/uebersicht/)
-  </Card>
-  <Card title="Vorfälle & Anfragen" icon="warning">
-    Datenpanne in 72 h melden, Betroffenenanfragen beantworten, Hinweisgeber.
-    [→ Vorfälle](/vorfaelle/uebersicht/)
-  </Card>
-  <Card title="Website & IT-Sicherheit" icon="laptop">
-    DSGVO-Scan deiner Website, Monitoring, Konkurrenzvergleich, Agentur-Bulk-Scan.
-    [→ Website-Check](/website-it-sicherheit/uebersicht/)
-  </Card>
-  <Card title="Lieferkette" icon="setting">
-    Self-Assessment als Lieferant, Zulieferer-Dashboard als Auftraggeber.
-    [→ Lieferkette](/lieferkette/uebersicht/)
-  </Card>
-  <Card title="ISMS & NIS2" icon="rocket">
-    Asset-Register, Risiko-Matrix, Maßnahmen, BSI-Registrierung, GF-Schulung §38.
-    [→ ISMS / NIS2](/isms-nis2/uebersicht/)
-  </Card>
-  <Card title="KI-Compliance" icon="seti:happenings">
-    KI-Register nach AI Act, Risiko-Klassifizierung, Hochrisiko-Doku.
-    [→ KI-Compliance](/ki-compliance/uebersicht/)
-  </Card>
-  <Card title="Schulungen" icon="open-book">
-    Hugo Learn, Phishing-Simulation, monatliche KI-Lektionen, M365-Auto-Sync.
-    [→ Schulungen](/schulungen/uebersicht/)
-  </Card>
-  <Card title="Beratung & Add-Ons" icon="puzzle">
-    Beratungsstunden-Kontingent, Reifegrad-Check, Stundenpakete kaufen.
-    [→ Beratung](/beratung/uebersicht/)
-  </Card>
-</CardGrid>
+<section class="fh-hero">
+  <div class="fh-hero-text">
+    <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Hilfe, die wirklich hilft · {totalGuides} Anleitungen</span>
+    <h1 class="fh-hero-title">
+      <span>Datenschutz.</span>
+      <span>Verständlich.</span>
+      <span class="accent">Erklärt.</span>
+    </h1>
+    <p class="fh-hero-tagline">
+      Alles, was Sie über die frag.hugo Plattform wissen müssen — Datenschutz, Website-Sicherheit, NIS2, Lieferkette, KI-Compliance und Schulungen in einer App. {totalGuides} Anleitungen, Schritt für Schritt, mit echten Screenshots, ohne Marketing-Sprech.
+    </p>
+    <div class="fh-hero-actions">
+      <a href="/erste-schritte/uebersicht/" class="fh-pill fh-pill--amber">
+        <span class="fh-pill-label">Erste Schritte</span>
+        <svg class="fh-pill-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+      <a href="https://meet.brevo.com/fraghugo/intro" class="fh-pill fh-pill--teal" target="_blank" rel="noopener">
+        <svg class="fh-pill-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+        <span class="fh-pill-label">15 Min mit Nils</span>
+      </a>
+    </div>
+  </div>
+  <div class="fh-hero-portrait">
+    <div class="fh-hero-portrait-frame">
+      <img src="/team/nils-oehmichen.webp" alt="Nils Oehmichen, Datenschutzberater und Mitgründer von frag.hugo" loading="eager" width="480" height="480" />
+      <div class="fh-hero-portrait-quote">
+        <span class="fh-quote-mark">„</span>
+        <p>Wir machen Datenschutz für deutsche KMU, weil wir es selbst täglich brauchen. Hier finden Sie genau das, was wir intern auch nutzen.</p>
+        <footer>
+          <strong>Nils Oehmichen</strong><br />
+          <span>Datenschutzberater · Mitgründer frag.hugo</span>
+        </footer>
+      </div>
+    </div>
+  </div>
+</section>
 
-## Du brauchst Hilfe?
+<section class="fh-section">
+  <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Wer sind Sie?</span>
+  <h2>Sechs Wege durchs <span class="accent">Hilfe-Center</span>.</h2>
+  <p class="lead">Wählen Sie den Weg, der zu Ihrer Situation passt — wir bringen Sie direkt zu den richtigen Anleitungen.</p>
+</section>
 
-- **In der App:** Klick auf das **?**-Symbol oben rechts auf jeder Seite — du landest direkt auf der passenden Doku-Seite.
-- **Persönlich:** [Erstgespräch buchen](https://fraghugo.de/beratung/) oder Mail an [hugo@fraghugo.de](mailto:hugo@fraghugo.de).
-- **Status:** [status.fraghugo.de](https://status.fraghugo.de) (geplante Wartungen, Störungen).
+<div class="persona-grid">
+  <a href="/erste-schritte/uebersicht/" class="persona-card persona-card--gf">
+    <div class="persona-card__icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M20 21a8 8 0 1 0-16 0"/></svg>
+    </div>
+    <div class="persona-card__body">
+      <span class="persona-card__role">Geschäftsführer</span>
+      <h3 class="persona-card__title">Ich prüfe, ob frag.hugo zu mir passt</h3>
+      <p class="persona-card__desc">Für GF kleiner und mittlerer Unternehmen, die einen externen DSB suchen oder ihre Compliance ordnen wollen.</p>
+      <span class="persona-card__cta">Übersicht öffnen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+
+  <a href="/erste-schritte/dashboard/" class="persona-card persona-card--neukunde">
+    <div class="persona-card__icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+    </div>
+    <div class="persona-card__body">
+      <span class="persona-card__role">Neukunde</span>
+      <h3 class="persona-card__title">Ich habe gebucht und richte ein</h3>
+      <p class="persona-card__desc">Tag 1 als Kunde — VVT anlegen, Mitarbeiter einladen, Schulungen starten. Der geführte Weg vom Dashboard aus.</p>
+      <span class="persona-card__cta">Loslegen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+
+  <a href="/isms-nis2/uebersicht/" class="persona-card persona-card--nis2">
+    <div class="persona-card__icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+    </div>
+    <div class="persona-card__body">
+      <span class="persona-card__role">NIS2-Beauftragter</span>
+      <h3 class="persona-card__title">Ich muss NIS2 umsetzen</h3>
+      <p class="persona-card__desc">Betroffenheit, BSI-Registrierung, ISMS, GF-Schulung, 24-h-Vorfall-Meldung — die NIS2-Roadmap in zehn Anleitungen.</p>
+      <span class="persona-card__cta">NIS2-Sektion<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+
+  <a href="/fuer-mitarbeiter/uebersicht/" class="persona-card persona-card--mitarbeiter">
+    <div class="persona-card__icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>
+    </div>
+    <div class="persona-card__body">
+      <span class="persona-card__role">Mitarbeiter</span>
+      <h3 class="persona-card__title">Mein Chef hat mich eingeladen</h3>
+      <p class="persona-card__desc">Datenschutz-Schulung in 15 Minuten. Quiz bestehen, Zertifikat herunterladen, fertig.</p>
+      <span class="persona-card__cta">Schulung machen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+
+  <a href="/lieferkette/self-assessment/" class="persona-card persona-card--zulieferer">
+    <div class="persona-card__icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 3h5v5"/><path d="M8 3H3v5"/><path d="M3 16v5h5"/><path d="M16 21h5v-5"/><circle cx="12" cy="12" r="3"/></svg>
+    </div>
+    <div class="persona-card__body">
+      <span class="persona-card__role">Zulieferer</span>
+      <h3 class="persona-card__title">Ich wurde zum Assessment eingeladen</h3>
+      <p class="persona-card__desc">Hugo Shield ist für Sie kostenlos. 50 Fragen in 30 Minuten — und so verbessern Sie Ihren Score.</p>
+      <span class="persona-card__cta">Assessment-Anleitung<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+
+  <a href="/partner/uebersicht/" class="persona-card persona-card--agentur">
+    <div class="persona-card__icon">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+    </div>
+    <div class="persona-card__body">
+      <span class="persona-card__role">IT-Systemhaus / Agentur</span>
+      <h3 class="persona-card__title">Ich empfehle frag.hugo weiter</h3>
+      <p class="persona-card__desc">Partner-Programm mit 12-Monats-Provision, DATEV-konformer Lohn-Abrechnung — und Whitelabel-Scanner für Agenturen.</p>
+      <span class="persona-card__cta">Partner werden<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+</div>
+
+<section class="fh-section">
+  <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Eine Plattform · 9 Bereiche</span>
+  <h2>Datenschutz, IT-Sicherheit, NIS2 — <span class="accent">alles in einer App</span>.</h2>
+  <p class="lead">Bis April 2026 waren das drei separate Tools (Hugo Check, Hugo DSB, Hugo Shield). Seit der Konsolidierung ist es eine Plattform mit thematischen Bereichen — gleicher Login, gleiche Daten, kein Hin-und-Her.</p>
+</section>
+
+<div class="hp-cards">
+  <a href="/datenschutz/uebersicht/" class="hp-card hp-card--dsb">
+    <div class="hp-card-visual hp-card-visual--image">
+      <img src="/screenshots/datenschutz/vvt.png" alt="Datenschutz-Bereich der frag.hugo Plattform" loading="lazy" />
+      <div class="hp-card-visual__overlay"></div>
+    </div>
+    <div class="hp-card-info">
+      <span class="hp-badge hp-badge--amber">Kernbereich</span>
+      <h3 class="hp-card-name">Datenschutz</h3>
+      <p class="hp-card-desc">VVT, AVV, TOMs, DSE-Generator, Löschkonzept, DSFA, Audits, Mein-Siegel. Die DSGVO-Pflichtmappe vollständig digital.</p>
+      <ul class="hp-card-meta">
+        <li><strong>11</strong> Anleitungen</li>
+        <li><strong>ab 79 €</strong> /Monat</li>
+        <li><strong>Lite</strong> bis <strong>Premium</strong></li>
+      </ul>
+      <span class="hp-card-cta">Anleitungen lesen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+
+  <a href="/website-it-sicherheit/uebersicht/" class="hp-card hp-card--check">
+    <div class="hp-card-visual hp-card-visual--image">
+      <img src="/screenshots/website-it-sicherheit/neuer-scan.png" alt="Website-Scanner in der frag.hugo Plattform" loading="lazy" />
+      <div class="hp-card-visual__overlay"></div>
+    </div>
+    <div class="hp-card-info">
+      <span class="hp-badge hp-badge--teal">Kostenlos testbar</span>
+      <h3 class="hp-card-name">Website & IT-Sicherheit</h3>
+      <p class="hp-card-desc">29 DSGVO-Prüfpunkte in 60 Sekunden. Score, KI-Analyse, Monitoring, Konkurrenzvergleich, Agentur-Bulk-Scan.</p>
+      <ul class="hp-card-meta">
+        <li><strong>8</strong> Anleitungen</li>
+        <li><strong>0–99 €</strong> /Monat</li>
+        <li><strong>60 Sek</strong> bis zum Score</li>
+      </ul>
+      <span class="hp-card-cta">Anleitungen lesen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+
+  <a href="/lieferkette/uebersicht/" class="hp-card hp-card--shield">
+    <div class="hp-card-visual hp-card-visual--image">
+      <img src="/screenshots/lieferkette/dashboard.png" alt="Lieferketten-Dashboard in der frag.hugo Plattform" loading="lazy" />
+      <div class="hp-card-visual__overlay"></div>
+    </div>
+    <div class="hp-card-info">
+      <span class="hp-badge hp-badge--green">NIS2-Pflicht</span>
+      <h3 class="hp-card-name">Lieferkette</h3>
+      <p class="hp-card-desc">Self-Assessment als Lieferant, Zulieferer-Verwaltung als Auftraggeber. 50 Standardfragen + Custom-Fragebogen.</p>
+      <ul class="hp-card-meta">
+        <li><strong>7</strong> Anleitungen</li>
+        <li><strong>0–499 €</strong> /Monat</li>
+        <li><strong>50 Fragen</strong> Assessment</li>
+      </ul>
+      <span class="hp-card-cta">Anleitungen lesen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+    </div>
+  </a>
+</div>
+
+<div class="bereich-grid">
+  <a href="/vorfaelle/uebersicht/" class="bereich-card">
+    <span class="bereich-card__title">Vorfälle & Anfragen</span>
+    <span class="bereich-card__desc">Datenpannen, DSAR, Hinweisgeber — mit harten Fristen</span>
+    <span class="bereich-card__count">4 Anleitungen</span>
+  </a>
+  <a href="/isms-nis2/uebersicht/" class="bereich-card">
+    <span class="bereich-card__title">ISMS & NIS2</span>
+    <span class="bereich-card__desc">Asset-Register, Risiko-Matrix, BSI-Registrierung, GF-Schulung</span>
+    <span class="bereich-card__count">11 Anleitungen</span>
+  </a>
+  <a href="/ki-compliance/uebersicht/" class="bereich-card">
+    <span class="bereich-card__title">KI-Compliance</span>
+    <span class="bereich-card__desc">AI Act, KI-Register, Risiko-Klassifizierung</span>
+    <span class="bereich-card__count">4 Anleitungen</span>
+  </a>
+  <a href="/schulungen/uebersicht/" class="bereich-card">
+    <span class="bereich-card__title">Schulungen</span>
+    <span class="bereich-card__desc">Hugo Learn, Phishing-Simulation, M365-Integration</span>
+    <span class="bereich-card__count">6 Anleitungen</span>
+  </a>
+  <a href="/beratung/uebersicht/" class="bereich-card">
+    <span class="bereich-card__title">Beratung & Add-Ons</span>
+    <span class="bereich-card__desc">Stunden-Kontingent, Service-Pakete, Reifegrad-Check</span>
+    <span class="bereich-card__count">3 Anleitungen</span>
+  </a>
+  <a href="/partner/uebersicht/" class="bereich-card">
+    <span class="bereich-card__title">Partner-Programm</span>
+    <span class="bereich-card__desc">IT-Systemhäuser, Empfehlungs-Provision, Kunden-Registrierung</span>
+    <span class="bereich-card__count">3 Anleitungen</span>
+  </a>
+</div>
+
+<section class="fh-section">
+  <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>NIS2-Compliance</span>
+  <h2>Sind Sie NIS2-pflichtig? <span class="accent">Hier ist der Fahrplan.</span></h2>
+  <p class="lead">Vier Anleitungen in der richtigen Reihenfolge. Vom Betroffenheitscheck bis zur GF-Schulung — die meisten Geschäftsführer schaffen alle vier Schritte an einem Vormittag.</p>
+</section>
+
+<ol class="nis2-roadmap">
+  <li class="nis2-step">
+    <div class="nis2-step__num">01</div>
+    <div class="nis2-step__body">
+      <a href="/isms-nis2/uebersicht/">
+        <h3>Bin ich überhaupt betroffen?</h3>
+        <p>3 Klicks im NIS2-Quick-Check. Kostenlos, ohne Account.</p>
+        <span class="nis2-step__meta">4 Min · ISMS-Übersicht</span>
+      </a>
+    </div>
+  </li>
+  <li class="nis2-step">
+    <div class="nis2-step__num">02</div>
+    <div class="nis2-step__body">
+      <a href="/isms-nis2/bsi-registrierung/">
+        <h3>BSI-Registrierung erledigen</h3>
+        <p>Schritt für Schritt durch das BSI-Portal. Auch wenn die Frist abgelaufen ist.</p>
+        <span class="nis2-step__meta">7 Min · NIS2-Pflicht</span>
+      </a>
+    </div>
+  </li>
+  <li class="nis2-step">
+    <div class="nis2-step__num">03</div>
+    <div class="nis2-step__body">
+      <a href="/isms-nis2/gf-schulung/">
+        <h3>GF-Schulung nach §38 BSIG</h3>
+        <p>Persönliche Pflicht für die Geschäftsführung. 5 Module à 30–45 Minuten, nicht delegierbar.</p>
+        <span class="nis2-step__meta">4 Min · Persönlich pflichtig</span>
+      </a>
+    </div>
+  </li>
+  <li class="nis2-step">
+    <div class="nis2-step__num">04</div>
+    <div class="nis2-step__body">
+      <a href="/isms-nis2/nis2-vorfaelle/">
+        <h3>Vorfall in 24 Stunden melden</h3>
+        <p>Drei-Stufen-Modell: 24h Erstmeldung, 72h Update, 1 Monat Abschlussbericht.</p>
+        <span class="nis2-step__meta">6 Min · Notfall-Plan</span>
+      </a>
+    </div>
+  </li>
+</ol>
+
+<section class="fh-section">
+  <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Häufig gesucht</span>
+  <h2>Die <span class="accent">Top 6</span> aus dem Hilfe-Center.</h2>
+  <p class="lead">Das sind die Anleitungen, die unsere Kunden am häufigsten öffnen — die Klassiker.</p>
+</section>
+
+<div class="topic-strip">
+  <a href="/datenschutz/vvt/">
+    <div class="topic-strip__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3v4a1 1 0 0 0 1 1h4"/><path d="M17 21H7a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h7l5 5v11a2 2 0 0 1-2 2z"/></svg></div>
+    <div class="topic-strip__body">
+      <span class="topic-strip__title">Verarbeitungsverzeichnis (VVT) anlegen</span>
+      <span class="topic-strip__meta">6 Min · Pflicht nach Art. 30 DSGVO</span>
+    </div>
+    <span class="topic-strip__arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+
+  <a href="/vorfaelle/datenpannen/">
+    <div class="topic-strip__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></div>
+    <div class="topic-strip__body">
+      <span class="topic-strip__title">Datenpanne in 72 Stunden melden</span>
+      <span class="topic-strip__meta">7 Min · Was Sie sofort tun</span>
+    </div>
+    <span class="topic-strip__arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+
+  <a href="/datenschutz/avv/">
+    <div class="topic-strip__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8v13H3V8"/><path d="M1 3h22v5H1z"/><path d="M10 12h4"/></svg></div>
+    <div class="topic-strip__body">
+      <span class="topic-strip__title">AVVs für DATEV, Microsoft & Co.</span>
+      <span class="topic-strip__meta">5 Min · Art. 28 DSGVO</span>
+    </div>
+    <span class="topic-strip__arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+
+  <a href="/schulungen/mitarbeiter/">
+    <div class="topic-strip__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 11h-6"/><path d="M19 8v6"/></svg></div>
+    <div class="topic-strip__body">
+      <span class="topic-strip__title">Mitarbeiter einladen & schulen</span>
+      <span class="topic-strip__meta">3 Min · Per CSV oder Microsoft 365</span>
+    </div>
+    <span class="topic-strip__arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+
+  <a href="/datenschutz/dse/">
+    <div class="topic-strip__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="M9 13h6M9 17h6"/></svg></div>
+    <div class="topic-strip__body">
+      <span class="topic-strip__title">Datenschutzerklärung in 15 Min generieren</span>
+      <span class="topic-strip__meta">5 Min · Wizard-basiert</span>
+    </div>
+    <span class="topic-strip__arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+
+  <a href="/erste-schritte/upgrade/">
+    <div class="topic-strip__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" x2="12" y1="2" y2="22"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg></div>
+    <div class="topic-strip__body">
+      <span class="topic-strip__title">Tarife & Preise im Überblick</span>
+      <span class="topic-strip__meta">5 Min · Lite bis Premium</span>
+    </div>
+    <span class="topic-strip__arrow"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+</div>
+
+<section class="fh-section">
+  <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Für Mitarbeiter</span>
+  <h2>Schulung machen. <span class="accent">15 Minuten.</span> Fertig.</h2>
+  <p class="lead">Ihr Chef hat Sie eingeladen? Diese drei Anleitungen zeigen Ihnen alles, was Sie wissen müssen — verständlich, ohne Juristendeutsch.</p>
+</section>
+
+<div class="employee-cards">
+  <a href="/fuer-mitarbeiter/schulung-machen/" class="employee-card">
+    <div class="employee-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></div>
+    <h3 class="employee-card__title">Schulung machen</h3>
+    <p class="employee-card__desc">Wie der Login funktioniert, was Sie erwartet, wie Sie pausieren können — alles in 3 Minuten erklärt.</p>
+    <span class="employee-card__cta">Anleitung öffnen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+
+  <a href="/fuer-mitarbeiter/quiz-bestehen/" class="employee-card">
+    <div class="employee-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m9 12 2 2 4-4"/></svg></div>
+    <h3 class="employee-card__title">Quiz bestehen</h3>
+    <p class="employee-card__desc">80 % richtig = bestanden. Mit unseren Tipps schaffen Sie es beim ersten Versuch.</p>
+    <span class="employee-card__cta">Tipps lesen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+
+  <a href="/fuer-mitarbeiter/datenpanne-melden/" class="employee-card">
+    <div class="employee-card__icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><path d="M12 9v4"/><path d="M12 17h.01"/></svg></div>
+    <h3 class="employee-card__title">Datenpanne melden</h3>
+    <p class="employee-card__desc">Mail an den falschen Empfänger? USB-Stick weg? So reagieren Sie in den ersten 60 Minuten.</p>
+    <span class="employee-card__cta">Anleitung öffnen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
+  </a>
+</div>
+
+<div class="landing-cta">
+  <div class="landing-cta__content">
+    <span class="landing-cta__eyebrow"><span class="fh-eyebrow-line"></span>Persönliche Beratung</span>
+    <h2>Lieber kurz mit jemandem sprechen?</h2>
+    <p>15 Minuten mit Nils Oehmichen oder Jens Hagel. Datenschutzberater und Techniker, in Hamburg. Kein Vertrieb, keine Powerpoint — nur ehrliche Antworten auf Ihre konkreten Fragen.</p>
+    <div class="landing-cta__buttons">
+      <a href="https://meet.brevo.com/fraghugo/intro" class="cta-button cta-button--primary" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+        <span>Erstgespräch buchen</span>
+        <span class="cta-button__meta">15 Min · gratis</span>
+      </a>
+      <a href="https://www.fraghugo.de" class="cta-button cta-button--secondary">
+        <span>Zur Hauptseite</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+    <small style="display:block;margin-top:0.5rem;opacity:0.6;">Lieber erstmal schreiben? <a href="https://www.fraghugo.de/kontakt/#formular">Kontaktformular →</a></small>
+  </div>
+  <div class="landing-cta__photo">
+    <img src="/team/team-nils-jens.webp" alt="Nils Oehmichen und Jens Hagel — die Gründer von frag.hugo aus Hamburg" loading="lazy" />
+    <div class="landing-cta__nameplate" aria-hidden="true">
+      <span class="landing-cta__name"><span class="landing-cta__role">Datenschutz</span>Nils Oehmichen</span>
+      <span class="landing-cta__name"><span class="landing-cta__role">Technik</span>Jens Hagel</span>
+    </div>
+  </div>
+</div>
+

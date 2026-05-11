@@ -5,18 +5,18 @@ description: Mitarbeiter anlegen, Kurse zuweisen, einladen, Status verfolgen.
 
 ![Mitarbeiter-Liste mit Aktionen](/screenshots/schulungen/mitarbeiter.png)
 
-Hier verwaltest du deine Mitarbeiter-Liste — wer existiert, welche Kurse sind ihm zugewiesen, wer hat schon eingeladen werden müssen.
+Hier verwalten Sie Ihre Mitarbeiter-Liste — wer existiert, welche Kurse sind ihm zugewiesen, wer hat schon eingeladen werden müssen.
 
 ## Mitarbeiter anlegen
 
 ### Einzeln
-Klick "+ Mitarbeiter". Du gibst Name, Mail, Abteilung, Position ein.
+Klicken Sie "+ Mitarbeiter". Sie geben Name, Mail, Abteilung, Position ein.
 
 ### Massen-Import
 CSV hochladen mit Spalten: Name, Mail, Abteilung, Position. Hugo legt alle an.
 
 ### Über M365-Sync
-Wenn du die [M365-Integration](/schulungen/m365-integration/) aktivierst, werden Mitarbeiter automatisch synchronisiert.
+Wenn Sie die [M365-Integration](/schulungen/m365-integration/) aktivieren, werden Mitarbeiter automatisch synchronisiert.
 
 ## Einladen
 
@@ -27,10 +27,10 @@ Pro Mitarbeiter: "Einladen" → er bekommt Mail mit Link zur Plattform. Erstes L
 ## Kurse zuweisen
 
 ### Einzelne Zuweisung
-Klick auf Mitarbeiter → "Kurs zuweisen" → wählst Kurs + Frist.
+Klicken Sie auf Mitarbeiter → "Kurs zuweisen" → wählen Kurs + Frist.
 
 ### Pflicht-Zuweisung
-In den [Einstellungen → Schulungen](/erste-schritte/einstellungen/) definierst du: "Alle Mitarbeiter müssen Kurs X im 1. Quartal absolvieren". Hugo weist automatisch zu.
+In den [Einstellungen → Schulungen](/erste-schritte/einstellungen/) definieren Sie: "Alle Mitarbeiter müssen Kurs X im 1. Quartal absolvieren". Hugo weist automatisch zu.
 
 ### Rollen-basiert
 "Alle in Abteilung 'HR' bekommen Bewerber-Datenschutz-Kurs" — Regel in den Einstellungen.

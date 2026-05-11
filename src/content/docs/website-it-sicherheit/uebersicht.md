@@ -1,16 +1,16 @@
 ---
 title: Website & IT-Sicherheit — Übersicht
-description: DSGVO-Scanner, Monitoring, Konkurrenz-Vergleich, Bulk-Scan für Agenturen — alles um deine Website rechtssicher zu machen.
+description: DSGVO-Scanner, Monitoring, Konkurrenz-Vergleich, Bulk-Scan für Agenturen — alles um Ihre Website rechtssicher zu machen.
 ---
 
-Deine Website ist die häufigste Angriffsfläche für Aufsichtsbehörden und Abmahn-Anwälte. Hier prüfst du sie regelmäßig und zeigst Verbesserungen.
+Ihre Website ist die häufigste Angriffsfläche für Aufsichtsbehörden und Abmahn-Anwälte. Hier prüfen Sie sie regelmäßig und zeigen Verbesserungen.
 
 ## Was wohin?
 
 | Funktion | Wofür |
 |---|---|
 | [Neuer Scan](/website-it-sicherheit/neuer-scan/) | Einzelne Website prüfen (29 DSGVO-Checks) |
-| [Scan-Übersicht](/website-it-sicherheit/scan-uebersicht/) | Alle deine Scans, Status, Verbesserungen |
+| [Scan-Übersicht](/website-it-sicherheit/scan-uebersicht/) | Alle Ihre Scans, Status, Verbesserungen |
 | [Monitoring](/website-it-sicherheit/monitoring/) | Automatischer Re-Scan in Intervallen |
 | [Agentur-Bereich](/website-it-sicherheit/agentur-bereich/) | Kunden-Verwaltung für Agenturen + Whitelabel |
 | [Bulk-Scan](/website-it-sicherheit/bulk-scan/) | Mehrere Websites parallel scannen |

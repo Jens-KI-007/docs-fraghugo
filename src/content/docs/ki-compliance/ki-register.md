@@ -1,11 +1,11 @@
 ---
 title: KI-Register
-description: Inventar aller KI-Systeme deiner Firma — Anbieter, Zweck, Risiko-Klasse, Betroffene.
+description: Inventar aller KI-Systeme Ihrer Firma — Anbieter, Zweck, Risiko-Klasse, Betroffene.
 ---
 
 ![KI-Register Liste](/screenshots/ki-compliance/ki-register.png)
 
-Hier landen alle KI-Systeme in deiner Firma — von ChatGPT-Pro bis zur eigenen ML-Modell-Anwendung.
+Hier landen alle KI-Systeme in Ihrer Firma — von ChatGPT-Pro bis zur eigenen ML-Modell-Anwendung.
 
 ## Pro KI-System
 
@@ -21,11 +21,11 @@ Hier landen alle KI-Systeme in deiner Firma — von ChatGPT-Pro bis zur eigenen 
 
 ## Anlegen
 
-Klick "+ Neue KI". Wizard fragt durch, Hugo schlägt typische Antworten vor.
+Klicken Sie "+ Neue KI". Wizard fragt durch, Hugo schlägt typische Antworten vor.
 
 ## Auto-Vorschläge
 
-Hugo zeigt **typische KI-Systeme** vor, die du wahrscheinlich nutzt (basierend auf deinem VVT, AVV, M365-Sync):
+Hugo zeigt **typische KI-Systeme** vor, die Sie wahrscheinlich nutzen (basierend auf Ihrem VVT, AVV, M365-Sync):
 - ChatGPT/Copilot (in den meisten Firmen)
 - Recruiter-Plattform mit AI-Filter
 - Übersetzungs-Tool DeepL
@@ -33,13 +33,13 @@ Hugo zeigt **typische KI-Systeme** vor, die du wahrscheinlich nutzt (basierend a
 - KI-gestütztes CRM (HubSpot Sales AI etc.)
 - DSB-Bot (also Hugo selbst!)
 
-Du kannst die ankreuzen, was zutrifft, und nur die übernehmen.
+Sie können die ankreuzen, was zutrifft, und nur die übernehmen.
 
 ## Verknüpfung mit VVT
 
-Jedes KI-System ist (fast immer) eine Datenverarbeitung. Du kannst pro KI auf den zugehörigen VVT-Eintrag verlinken (oder einen neuen erzeugen).
+Jedes KI-System ist (fast immer) eine Datenverarbeitung. Sie können pro KI auf den zugehörigen VVT-Eintrag verlinken (oder einen neuen erzeugen).
 
 ## Tipps
 
 - **Aktuell halten** — bei jedem neuen Tool prüfen, ob KI drin. Auch "klassische" Software bekommt zunehmend KI-Features (z.B. M365, Salesforce, Atlassian).
-- **Eigene KI besonders dokumentieren** — wenn ihr selbst KI entwickelt, sind die Pflichten höher (du bist Anbieter, nicht nur Betreiber).
+- **Eigene KI besonders dokumentieren** — wenn ihr selbst KI entwickelt, sind die Pflichten höher (Sie sind Anbieter, nicht nur Betreiber).

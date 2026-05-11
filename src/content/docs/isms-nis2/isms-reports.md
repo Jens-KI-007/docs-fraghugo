@@ -5,7 +5,7 @@ description: Management-Reports, Audit-Vorbereitungen, BSI-Berichte, ISO-27001-S
 
 ![ISMS-Reports Auswahl](/screenshots/isms-nis2/isms-reports.png)
 
-Aus deinen ISMS-Daten erzeugst du hier alle gängigen Berichte mit einem Klick.
+Aus Ihren ISMS-Daten erzeugst Sie hier alle gängigen Berichte mit einem Klicken Sie.
 
 ## Verfügbare Reports
 
@@ -31,7 +31,7 @@ Aus deinen ISMS-Daten erzeugst du hier alle gängigen Berichte mit einem Klick.
 - Verantwortlichkeit-Heatmap (wer hat viele überfällige)
 
 ### Audit-Bereit-Bericht
-- Wenn dein ISO-27001-Audit ansteht: Komplett-Dokumentation aller Bausteine als Anhang-Sammlung
+- Wenn Ihr ISO-27001-Audit ansteht: Komplett-Dokumentation aller Bausteine als Anhang-Sammlung
 
 ### BSI-Bericht
 - Spezial-Format für BSI-Nachfragen
@@ -48,5 +48,5 @@ Hugo schickt automatisch zum eingestellten Zeitpunkt.
 
 ## Tipps
 
-- **Audit-Bereit-Bericht vor jedem externen Audit erzeugen** — du siehst Lücken bevor der Auditor sie findet.
+- **Audit-Bereit-Bericht vor jedem externen Audit erzeugen** — Sie sehen Lücken bevor der Auditor sie findet.
 - **SoA mind. jährlich aktualisieren** — pflichtbestandteil ISO 27001.

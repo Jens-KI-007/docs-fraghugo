@@ -1,13 +1,13 @@
 ---
 title: Lieferketten-Dashboard (Auftraggeber-Sicht)
-description: Alle deine Zulieferer auf einen Blick — Scores, Risiken, fällige Re-Assessments.
+description: Alle Ihre Zulieferer auf einen Blick — Scores, Risiken, fällige Re-Assessments.
 ---
 
 ![Auftraggeber-Dashboard mit Lieferanten-Liste](/screenshots/lieferkette/dashboard.png)
 
-Hier siehst du als **Auftraggeber** alle Zulieferer mit ihrem aktuellen Sicherheits-Status.
+Hier sehen Sie als **Auftraggeber** alle Zulieferer mit ihrem aktuellen Sicherheits-Status.
 
-## Was du siehst
+## Was Sie sehen
 
 - **Top-Kacheln** — Anzahl Lieferanten gesamt, davon kritisch (Score < 60), davon veraltet, durchschnittlicher Score.
 - **Lieferanten-Liste** — sortierbar nach Score, letzter Aktualisierung, Risiko-Klasse.
@@ -19,14 +19,14 @@ Hier siehst du als **Auftraggeber** alle Zulieferer mit ihrem aktuellen Sicherhe
 Pro Lieferant:
 - **Score** (aus dessen Self-Assessment)
 - **Letzte Aktualisierung** (Frist abgelaufen = rot)
-- **Risiko-Klasse** — kritisch / wichtig / standard (legst du fest)
+- **Risiko-Klasse** — kritisch / wichtig / standard (legen Sie fest)
 - **Hat unsere Custom-Fragen beantwortet?** (siehe [Eigene Fragen](/lieferkette/eigene-fragen/))
 - **Zertifikate-Status** — gültig / abgelaufen
 - **Letztes Vorkommnis** — Datenpanne beim Lieferant gemeldet? Risiko-Score steigt sofort.
 
 ## Aktionen
 
-Klick auf einen Lieferanten →
+Klicken Sie auf einen Lieferanten →
 - Detail-Profil mit allen Antworten
 - Re-Assessment anfordern (Mail-Template)
 - Risiko-Klasse ändern

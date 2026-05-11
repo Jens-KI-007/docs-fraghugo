@@ -1,11 +1,11 @@
 ---
 title: Asset-Register
-description: Alle Werte, die du schützen musst — Hardware, Software, Daten, Prozesse, Menschen.
+description: Alle Werte, die Sie schützen musst — Hardware, Software, Daten, Prozesse, Menschen.
 ---
 
 ![Asset-Register Liste](/screenshots/isms-nis2/asset-register.png)
 
-Bevor du schützen kannst, musst du wissen WAS. Das Asset-Register ist die Grundlage des ganzen ISMS — alles andere baut darauf auf.
+Bevor Sie schützen kannst, müssen Sie wissen WAS. Das Asset-Register ist die Grundlage des ganzen ISMS — alles andere baut darauf auf.
 
 ## Asset-Kategorien
 
@@ -20,7 +20,7 @@ Hugo unterscheidet 6 Klassen:
 
 ## Asset anlegen
 
-Klick "+ Asset". Pro Asset gibst du an:
+Klicken Sie "+ Asset". Pro Asset geben Sie an:
 - Name
 - Klasse
 - Kategorie (innerhalb der Klasse, z.B. "Laptop" / "Server" / "VM")
@@ -31,7 +31,7 @@ Klick "+ Asset". Pro Asset gibst du an:
 
 ## Auto-Erkennung
 
-Hugo kann **Microsoft-365-Sync** machen → alle Endgeräte + Lizenzen + User werden automatisch als Assets angelegt (du musst nur einmalig OAuth-Zugriff geben). Spart Tage.
+Hugo kann **Microsoft-365-Sync** machen → alle Endgeräte + Lizenzen + User werden automatisch als Assets angelegt (Sie müssen nur einmalig OAuth-Zugriff geben). Spart Tage.
 
 Ebenfalls möglich: Cloud-Konten (AWS, Azure, GCP), Netzwerk-Scan, CMDB-Import.
 
@@ -44,5 +44,5 @@ Ebenfalls möglich: Cloud-Konten (AWS, Azure, GCP), Netzwerk-Scan, CMDB-Import.
 ## Tipps
 
 - **Nicht alles aufnehmen** — der Bürostuhl ist kein Asset im ISMS-Sinne. Faustregel: Was Sicherheitsbedeutung hat.
-- **Mit Verantwortlichen sprechen** — du als Compliance-Officer kennst nicht alle Systeme. IT-Admin, HR, Buchhaltung müssen je ihre Assets bestätigen.
+- **Mit Verantwortlichen sprechen** — Sie als Compliance-Officer kennst nicht alle Systeme. IT-Admin, HR, Buchhaltung müssen je ihre Assets bestätigen.
 - **Granularität**: "Alle Bürorechner" als ein Asset reicht — nicht jeden einzeln aufnehmen, sondern als Klasse mit Stückzahl.

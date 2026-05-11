@@ -36,10 +36,10 @@ Jeder Kurs: Video + interaktive Übung + Quiz. Bestehen mit 80 %, dann Zertifika
 
 ## Compliance-Nachweis
 
-Pro Mitarbeiter siehst du:
+Pro Mitarbeiter sehen Sie:
 - Welche Kurse absolviert
 - Wann
 - Quiz-Ergebnis
 - Zertifikat als PDF
 
-Das ist deine **Audit-Antwort**: "Alle 42 Mitarbeiter haben DSGVO-Schulung im laufenden Jahr absolviert. Hier sind die Zertifikate."
+Das ist Ihre **Audit-Antwort**: "Alle 42 Mitarbeiter haben DSGVO-Schulung im laufenden Jahr absolviert. Hier sind die Zertifikate."

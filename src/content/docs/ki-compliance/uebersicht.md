@@ -3,7 +3,7 @@ title: KI-Compliance — Übersicht
 description: AI Act umsetzen — KI-Register, Risiko-Klassifizierung, Doku-Pflichten für Hochrisiko-Systeme.
 ---
 
-Mit dem EU AI Act (vollständig anwendbar ab 2027) musst du **alle KI-Systeme in deiner Firma erfassen, klassifizieren und je nach Risiko dokumentieren**.
+Mit dem EU AI Act (vollständig anwendbar ab 2027) müssen Sie **alle KI-Systeme in Ihrer Firma erfassen, klassifizieren und je nach Risiko dokumentieren**.
 
 ## Was wohin?
 
@@ -24,11 +24,11 @@ Mit dem EU AI Act (vollständig anwendbar ab 2027) musst du **alle KI-Systeme in
 
 ## Wer ist verpflichtet?
 
-- **Anbieter** (du baust eine KI selbst)
-- **Betreiber** (du setzt eine KI ein) — auch wenn du nur ChatGPT für interne Texte nutzt, hast du bestimmte Pflichten
+- **Anbieter** (Sie bauen eine KI selbst)
+- **Betreiber** (Sie setzen eine KI ein) — auch wenn Sie nur ChatGPT für interne Texte nutzt, haben Sie bestimmte Pflichten
 
-Faustregel: Wenn KI in dein Geschäft involviert ist, fang an zu inventarisieren.
+Faustregel: Wenn KI in Ihr Geschäft involviert ist, fangen Sie an zu inventarisieren.
 
 ## Praxis-Tipp
 
-Erstmal alle KI-Systeme erfassen — nicht nur "ChatGPT". Auch Bewerber-Sortier-Software, Schufa-Anbindung, Predictive-Maintenance, automatische Übersetzung, etc. Du wirst überrascht sein wie viele du nutzt.
+Erstmal alle KI-Systeme erfassen — nicht nur "ChatGPT". Auch Bewerber-Sortier-Software, Schufa-Anbindung, Predictive-Maintenance, automatische Übersetzung, etc. Sie werden überrascht sein wie viele Sie nutzen.

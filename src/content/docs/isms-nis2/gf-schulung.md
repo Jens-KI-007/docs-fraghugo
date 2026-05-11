@@ -31,7 +31,7 @@ NIS2 + BSIG §38: **Geschäftsführer haften persönlich** für Cybersicherheit.
 
 ### Modul 5: Wie messe ich Compliance
 - KPIs, Reporting, Audits
-- Fragen, die du an den IT-Verantwortlichen stellen solltest
+- Fragen, die Sie an den IT-Verantwortlichen stellen solltest
 
 ## Format
 
@@ -41,7 +41,7 @@ NIS2 + BSIG §38: **Geschäftsführer haften persönlich** für Cybersicherheit.
 
 ## Audit-Nachweis
 
-Das Zertifikat ist **Audit-fähig** — wenn das BSI prüft "Habt ihr die GF geschult?", zeigt du den Bericht.
+Das Zertifikat ist **Audit-fähig** — wenn das BSI prüft "Habt ihr die GF geschult?", zeigt Sie den Bericht.
 
 ## Wiederholung
 

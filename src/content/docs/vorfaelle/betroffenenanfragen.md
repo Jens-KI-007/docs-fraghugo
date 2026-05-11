@@ -5,16 +5,16 @@ description: Auskunft, Berichtigung, Löschung beantworten — 1-Monats-Frist, m
 
 ![Übersicht aller Betroffenenanfragen](/screenshots/vorfaelle/dsar.png)
 
-Wenn jemand fragt "Welche Daten habt ihr von mir?" / "Bitte löscht meine Daten" — das ist eine **Datenschutz-Auskunfts-Anfrage (DSAR)** nach Art. 15-22 DSGVO. Du hast **1 Monat** zum Antworten.
+Wenn jemand fragt "Welche Daten habt ihr von mir?" / "Bitte löscht meine Daten" — das ist eine **Datenschutz-Auskunfts-Anfrage (DSAR)** nach Art. 15-22 DSGVO. Sie haben **1 Monat** zum Antworten.
 
 ## Was geht hier ein
 
 Vier Wege, wie eine DSAR auf der Plattform landet:
 
-1. **Manuell anlegen** — du bekommst eine Mail von einem Betroffenen und trägst sie hier ein.
-2. **Public-Portal** — Betroffener füllt selbst ein Formular auf deiner Website aus (siehe [Public-Portal](/vorfaelle/public-portal/)).
+1. **Manuell anlegen** — Sie bekommen eine Mail von einem Betroffenen und trägst sie hier ein.
+2. **Public-Portal** — Betroffener füllt selbst ein Formular auf Ihrer Website aus (siehe [Public-Portal](/vorfaelle/public-portal/)).
 3. **Mitarbeiter-Meldung** — interner Mitarbeiter erfasst über das Mitarbeiter-Portal.
-4. **API** — z.B. aus deinem CRM, wenn dort ein Lösch-Antrag eingeht.
+4. **API** — z.B. aus Ihrem CRM, wenn dort ein Lösch-Antrag eingeht.
 
 ## Anfrage-Typen (DSGVO-Artikel)
 
@@ -29,14 +29,14 @@ Vier Wege, wie eine DSAR auf der Plattform landet:
 
 ### 1. Eingang & Verifizierung
 - **Identität prüfen** — Betroffener muss beweisen, dass er der ist. Hugo erzeugt eine **Verifizierungsmail** mit Code, oder fordert Ausweis-Upload an.
-- **Anonyme Anfragen ohne Verifizierung** kannst du ablehnen.
+- **Anonyme Anfragen ohne Verifizierung** können Sie ablehnen.
 
 ### 2. Daten sammeln
-- **Hugo hilft** beim Durchsuchen: Du gibst Name/Mail an, Hugo zeigt dir, in welchen Bereichen (VVT-basiert) Daten zu dieser Person liegen könnten.
-- Pro System trägst du ein, was du gefunden hast.
+- **Hugo hilft** beim Durchsuchen: Sie geben Name/Mail an, Hugo zeigt Ihnen, in welchen Bereichen (VVT-basiert) Daten zu dieser Person liegen könnten.
+- Pro System trägst Sie ein, was Sie gefunden hast.
 
 ### 3. Antwort vorbereiten
-- Hugo generiert Antwort-Brief aus Vorlage. Du wählst Auskunfts-Typ, Hugo füllt aus.
+- Hugo generiert Antwort-Brief aus Vorlage. Sie wählen Auskunfts-Typ, Hugo füllt aus.
 - Bei Löschung: Lösch-Bestätigung pro System.
 - Bei Berichtigung: Änderungsnachweis.
 
@@ -49,14 +49,14 @@ Vier Wege, wie eine DSAR auf der Plattform landet:
 
 ## Frist-Tracker
 
-Pro Anfrage siehst du **Tage bis Frist**. Bei 7 Tagen Restzeit kommt Erinnerung, bei 3 Tagen "Eilt!".
+Pro Anfrage sehen Sie **Tage bis Frist**. Bei 7 Tagen Restzeit kommt Erinnerung, bei 3 Tagen "Eilt!".
 
 ## Aufsichtsbehörden-Anfrage (Art. 77)
 
-Wenn ein Betroffener sich bei der Aufsichtsbehörde beschwert hat und die bei dir nachfragt — gleiches Vorgehen, aber mit verschärftem Logging und automatischer Eskalation an Geschäftsführung.
+Wenn ein Betroffener sich bei der Aufsichtsbehörde beschwert hat und die bei Ihnen nachfragt — gleiches Vorgehen, aber mit verschärftem Logging und automatischer Eskalation an Geschäftsführung.
 
 ## Tipps
 
 - **30 Tage sind knapp** — fang am Tag 1 an, nicht am Tag 28.
-- **Verifizierung ernst nehmen** — sonst gibst du Daten an Fremde raus (auch eine Datenpanne!).
+- **Verifizierung ernst nehmen** — sonst geben Sie Daten an Fremde raus (auch eine Datenpanne!).
 - **Standard-Anfragen automatisieren**: Newsletter-Abmeldung ist Art. 21, kein langer Prozess nötig.

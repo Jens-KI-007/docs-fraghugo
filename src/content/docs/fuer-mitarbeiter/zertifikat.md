@@ -1,13 +1,13 @@
 ---
 title: Zertifikat herunterladen
-description: Nach bestandenem Quiz bekommst du ein Zertifikat — so findest, druckst und speicherst du es.
+description: Nach bestandenem Quiz bekommen Sie ein Zertifikat — so findest, druckst und speichern Sie es.
 ---
 
-Nach bestandenem Quiz erscheint sofort der **Zertifikat herunterladen**-Button. Klick drauf → PDF.
+Nach bestandenem Quiz erscheint sofort der **Zertifikat herunterladen**-Button. Klicken Sie drauf → PDF.
 
 ## Was steht drauf
 
-- Dein Name
+- Ihr Name
 - Firmenname + Logo
 - Kursname
 - Datum der Absolvierung
@@ -17,19 +17,19 @@ Nach bestandenem Quiz erscheint sofort der **Zertifikat herunterladen**-Button. 
 
 ## Wo speichern
 
-- **PDF speichern** auf deinem PC (z.B. Ordner "Schulungsnachweise/2026")
-- **Drucken** falls dein Arbeitgeber Papier-Ablage will
+- **PDF speichern** auf Ihrem PC (z.B. Ordner "Schulungsnachweise/2026")
+- **Drucken** falls Ihr Arbeitgeber Papier-Ablage will
 - **An sich selbst mailen** — als Backup, falls PC mal kaputt geht
 
 ## Brauche ich das?
 
-Bei einem **Audit** kann's vorkommen, dass die Geschäftsführung sagt: "Zeig mir bitte dein aktuelles DSGVO-Zertifikat." Wenn du's parat hast, beweist es deinen Schulungsstand.
+Bei einem **Audit** kann's vorkommen, dass die Geschäftsführung sagt: "Zeig mir bitte Ihr aktuelles DSGVO-Zertifikat." Wenn Sie's parat hast, beweist es Ihren Schulungsstand.
 
 Manche Firmen verlangen das auch beim **Stellenwechsel** intern (z.B. von Marketing in HR — andere Datenkategorien, eigene Schulung).
 
 ## Alte Zertifikate
 
-Alle bestandenen Schulungen — auch alte — findest du in deiner App unter "Meine Schulungen → Verlauf". Jedes Zertifikat ist nochmal herunterladbar.
+Alle bestandenen Schulungen — auch alte — findest Sie in Ihrer App unter "Meine Schulungen → Verlauf". Jedes Zertifikat ist nochmal herunterladbar.
 
 ## Verifizierungs-URL
 

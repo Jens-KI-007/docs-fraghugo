@@ -5,13 +5,13 @@ description: Pro KI-System die Risiko-Klasse nach AI Act bestimmen — Verboten 
 
 ![Klassifizierungs-Wizard](/screenshots/ki-compliance/klassifizierung.png)
 
-Der AI Act verlangt: für jede KI musst du wissen, in welcher Risiko-Klasse sie liegt. Hier macht's Hugo mit dir.
+Der AI Act verlangt: für jede KI müssen Sie wissen, in welcher Risiko-Klasse sie liegt. Hier macht's Hugo mit Ihnen.
 
 ## Der Wizard
 
-Pro KI-System klickst du dich durch ~10 Ja/Nein-Fragen:
+Pro KI-System klicken Sie Sie durch ~10 Ja/Nein-Fragen:
 
-1. Wird die KI für **verbotene Praktiken** eingesetzt (Social-Scoring, manipulative KI für vulnerable Gruppen)? → wenn ja: STOP, darfst du nicht.
+1. Wird die KI für **verbotene Praktiken** eingesetzt (Social-Scoring, manipulative KI für vulnerable Gruppen)? → wenn ja: STOP, dürfen Sie nicht.
 2. Ist die KI in einem der **8 Hochrisiko-Anwendungsfelder**?
    - Bewerbung / HR-Entscheidung
    - Bildungs-Bewertung
@@ -29,7 +29,7 @@ Output: **Risiko-Klasse + Begründung + Pflichten-Liste**.
 ## Was die Pflichten bedeuten
 
 ### Hochrisiko
-- **Konformitätsbewertung** (du oder der Anbieter)
+- **Konformitätsbewertung** (Sie oder der Anbieter)
 - **Risiko-Management-System**
 - **Daten-Qualität & Bias-Tests**
 - **Logging** von Entscheidungen (1 Jahr)
@@ -39,7 +39,7 @@ Output: **Risiko-Klasse + Begründung + Pflichten-Liste**.
 - Verstärkte Transparenz für Betroffene
 
 ### Begrenztes Risiko
-- **Transparenzpflicht** — User muss wissen "Du sprichst mit einer KI"
+- **Transparenzpflicht** — User muss wissen "Sie sprechen mit einer KI"
 - **Kennzeichnung von KI-generierten Inhalten**
 
 ### Minimal

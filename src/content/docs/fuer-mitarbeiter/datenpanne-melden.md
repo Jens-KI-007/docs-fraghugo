@@ -1,9 +1,9 @@
 ---
 title: Datenpanne melden
-description: Was ist eine Datenpanne, wann musst du melden, wie geht's schnell?
+description: Was ist eine Datenpanne, wann müssen Sie melden, wie geht's schnell?
 ---
 
-Wenn du den Verdacht hast, dass **personenbezogene Daten unbefugt weitergegeben, verloren oder verändert** wurden — egal ob aus Versehen oder durch Angriff — musst du das **sofort** melden. Nicht morgen, nicht nach Feierabend. Sofort.
+Wenn Sie den Verdacht hast, dass **personenbezogene Daten unbefugt weitergegeben, verloren oder verändert** wurden — egal ob aus Versehen oder durch Angriff — müssen Sie das **sofort** melden. Nicht morgen, nicht nach Feierabend. Sofort.
 
 ## Beispiele
 
@@ -18,28 +18,28 @@ Wenn du den Verdacht hast, dass **personenbezogene Daten unbefugt weitergegeben,
 ## Wie melden — schnellster Weg
 
 ### In der App
-1. Klick oben in der Sidebar: **🚨 Datenpanne melden** (oder direkt /melde)
+1. Klicken Sie oben in der Sidebar: **🚨 Datenpanne melden** (oder direkt /melde)
 2. Kurzes Formular:
    - Was ist passiert (in eigenen Worten)
    - Wann genau (Datum + Uhrzeit, falls bekannt)
    - Welche Daten / Personen sind betroffen (falls bekannt — sonst "weiß nicht" reicht)
-3. **Absenden** → dein DSB bekommt sofort Push-Benachrichtigung.
+3. **Absenden** → Ihr DSB bekommt sofort Push-Benachrichtigung.
 
 ### Alternative
-- **Telefon** an deinen DSB — Nummer steht in der Schulungs-Einladungs-Mail.
+- **Telefon** an Ihren DSB — Nummer steht in der Schulungs-Einladungs-Mail.
 - **Mail** an die interne Datenschutz-Adresse.
 
-## Du bekommst KEINEN Ärger
+## Sie bekommen KEINEN Ärger
 
-Auch wenn DU den Fehler gemacht hast: Melden ist die richtige Reaktion. Das HinSchG schützt dich vor Repressalien. Verschweigen macht's schlimmer (für die Firma + für dich persönlich).
+Auch wenn DU den Fehler gemacht hast: Melden ist die richtige Reaktion. Das HinSchG schützt Sie vor Repressalien. Verschweigen macht's schlimmer (für die Firma + für Sie persönlich).
 
 ## Was passiert dann
 
 - DSB prüft, ob's eine Datenpanne im DSGVO-Sinne ist.
-- Falls ja: **72-h-Frist** zur Behörden-Meldung startet (das macht der DSB, nicht du).
-- Du wirst evtl. nochmal kontaktiert für Details.
+- Falls ja: **72-h-Frist** zur Behörden-Meldung startet (das macht der DSB, nicht Sie).
+- Sie werden evtl. nochmal kontaktiert für Details.
 
-## Was du selbst sofort tun kannst
+## Was Sie selbst sofort tun können
 
 Wenn z.B. eine Mail an falsche Adresse: **versuche, sie zurückzurufen** (Outlook „Nachricht zurückrufen") + Empfänger anrufen + ihn bitten zu löschen.
 
@@ -49,6 +49,6 @@ Wenn Cloud-Datei öffentlich: **Sharing-Link sofort widerrufen**.
 
 ## Tipps
 
-- **Lieber 10× falsch melden als 1× zu spät** — dein DSB sortiert dann.
-- **Schnelligkeit zählt** — die 72-h-Behörden-Frist läuft ab dem Moment, wo IRGENDJEMAND in der Firma was bemerkt hat. Auch du.
+- **Lieber 10× falsch melden als 1× zu spät** — Ihr DSB sortiert dann.
+- **Schnelligkeit zählt** — die 72-h-Behörden-Frist läuft ab dem Moment, wo IRGENDJEMAND in der Firma was bemerkt hat. Auch Sie.
 - **Sprich nicht öffentlich darüber** bevor's geklärt ist — gerade nicht in sozialen Medien.
