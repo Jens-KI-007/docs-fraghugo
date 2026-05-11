@@ -1,6 +1,6 @@
 ---
 title: Quiz bestehen
-description: Tipps zum Quiz — wie funktioniert's, wie viele Versuche, was wenn Sie durchfällst.
+description: Tipps zum Quiz — wie funktioniert's, wie viele Versuche, was wenn Sie durchfallen.
 ---
 
 Am Ende jeder Schulung kommt das Quiz. Bestehen = 80 % richtig (also 4 von 5 oder 8 von 10).

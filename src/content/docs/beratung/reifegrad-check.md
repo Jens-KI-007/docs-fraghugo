@@ -14,7 +14,7 @@ Wenn Sie Ihnen nicht sicher sind, welcher Tarif zu Ihnen passt oder ob Ihr Daten
 - **Score 0–100** am Ende. Skala:
   - **0–30** Kritisch — Pflichten sind nicht erfüllt, Aufsichtsbehörde könnte sofort Bußgelder verhängen.
   - **31–60** Mittel — Grundlagen da, aber Lücken in Dokumentation/Prozessen.
-  - **61–85** Solide — Sie erfüllst die DSGVO.
+  - **61–85** Solide — Sie erfüllen die DSGVO.
   - **86–100** Hervorragend — Sie sind über dem Branchendurchschnitt.
 
 ## Was Sie am Ende bekommst
