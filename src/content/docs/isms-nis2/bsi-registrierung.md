@@ -31,7 +31,7 @@ Fehlende Felder ausfüllen — typisch 5–10 Felder, alles andere ist aus Ihrem
 Hugo erzeugt das Anmeldungsformular im BSI-vorgegebenen Format als PDF.
 
 ### Schritt 4: Beim BSI einreichen
-**Online-Portal**: https://www.bsi.bund.de/DE/Themen/Regulierung-und-Anerkennung/Gesetze-und-Regelungen/NIS-2/Registrierung/registrierung_node.html — Sie loggen sich ein, laden Ihre Daten hoch oder geben sie ein.
+**Online-Portal**: https://portal.bsi.bund.de — Anmeldung mit ELSTER-Organisationszertifikat, dann NIS-2-Registrierung im Portal abschließen. Offizielle BSI-Schritt-für-Schritt-Anleitung: https://www.bsi.bund.de/dok/anleitung-portal-registrierung
 
 Hugo zeigt das Aktenzeichen-Eingabe-Feld nach erfolgter Einreichung. Trag es ein, damit Sie den Status nachverfolgen kannst.
 
