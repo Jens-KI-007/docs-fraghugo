@@ -54,12 +54,11 @@ Ja, ab Agentur-Tarif. REST + OpenAPI 3.0 Spec. Doku unter [/website-it-sicherhei
 
 - Releases jeden Donnerstag (Standard-Features)
 - Hotfixes wenn nötig sofort
-- **Changelog** unter [docs.fraghugo.de/changelog](/changelog/)
-- **Status-Page** unter [status.fraghugo.de](https://status.fraghugo.de)
+- **Plattform-Updates** kündigen wir innerhalb der App an (Glocke oben rechts)
 
 ## Wartungsfenster
 
-Mittwochs 02:00–04:00 Uhr — meist transparent (Rolling Updates). Ankündigung 48 h vorher über Status-Page + Mail.
+Mittwochs 02:00–04:00 Uhr — meist transparent (Rolling Updates). Ankündigung 48 h vorher per Mail.
 
 ## Browser-Cache leeren
 

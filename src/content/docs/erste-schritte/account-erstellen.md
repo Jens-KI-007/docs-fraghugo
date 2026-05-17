@@ -10,7 +10,7 @@ Geh auf [app.fraghugo.de/signup](https://app.fraghugo.de/signup). Sie brauchen n
 1. **Formular** — Name, Firma, E-Mail, Passwort.
 2. **Bestätigungs-Mail** — Klicken Sie auf den Link, dann ist der Account aktiv. Mail kommt in 1–2 Sekunden, Spam-Ordner checken.
 3. **Onboarding** — Plattform fragt einmalig: Branche, Mitarbeiterzahl, Standort. Diese Daten brauchen wir für NIS2-Einschätzung, Branchenvorlagen und Schulungs-Empfehlungen.
-4. **Tarif wählen** — Free-Test mit limitierten Funktionen, oder direkt einen kostenpflichtigen Plan buchen ([Tarife & Preise](/erste-schritte/tarife/)).
+4. **Tarif wählen** — Free-Test mit limitierten Funktionen, oder direkt einen kostenpflichtigen Plan buchen ([Tarife & Preise](/erste-schritte/upgrade/)).
 
 ## Login mit Google
 

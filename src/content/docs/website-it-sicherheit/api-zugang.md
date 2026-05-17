@@ -44,7 +44,7 @@ Statt zu pollen, registriere einen Webhook → Sie bekommen POST-Call mit Scan-E
 
 ## OpenAPI-Spec
 
-Volle Schnittstellen-Doku unter [docs.fraghugo.de/api](/api/) bzw. als Swagger-File. Generierte Clients für TypeScript, Python, Go.
+Volle Schnittstellen-Doku als Swagger-File auf Anfrage. Generierte Clients für TypeScript, Python, Go.
 
 ## Rate Limits
 
