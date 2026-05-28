@@ -35,4 +35,4 @@ Das ist ein einmaliger Aufwand. Danach geht's um Aktualisieren wenn sich was än
 
 ## Externer DSB (Optional)
 
-Wenn Sie **keinen internen Datenschutzbeauftragten** hast, können Sie Nils Mertens als externen DSB benennen. In den Einstellungen → Datenschutz → "Nils als DSB benennen". Hugo schickt Ihnen die Bestellungsurkunde, Sie unterschreiben, Nils bekommt Lese-Zugriff auf alle Datenschutz-Bereiche.
+Wenn Sie **keinen internen Datenschutzbeauftragten** haben, können Sie Nils Oehmichen als externen DSB benennen. In den Einstellungen → Datenschutz → "Nils als DSB benennen". Hugo schickt Ihnen die Bestellungsurkunde, Sie unterschreiben, Nils bekommt Lese-Zugriff auf alle Datenschutz-Bereiche.

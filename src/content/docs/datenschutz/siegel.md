@@ -34,7 +34,7 @@ Sie sehen auf der Siegel-Page eine **Checkliste**, was noch fehlt.
 Klicken Sie Besucher das Badge, landen sie auf einer Verifizierungsseite mit:
 - Firmenname, Bestätigung der Stufe
 - Datum der letzten Prüfung
-- "Diese Firma hat einen DSB benannt: Nils Mertens" (falls Externer DSB)
+- "Diese Firma hat einen DSB benannt: Nils Oehmichen" (falls Externer DSB)
 - Link zur DSE
 
 ## Auto-Update
