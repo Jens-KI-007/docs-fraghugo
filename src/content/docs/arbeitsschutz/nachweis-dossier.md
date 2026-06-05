@@ -7,34 +7,31 @@ sidebar:
 
 Das **Nachweis-Dossier** ist das Herzstück von Hugo Safe. Wenn die Berufsgenossenschaft, die Gewerbeaufsicht oder ein Sachverständiger nach Unfall fragt „Können Sie nachweisen, dass Ihre Mitarbeiter unterwiesen wurden?", erzeugen Sie hier das Dokument — auf Knopfdruck, ohne Excel-Archäologie.
 
-![Revisionssicheres Nachweis-Dossier als PDF-Vorschau: Tabelle mit Mitarbeiter, Unterweisung, Datum, Testergebnis und aktiver Bestätigung, dazu eine Audit-Log-Zeile und das Badge „PDF für die Berufsgenossenschaft“](/screenshots/arbeitsschutz/nachweis-dossier.png)
+![Echtes Nachweis-Dossier als PDF: Kopf „Unterweisungsnachweis — Hugo Safe, Arbeitssicherheit & Brandschutz“ mit Mitarbeitername, Betrieb, Stand-Datum und verantwortlicher Ansprechperson; darunter eine Tabelle mit den absolvierten Unterweisungen, jeweils Rechtsgrundlage, Datum, Ergebnis in Prozent, Bestätigung (Ja) und „Aufbewahren bis“](/screenshots/arbeitsschutz/nachweis-dossier.png)
 
 ## Was im Dossier steht
 
-Das Dossier fasst pro Mitarbeiter und Jahr alle absolvierten Unterweisungen zusammen:
+Im **Kopf** des Dossiers stehen Mitarbeiter, Betrieb, Erstellungsdatum (Stand) und die verantwortliche Ansprechperson. Darunter listet eine Tabelle pro absolvierter Unterweisung:
 
-| Feld | Inhalt |
+| Spalte | Inhalt |
 |---|---|
-| Mitarbeiter | Name, Tätigkeitsbereich |
-| Unterweisung | Titel + Themenbereich |
+| Unterweisung | Titel + zugehörige Rechtsgrundlage (z. B. „§ 12 ArbSchG, § 4 DGUV Vorschrift 1") |
 | Datum | Tag des Abschlusses |
-| Testergebnis | erreichte Punktzahl / Bestehen |
-| Bestätigung | aktive „Verstanden & befolge"-Bestätigung mit Zeitstempel |
-| Ansprechperson | benannte Person für Rückfragen |
-| betriebsspezifische Hinweise | die hinterlegten arbeitsplatzbezogenen Ergänzungen |
+| Erg. | erreichtes Testergebnis in Prozent |
+| Best. | aktive „Verstanden & befolge"-Bestätigung (Ja) |
+| Aufbew. bis | empfohlenes Aufbewahrungs-Enddatum je Nachweis |
 
-So ist auf einen Blick belegt: **Wer** wurde **wann** zu **welchem Thema** unterwiesen — und hat das aktiv bestätigt.
+Am Fuß des Dokuments steht ein Disclaimer, der die Abgrenzung klarstellt (Online-Theorie inkl. Verständnisprüfung; praktische und mündliche Anteile separat vor Ort; Aufbau auf der Gefährdungsbeurteilung; Verantwortung beim Arbeitgeber nach § 13 ArbSchG).
+
+So ist auf einen Blick belegt: **Wer** wurde **wann** zu **welchem Thema** unterwiesen, mit welchem Ergebnis — und hat das aktiv bestätigt.
 
 ## Dossier erzeugen
 
-1. Mitarbeiter oder Zeitraum wählen (einzelner Mitarbeiter, Abteilung, Standort oder das ganze Unternehmen).
-2. Jahr auswählen.
-3. „PDF erzeugen" — Hugo Safe stellt das Dossier zusammen.
-4. Herunterladen, an die Berufsgenossenschaft weitergeben oder ablegen.
+Unter **Hugo Safe → Nachweise** sehen Sie pro Mitarbeiter, wie viele Unterweisungen abgeschlossen sind. Ein Klick auf **„Dossier (PDF)"** neben der Person erzeugt deren revisionssicheres Nachweis-Dokument und lädt es als PDF herunter — fertig zum Weitergeben an die Berufsgenossenschaft oder zum Ablegen.
 
-:::tip[Für die ganze Belegschaft auf einmal]
-Sie müssen nicht jeden Mitarbeiter einzeln exportieren. Wählen Sie „gesamtes Unternehmen" und das aktuelle Jahr — Hugo Safe erzeugt ein gebündeltes Dossier über alle Mitarbeiter.
-:::
+![Nachweise-Übersicht in Hugo Safe: pro Mitarbeiter die Zahl der abgeschlossenen Unterweisungen und je ein Button „Dossier (PDF)“; darunter der Hinweis, dass Nachweise revisionssicher und dauerhaft vorgehalten werden, mit der DGUV-Aufbewahrungsempfehlung (mind. 2 Jahre, bei expositionsbezogenen Themen 5 Jahre)](/screenshots/arbeitsschutz/nachweise-liste.png)
+
+Mitarbeiter ohne abgeschlossene Unterweisung haben (noch) keinen Nachweis — ihr Button bleibt inaktiv, bis die erste Unterweisung abgeschlossen ist.
 
 ## Warum „revisionssicher"?
 
@@ -42,7 +39,7 @@ Jeder Eintrag im Dossier stammt aus dem **Audit-Log** und trägt einen Zeitstemp
 
 ## Aufbewahrung
 
-Bewahren Sie die Unterweisungsnachweise auf. Die DGUV Information 211-005 nennt als Richtwert eine Aufbewahrung von **mindestens zwei Jahren**. Hugo Safe speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie ältere Jahrgänge jederzeit erneut exportieren können. Details unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
+Bewahren Sie die Unterweisungsnachweise auf. Die DGUV Information 211-005 nennt als Richtwert **mindestens zwei Jahre**; bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind **fünf Jahre** üblich. Genau dieses Enddatum weist das Dossier je Nachweis in der Spalte „Aufbew. bis" aus. Hugo Safe speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie ältere Jahrgänge jederzeit erneut exportieren können. Details unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
 
 :::caution[Was das Dossier belegt — und was nicht]
 Das Nachweis-Dossier belegt die **durchgeführten Online-Unterweisungen**. Praktische Übungen (Feuerlöscher, PSA, Stapler) und die mündliche Gefahrstoff-Komponente (§ 14 GefStoffV) finden vor Ort statt und werden dort separat dokumentiert. Das Dossier ersetzt außerdem **nicht** die Gefährdungsbeurteilung (§ 5 ArbSchG).

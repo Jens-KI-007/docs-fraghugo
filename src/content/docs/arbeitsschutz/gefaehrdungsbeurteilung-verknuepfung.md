@@ -24,6 +24,8 @@ Hugo Safe deckt die Schritte **3 und 4** ab — strukturiert, wiederkehrend und 
 
 ## So verknüpfen Sie beides
 
+![Pflicht-Zuweisungen in Hugo Safe: ein Hinweis, dass Mitarbeiter anhand ihres Bereichs automatisch zugeordnet werden und die nötigen Themen aus der Gefährdungsbeurteilung abgeleitet werden; darunter je Bereich (z. B. „Alle / Büro“, „Lager & Produktion“) die Pflicht-Unterweisungen mit ihrer Rechtsgrundlage und einem Schalter zum Aktivieren/Deaktivieren](/screenshots/arbeitsschutz/zuweisungen.png)
+
 - **Tätigkeitsbereiche spiegeln die Gefährdungen.** Wenn Ihre Gefährdungsbeurteilung etwa „Gabelstapler im Lager" als Gefährdung führt, ordnen Sie den betroffenen Mitarbeitern den Bereich „Lager & Produktion" zu — Hugo Safe weist daraufhin die passenden Unterweisungen (u. a. Flurförderzeuge) automatisch zu. Siehe [Mitarbeiter anlegen & zuweisen](/arbeitsschutz/mitarbeiter-anlegen-zuweisen/).
 - **Betriebsspezifische Ergänzung füllt die Lücke.** Konkrete Erkenntnisse aus Ihrer Gefährdungsbeurteilung (z. B. eine bestimmte Maschine, ein bestimmter Gefahrstoff) tragen Sie als betriebsspezifische Hinweise in die jeweilige Unterweisung ein. So wird sie arbeitsplatzbezogen.
 - **Der Nachweis schließt den Kreis.** Das [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) belegt, dass die aus der Gefährdungsbeurteilung abgeleiteten Unterweisungen durchgeführt wurden.

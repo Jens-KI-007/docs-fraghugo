@@ -7,15 +7,15 @@ sidebar:
 
 Bevor jemand unterwiesen werden kann, müssen Ihre Mitarbeiter in Hugo Safe angelegt sein. Anschließend weist Hugo Safe jedem Mitarbeiter automatisch die passenden Pflicht-Unterweisungen zu — abhängig vom Tätigkeitsbereich.
 
-![Mitarbeiter-Liste in Hugo Safe mit Tätigkeitsbereichen (Büro, Lager, Fahrer, Branche), Zuweisungs-Fortschritt pro Person und automatischer Bereichs-Zuweisung der Pflicht-Unterweisungen](/screenshots/arbeitsschutz/mitarbeiter-anlegen-zuweisen.png)
+![Mitarbeiter-Liste in Hugo Safe: pro Person Name und E-Mail, ein Auswahlfeld für den Tätigkeitsbereich (Alle/Büro, Lager & Produktion, Fahrer & Transport, Branchenspezifisch), der Unterweisungs-Fortschritt (z. B. 0/10 im Büro, 0/18 im Lager) und der Status. Der Bereich steuert automatisch, wie viele Pflicht-Unterweisungen zugewiesen werden.](/screenshots/arbeitsschutz/mitarbeiter-anlegen-zuweisen.png)
 
 ## Mitarbeiter anlegen
 
-Sie haben drei Wege:
+Über **„+ Hinzufügen"** erfassen Sie eine Person mit **Name, E-Mail und Tätigkeitsbereich**. Hugo Safe verschickt daraufhin automatisch eine Einladung per E-Mail; der Mitarbeiter meldet sich an und sieht seine offenen Unterweisungen.
 
-1. **Einzeln** — über „+ Mitarbeiter" Name, E-Mail und Tätigkeitsbereich erfassen.
-2. **CSV-Import** — eine Liste auf einmal hochladen. Spalten: Name, E-Mail, Tätigkeitsbereich, optional Abteilung/Standort.
-3. **Microsoft-365-Sync** — Benutzerkonten direkt aus Ihrem Microsoft 365 übernehmen (einmalig OAuth-Zugriff freigeben). Spart bei vielen Mitarbeitern Stunden. Siehe [M365-Integration](/schulungen/m365-integration/).
+Die Mitarbeiterliste ist **organisationsweit geteilt**: Wer bereits in [Hugo Learn](/schulungen/mitarbeiter/) angelegt ist – auch über die [Microsoft-365-Integration](/schulungen/m365-integration/) automatisch synchronisiert – steht hier ebenfalls zur Verfügung und muss nicht erneut erfasst werden. So pflegen Sie Ihren Personalstamm an einer Stelle und nutzen ihn für Schulungen **und** Arbeitsschutz-Unterweisungen.
+
+Die Zahl der Plätze richtet sich nach Ihrem Tarif. Ist das Kontingent ausgeschöpft, weist Hugo Safe Sie darauf hin und Sie erweitern den Tarif unter [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghugo.de/upgrade/arbeitsschutz).
 
 :::note[Mitarbeiterzahl je Tarif]
 Im **Free**-Tarif sind bis zu 20 Mitarbeiter möglich. **Basis** und **Komplett** haben keine Obergrenze. Abgerechnet wird pro aktivem Mitarbeiter und Jahr.
@@ -51,5 +51,5 @@ Nach dem Anlegen lädt Hugo Safe die Mitarbeiter per E-Mail ein. Sie melden sich
 ## Tipps
 
 - **Mit den Tätigkeitsbereichen starten** — sie sind der Hebel für die richtige Zuweisung. Lieber einmal sauber pflegen, als später einzeln nachsortieren.
-- **CSV-Vorlage nutzen** — Hugo Safe bietet eine Beispieldatei mit den korrekten Spaltenüberschriften zum Download.
-- **Neue Mitarbeiter sofort anlegen** — die Erstunterweisung sollte vor Aufnahme der Tätigkeit erfolgen. Hugo Safe markiert neu Angelegte als „noch nicht unterwiesen".
+- **Personalstamm zentral halten** — wer in Hugo Learn (ggf. via M365-Sync) gepflegt ist, taucht hier automatisch auf. Doppelte Pflege sparen Sie sich.
+- **Neue Mitarbeiter sofort anlegen** — die Erstunterweisung sollte vor Aufnahme der Tätigkeit erfolgen. Hugo Safe markiert neu Angelegte als „offen" (noch nicht unterwiesen).

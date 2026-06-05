@@ -1,23 +1,31 @@
 # Screenshots — Bereich Arbeitsschutz (Hugo Safe)
 
-Dieser Ordner ist für die Produkt-Screenshots/Mockups des Arbeitsschutz-Doku-Bereichs reserviert
-(`docs.fraghugo.de/arbeitsschutz/`). Die Doku-Seiten referenzieren bewusst **noch keine** Bilder per
-`![…](/screenshots/arbeitsschutz/…png)`, damit keine toten Bild-Links entstehen, solange die
-Screenshots fehlen. Sobald ein Screenshot vorliegt, kann er auf der jeweiligen Seite über dem ersten
-Absatz eingebunden werden — analog zu `src/content/docs/isms-nis2/*.md` (echte App-Screenshots,
-PNG, ~2940×1568, einfache `![alt](/screenshots/<bereich>/<name>.png)`-Syntax).
+**Echte App-Screenshots** aus `app.fraghugo.de` → Bereich „Hugo Safe" (`/arbeitsschutz/*`),
+aufgenommen mit Chrome DevTools (Retina, Sidebar/Overlay für den Fokus ausgeblendet, 2× DPI →
+auf ~1760 px Breite skaliert). Das Nachweis-Dossier ist das echte, per „Dossier (PDF)" erzeugte PDF,
+mit `pdftoppm` in PNG gerendert und auf den Inhaltsbereich beschnitten. **Keine** ausgedachten
+Mockups, kein Fake-Browser-Chrome.
 
-## Noch zu erzeugende Screenshots (Empfehlung)
+Eingebunden auf den Doku-Seiten über `![alt](/screenshots/arbeitsschutz/<name>.png)`. Die Doku-CSS
+rahmt Bilder automatisch (dunkler Rand, Radius, Schatten) — daher die Screenshots ohne eigenen Rahmen
+speichern.
 
-| Datei | Zeigt | Für Seite |
+## Inventar
+
+| Datei | Zeigt | Eingebunden auf |
 |---|---|---|
-| `mitarbeiter-anlegen-zuweisen.png` | Mitarbeiter-Liste mit Tätigkeitsbereichen + CSV/M365-Import | mitarbeiter-anlegen-zuweisen |
-| `unterweisung-durchfuehren.png` | Unterweisungs-Flow (Lern-Screen mit Sicherheitszeichen) aus Mitarbeitersicht | unterweisung-durchfuehren |
-| `abschlusstest-zertifikat.png` | Abschlusstest mit 80-%-Ergebnis + erzeugtes Zertifikat | abschlusstest-zertifikat |
-| `nachweis-dossier.png` | Nachweis-Dossier-PDF (Kern-USP — stärkstes Trust-Signal) | nachweis-dossier |
-| `jahres-erinnerung.png` | Dashboard mit Fälligkeits-/Status-Übersicht (erledigt/bald fällig/überfällig) | jahres-erinnerung |
-| `ki-videos.png` | Unterweisungs-Screen mit eingebettetem KI-Erklärvideo (Komplett-Tarif) | ki-videos |
+| `uebersicht.png` | Hugo-Safe-Übersicht: Banner (erledigt/offen, Komplett-Tarif) + Unterweisungs-Kacheln | index |
+| `mitarbeiter-anlegen-zuweisen.png` | Mitarbeiter-Liste: Bereich-Auswahl, Fortschritt, Status (Bereich steuert Zuweisungszahl) | mitarbeiter-anlegen-zuweisen |
+| `zuweisungen.png` | Pflicht-Zuweisungen je Bereich (Toggles + Rechtsgrundlage, GBU-Hinweis) | gefaehrdungsbeurteilung-verknuepfung |
+| `unterweisung-durchfuehren.png` | Lern-Screen: Fortschritt, Illustration, ISO-7010-Sicherheitszeichen, Praxis-Hinweis | unterweisung-durchfuehren |
+| `aktive-bestaetigung.png` | Aktive „Verstanden & befolge"-Bestätigung nach bestandenem Test | unterweisung-durchfuehren |
+| `abschlusstest-frage.png` | Abschlusstest: Frage 1/8 mit vier Antwortoptionen | abschlusstest-zertifikat |
+| `abschlusstest-zertifikat.png` | Ergebnis-Screen „Bestanden — 88 % (80 % benötigt)" | abschlusstest-zertifikat |
+| `nachweis-dossier.png` | Echtes Nachweis-Dossier-PDF (Kopf + 3-Zeilen-Tabelle mit „Aufbew. bis") | nachweis-dossier |
+| `nachweise-liste.png` | Nachweise-Übersicht: pro Mitarbeiter „Dossier (PDF)" + Aufbewahrungs-Hinweis | nachweis-dossier |
+| `jahres-erinnerung.png` | Abschluss-Bestätigung mit „Nächste Wiederholung in 12 Monaten" | jahres-erinnerung |
+| `ki-videos.png` | Lern-Screen mit eingebettetem KI-Avatar-Erklärvideo (Komplett-Tarif) | ki-videos |
+| `ansprechperson-betrieb.png` | „Ansprechperson & Betrieb": benannte Person + betriebsspezifische Ergänzungen (DGUV-Kriterien) | rechtliche-hinweise |
+| `unterweisung-intro.png` | „Bevor Sie starten": Rechtsgrundlage + Praxis-vor-Ort-Hinweis (Reserve, derzeit nicht eingebunden) | — |
 
-Quelle/Stil: App-Staging `app.fraghugo.de` Bereich „Hugo Safe" (`/arbeitsschutz/*`) bzw. gerendertes
-Mockup im Stil des Medienkonzepts (`platform/HUGO-SAFE-MEDIENKONZEPT.md`). PNG genügt — kein WebP-Zwang
-für Doku-Screenshots.
+Stand: 2026-06-05. Quelle: Live-App `app.fraghugo.de`, Org „Platform-Test GmbH (QA)" (Testdaten).

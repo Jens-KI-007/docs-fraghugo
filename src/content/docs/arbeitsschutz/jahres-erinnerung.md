@@ -7,7 +7,7 @@ sidebar:
 
 Unterweisungen sind keine einmalige Sache. Arbeitgeber müssen **mindestens jährlich** unterweisen (§ 12 ArbSchG, § 4 DGUV Vorschrift 1). Hugo Safe übernimmt das Mitzählen für Sie: Wird eine Unterweisung fällig, erinnert die Plattform automatisch — Mitarbeiter und Verantwortliche.
 
-![Fälligkeiten-Dashboard in Hugo Safe mit Ampel-Status (erledigt, bald fällig, überfällig, neu), Countdown bis zur nächsten fälligen Unterweisung je Mitarbeiter und automatischem Erinnerungs-Lauf](/screenshots/arbeitsschutz/jahres-erinnerung.png)
+![Abschluss-Bestätigung in Hugo Safe: grünes Häkchen, „Unterweisung abgeschlossen“, bestätigt am 5.6.2026 mit 100 %, der Hinweis „Ihr Zertifikat wurde heruntergeladen. Nächste Wiederholung in 12 Monaten.“ und ein Button „Zurück zur Übersicht“. Hugo Safe merkt sich diese Frist und erinnert automatisch.](/screenshots/arbeitsschutz/jahres-erinnerung.png)
 
 ## Wie die Erinnerung funktioniert
 
@@ -19,18 +19,12 @@ Unterweisungen sind keine einmalige Sache. Arbeitgeber müssen **mindestens jäh
 Die jährliche Frist (mindestens einmal pro Jahr) ist der Standard. Für **Jugendliche** gilt eine kürzere Frist: Sie sind **halbjährlich** zu unterweisen (§ 29 JArbSchG). Manche tätigkeits- oder gefahrstoffbezogenen Unterweisungen können ebenfalls häufiger nötig sein — prüfen Sie das pro Bereich.
 :::
 
-## Status im Dashboard
+## Wo Sie den Status sehen
 
-Das Dashboard zeigt die Unterweisungen nach Status:
+- **Hugo Safe → Übersicht:** zeigt auf einen Blick, wie viele Unterweisungen erledigt und wie viele noch offen sind; jede Unterweisungs-Kachel trägt ihren Status (z. B. „Offen").
+- **Hugo Safe → Mitarbeiter:** zeigt je Person den Fortschritt (z. B. 0/10) und den Status. So erkennen Sie sofort, wer noch offene oder fällige Unterweisungen hat.
 
-| Status | Bedeutung |
-|---|---|
-| **Erledigt** | im aktuellen Zyklus absolviert |
-| **Bald fällig** | Frist nähert sich, Erinnerung wurde ausgelöst |
-| **Überfällig** | Frist verstrichen, Unterweisung steht aus |
-| **Neu** | Mitarbeiter noch nie unterwiesen |
-
-So sehen Sie früh, wo Handlungsbedarf besteht — und vermeiden, dass eine Frist unbemerkt verstreicht.
+Wird eine Unterweisung fällig, löst Hugo Safe zusätzlich eine automatische **E-Mail-Erinnerung** an den betroffenen Mitarbeiter aus — Sie müssen die Fristen nicht selbst im Kalender führen.
 
 ## Wiederkehrende Unterweisungen planen
 

@@ -7,7 +7,7 @@ sidebar:
 
 So absolviert ein Mitarbeiter eine Unterweisung. Der Ablauf dauert je nach Thema rund 15 Minuten und ist auf jedem Gerät (PC, Tablet, Smartphone) möglich.
 
-![Unterweisungs-Screen aus Mitarbeitersicht: Fortschrittsbalken, offizielle Sicherheitszeichen (ISO 7010), betriebsspezifischer Hinweis, eine Verständnis-Frage und die aktive „Verstanden & befolge“-Bestätigung](/screenshots/arbeitsschutz/unterweisung-durchfuehren.png)
+![Lern-Screen einer Hugo-Safe-Unterweisung aus Mitarbeitersicht: Fortschrittsbalken (Abschnitt 2/7), eine erklärende Szenen-Illustration, der Lehrtext und darunter die offiziellen Sicherheitszeichen nach ISO 7010 (Kopf-, Augen-, Gehör-, Hand- und Fußschutz) sowie ein „Aus der Praxis“-Hinweis](/screenshots/arbeitsschutz/unterweisung-durchfuehren.png)
 
 ## Der Ablauf in 4 Schritten
 
@@ -28,6 +28,8 @@ Am Ende prüft ein kurzer Test das Verständnis. Bestehensgrenze: **80 %**. Deta
 ### Schritt 4: Aktive Bestätigung
 
 Der Mitarbeiter bestätigt aktiv „Ich habe die Unterweisung verstanden und werde sie befolgen". Diese Bestätigung wird mit Zeitstempel im Audit-Log festgehalten und fließt ins [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) ein.
+
+![Abschließende Bestätigung in Hugo Safe nach bestandenem Test (88 %): ein grünes Häkchen, der Hinweis „Test bestanden“, eine angekreuzte Bestätigungs-Checkbox mit dem Wortlaut „Ich habe die Unterweisung … verstanden und werde die vermittelten Sicherheitsregeln an meinem Arbeitsplatz befolgen“ und der Button „Abschließen & Zertifikat erhalten“](/screenshots/arbeitsschutz/aktive-bestaetigung.png)
 
 ## Pausieren und fortsetzen
 

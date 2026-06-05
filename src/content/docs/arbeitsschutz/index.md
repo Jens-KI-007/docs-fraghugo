@@ -9,6 +9,8 @@ sidebar:
 
 Abgerechnet wird **pro Mitarbeiter und Jahr** mit automatischem Mengenrabatt — fair und planbar.
 
+![Hugo-Safe-Übersicht in der frag.hugo-Plattform: Begrüßungs-Banner mit Fortschritt (erledigt / offen) und Komplett-Tarif-Badge, darunter die Unterweisungs-Kacheln (Allgemeine Sicherheit, Brandschutz, Flucht- und Rettungswege …) mit der jeweiligen Rechtsgrundlage und „Starten“-Button](/screenshots/arbeitsschutz/uebersicht.png)
+
 ## Worum es geht
 
 Arbeitgeber sind gesetzlich verpflichtet, ihre Beschäftigten **mindestens jährlich** zu unterweisen (§ 12 ArbSchG, § 4 DGUV Vorschrift 1). In der Praxis ist das oft ein Papier- und Excel-Chaos: Wer wurde wann unterwiesen? Wo ist der Nachweis, wenn die Berufsgenossenschaft oder die Gewerbeaufsicht fragt?
@@ -38,7 +40,7 @@ Alle Preise sind **Netto** (zzgl. 19 % USt), jährlich abgerechnet, 12 Monate Mi
 | **Basis** | ab 14,90 € | 10 Unterweisungen (Büro & allgemein), unbegrenzte Mitarbeiterzahl |
 | **Komplett** | ab 34,90 € | alle 24 Unterweisungen (+ Lager, Produktion, Fahrer, Branche) + KI-Erklärvideos |
 
-Der Mengenrabatt greift automatisch (z. B. Basis ab 100 Mitarbeitern 9,90 €, ab 500 Mitarbeitern 7,90 € pro Mitarbeiter/Jahr). Die **Rechtssicherheits-Features** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos.
+Der Mengenrabatt greift automatisch im Checkout: **Basis** 14,90 € → 9,90 € (ab 100 MA) → 7,90 € (ab 500 MA), **Komplett** 34,90 € → 24,90 € (ab 100 MA) → 16,90 € (ab 500 MA) — jeweils pro Mitarbeiter/Jahr. Die **Rechtssicherheits-Features** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos.
 
 Buchen oder upgraden: [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghugo.de/upgrade/arbeitsschutz). DSB-Kunden erhalten mit dem Combo-Rabatt `COMBO-DSB-SAFE-15` 15 % auf Hugo Safe.
 

@@ -7,7 +7,7 @@ sidebar:
 
 Im **Komplett**-Tarif ergänzen **KI-Erklärvideos** die Lern-Screens jeder Unterweisung. Sie vermitteln die Inhalte gesprochen und bebildert — ideal für Mitarbeiter, die nicht gern lange Texte lesen, etwa in Produktion und Lager.
 
-![KI-Erklärvideo-Player in Hugo Safe (Komplett-Tarif): Avatar-Standbild mit Play-Button, Badge „KI-Erklärvideo · Deutsch“, mehrsprachiger Sprachauswahl und dem Hinweis, dass die Videos die Lern-Screens ergänzen, nicht ersetzen](/screenshots/arbeitsschutz/ki-videos.png)
+![Lern-Screen mit KI-Erklärvideo in Hugo Safe (Komplett-Tarif): oben der Fortschrittsbalken (Abschnitt 1/7), darunter ein eingebetteter Video-Player mit einer deutschsprachigen KI-Avatar-Sprecherin (Laufzeit 0:54), darunter der erklärende Text und ein „Aus der Praxis“-Hinweis. Das Video ergänzt die Lern-Screens im selben Ablauf.](/screenshots/arbeitsschutz/ki-videos.png)
 
 ## Was die Videos leisten
 

@@ -26,6 +26,8 @@ Die **DGUV Information 211-005** beschreibt, unter welchen Bedingungen elektroni
 | **Jederzeitige Rückfragemöglichkeit bei benannter Person** | Rückfrage-Funktion + benannte Ansprechperson |
 | **Rechtssichere Dokumentation** | [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) mit Audit-Log und Zeitstempeln |
 
+![Einstellungs-Seite „Ansprechperson & Betrieb“ in Hugo Safe: oben das Pflichtfeld für die benannte Ansprechperson (Name, Funktion, E-Mail, Telefon), an die Rückfragen der Mitarbeiter geleitet werden; darunter der Bereich „Betriebsspezifische Ergänzungen“, mit dem sich jede Unterweisung um die konkreten betrieblichen Gegebenheiten erweitern lässt — beides Kriterien der DGUV Information 211-005](/screenshots/arbeitsschutz/ansprechperson-betrieb.png)
+
 :::note[Wichtiger Wortlaut]
 Die DGUV stellt klar: Elektronische Hilfsmittel **sollen und können die persönliche Unterweisung nicht vollständig ersetzen**. Hugo Safe deckt daher die zulässigen **Online-Teile** ab — die persönliche bzw. praktische Komponente bleibt, wo das Gesetz sie verlangt.
 :::
@@ -40,7 +42,7 @@ Die DGUV stellt klar: Elektronische Hilfsmittel **sollen und können die persön
 
 ## Aufbewahrung der Nachweise
 
-Die **DGUV Information 211-005** nennt als Richtwert eine Aufbewahrung der Unterweisungsnachweise von **mindestens zwei Jahren**. Hugo Safe speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
+Die **DGUV Information 211-005** (Abschnitt 11) nennt als Richtwert eine Aufbewahrung der Unterweisungsnachweise von **mindestens zwei Jahren**. Bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind in der Praxis **fünf Jahre** üblich. Hugo Safe weist dieses Enddatum je Nachweis aus („Aufbewahren bis") und speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
 
 ## Verantwortung und Haftung
 
@@ -54,13 +56,12 @@ Die **DGUV Information 211-005** nennt als Richtwert eine Aufbewahrung der Unter
 Eine **fehlende Unterweisung führt nicht automatisch zu einem festen Bußgeld.** Das tatsächliche Risiko liegt in der **Haftung und im Regress nach einem Arbeitsunfall** sowie in einem Bußgeld bei **Missachtung einer behördlichen Anordnung** (§ 25 ArbSchG). Bei vorsätzlicher Gefährdung von Leben oder Gesundheit kommt § 26 ArbSchG (Straftatbestand) in Betracht. Pauschale Bußgeld-Aussagen ohne diesen Kontext sind irreführend — deshalb verwenden wir sie bewusst nicht.
 :::
 
-## Belegte Zahlen (Quellen)
+## Zahlen & Quellen
 
-Wenn Sie intern argumentieren möchten, hier einige belastbare Zahlen mit Quelle:
+In Deutschland ereignen sich weiterhin **mehrere hunderttausend meldepflichtige Arbeitsunfälle pro Jahr**; Stolper-, Rutsch- und Sturzunfälle zählen dabei zu den häufigsten Unfallarten. Die DGUV veröffentlicht die genauen aktuellen Zahlen jährlich — wenn Sie intern mit belastbaren Werten argumentieren möchten, nutzen Sie die Originalquelle statt gerundeter Sekundärzahlen:
 
-- **754.660** meldepflichtige Arbeitsunfälle 2024 (DGUV).
-- **345** tödliche Arbeitsunfälle 2024 (DGUV).
-- Rund **jeder fünfte** Arbeitsunfall geht auf **Stolpern, Rutschen, Stürzen** zurück (DGUV).
+- DGUV — Arbeits- und Wegeunfallgeschehen (jährlich aktualisiert): [dguv.de/zahlen-fakten](https://www.dguv.de/de/zahlen-fakten/au-wu-geschehen/index.jsp)
+- DGUV-Publikation „Arbeitsunfallgeschehen": [publikationen.dguv.de](https://publikationen.dguv.de/statistiken/arbeitsunfallgeschehen/)
 
 ## Quellen zum Nachlesen
 
