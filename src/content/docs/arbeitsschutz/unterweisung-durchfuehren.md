@@ -7,6 +7,8 @@ sidebar:
 
 So absolviert ein Mitarbeiter eine Unterweisung. Der Ablauf dauert je nach Thema rund 15 Minuten und ist auf jedem Gerät (PC, Tablet, Smartphone) möglich.
 
+![Unterweisungs-Screen aus Mitarbeitersicht: Fortschrittsbalken, offizielle Sicherheitszeichen (ISO 7010), betriebsspezifischer Hinweis, eine Verständnis-Frage und die aktive „Verstanden & befolge“-Bestätigung](/screenshots/arbeitsschutz/unterweisung-durchfuehren.png)
+
 ## Der Ablauf in 4 Schritten
 
 ### Schritt 1: Einstieg

@@ -7,6 +7,8 @@ sidebar:
 
 Das **Nachweis-Dossier** ist das Herzstück von Hugo Safe. Wenn die Berufsgenossenschaft, die Gewerbeaufsicht oder ein Sachverständiger nach Unfall fragt „Können Sie nachweisen, dass Ihre Mitarbeiter unterwiesen wurden?", erzeugen Sie hier das Dokument — auf Knopfdruck, ohne Excel-Archäologie.
 
+![Revisionssicheres Nachweis-Dossier als PDF-Vorschau: Tabelle mit Mitarbeiter, Unterweisung, Datum, Testergebnis und aktiver Bestätigung, dazu eine Audit-Log-Zeile und das Badge „PDF für die Berufsgenossenschaft“](/screenshots/arbeitsschutz/nachweis-dossier.png)
+
 ## Was im Dossier steht
 
 Das Dossier fasst pro Mitarbeiter und Jahr alle absolvierten Unterweisungen zusammen:

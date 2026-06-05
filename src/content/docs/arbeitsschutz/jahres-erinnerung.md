@@ -7,6 +7,8 @@ sidebar:
 
 Unterweisungen sind keine einmalige Sache. Arbeitgeber müssen **mindestens jährlich** unterweisen (§ 12 ArbSchG, § 4 DGUV Vorschrift 1). Hugo Safe übernimmt das Mitzählen für Sie: Wird eine Unterweisung fällig, erinnert die Plattform automatisch — Mitarbeiter und Verantwortliche.
 
+![Fälligkeiten-Dashboard in Hugo Safe mit Ampel-Status (erledigt, bald fällig, überfällig, neu), Countdown bis zur nächsten fälligen Unterweisung je Mitarbeiter und automatischem Erinnerungs-Lauf](/screenshots/arbeitsschutz/jahres-erinnerung.png)
+
 ## Wie die Erinnerung funktioniert
 
 - Hugo Safe merkt sich pro Mitarbeiter und Unterweisung das **Abschlussdatum**.

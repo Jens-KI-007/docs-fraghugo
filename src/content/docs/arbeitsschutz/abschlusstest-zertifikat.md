@@ -7,6 +7,8 @@ sidebar:
 
 Jede Unterweisung endet mit einer **Verständnisprüfung**. Das ist kein Selbstzweck: Die DGUV Information 211-005 verlangt für eine rechtssichere Online-Unterweisung eine Erfolgskontrolle. Hugo Safe bildet das mit Abschlusstest, aktiver Bestätigung und Zertifikat ab.
 
+![Abschlusstest-Ergebnis in Hugo Safe: 86 % erreicht, Bestehensgrenze 80 % bestanden, daneben das automatisch erzeugte Zertifikat mit Mitarbeitername, Unterweisungstitel, Datum und Testergebnis](/screenshots/arbeitsschutz/abschlusstest-zertifikat.png)
+
 ## Der Abschlusstest
 
 - **Kurze Verständnisfragen** zum Thema der Unterweisung.

@@ -7,6 +7,8 @@ sidebar:
 
 Bevor jemand unterwiesen werden kann, müssen Ihre Mitarbeiter in Hugo Safe angelegt sein. Anschließend weist Hugo Safe jedem Mitarbeiter automatisch die passenden Pflicht-Unterweisungen zu — abhängig vom Tätigkeitsbereich.
 
+![Mitarbeiter-Liste in Hugo Safe mit Tätigkeitsbereichen (Büro, Lager, Fahrer, Branche), Zuweisungs-Fortschritt pro Person und automatischer Bereichs-Zuweisung der Pflicht-Unterweisungen](/screenshots/arbeitsschutz/mitarbeiter-anlegen-zuweisen.png)
+
 ## Mitarbeiter anlegen
 
 Sie haben drei Wege:
