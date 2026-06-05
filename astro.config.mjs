@@ -90,6 +90,7 @@ export default defineConfig({
 						{ label: 'Agentur-Bereich', slug: 'website-it-sicherheit/agentur-bereich' },
 						{ label: 'Bulk-Scan', slug: 'website-it-sicherheit/bulk-scan' },
 						{ label: 'Konkurrenz-Vergleich', slug: 'website-it-sicherheit/konkurrenz-vergleich' },
+						{ label: 'Trust-Badge einbinden', slug: 'website-it-sicherheit/trust-badge' },
 						{ label: 'API-Zugang', slug: 'website-it-sicherheit/api-zugang' },
 					],
 				},
@@ -119,6 +120,20 @@ export default defineConfig({
 						{ label: 'NIS2-Dashboard', slug: 'isms-nis2/nis2-dashboard' },
 						{ label: 'BSI-Registrierung', slug: 'isms-nis2/bsi-registrierung' },
 						{ label: 'GF-Schulung §38', slug: 'isms-nis2/gf-schulung' },
+					],
+				},
+				{
+					label: 'Arbeitsschutz',
+					items: [
+						{ label: 'Übersicht', slug: 'arbeitsschutz' },
+						{ label: 'Mitarbeiter anlegen & zuweisen', slug: 'arbeitsschutz/mitarbeiter-anlegen-zuweisen' },
+						{ label: 'Unterweisung durchführen', slug: 'arbeitsschutz/unterweisung-durchfuehren' },
+						{ label: 'Abschlusstest & Zertifikat', slug: 'arbeitsschutz/abschlusstest-zertifikat' },
+						{ label: 'Nachweis-Dossier', slug: 'arbeitsschutz/nachweis-dossier' },
+						{ label: 'Jahres-Erinnerung', slug: 'arbeitsschutz/jahres-erinnerung' },
+						{ label: 'KI-Erklärvideos', slug: 'arbeitsschutz/ki-videos' },
+						{ label: 'Gefährdungsbeurteilung verknüpfen', slug: 'arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung' },
+						{ label: 'Rechtliche Hinweise', slug: 'arbeitsschutz/rechtliche-hinweise' },
 					],
 				},
 				{
