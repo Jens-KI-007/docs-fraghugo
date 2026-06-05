@@ -90,7 +90,6 @@ export default defineConfig({
 						{ label: 'Agentur-Bereich', slug: 'website-it-sicherheit/agentur-bereich' },
 						{ label: 'Bulk-Scan', slug: 'website-it-sicherheit/bulk-scan' },
 						{ label: 'Konkurrenz-Vergleich', slug: 'website-it-sicherheit/konkurrenz-vergleich' },
-						{ label: 'Trust-Badge einbinden', slug: 'website-it-sicherheit/trust-badge' },
 						{ label: 'API-Zugang', slug: 'website-it-sicherheit/api-zugang' },
 					],
 				},
