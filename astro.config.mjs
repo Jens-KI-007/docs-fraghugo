@@ -152,7 +152,17 @@ export default defineConfig({
 						{ label: 'Fortschritt im Blick', slug: 'schulungen/uebersicht-schulungen' },
 						{ label: 'Mitarbeiter verwalten', slug: 'schulungen/mitarbeiter' },
 						{ label: 'Phishing-Simulation', slug: 'schulungen/phishing-simulation' },
+						{ label: 'Unterweisungs-Baukasten (KI)', slug: 'schulungen/unterweisungs-baukasten' },
 						{ label: 'M365-Integration', slug: 'schulungen/m365-integration' },
+					],
+				},
+				{
+					label: 'Für Schulen & Träger',
+					items: [
+						{ label: 'Übersicht', slug: 'schulen/uebersicht' },
+						{ label: 'Meine Schule (Träger)', slug: 'schulen/meine-schule' },
+						{ label: 'Klassen & Schüler-Unterweisungen', slug: 'schulen/klassen-schueler' },
+						{ label: 'Barrierefreiheit (BITV 2.0)', slug: 'schulen/barrierefreiheit' },
 					],
 				},
 				{
