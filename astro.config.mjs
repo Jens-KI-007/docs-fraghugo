@@ -161,6 +161,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Übersicht', slug: 'schulen/uebersicht' },
 						{ label: 'Meine Schule (Träger)', slug: 'schulen/meine-schule' },
+						{ label: 'Mitarbeiter per CSV importieren', slug: 'schulen/csv-import' },
 						{ label: 'Klassen & Schüler-Unterweisungen', slug: 'schulen/klassen-schueler' },
 						{ label: 'Barrierefreiheit (BITV 2.0)', slug: 'schulen/barrierefreiheit' },
 					],
