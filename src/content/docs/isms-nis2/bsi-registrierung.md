@@ -19,6 +19,10 @@ Wenn Ihre Firma NIS2-betroffen ist, **müssen Sie Sie beim BSI registrieren** �
 - Beschreibung der erbrachten Dienste
 - **Liste der NIS2-relevanten Dienste** mit Schutzbedarf-Klassifikation
 
+:::note[Kein eigenes IT-Team?]
+Zu den Pflichtangaben gehört auch der **IT-Dienstleister mit Zugriff**. NIS2 verlangt, dass die technischen Schutzmaßnahmen tatsächlich betrieben werden — nicht nur dokumentiert. Unternehmen ohne eigene IT-Abteilung decken das über eine [externe IT-Abteilung als Service](https://www.kjello.de/externe-it-abteilung) ab.
+:::
+
 ## So gehen Sie vor
 
 ### Schritt 1: Daten zusammen

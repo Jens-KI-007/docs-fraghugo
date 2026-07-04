@@ -36,6 +36,10 @@ Hugo gibt einen Vorschlag basierend auf Datenkategorie und Umfang. Sie können �
 - Was haben Sie sofort getan (Passwort zurückgesetzt, Konto gesperrt, Backup geprüft)
 - Was planst Sie noch (Pen-Test, Schulung, ...)
 
+:::note[Technische Sofortreaktion]
+Konto sperren, betroffene Systeme isolieren, Backups prüfen und sauber wiederherstellen: Diese Schritte macht Ihre IT im Ernstfall. Wer kein eigenes IT-Team hat, braucht dafür einen [festen IT-Ansprechpartner](https://www.kjello.de/funktionen/support) mit garantierter Reaktionszeit.
+:::
+
 ### Schritt 6: Meldung
 Je nach Bewertung:
 

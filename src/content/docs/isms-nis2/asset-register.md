@@ -35,6 +35,10 @@ Hugo kann **Microsoft-365-Sync** machen → alle Endgeräte + Lizenzen + User we
 
 Ebenfalls möglich: Cloud-Konten (AWS, Azure, GCP), Netzwerk-Scan, CMDB-Import.
 
+:::note[Assets nicht nur erfassen, sondern betreiben]
+Das Register hält Ihre Hardware, Software und Lizenzen fest. Das laufende **Betreiben** dieser Geräte — Updates, Austausch, Lizenz-Pflege — übernimmt bei Unternehmen ohne eigene IT ein Managed-IT-Dienstleister wie [kjello](https://www.kjello.de/funktionen/geraete-management).
+:::
+
 ## Filter / Sichten
 
 - **Kritische Assets** — Schutzbedarf hoch

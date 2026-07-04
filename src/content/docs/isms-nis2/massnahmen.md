@@ -28,6 +28,10 @@ Bei Anlage können Sie aus dem Katalog wählen oder Custom-Maßnahmen erstellen.
 - **Letzte Prüfung** — wann zuletzt geprüft
 - **Nachweis** — Dateien anhängen
 
+:::note[Wer setzt die Maßnahmen technisch um?]
+Hugo plant, priorisiert und dokumentiert Ihre Maßnahmen samt Nachweis. Die **technische Umsetzung** — etwa Backups, Multi-Faktor-Authentifizierung, Endpoint-Schutz oder Zugriffskontrolle — übernimmt Ihre IT. Betriebe ohne eigenes IT-Team lagern das an einen Managed-IT-Dienstleister wie [kjello](https://www.kjello.de/funktionen/sicherheit-compliance) aus, der die Maßnahmen einrichtet und betreibt.
+:::
+
 ## Maßnahmenplan
 
 Filterbar nach Status. Wichtige Sichten:
