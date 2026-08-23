@@ -21,6 +21,7 @@ Hugo Safe digitalisiert genau das — von der automatischen Zuweisung nach Täti
 
 | Anleitung | Wofür |
 |---|---|
+| [Modulkatalog](/arbeitsschutz/modulkatalog/) | Alle 156 Unterweisungen nach Branche, mit Tarif-Zuordnung |
 | [Mitarbeiter anlegen & zuweisen](/arbeitsschutz/mitarbeiter-anlegen-zuweisen/) | Beschäftigte importieren, Tätigkeitsbereiche festlegen, Unterweisungen automatisch zuweisen |
 | [Unterweisung durchführen](/arbeitsschutz/unterweisung-durchfuehren/) | Wie ein Mitarbeiter eine Unterweisung absolviert — Schritt für Schritt |
 | [Abschlusstest & Zertifikat](/arbeitsschutz/abschlusstest-zertifikat/) | Verständnisprüfung mit 80-%-Grenze, Bestätigung, Zertifikat |
@@ -28,7 +29,7 @@ Hugo Safe digitalisiert genau das — von der automatischen Zuweisung nach Täti
 | [Jahres-Erinnerung](/arbeitsschutz/jahres-erinnerung/) | Automatische Erinnerung, wenn eine Unterweisung wieder fällig wird |
 | [KI-Erklärvideos](/arbeitsschutz/ki-videos/) | Deutschsprachige Erklärvideos im Komplett-Tarif |
 | [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/) | Unterweisungen an die Gefährdungsbeurteilung anbinden — mit klarer Abgrenzung |
-| [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/) | DGUV-211-005-Kriterien, Präsenz- und mündliche Pflichten, Aufbewahrung |
+| [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/) | Kriterien der DGUV Regel 100-001, Präsenz- und mündliche Pflichten, Aufbewahrung |
 
 ## Die Tarife im Überblick
 
@@ -36,11 +37,11 @@ Alle Preise sind **Netto** (zzgl. 19 % USt), jährlich abgerechnet, 12 Monate Mi
 
 | Tarif | Preis/MA/Jahr | Inhalt |
 |---|---|---|
-| **Free** | 0 € | 2 Unterweisungen (Allgemeine Sicherheit + Brandschutz), bis 20 Mitarbeiter |
-| **Basis** | ab 14,90 € | 10 Unterweisungen (Büro & allgemein), unbegrenzte Mitarbeiterzahl |
-| **Komplett** | ab 34,90 € | alle 24 Unterweisungen (+ Lager, Produktion, Fahrer, Branche) + KI-Erklärvideos |
+| **Free** | 0 € | 2 Unterweisungen (Allgemeine Sicherheit + Brandschutz), bis 20 Mitarbeiter — unbefristet, ohne Kreditkarte |
+| **Basis** | ab 14,90 € | 25 Unterweisungen — die Branche „Alle / Büro“, also alles, was in jedem Betrieb gilt; unbegrenzte Mitarbeiterzahl |
+| **Komplett** | ab 34,90 € | alle 156 Unterweisungen aus 13 Branchen + KI-Erklärvideos |
 
-Der Mengenrabatt greift automatisch im Checkout: **Basis** 14,90 € → 9,90 € (ab 100 MA) → 7,90 € (ab 500 MA), **Komplett** 34,90 € → 24,90 € (ab 100 MA) → 16,90 € (ab 500 MA) — jeweils pro Mitarbeiter/Jahr. Die **Rechtssicherheits-Features** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos.
+Der Mengenrabatt greift automatisch im Checkout: **Basis** 14,90 € → 9,90 € (ab 100 MA) → 7,90 € (ab 500 MA), **Komplett** 34,90 € → 24,90 € (ab 100 MA) → 16,90 € (ab 500 MA) — jeweils pro Mitarbeiter/Jahr. Die **Rechtssicherheits-Features** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos. Kurzformel: **Basis = die Branche „Alle / Büro“. Komplett = plus Ihre zwölf weiteren Branchen.**
 
 Buchen oder upgraden: [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghugo.de/upgrade/arbeitsschutz). DSB-Kunden erhalten mit dem Combo-Rabatt `COMBO-DSB-SAFE-15` 15 % auf Hugo Safe.
 
@@ -56,7 +57,7 @@ Wir formulieren bewusst klar, damit Sie sich auf den Nachweis verlassen können.
 :::
 
 :::note[Was korrekt ist]
-Hugo Safe ist **DGUV-konform als Blended Learning** (DGUV Information 211-005): arbeitsplatzbezogen, mit Verständnisprüfung, jederzeitiger Rückfragemöglichkeit bei einer benannten Person und revisionssicherer Dokumentation. Damit erfüllen Sie die jährliche Unterweisungspflicht **im Rahmen der Online-Teile** — und haben den Nachweis auf Knopfdruck.
+Hugo Safe ist **DGUV-konform als Blended Learning** (DGUV Regel 100-001): arbeitsplatzbezogen, mit Verständnisprüfung, jederzeitiger Rückfragemöglichkeit bei einer benannten Person und revisionssicherer Dokumentation. Damit erfüllen Sie die jährliche Unterweisungspflicht **im Rahmen der Online-Teile** — und haben den Nachweis auf Knopfdruck.
 :::
 
 ## So fangen Sie an

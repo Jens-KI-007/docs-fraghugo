@@ -37,7 +37,7 @@ Eine Unterweisung lässt sich jederzeit unterbrechen und später an derselben St
 
 ## Rückfragen an die benannte Person
 
-Während und nach der Unterweisung kann der Mitarbeiter über die **Rückfrage-Funktion** Fragen an eine benannte Ansprechperson stellen. Diese jederzeitige Rückfragemöglichkeit ist ein Kriterium der DGUV Information 211-005 — siehe [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
+Während und nach der Unterweisung kann der Mitarbeiter über die **Rückfrage-Funktion** Fragen an eine benannte Ansprechperson stellen. Diese jederzeitige Rückfragemöglichkeit ist ein Kriterium der DGUV Regel 100-001 — siehe [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
 
 :::caution[Praxisteile bleiben Präsenz]
 Praktische Übungen — Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren, Erste-Hilfe-Praxis, Räumungsübungen — lassen sich **nicht** online ersetzen und finden vor Ort statt. Bei Gefahrstoffen kommt zusätzlich eine **mündliche, arbeitsplatzbezogene** Komponente hinzu (§ 14 GefStoffV).

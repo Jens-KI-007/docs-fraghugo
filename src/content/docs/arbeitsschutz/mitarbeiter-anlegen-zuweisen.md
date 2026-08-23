@@ -42,7 +42,7 @@ Sie können die Zuweisung pro Mitarbeiter jederzeit verfeinern — einzelne Unte
 
 ## Betriebsspezifische Ergänzung
 
-Jede Unterweisung lässt sich um **betriebsspezifische Hinweise** ergänzen (z. B. Ihre konkreten Fluchtwege, der Standort des Feuerlöschers, Ihre Hausordnung). Das macht die Unterweisung arbeitsplatzbezogen — ein Kriterium der DGUV Information 211-005. Mehr dazu unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
+Jede Unterweisung lässt sich um **betriebsspezifische Hinweise** ergänzen (z. B. Ihre konkreten Fluchtwege, der Standort des Feuerlöschers, Ihre Hausordnung). Das macht die Unterweisung arbeitsplatzbezogen — ein Kriterium der DGUV Regel 100-001. Mehr dazu unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
 
 ## Mitarbeiter einladen
 

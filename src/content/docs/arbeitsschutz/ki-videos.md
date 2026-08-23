@@ -17,7 +17,7 @@ Im **Komplett**-Tarif ergänzen **KI-Erklärvideos** die Lern-Screens jeder Unte
 - Eingebunden in den normalen Unterweisungs-Flow: Video ansehen → Lern-Screens → [Abschlusstest](/arbeitsschutz/abschlusstest-zertifikat/).
 
 :::note[Nur im Komplett-Tarif]
-KI-Erklärvideos sind Teil des **Komplett**-Tarifs (alle 24 Unterweisungen). In **Free** und **Basis** werden die Inhalte über Lern-Screens mit Bildern und offiziellen Sicherheitszeichen vermittelt — ebenfalls vollständig DGUV-konform.
+KI-Erklärvideos sind Teil des **Komplett**-Tarifs (alle 156 Unterweisungen aus 13 Branchen). In **Free** und **Basis** werden die Inhalte über Lern-Screens mit Bildern und offiziellen Sicherheitszeichen vermittelt — ebenfalls vollständig DGUV-konform.
 :::
 
 ## Warum KI-Videos?
@@ -27,7 +27,7 @@ Klassische Unterweisungsvideos sind teuer und veralten schnell. KI-generierte Er
 ## Was die Videos nicht ersetzen
 
 :::caution[Theorie ja — Praxis vor Ort]
-Auch ein gutes Erklärvideo bleibt **Theorie**. Praktische Übungen — Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren, Erste-Hilfe-Praxis, Räumungsübungen — finden weiterhin **vor Ort** statt. Bei Gefahrstoffen kommt die **mündliche, arbeitsplatzbezogene** Komponente hinzu (§ 14 GefStoffV). Ein E-Learning-Video soll und kann die persönliche Unterweisung nicht vollständig ersetzen (DGUV Information 211-005).
+Auch ein gutes Erklärvideo bleibt **Theorie**. Praktische Übungen — Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren, Erste-Hilfe-Praxis, Räumungsübungen — finden weiterhin **vor Ort** statt. Bei Gefahrstoffen kommt die **mündliche, arbeitsplatzbezogene** Komponente hinzu (§ 14 GefStoffV). Ein E-Learning-Video soll und kann die persönliche Unterweisung nicht vollständig ersetzen (DGUV Regel 100-001).
 :::
 
 ## Tipps

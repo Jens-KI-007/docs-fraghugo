@@ -39,7 +39,7 @@ Jeder Eintrag im Dossier stammt aus dem **Audit-Log** und trägt einen Zeitstemp
 
 ## Aufbewahrung
 
-Bewahren Sie die Unterweisungsnachweise auf. Die DGUV Information 211-005 nennt als Richtwert **mindestens zwei Jahre**; bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind **fünf Jahre** üblich. Genau dieses Enddatum weist das Dossier je Nachweis in der Spalte „Aufbew. bis" aus. Hugo Safe speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie ältere Jahrgänge jederzeit erneut exportieren können. Details unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
+Bewahren Sie die Unterweisungsnachweise auf. Eine feste gesetzliche Frist gibt es nicht; **praxisüblich sind mindestens zwei Jahre**, bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind **fünf Jahre** üblich. Genau dieses Enddatum weist das Dossier je Nachweis in der Spalte „Aufbew. bis" aus. Hugo Safe speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie ältere Jahrgänge jederzeit erneut exportieren können. Details unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
 
 :::caution[Was das Dossier belegt — und was nicht]
 Das Nachweis-Dossier belegt die **durchgeführten Online-Unterweisungen**. Praktische Übungen (Feuerlöscher, PSA, Stapler) und die mündliche Gefahrstoff-Komponente (§ 14 GefStoffV) finden vor Ort statt und werden dort separat dokumentiert. Das Dossier ersetzt außerdem **nicht** die Gefährdungsbeurteilung (§ 5 ArbSchG).

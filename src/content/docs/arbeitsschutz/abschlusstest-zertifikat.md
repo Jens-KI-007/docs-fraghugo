@@ -5,7 +5,7 @@ sidebar:
   order: 4
 ---
 
-Jede Unterweisung endet mit einer **Verständnisprüfung**. Das ist kein Selbstzweck: Die DGUV Information 211-005 verlangt für eine rechtssichere Online-Unterweisung eine Erfolgskontrolle. Hugo Safe bildet das mit Abschlusstest, aktiver Bestätigung und Zertifikat ab.
+Jede Unterweisung endet mit einer **Verständnisprüfung**. Das ist kein Selbstzweck: Die DGUV Regel 100-001 verlangt für eine rechtssichere Online-Unterweisung eine Erfolgskontrolle. Hugo Safe bildet das mit Abschlusstest, aktiver Bestätigung und Zertifikat ab.
 
 ![Abschlusstest in Hugo Safe aus Mitarbeitersicht: Fortschritt „Frage 1 / 8“, eine Verständnisfrage mit vier Antwortmöglichkeiten (A–D) zum Auswählen](/screenshots/arbeitsschutz/abschlusstest-frage.png)
 
@@ -16,7 +16,7 @@ Jede Unterweisung endet mit einer **Verständnisprüfung**. Das ist kein Selbstz
 - **Wiederholung jederzeit** — bei Nichtbestehen kann der Mitarbeiter die Lern-Screens erneut durchgehen und den Test neu starten.
 
 :::note[Warum 80 %?]
-Die 80-%-Grenze stellt sicher, dass die Inhalte tatsächlich verstanden wurden — nicht nur durchgeklickt. Das ist die „Erfolgskontrolle / Verständnisprüfung" im Sinne der DGUV Information 211-005.
+Die 80-%-Grenze stellt sicher, dass die Inhalte tatsächlich verstanden wurden — nicht nur durchgeklickt. Das ist die „Erfolgskontrolle / Verständnisprüfung" im Sinne der DGUV Regel 100-001.
 :::
 
 ![Ergebnis-Screen nach dem Abschlusstest in Hugo Safe: grünes Auszeichnungs-Symbol, „Bestanden“, „7 von 8 Fragen richtig · 88 %“, ein grüner Fortschrittsbalken mit dem Hinweis „80 % benötigt“ und der Button „Bestätigen & abschließen“](/screenshots/arbeitsschutz/abschlusstest-zertifikat.png)

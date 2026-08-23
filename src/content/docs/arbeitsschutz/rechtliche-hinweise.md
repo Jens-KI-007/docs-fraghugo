@@ -1,6 +1,6 @@
 ---
 title: Rechtliche Hinweise
-description: Rechtsgrundlagen rund um Hugo Safe — DGUV-Information-211-005-Kriterien für Online-Unterweisungen, Präsenz- und mündliche Pflichten, Aufbewahrung sowie die Paragrafen § 12, § 5, § 13 und § 25 ArbSchG.
+description: Rechtsgrundlagen rund um Hugo Safe — DGUV Regel 100-001-Kriterien für Online-Unterweisungen, Präsenz- und mündliche Pflichten, Aufbewahrung sowie die Paragrafen § 12, § 5, § 13 und § 25 ArbSchG.
 sidebar:
   order: 9
 ---
@@ -17,16 +17,16 @@ Diese Seite fasst die rechtlichen Grundlagen zusammen, auf denen Hugo Safe aufse
 
 ## Wann eine Online-Unterweisung rechtssicher ist
 
-Die **DGUV Information 211-005** beschreibt, unter welchen Bedingungen elektronisch gestützte Unterweisungen (Blended Learning) zulässig sind. Vier Kriterien sind maßgeblich — Hugo Safe bildet alle vier ab:
+Die **DGUV Regel 100-001 „Grundsätze der Prävention“** (aktualisiert Juni 2025) beschreibt die Unterweisung ausführlich: Elektronische Hilfsmittel dürfen eingesetzt werden, ein reines Selbststudium reicht aber nicht. Vier Kriterien sind maßgeblich — Hugo Safe bildet alle vier ab:
 
-| Kriterium der DGUV 211-005 | Umsetzung in Hugo Safe |
+| Kriterium der DGUV Regel 100-001 | Umsetzung in Hugo Safe |
 |---|---|
 | **Arbeitsplatzbezogen** | betriebsspezifische Ergänzung je Modul (Ihre Fluchtwege, Maschinen, Gefahrstoffe) |
 | **Verständnisprüfung / Erfolgskontrolle** | [Abschlusstest](/arbeitsschutz/abschlusstest-zertifikat/) mit 80-%-Bestehensgrenze |
 | **Jederzeitige Rückfragemöglichkeit bei benannter Person** | Rückfrage-Funktion + benannte Ansprechperson |
 | **Rechtssichere Dokumentation** | [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) mit Audit-Log und Zeitstempeln |
 
-![Einstellungs-Seite „Ansprechperson & Betrieb“ in Hugo Safe: oben das Pflichtfeld für die benannte Ansprechperson (Name, Funktion, E-Mail, Telefon), an die Rückfragen der Mitarbeiter geleitet werden; darunter der Bereich „Betriebsspezifische Ergänzungen“, mit dem sich jede Unterweisung um die konkreten betrieblichen Gegebenheiten erweitern lässt — beides Kriterien der DGUV Information 211-005](/screenshots/arbeitsschutz/ansprechperson-betrieb.png)
+![Einstellungs-Seite „Ansprechperson & Betrieb“ in Hugo Safe: oben das Pflichtfeld für die benannte Ansprechperson (Name, Funktion, E-Mail, Telefon), an die Rückfragen der Mitarbeiter geleitet werden; darunter der Bereich „Betriebsspezifische Ergänzungen“, mit dem sich jede Unterweisung um die konkreten betrieblichen Gegebenheiten erweitern lässt — beides Kriterien der DGUV Regel 100-001](/screenshots/arbeitsschutz/ansprechperson-betrieb.png)
 
 :::note[Wichtiger Wortlaut]
 Die DGUV stellt klar: Elektronische Hilfsmittel **sollen und können die persönliche Unterweisung nicht vollständig ersetzen**. Hugo Safe deckt daher die zulässigen **Online-Teile** ab — die persönliche bzw. praktische Komponente bleibt, wo das Gesetz sie verlangt.
@@ -42,7 +42,7 @@ Die DGUV stellt klar: Elektronische Hilfsmittel **sollen und können die persön
 
 ## Aufbewahrung der Nachweise
 
-Die **DGUV Information 211-005** (Abschnitt 11) nennt als Richtwert eine Aufbewahrung der Unterweisungsnachweise von **mindestens zwei Jahren**. Bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind in der Praxis **fünf Jahre** üblich. Hugo Safe weist dieses Enddatum je Nachweis aus („Aufbewahren bis") und speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
+Die Unterweisung ist zu dokumentieren (**§ 4 DGUV Vorschrift 1**). Für die Aufbewahrung der Nachweise nennt das Regelwerk keine feste Frist; **praxisüblich sind mindestens zwei Jahre**. Bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind in der Praxis **fünf Jahre** üblich. Hugo Safe weist dieses Enddatum je Nachweis aus („Aufbewahren bis") und speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
 
 ## Verantwortung und Haftung
 
@@ -66,7 +66,7 @@ In Deutschland ereignen sich weiterhin **mehrere hunderttausend meldepflichtige 
 ## Quellen zum Nachlesen
 
 - Gesetze: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/) (§ 5, § 12, § 13, § 25, § 26 ArbSchG; § 14 GefStoffV; § 29 JArbSchG)
-- DGUV-Publikationen: [publikationen.dguv.de](https://publikationen.dguv.de/) (DGUV Vorschrift 1, DGUV Information 211-005)
+- DGUV-Publikationen: [publikationen.dguv.de](https://publikationen.dguv.de/) (DGUV Vorschrift 1, DGUV Regel 100-001)
 - Bundesanstalt für Arbeitsschutz und Arbeitsmedizin: [baua.de](https://www.baua.de/)
 
 :::note[Kein Ersatz für individuelle Beratung]
