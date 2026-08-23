@@ -40,3 +40,21 @@ Wenn Sie mehrere Firmen betreuen (DSB-Modell), sehen Sie hier alle. Sie können 
 ## Abmelden
 
 Rechts unten — beendet die Sitzung in diesem Browser. Andere Geräte bleiben eingeloggt.
+
+## Sprache der Oberfläche
+
+Die Plattform lässt sich pro Benutzer auf **Englisch** umstellen — die Einstellung finden Sie
+in Ihrem Profil, alternativ über den DE|EN-Schalter unten in der Seitenleiste. Übersetzt sind
+Navigation, Dashboards und die Kern-Ansichten; einige tiefere Formular-Assistenten
+(VVT-Detail, DSFA) ziehen schrittweise nach. Ein Hinweisbanner nennt den jeweils aktuellen Stand.
+
+:::note[Was die Umstellung nicht ändert]
+Die Sprachwahl betrifft die **Oberfläche**. Erzeugte Dokumente, hochgeladene Dateien und die
+Inhalte der Unterweisungen und Schulungen bleiben in ihrer Originalsprache — bei den
+Arbeitsschutz-Unterweisungen also Deutsch.
+:::
+
+**Weitere Sprachen** richten wir auf Wunsch ein. Sprechen Sie uns an; Umfang und Termin klären
+wir verbindlich im Erstgespräch. Hintergrund: Für Unterweisungen mit Gefahrstoffbezug verlangt
+§ 14 Abs. 2 GefStoffV, dass sie *in für die Beschäftigten verständlicher Form und Sprache*
+erfolgen — wo die Belegschaft kein Deutsch spricht, ist das eine Rechtsfrage.
