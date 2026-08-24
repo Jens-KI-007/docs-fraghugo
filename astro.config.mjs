@@ -159,6 +159,18 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Hugo Phish (Phishing-Simulation)',
+					items: [
+						{ label: 'Übersicht', slug: 'hugo-phish/uebersicht' },
+						{ label: 'Schnellstart', slug: 'hugo-phish/schnellstart' },
+						{ label: 'Zustellbarkeit einrichten', slug: 'hugo-phish/zustellbarkeit' },
+						{ label: 'Jahresprogramm', slug: 'hugo-phish/programm' },
+						{ label: 'Betriebsrat & Datenschutz', slug: 'hugo-phish/betriebsrat' },
+						{ label: 'Berichte & Nachweis', slug: 'hugo-phish/berichte' },
+						{ label: 'Häufige Fragen', slug: 'hugo-phish/faq' },
+					],
+				},
+				{
 					label: 'Für Schulen & Träger',
 					items: [
 						{ label: 'Übersicht', slug: 'schulen/uebersicht' },
