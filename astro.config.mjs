@@ -167,6 +167,7 @@ export default defineConfig({
 						{ label: 'Jahresprogramm', slug: 'hugo-phish/programm' },
 						{ label: 'Betriebsrat & Datenschutz', slug: 'hugo-phish/betriebsrat' },
 						{ label: 'Berichte & Nachweis', slug: 'hugo-phish/berichte' },
+						{ label: 'Meldebutton (Outlook)', slug: 'hugo-phish/meldebutton' },
 						{ label: 'Häufige Fragen', slug: 'hugo-phish/faq' },
 					],
 				},
