@@ -15,6 +15,7 @@ Ihre Website ist die häufigste Angriffsfläche für Aufsichtsbehörden und Abma
 | [Agentur-Bereich](/website-it-sicherheit/agentur-bereich/) | Kunden-Verwaltung für Agenturen + Whitelabel |
 | [Bulk-Scan](/website-it-sicherheit/bulk-scan/) | Mehrere Websites parallel scannen |
 | [Konkurrenz-Vergleich](/website-it-sicherheit/konkurrenz-vergleich/) | Sich neben Wettbewerbern positionieren |
+| [Trust-Badge einbinden](/website-it-sicherheit/trust-badge/) | Kostenloses „Datenschutz geprüft"-Siegel im Footer |
 | [API-Zugang](/website-it-sicherheit/api-zugang/) | Eigene Integration ins CRM / Reporting |
 
 ## Was wird geprüft?
