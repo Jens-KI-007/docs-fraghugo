@@ -7,6 +7,8 @@ Ohne Allowlisting behandeln Sicherheitsfilter die Simulations-Mails wie echtes P
 verschieben sie in die Quarantäne. Die Klickrate wäre dann 0 % — und Sie hielten Ihre Belegschaft
 fälschlich für vorbildlich. Deshalb startet **keine Kampagne, bevor die Zustellung bestätigt ist**.
 
+![Assistent „Zustellbarkeit einrichten“ mit der Warnung zur Quarantäne, Reitern für Microsoft 365, Google Workspace, Mimecast, Proofpoint und Hornetsecurity, einer siebenstufigen Anleitung für Microsoft 365 und rechts dem Feld, um eine Prüfmail an ein Postfach dieser Umgebung zu senden](/screenshots/hugo-phish/zustellbarkeit.jpg)
+
 Im Cockpit unter *Zustellung prüfen* finden Sie die konkreten Werte (Absender-Domains, Sende-IP,
 URL-Muster) zum Kopieren. Tragen Sie sie in Ihrer Umgebung ein:
 

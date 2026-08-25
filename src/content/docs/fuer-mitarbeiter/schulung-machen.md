@@ -1,9 +1,14 @@
 ---
 title: Schulung machen
-description: Wie Sie eine zugewiesene Schulung startest, durchgehst und abschließt.
+description: Wie Sie eine zugewiesene Schulung starten, durchgehen und abschließen.
 ---
 
-## So findest Sie Ihre Schulungen
+
+So sieht ein Modul von innen aus:
+
+![Ein Modul in der Lernansicht: Fortschrittsbalken bei Abschnitt 1 von 6, ein Erklärvideo mit der Kennzeichnung „KI-generiert“ und dem Hinweis, dass es transparent mit KI erstellt wurde, darunter der Lerntext und die geprüften Quellen](/screenshots/schulungen/modul-innenansicht.jpg)
+
+## So finden Sie Ihre Schulungen
 
 1. **Login** unter app.fraghugo.de mit dem Passwort aus der Begrüßungs-Mail.
 2. **Startseite** zeigt Ihnen oben "Ihre offenen Schulungen".
@@ -12,14 +17,14 @@ description: Wie Sie eine zugewiesene Schulung startest, durchgehst und abschlie
 ## So läuft eine Schulung ab
 
 1. **Intro-Video / Slides** — meist 5–15 Minuten.
-2. **Interaktive Aufgabe** dazwischen — kurze Übung, Drag-and-drop oder Klicken Sie-Reaktion.
+2. **Interaktive Aufgabe** dazwischen — kurze Übung, Drag-and-drop oder Klick-Reaktion.
 3. **Quiz** am Ende — 5–10 Fragen.
 4. **Bestehen** ab 80 % richtig → Zertifikat sofort verfügbar.
 5. **Durchgefallen?** Sie können beliebig oft wiederholen. Keine Frustration.
 
 ## Speichern + Pause
 
-Sie können die Schulung jederzeit pausieren und später weitermachen. Beim Wieder-Login springst Sie zur letzten Stelle.
+Sie können die Schulung jederzeit pausieren und später weitermachen. Beim nächsten Login sind Sie wieder an der letzten Stelle.
 
 ## Geräte
 

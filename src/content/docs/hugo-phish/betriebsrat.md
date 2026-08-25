@@ -6,6 +6,8 @@ description: Anonymität technisch erzwungen, Musterbetriebsvereinbarung, verifi
 In Deutschland scheitern Phishing-Programme selten an der Technik, sondern am Betriebsrat. Hugo Phish
 ist dafür gebaut.
 
+![Auswertung nach Abteilungen mit dem Hinweis „Gruppen ab 5 Personen (kleinere werden aus Datenschutzgründen nicht ausgewiesen)“ und dem Kasten „Einzelauswertung ist im Betriebsrats-Modus abgeschaltet“, der erläutert, dass die Sperre in der Datenbank erzwungen und keine Einstellung der Oberfläche ist](/screenshots/hugo-phish/betriebsrat-auswertung.jpg)
+
 ## Mitbestimmung
 Eine Phishing-Simulation erfasst Verhaltensdaten und ist damit eine technische Einrichtung im Sinne
 des **§ 87 Abs. 1 Nr. 6 BetrVG**. In mitbestimmten Betrieben ist sie ohne Betriebsvereinbarung

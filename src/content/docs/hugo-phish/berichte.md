@@ -3,6 +3,10 @@ title: Hugo Phish — Berichte & Nachweis
 description: Report-PDF und Audit-Paket für NIS2, ISO 27001, DSGVO Art. 32 und § 391 SGB V.
 ---
 
+Beide Nachweise liegen unter *Nachweis & Berichte* — der Schulungsstand und die Simulations-Berichte auf derselben Seite.
+
+![Ansicht „Nachweis & Berichte“ mit dem Schulungsnachweis (21 aktuell zertifiziert, 2 bald fällig, 1 überfällig, 1 nicht begonnen), den Schaltflächen für PDF und CSV sowie den beiden Berichtsarten Programm-Report und Audit-Paket](/screenshots/hugo-phish/berichte.jpg)
+
 ## Programm-Report
 Eine Seite für die Geschäftsführung: Resilienz-Index, Melderate und Branchen-Einordnung. Ideal für
 den Quartals-Überblick.

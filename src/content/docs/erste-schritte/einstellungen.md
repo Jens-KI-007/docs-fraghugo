@@ -5,7 +5,7 @@ description: Profil, Passwort, Firmendaten, Benachrichtigungen, Branding. Alles 
 
 ![Einstellungen-Seite](/screenshots/erste-schritte/settings.png)
 
-Unter **Einstellungen** (oben rechts unter Ihrem Avatar) findest Sie alles, was Sie nicht täglich brauchst.
+Unter **Einstellungen** (oben rechts unter Ihrem Avatar) finden Sie alles, was Sie nicht täglich brauchen.
 
 ## Profil
 

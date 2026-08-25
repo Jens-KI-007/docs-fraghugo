@@ -7,6 +7,8 @@ description: Phishing-Simulation für deutsche Unternehmen — Programm läuft v
 datenschutzkonform und mit auditfestem Nachweis. Anders als klassische Awareness-Schulungen messen wir
 nicht, wer versagt, sondern wer **schützt**: die Melderate ist die Leitkennzahl.
 
+![Cockpit der Phishing-Simulation: die vier Kennzahlen Melderate (30 %), Klickrate (19 %), Resilienz-Index (74 von 100) und Öffnungsrate (79 %), darunter der Resilienz-Verlauf über die bisherigen Wellen, der Zustellbarkeits-Status für Microsoft 365 und die Liste der vier abgeschlossenen Kampagnen](/screenshots/hugo-phish/cockpit.jpg)
+
 ## Die Bausteine
 
 | Bereich | Wofür |

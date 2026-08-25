@@ -5,7 +5,7 @@ description: Über 35 fertige Master-Templates für Einwilligungen, Vereinbarung
 
 ![Vorlagen-Galerie](/screenshots/datenschutz/dokumente.png)
 
-Sie brauchen eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Verschwiegenheitsverpflichtung? Eine DSB-Bestellungsurkunde? Hier findest Sie fertige Vorlagen.
+Sie brauchen eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Verschwiegenheitsverpflichtung? Eine DSB-Bestellungsurkunde? Hier finden Sie fertige Vorlagen.
 
 ## Was drin ist (Auswahl)
 

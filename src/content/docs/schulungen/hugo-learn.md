@@ -1,49 +1,54 @@
 ---
-title: Hugo Learn — Kurs-Katalog
-description: 12+ Kurse rund um Datenschutz, IT-Sicherheit, KI, NIS2 — Selbstlernen mit Quiz und Zertifikat.
+title: Hugo Learn — Modulkatalog
+description: 31 Module zu Datenschutz, Cyber-Sicherheit und KI — mit Quiz, Zertifikat und monatlicher KI-Lektion.
 ---
 
-![Hugo Learn Kurs-Katalog](/screenshots/schulungen/hugo-learn.png)
+Unter **Schulungen** wählen Sie aus, welche Module Ihre Mitarbeiter bearbeiten sollen. Der Katalog
+umfasst **31 Module** in vier Gruppen; 27 davon haben ein Erklärvideo, zusammen kommen sie auf
+234 Quizfragen.
 
-Hier wählst (Sie oder Ihre Mitarbeiter) Kurse aus.
+![Schulungsübersicht eines Mitarbeiters mit Punktestand und Fortschritt, der hervorgehobenen neuen Lektion des Monats, einer Badge-Reihe und den fünf Pflicht-Schulungen](/screenshots/schulungen/mitarbeiter-uebersicht.jpg)
 
-## Aufbau eines Kurses
+## Aufbau eines Moduls
 
-- **Video / Slides** — 5–15 Minuten Material
-- **Interaktive Übungen** — z.B. "Welche dieser 5 E-Mails ist Phishing?" mit echten Beispielen
-- **Mini-Quiz** zwischendurch
-- **Abschlussquiz** — 5–10 Fragen, Bestehen ab 80 %
-- **Zertifikat** als PDF mit Datum + Person + Quiz-Ergebnis
+- **Lern-Screens** — fünf bis sechs Abschnitte, oft mit Erklärvideo
+- **Belege an den Aussagen** — die Quellen stehen unter dem Text, nicht im Kleingedruckten
+- **Praxis-Hinweise** — was der Punkt im Arbeitsalltag bedeutet
+- **Abschlussquiz** — sechs bis zehn Fragen, Bestehen ab 80 %
+- **Zertifikat** als PDF mit Datum, Person und Quiz-Ergebnis
 
-## Verfügbare Kurse
+Ein Modul dauert rund 15–20 Minuten. Ausnahme ist die Geschäftsführungs-Schulung nach § 38 BSIG,
+die deutlich umfangreicher ist.
 
-| Kurs | Dauer | Zielgruppe |
+## Die vier Gruppen
+
+| Gruppe | Module | Worum es geht |
 |---|---|---|
-| DSGVO-Basis | 25 min | Alle Mitarbeiter |
-| Phishing-Erkennung | 20 min | Alle Mitarbeiter |
-| Passwort-Sicherheit | 15 min | Alle Mitarbeiter |
-| Mobile-Device | 20 min | Alle mit Smartphone-Zugriff |
-| Home-Office sicher | 25 min | Remote-Worker |
-| Cloud-Nutzung | 30 min | Alle Cloud-User |
-| Social Engineering | 20 min | Alle mit Außenkontakt |
-| KI-Tools sicher | 25 min | Alle, die KI einsetzen |
-| Vorfälle melden | 15 min | Alle |
-| Datenpannen vermeiden | 20 min | Alle |
-| NIS2-Awareness | 30 min | Mitarbeiter in NIS2-Sektoren |
-| GF-Schulung §38 | 5×45 min | Geschäftsführung |
+| Basis | 5 | Die Pflichtthemen für jeden Beschäftigten: DSGVO, E-Mail, Passwörter, Home-Office, Social Engineering |
+| Datenschutz | 10 | DSGVO im Arbeitsalltag — von der Bewerbung über Fotos und Videokonferenzen bis zur Löschung |
+| Cyber-Sicherheit | 12 | Angriffsarten erkennen und reagieren: Ransomware, Quishing, Deepfakes, Backup, Notfallplan |
+| Künstliche Intelligenz | 4 | KI-Verordnung, sicherer Umgang mit KI-Werkzeugen, Rechte und Meldewege |
 
-Pro Kurs vorbefüllter Pfad: "Welche Person braucht diesen Kurs jährlich?" — Hugo schlägt vor.
+Titel, Umfang und ungefähre Dauer jedes einzelnen Moduls stehen offen im
+[Modulkatalog auf fraghugo.de](https://www.fraghugo.de/hugo-learn/module/) — ohne Anmeldung.
 
 ## Monatliche KI-Lektion
 
-Zusätzlich zu den Pflicht-Kursen kommt **jeden Monat eine 5-Minuten-KI-Lektion** zu aktuellen Themen (neue Phishing-Tricks, AI-Deepfake-Erkennung, Update zu neuer Software, ...). Mitarbeiter bekommen Mail mit Link, dauert 5 Min, hält Awareness wach.
+Zusätzlich kommt **jeden Monat eine neue Lektion** zur aktuellen Bedrohungslage — neue
+Phishing-Wellen, Deepfake-Maschen, frische Rechtsprechung. Sie erscheint in der Übersicht ganz
+oben und lässt sich als Pflicht oder als freiwillig einstufen. Erklärvideos sind als
+**KI-generiert** gekennzeichnet.
 
-## Eigene Kurse
+## Eigene Module
 
-Klicken Sie "+ Neuer Kurs" — Sie können PDF, Video, Slide-Deck hochladen und eigene Quiz-Fragen anlegen. Z.B. firmenspezifische Compliance-Themen.
+Mit dem [Unterweisungs-Baukasten](/schulungen/unterweisungs-baukasten/) legen Sie eigene
+Unterweisungen an — für firmenspezifische Themen, die kein Standardmodul abdeckt.
 
 ## Zertifikate
 
-- **Auto-Ausstellung** nach bestandenem Quiz
-- **Mit Firmen-Logo + Mitarbeiter-Foto** gebrandet
-- **Verifizierungs-URL** — Externe können das Zertifikat online prüfen (anti-Fälschung)
+- **Automatisch** nach bestandenem Quiz
+- **Als PDF** mit Datum, Person und Ergebnis
+- **Mit QR-Code zur Echtheitsprüfung** — wer das Zertifikat vorgelegt bekommt, scannt den Code und
+  sieht unter `app.fraghugo.de/verify/…`, ob es echt ist
+- Der gesammelte Stand aller Mitarbeiter steht unter
+  [Nachweis & Berichte](/hugo-phish/berichte/) — als PDF oder CSV

@@ -29,7 +29,7 @@ Manche Firmen verlangen das auch beim **Stellenwechsel** intern (z.B. von Market
 
 ## Alte Zertifikate
 
-Alle bestandenen Schulungen — auch alte — findest Sie in Ihrer App unter "Meine Schulungen → Verlauf". Jedes Zertifikat ist nochmal herunterladbar.
+Alle bestandenen Schulungen — auch alte — finden Sie in Ihrer App unter "Meine Schulungen → Verlauf". Jedes Zertifikat ist nochmal herunterladbar.
 
 ## Verifizierungs-URL
 

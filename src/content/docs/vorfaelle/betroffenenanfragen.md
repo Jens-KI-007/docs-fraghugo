@@ -11,7 +11,7 @@ Wenn jemand fragt "Welche Daten habt ihr von mir?" / "Bitte löscht meine Daten"
 
 Vier Wege, wie eine DSAR auf der Plattform landet:
 
-1. **Manuell anlegen** — Sie bekommen eine Mail von einem Betroffenen und trägst sie hier ein.
+1. **Manuell anlegen** — Sie bekommen eine Mail von einem Betroffenen und tragen sie hier ein.
 2. **Public-Portal** — Betroffener füllt selbst ein Formular auf Ihrer Website aus (siehe [Public-Portal](/vorfaelle/public-portal/)).
 3. **Mitarbeiter-Meldung** — interner Mitarbeiter erfasst über das Mitarbeiter-Portal.
 4. **API** — z.B. aus Ihrem CRM, wenn dort ein Lösch-Antrag eingeht.
@@ -33,7 +33,7 @@ Vier Wege, wie eine DSAR auf der Plattform landet:
 
 ### 2. Daten sammeln
 - **Hugo hilft** beim Durchsuchen: Sie geben Name/Mail an, Hugo zeigt Ihnen, in welchen Bereichen (VVT-basiert) Daten zu dieser Person liegen könnten.
-- Pro System trägst Sie ein, was Sie gefunden hast.
+- Pro System tragen Sie ein, was Sie gefunden haben.
 
 ### 3. Antwort vorbereiten
 - Hugo generiert Antwort-Brief aus Vorlage. Sie wählen Auskunfts-Typ, Hugo füllt aus.
