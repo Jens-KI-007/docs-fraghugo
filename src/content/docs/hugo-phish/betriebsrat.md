@@ -28,3 +28,10 @@ zusätzliche Schulung — nie eine Meldung an Vorgesetzte.
 Verarbeitung nach **Art. 6 Abs. 1 lit. f DSGVO** i. V. m. **§ 26 BDSG**; Pflicht zu Maßnahmen nach
 **Art. 32 DSGVO**; für Krankenhäuser **§ 391 SGB V**. Die Muster-Dokumente sind Vorlagen und ersetzen
 keine Rechtsberatung — bitte betriebsindividuell abstimmen.
+
+## Was der einzelne Mitarbeiter sieht
+
+Die Sperre gilt für Auswertungen, nicht für die eigene Auskunft: Jeder sieht unter *Mein Stand*
+seine eigenen Zahlen — und niemand sonst. Das ist zugleich die Auskunft nach Art. 15 DSGVO.
+
+![Ansicht „Mein Phishing-Stand“ mit dem Zusatz „Ihre persönliche Auskunft (DSGVO Art. 15) — nur Sie sehen diese Daten“: erhaltene Tests, gemeldet, geklickt und der eigene Resilienz-Index, dazu der Hinweis, dass ein Klick auf eine Testmail nie arbeitsrechtliche Folgen hat](/screenshots/hugo-phish/mein-stand.jpg)

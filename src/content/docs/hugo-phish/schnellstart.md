@@ -5,6 +5,8 @@ description: In fünf Schritten von null zur ersten sicher zugestellten Phishing
 
 ## In fünf Schritten
 
+![Seite „Erste Schritte“ mit Fortschrittsbalken (4 von 5 nötigen Schritten erledigt) und den Schritten Mitarbeiter anlegen, Pflichtmodule festlegen, Mitarbeiter einladen und Zustellung freischalten — jeweils mit Status und direktem Link](/screenshots/schulungen/erste-schritte.jpg)
+
 1. **Mitarbeiterstamm pflegen.** Hugo Phish nutzt denselben Mitarbeiterstamm wie Ihre Schulungen.
    Pflegen Sie ihn unter *Mitarbeiter*, oder verbinden Sie später Entra ID / Google Workspace.
 2. **Zustellbarkeit einrichten.** Öffnen Sie *Phishing → Zustellung prüfen* und folgen Sie der

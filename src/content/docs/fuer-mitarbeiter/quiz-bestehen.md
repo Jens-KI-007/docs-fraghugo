@@ -11,6 +11,10 @@ Am Ende jeder Schulung kommt das Quiz. Bestehen = 80 % richtig (also 4 von 5 ode
 - **Einige Drag-and-drop** (z.B. "Welche dieser Mails ist Phishing?")
 - **Manchmal Freitext** (kurze Antwort, Hugo prüft fuzzy)
 
+Die Übungen stehen schon zwischen den Lern-Screens, nicht erst am Ende — hier eine Zuordnungs-Aufgabe aus „DSGVO-Grundlagen“:
+
+![Interaktive Zuordnungs-Aufgabe „Personenbezogen — ja oder nein?“ mit sechs Beispielen (E-Mail-Adresse, dynamische IP-Adresse, Kfz-Kennzeichen, Jahresumsatz, anonyme Statistik) und je zwei Antwortschaltflächen; darüber der Lerntext mit den geprüften Quellen Art. 4 Nr. 1 DSGVO und EuGH C-582/14 Breyer](/screenshots/schulungen/interaktive-uebung.jpg)
+
 ## Beispiel-Fragen
 
 Aus dem DSGVO-Basis-Kurs:

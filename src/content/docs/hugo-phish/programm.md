@@ -5,6 +5,8 @@ description: Der Autopilot — Rhythmus, gestaffelter Versand, Sperrzeiten, Ausn
 
 Das Jahresprogramm ist der Kern von Hugo Phish: einmal eingerichtet, plant es die Testwellen selbst.
 
+![Jahresprogramm im Autopilot: Auswahl des Rhythmus zwischen quartalsweise (4 Wellen), zweimonatlich (6) und monatlich (12), darunter die drei Auswertungsmodi Anonym (Betriebsrats-Modus, empfohlen), Pseudonym und Offen sowie der Hinweis auf die 24-monatige Aufbewahrung](/screenshots/hugo-phish/jahresprogramm.jpg)
+
 ## Rhythmus
 Wählen Sie **4, 6 oder 12 Wellen pro Jahr**. Es läuft immer nur eine Welle gleichzeitig; die nächste
 wird automatisch terminiert, wenn die vorige abgeschlossen ist.
