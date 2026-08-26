@@ -9,7 +9,7 @@ Ein IT-Systemhaus berät seine Kunden täglich zu Server, Backup, Microsoft 365 
 
 1. **Mitarbeiter-Portal** unter `app.fraghugo.de/partner` — jeder Mitarbeiter Ihres Systemhauses bekommt einen eigenen Login. Hier legt er Empfehlungen an, sieht den Status seiner Leads, seine laufenden Provisionen und einen Provisions-Rechner.
 2. **Lead-Pipeline mit automatischer Erst-Mail** — sobald ein Mitarbeiter eine Empfehlung anlegt, geht eine Mail an den Kontakt; bei hinterlegter Website enthält sie den Datenschutz-Check zur Domain. Ob diese Mail rausgeht, entscheidet der Mitarbeiter beim Anlegen (siehe [Kunden registrieren](/partner/kunden-registrieren/)). Nils oder ein anderer Berater von frag.hugo übernimmt das Erstgespräch, erstellt das Angebot und führt den Vertragsabschluss.
-3. **Auszahlung über die Gehaltsabrechnung** — die Provision geht nicht als Einzelrechnung an den Mitarbeiter, sondern über die Lohnabrechnung Ihres Systemhauses. Deshalb fragt das Onboarding die Personalnummer ab. frag.hugo rechnet monatlich ab, übergibt die Aufstellung an Ihre Buchhaltung und stellt Ihrer GmbH die Sammelrechnung; der Mitarbeiter sieht den Bonus auf seiner nächsten Gehaltsabrechnung.
+3. **DATEV-konforme Provisionsabrechnung** — am 28. jedes Monats rechnet die Plattform die laufenden Provisionen ab, am 1. geht die fertige DATEV-CSV an die Lohnbuchhaltung Ihres Systemhauses, zusammen mit der Sammelrechnung an Ihre GmbH. Jeder Mitarbeiter bekommt zeitgleich seine persönliche Aufstellung per Mail. Deshalb fragt das Onboarding die Personalnummer ab: Sie steht in der CSV und macht den Import zum Direktimport.
 
 ## Lebenszyklus einer Empfehlung
 
@@ -20,8 +20,8 @@ Ein IT-Systemhaus berät seine Kunden täglich zu Server, Backup, Microsoft 365 
 | 3. Erstgespräch | frag.hugo | Nils Oehmichen führt das 15-Minuten-Erstgespräch |
 | 4. Angebot | frag.hugo | Vertrag &amp; Stripe-Checkout an den Kunden |
 | 5. Mandant aktiv | frag.hugo | Der Lead wird auf „Gewonnen" gesetzt, die Provision startet |
-| 6. Monatsabrechnung | frag.hugo | Provision wird berechnet und im Portal unter „Meine Provision" sichtbar |
-| 7. Lohn-Buchung | Buchhaltung | Aufstellung übernehmen, Mitarbeiter bekommt den Bonus aufs Gehalt |
+| 6. Monatsabrechnung | Plattform | Am 28. berechnet, im Portal unter „Meine Provision“ sichtbar |
+| 7. Lohn-Buchung | Buchhaltung | Am 1. kommt die DATEV-CSV; importieren, Mitarbeiter bekommt den Bonus aufs Gehalt |
 
 ## Was verdient ein Mitarbeiter?
 
@@ -46,7 +46,14 @@ Mitarbeiter melden sich mit ihrer Firmen-E-Mail an — per Anmeldelink, ohne Pas
 
 - **Meine Empfehlungen** — alle Leads mit Status: Neu, Kontaktiert, Erstgespräch geplant, Angebot raus, Gewonnen, Verloren. Filter für Alle / Aktiv / Gewonnen / Verloren.
 - **Meine Provision** — laufende Verträge, Auszahlungs-Historie, Rechner: „Wenn ich noch einen Pro-Kunden gewinne, hätte ich pro Monat …".
-- **Rangliste** — der eigene Stand samt Meilensteinen („Erster Lead", „Erster Abschluss", „500 € Club"). Ob der eigene Name dort erscheint, entscheidet jeder selbst über einen Schalter.
+- **Rangliste** — alle Beschäftigten Ihres Systemhauses nach gewonnenen Mandanten, dazu der Quartals-Champion und die eigene Platzierung. Beschäftigte anderer Partnerfirmen tauchen dort nicht auf.
+
+<figure class="shot shot--phone">
+  <img src="/screenshots/partner/rangliste.jpg" alt="Reiter „Rangliste“ im Partner-Portal: Quartals-Champion Q3 2026 mit Katrin Bode und einem Mandanten, darunter der Hinweis „Du bist auf Platz 2“ und die Liste der vier Beschäftigten mit Medaillen-Rängen, Kundenzahl und Provisionssumme — zwei davon nur mit Initialen statt Namen" width="1040" height="1520" loading="lazy" />
+  <figcaption>Wer seinen Namen nicht anzeigen lässt, erscheint mit Initialen. Der Name verlässt in diesem Fall auch den Server nicht.</figcaption>
+</figure>
+
+Über den Schalter unter der Liste entscheidet jeder selbst, ob der eigene Name für die Kolleginnen und Kollegen sichtbar ist. Die Zahlen — gewonnene Mandanten und Provisionssumme — sind innerhalb des Systemhauses immer sichtbar.
 
 Oben im Dashboard stehen drei Zahlen: Provision in diesem Monat, gesamt verdient, aktive Kunden.
 
@@ -61,7 +68,7 @@ Oben im Dashboard stehen drei Zahlen: Provision in diesem Monat, gesamt verdient
 - **Zusatz-Umsatz für Mitarbeiter** ohne extra Aufwand für die Geschäftsführung.
 - **Höhere Bindung** — Mitarbeiter mit Provisions-Pfad kündigen seltener.
 - **Erweitertes Service-Portfolio** — Kunden sehen das Systemhaus als „kümmert sich auch um Datenschutz", auch wenn das Systemhaus es nicht selber macht.
-- **Keine Buchhaltungs-Last** — die Aufstellung kommt fertig von uns, Ihre Buchhaltung bucht sie nur noch auf die Lohnabrechnung.
+- **Keine Buchhaltungs-Last** — die DATEV-CSV kommt fertig am Monatsersten, Ihre Buchhaltung importiert sie und ist fertig.
 
 ## Fragen?
 
