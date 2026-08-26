@@ -157,6 +157,7 @@ export default defineConfig({
 						{ label: 'Phishing-Simulation', slug: 'schulungen/phishing-simulation' },
 						{ label: 'Unterweisungs-Baukasten (KI)', slug: 'schulungen/unterweisungs-baukasten' },
 						{ label: 'M365-Integration', slug: 'schulungen/m365-integration' },
+						{ label: 'Ihre Beschäftigten schulen', slug: 'schulungen/beschaeftigte-schulen' },
 					],
 				},
 				{
@@ -206,6 +207,10 @@ export default defineConfig({
 						{ label: 'Übersicht', slug: 'partner/uebersicht' },
 						{ label: 'Empfehlungs-Programm', slug: 'partner/empfehlungs-programm' },
 						{ label: 'Kunden registrieren', slug: 'partner/kunden-registrieren' },
+						{ label: 'Awareness: Kunden anlegen', slug: 'partner/awareness-kunden-anlegen' },
+						{ label: 'Awareness: Verkaufsleitfaden', slug: 'partner/awareness-verkaufsleitfaden' },
+						{ label: 'Awareness: Zustellung sicherstellen', slug: 'partner/awareness-zustellung' },
+						{ label: 'Awareness: Support-Fälle', slug: 'partner/awareness-support' },
 					],
 				},
 				{
