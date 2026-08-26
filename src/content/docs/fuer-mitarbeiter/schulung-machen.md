@@ -3,46 +3,46 @@ title: Schulung machen
 description: Wie Sie eine zugewiesene Schulung starten, durchgehen und abschließen.
 ---
 
-
 So sieht ein Modul von innen aus:
 
 ![Ein Modul in der Lernansicht: Fortschrittsbalken bei Abschnitt 1 von 6, ein Erklärvideo mit der Kennzeichnung „KI-generiert“ und dem Hinweis, dass es transparent mit KI erstellt wurde, darunter der Lerntext und die geprüften Quellen](/screenshots/schulungen/modul-innenansicht.jpg)
 
 ## So finden Sie Ihre Schulungen
 
-1. **Login** unter app.fraghugo.de mit dem Passwort aus der Begrüßungs-Mail.
-2. **Startseite** zeigt Ihnen oben "Ihre offenen Schulungen".
-3. Klicken Sie auf eine Schulung.
+1. **Anmelden** unter `app.fraghugo.de`. Mit der Einladung kommt ein Anmeldelink — ein Klick darauf genügt, ein Passwort brauchen Sie dafür nicht. Ist der Link abgelaufen, fordern Sie auf der Anmeldeseite einfach einen neuen an.
+2. **Schulungs-Übersicht** öffnen — in der Navigation unter „Schulungen & Simulation → Übersicht".
+3. Modul anklicken. Was Ihre Firma verpflichtend gesetzt hat, steht unter **Pflicht-Schulungen**.
 
 ## So läuft eine Schulung ab
 
-1. **Intro-Video / Slides** — meist 5–15 Minuten.
-2. **Interaktive Aufgabe** dazwischen — kurze Übung, Drag-and-drop oder Klick-Reaktion.
-3. **Quiz** am Ende — 5–10 Fragen.
-4. **Bestehen** ab 80 % richtig → Zertifikat sofort verfügbar.
-5. **Durchgefallen?** Sie können beliebig oft wiederholen. Keine Frustration.
+1. **Abschnitte durchgehen** — meist sechs, zusammen 5 bis 15 Minuten. Zu vielen Abschnitten gibt es ein kurzes Erklärvideo.
+2. **Interaktive Aufgaben** zwischendurch — Zuordnen, Einschätzen, Wiedererkennen. Zählen nicht in die Wertung.
+3. **Abschlussquiz** — meist 10 Fragen, Details unter [Quiz bestehen](/fuer-mitarbeiter/quiz-bestehen/).
+4. **Bestanden ab 80 %** → das [Zertifikat](/fuer-mitarbeiter/zertifikat/) steht sofort zum Download bereit.
+5. **Nicht bestanden?** Beliebig oft wiederholbar, ohne Nachteil.
 
-## Speichern + Pause
+Unter den Lerntexten stehen die **geprüften Quellen** — Gesetzestexte, Urteile, BSI-Veröffentlichungen. Wenn Sie eine Aussage nachlesen wollen, steht dort, wo sie herkommt. Videos, die mit KI erstellt wurden, sind im Player ausdrücklich als KI-generiert gekennzeichnet.
 
-Sie können die Schulung jederzeit pausieren und später weitermachen. Beim nächsten Login sind Sie wieder an der letzten Stelle.
+## Pausieren und weitermachen
+
+Sie können jederzeit aufhören. Die Plattform merkt sich, in welchem Abschnitt Sie waren — auch mitten im Quiz. Beim nächsten Aufruf geht es dort weiter.
 
 ## Geräte
 
-Funktioniert auf:
-- Laptop / Desktop (Hauptweg)
+- Laptop und Desktop — der übliche Weg
 - Tablet
-- Smartphone (im Browser, keine App nötig)
+- Smartphone im Browser, ohne App
 
-Mit Smartphone in der Mittagspause durchzappen — geht.
+In der Mittagspause ein Modul am Handy durchzugehen funktioniert.
 
-## Wenn was nicht klappt
+## Wenn etwas klemmt
 
-- **Video läd nicht?** → Browser-Cache leeren (Strg+F5), Adblocker pausieren.
-- **Quiz akzeptiert Antwort nicht?** → Screenshot machen + dem DSB Bescheid geben.
-- **Login klappt nicht?** → "Passwort vergessen" auf der Login-Seite.
+- **Video lädt nicht?** Seite neu laden (Strg+F5 bzw. Cmd+Shift+R), Inhaltsblocker für die Seite pausieren.
+- **Quiz nimmt die Antwort nicht an?** Screenshot machen und Ihrem Datenschutzbeauftragten schicken.
+- **Anmeldung klappt nicht?** Auf der Anmeldeseite einen neuen Anmeldelink anfordern. Abgelaufene Links sind der häufigste Grund.
 
-## Tipps
+## Drei Tipps
 
-- **Konzentriert durchgehen** — Tab-Wechsel + nebenher chatten ist nicht effektiv.
-- **Notizen machen** — was Sie nicht wusstest, schreib's auf für Ihren Arbeitsalltag.
-- **Frage stellen** — am Ende jeder Schulung gibt's einen "Frage stellen"-Button. Ihr DSB sieht's und antwortet.
+- **Konzentriert durchgehen.** Nebenher chatten und Tabs wechseln kostet am Ende mehr Zeit, weil das Quiz die Inhalte abfragt.
+- **Notieren, was neu war.** Ein Satz genügt — genau das ist der Teil, der im Arbeitsalltag zählt.
+- **Fragen stellen.** Was unklar bleibt, geht an Ihren Datenschutzbeauftragten. Nils Oehmichen sagt dazu: „Keine Frage ist doof."

@@ -1,38 +1,54 @@
 ---
 title: Zertifikat herunterladen
-description: Nach bestandenem Quiz bekommen Sie ein Zertifikat — so findest, druckst und speichern Sie es.
+description: Nach bestandenem Quiz gibt es ein Zertifikat als PDF — wo der Button steckt, was auf dem Dokument steht und wie Dritte seine Echtheit prüfen.
 ---
 
-Nach bestandenem Quiz erscheint sofort der **Zertifikat herunterladen**-Button. Klicken Sie drauf → PDF.
+Sobald Sie das Abschlussquiz eines Moduls bestanden haben — ab **80 %** —, erscheint der Ergebnis-Bildschirm mit dem Button **Zertifikat herunterladen**. Ein Klick, und das PDF liegt in Ihrem Download-Ordner.
 
-## Was steht drauf
+<figure class="shot">
+  <img src="/screenshots/fuer-mitarbeiter/quiz-bestanden.jpg" alt="Ergebnis-Bildschirm nach dem Abschlusstest zum Modul DSGVO-Grundlagen: grünes Abzeichen, Überschrift „Bestanden!“, 10 von 10 Fragen richtig, +150 Punkte, Fortschrittsbalken bei 100 Prozent mit dem Hinweis „80% benötigt“ und darunter der dunkle Button Zertifikat herunterladen" width="1470" height="780" loading="lazy" />
+  <figcaption>Der Ergebnis-Bildschirm. Der Button erscheint nur, wenn Sie bestanden haben.</figcaption>
+</figure>
 
-- Ihr Name
-- Firmenname + Logo
-- Kursname
-- Datum der Absolvierung
-- Quiz-Ergebnis (z.B. "10 von 10 richtig")
-- Gültigkeit (meist 12 Monate)
-- Verifizierungs-QR-Code (für Echtheits-Prüfung)
+## Was auf dem Zertifikat steht
+
+<figure class="shot">
+  <img src="/screenshots/fuer-mitarbeiter/zertifikat.jpg" alt="Das erzeugte Zertifikat im Querformat: Kopfzeile HUGO LEARN – SCHULUNGSNACHWEIS mit Logo, Überschrift Zertifikat, der Name der geschulten Person, der Modulname DSGVO-Grundlagen, das Abschlussdatum, ein rundes Siegel mit 100 Prozent und dem Wort BESTANDEN, links die Unterschriftszeile von Nils Oehmichen und rechts ein QR-Code mit der Zertifikatsnummer" width="1470" height="1039" loading="lazy" />
+  <figcaption>Ein echtes Zertifikat aus der Plattform, erzeugt für einen Demo-Zugang.</figcaption>
+</figure>
+
+- Ihr **Name**
+- Der **Modulname** — hier „DSGVO-Grundlagen"
+- Das **Abschlussdatum**
+- Ihr **Ergebnis in Prozent** im Siegel, darunter „BESTANDEN"
+- **Unterschrift** von Nils Oehmichen, Geschäftsführer und Datenschutzbeauftragter der frag.hugo Informationssicherheit GmbH
+- Ein **QR-Code** samt Zertifikatsnummer zur Echtheitsprüfung
+
+Zwei Dinge stehen bewusst **nicht** drauf: der Name Ihres Arbeitgebers und ein Ablaufdatum. Das Zertifikat bescheinigt, dass Sie das Modul an diesem Tag mit diesem Ergebnis abgeschlossen haben — mehr nicht. Wann eine Auffrischung fällig wird, führt die Plattform intern: Ein bestandenes Modul steht **nach zwölf Monaten** wieder als fällig in Ihrer Schulungs-Übersicht.
+
+## Echtheit prüfen
+
+Der QR-Code führt auf `app.fraghugo.de/verify/<Zertifikatsnummer>`. Diese Seite ist öffentlich — ein neuer Arbeitgeber oder ein Auditor kann sie ohne Login aufrufen.
+
+<figure class="shot">
+  <img src="/screenshots/fuer-mitarbeiter/zertifikat-pruefung.jpg" alt="Öffentliche Zertifikatsprüfung von frag.hugo: grüner Kasten mit der Bestätigung „Gültiges Zertifikat – Dieses Schulungszertifikat ist echt und in unserem System hinterlegt“, darunter Schulung, Abschlussdatum, Ergebnis und Zertifikatsnummer sowie der Hinweis, dass aus Datenschutzgründen kein Name angezeigt wird" width="980" height="835" loading="lazy" />
+  <figcaption>Die Prüfseite bestätigt Modul, Datum und Ergebnis — den Namen zeigt sie nicht.</figcaption>
+</figure>
+
+Wer die Nummer prüft, sieht Schulung, Abschlussdatum, Ergebnis und Zertifikatsnummer. **Kein Name, keine Firma, keine E-Mail-Adresse.** Den Abgleich mit der Person macht, wer das Zertifikat in der Hand hält.
 
 ## Wo speichern
 
-- **PDF speichern** auf Ihrem PC (z.B. Ordner "Schulungsnachweise/2026")
-- **Drucken** falls Ihr Arbeitgeber Papier-Ablage will
-- **An sich selbst mailen** — als Backup, falls PC mal kaputt geht
+- **PDF ablegen** auf Ihrem Rechner, zum Beispiel im Ordner „Schulungsnachweise/2026"
+- **Ausdrucken**, falls Ihr Arbeitgeber eine Papierablage führt
+- **An sich selbst mailen** als Sicherung, falls der Rechner ausfällt
 
-## Brauche ich das?
+## Zertifikat noch einmal herunterladen
 
-Bei einem **Audit** kann's vorkommen, dass die Geschäftsführung sagt: "Zeig mir bitte Ihr aktuelles DSGVO-Zertifikat." Wenn Sie's parat hast, beweist es Ihren Schulungsstand.
+Es gibt keine Liste, aus der Sie alte Zertifikate erneut abrufen können. Wenn Sie ein Dokument noch einmal brauchen: Modul in der Schulungs-Übersicht öffnen und das Abschlussquiz erneut ablegen. Sie bekommen dann **dasselbe Zertifikat mit derselben Nummer** — die Plattform vergibt pro Modul und Person nur eine.
 
-Manche Firmen verlangen das auch beim **Stellenwechsel** intern (z.B. von Marketing in HR — andere Datenkategorien, eigene Schulung).
+Dass Ihr Arbeitgeber Ihren Schulungsstand nachweisen kann, hängt davon übrigens nicht ab. Der geht ohnehin aus der Plattform hervor; das PDF ist Ihre eigene Kopie.
 
-## Alte Zertifikate
+## Brauche ich das überhaupt?
 
-Alle bestandenen Schulungen — auch alte — finden Sie in Ihrer App unter "Meine Schulungen → Verlauf". Jedes Zertifikat ist nochmal herunterladbar.
-
-## Verifizierungs-URL
-
-Auf dem PDF ist ein QR-Code. Externe (z.B. neuer Arbeitgeber) können scannen und sehen: "Dieses Zertifikat ist echt, ausgestellt am X für Person Y."
-
-Es werden KEINE personenbezogenen Daten preisgegeben — nur die Echtheit bestätigt.
+Bei einem **Audit** oder einer Prüfung durch die Aufsichtsbehörde muss Ihre Firma belegen, dass Beschäftigte geschult wurden — das ist Teil der Rechenschaftspflicht nach [Art. 5 Abs. 2 DSGVO](https://dsgvo-gesetz.de/art-5-dsgvo/). Diesen Nachweis zieht die Firma aus der Plattform. Ihre eigene PDF-Kopie ist dann nützlich, wenn Sie den Nachweis persönlich brauchen: beim internen Wechsel in eine andere Abteilung oder bei einem neuen Arbeitgeber.

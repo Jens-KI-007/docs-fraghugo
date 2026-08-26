@@ -1,54 +1,64 @@
 ---
 title: Datenpanne melden
-description: Was ist eine Datenpanne, wann müssen Sie melden, wie geht's schnell?
+description: Was eine Datenpanne ist, wann Sie melden müssen und wie die Meldung in zwei Minuten raus ist.
 ---
 
-Wenn Sie den Verdacht hast, dass **personenbezogene Daten unbefugt weitergegeben, verloren oder verändert** wurden — egal ob aus Versehen oder durch Angriff — müssen Sie das **sofort** melden. Nicht morgen, nicht nach Feierabend. Sofort.
+Wenn Sie den Verdacht haben, dass **personenbezogene Daten unbefugt weitergegeben, verloren oder verändert** wurden — egal ob aus Versehen oder durch einen Angriff — melden Sie das **sofort**. Nicht morgen, nicht nach Feierabend. Sofort.
 
 ## Beispiele
 
-- **E-Mail an falsche Person** mit Kundendaten
-- **USB-Stick verloren**, der Kundenliste drauf hatte
-- **Laptop geklaut** (auch wenn passwortgeschützt)
-- **Mail-Anhang mit der falschen Datei** weitergeleitet
-- **Verdacht auf Hackerangriff** — komische Mails im Postfach, Login von fremder IP
+- **E-Mail an die falsche Person** mit Kundendaten
+- **USB-Stick verloren**, auf dem eine Kundenliste lag
+- **Laptop gestohlen** (auch wenn er passwortgeschützt ist)
+- **Falsche Datei angehängt** und weitergeleitet
+- **Verdacht auf Hackerangriff** — merkwürdige Mails im Postfach, Login von fremder IP
 - **Passwort versehentlich preisgegeben** (Screenshot, vorgelesen, ausgeplaudert)
-- **Cloud-Datei öffentlich geteilt** statt nur Teamintern
+- **Cloud-Datei öffentlich geteilt** statt nur intern
 
-## Wie melden — schnellster Weg
+## Der schnellste Weg: das Formular
 
-### In der App
-1. Klicken Sie oben in der Sidebar: **🚨 Datenpanne melden** (oder direkt /melde)
-2. Kurzes Formular:
-   - Was ist passiert (in eigenen Worten)
-   - Wann genau (Datum + Uhrzeit, falls bekannt)
-   - Welche Daten / Personen sind betroffen (falls bekannt — sonst "weiß nicht" reicht)
-3. **Absenden** → Ihr DSB bekommt sofort Push-Benachrichtigung.
+In der Plattform links in der Navigation unter **Vorfälle & Anfragen → Datenpannen**, dort auf „Datenpanne melden". Direkt erreichbar ist das Formular unter `app.fraghugo.de/dsb/datenpannen/melden`.
 
-### Alternative
-- **Telefon** an Ihren DSB — Nummer steht in der Schulungs-Einladungs-Mail.
+<figure class="shot">
+  <img src="/screenshots/fuer-mitarbeiter/datenpanne-melden.jpg" alt="Formular „Datenpanne melden“ in der frag.hugo-Plattform: roter Hinweiskasten zur Meldepflicht nach Art. 33 DSGVO mit der 72-Stunden-Frist, darunter das Freitextfeld „Was ist passiert?“, die Felder für Datum und Uhrzeit der Entdeckung und der Beginn des Abschnitts „Welche Daten sind betroffen?“" width="1470" height="780" loading="lazy" />
+  <figcaption>Der Zeitpunkt der Entdeckung ist das wichtigste Feld — ab da läuft die 72-Stunden-Frist.</figcaption>
+</figure>
+
+Das Formular fragt der Reihe nach:
+
+1. **Was ist passiert?** In eigenen Worten, so ausführlich wie möglich. Lieber zu viel schreiben als zu wenig.
+2. **Wann wurde der Vorfall entdeckt?** Datum und Uhrzeit. Nicht wann er passiert ist — wann er **aufgefallen** ist.
+3. **Welche Daten sind betroffen?** Kategorien auswählen. „Weiß ich nicht" ist eine zulässige Antwort; das klärt der Datenschutzbeauftragte.
+
+Absenden — fertig. Ihr Datenschutzbeauftragter wird benachrichtigt.
+
+## Alternativen
+
+- **Telefon** an Ihren Datenschutzbeauftragten — die Nummer steht in Ihrer Einladungs-Mail.
 - **Mail** an die interne Datenschutz-Adresse.
 
-## Sie bekommen KEINEN Ärger
+Beides ist gleichwertig. Die Frist läuft in jedem Fall.
 
-Auch wenn DU den Fehler gemacht hast: Melden ist die richtige Reaktion. Das HinSchG schützt Sie vor Repressalien. Verschweigen macht's schlimmer (für die Firma + für Sie persönlich).
+## Sie bekommen keinen Ärger
 
-## Was passiert dann
+Auch wenn Sie den Fehler selbst gemacht haben: Melden ist die richtige Reaktion. Verschweigen macht es schlimmer — für die Firma und für Sie persönlich. Wer einen Verstoß meldet, ist nach dem [Hinweisgeberschutzgesetz](https://www.gesetze-im-internet.de/hinschg/) vor Repressalien geschützt.
 
-- DSB prüft, ob's eine Datenpanne im DSGVO-Sinne ist.
-- Falls ja: **72-h-Frist** zur Behörden-Meldung startet (das macht der DSB, nicht Sie).
-- Sie werden evtl. nochmal kontaktiert für Details.
+## Was danach passiert
+
+- Der Datenschutzbeauftragte prüft, ob es eine Datenpanne im Sinne der DSGVO ist.
+- Falls ja, startet die **72-Stunden-Frist** zur Meldung an die Aufsichtsbehörde nach [Art. 33 DSGVO](https://dsgvo-gesetz.de/art-33-dsgvo/). Diese Meldung macht der Datenschutzbeauftragte, nicht Sie.
+- Möglicherweise werden Sie noch einmal zu Details befragt.
 
 ## Was Sie selbst sofort tun können
 
-Wenn z.B. eine Mail an falsche Adresse: **versuche, sie zurückzurufen** (Outlook „Nachricht zurückrufen") + Empfänger anrufen + ihn bitten zu löschen.
+**Mail an die falsche Adresse:** versuchen Sie den Rückruf (in Outlook „Nachricht zurückrufen"), rufen Sie den Empfänger an und bitten Sie ihn, die Mail zu löschen.
 
-Wenn Laptop gestohlen: **Passwörter ändern** (Mail, alle wichtigen Accounts).
+**Laptop oder Handy gestohlen:** Passwörter ändern — Mail zuerst, dann alle Konten, die daran hängen.
 
-Wenn Cloud-Datei öffentlich: **Sharing-Link sofort widerrufen**.
+**Cloud-Datei öffentlich:** den Freigabe-Link sofort widerrufen.
 
-## Tipps
+## Drei Faustregeln
 
-- **Lieber 10× falsch melden als 1× zu spät** — Ihr DSB sortiert dann.
-- **Schnelligkeit zählt** — die 72-h-Behörden-Frist läuft ab dem Moment, wo IRGENDJEMAND in der Firma was bemerkt hat. Auch Sie.
-- **Sprich nicht öffentlich darüber** bevor's geklärt ist — gerade nicht in sozialen Medien.
+- **Lieber zehnmal zu viel melden als einmal zu spät.** Sortieren ist Aufgabe des Datenschutzbeauftragten.
+- **Schnelligkeit zählt.** Die 72-Stunden-Frist läuft ab dem Moment, in dem irgendjemand in der Firma etwas bemerkt hat. Auch Sie.
+- **Nicht öffentlich darüber sprechen**, solange nichts geklärt ist — schon gar nicht in sozialen Netzwerken.

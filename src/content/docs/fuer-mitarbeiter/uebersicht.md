@@ -1,18 +1,27 @@
 ---
 title: Für Mitarbeiter — Übersicht
-description: Wenn Ihr Chef Sie auf die Plattform eingeladen hat — hier erfährst Sie, was Sie tun musst.
+description: Ihr Arbeitgeber hat Sie auf die Plattform eingeladen? Hier steht in fünf Minuten, was Sie tun müssen — und was nicht.
 ---
 
-Wenn Sie eine **Einladungs-Mail von frag.hugo** bekommen hast: Herzlich willkommen. Sie müssen hier nicht stundenlang Doku verstehen — diese Sektion ist kurz und für Ihren Alltag gemacht.
+Wenn Sie eine **Einladungs-Mail von frag.hugo** bekommen haben: herzlich willkommen. Sie müssen hier nicht stundenlang Doku lesen — dieser Bereich ist kurz und für Ihren Arbeitsalltag gemacht.
 
 ## Wofür ist die Plattform?
 
-Ihre Firma erfüllt damit Datenschutz- und Sicherheitspflichten. Dafür braucht sie ein paar Sachen von Ihnen:
+Ihre Firma erfüllt damit Datenschutz- und Sicherheitspflichten. Dafür braucht sie ein paar Dinge von Ihnen:
 
 - **Schulungen** absolvieren (kurz, kurzweilig)
-- **Quiz** bestehen (für den Schulungsnachweis)
-- **Zertifikate** speichern
-- Wenn was Schlimmes passiert: einen **Vorfall melden**
+- **Quiz** bestehen (das ist der Schulungsnachweis)
+- **Zertifikat** speichern
+- Wenn etwas schiefgeht: einen **Vorfall melden**
+
+## Ihr Startbildschirm
+
+<figure class="shot">
+  <img src="/screenshots/fuer-mitarbeiter/schulungs-uebersicht.jpg" alt="Schulungs-Übersicht in der frag.hugo-Plattform: Begrüßungsleiste mit Punktestand, Modulzahl und Fortschritt in Prozent, darunter die hervorgehobene neue Schulung „KI-Phishing: Wenn Angriffe perfekt werden“ mit Angaben zu Dauer und Fragenzahl, danach die Badge-Leiste und der Abschnitt Pflicht-Schulungen" width="1470" height="780" loading="lazy" />
+  <figcaption>Die Schulungs-Übersicht nach dem Anmelden. Oben rechts sehen Sie Ihren Stand, unten die Pflicht-Schulungen Ihrer Firma.</figcaption>
+</figure>
+
+Zu Beginn steht dort überall eine Null — das ist normal. Die Zahlen wachsen mit jedem abgeschlossenen Modul.
 
 ## Was wohin?
 
@@ -21,12 +30,12 @@ Ihre Firma erfüllt damit Datenschutz- und Sicherheitspflichten. Dafür braucht 
 | Schulung machen | [So funktioniert's](/fuer-mitarbeiter/schulung-machen/) |
 | Quiz bestehen | [Tipps fürs Quiz](/fuer-mitarbeiter/quiz-bestehen/) |
 | Zertifikat holen | [Herunterladen + speichern](/fuer-mitarbeiter/zertifikat/) |
-| Datenpanne melden | [So meldest Sie](/fuer-mitarbeiter/datenpanne-melden/) |
+| Datenpanne melden | [So melden Sie](/fuer-mitarbeiter/datenpanne-melden/) |
 
-## Was Sie NICHT siehst
+## Was Sie nicht sehen
 
-Als Mitarbeiter sehen Sie **nur** Ihre Schulungen + Meldefunktionen — nicht VVT, AVV, Kundenliste, Lieferanten. Ihr Login ist begrenzt. Datenschutz-Team / Compliance-Officer haben mehr Rechte.
+Als Mitarbeiter sehen Sie **nur** Ihre Schulungen und die Meldefunktionen — nicht das Verarbeitungsverzeichnis, nicht die Auftragsverarbeiter, nicht die Kunden- oder Lieferantenlisten. Ihr Zugang ist bewusst eng geschnitten. Mehr Rechte haben nur das Datenschutz-Team und die Compliance-Verantwortlichen Ihrer Firma.
 
-## Frage?
+## Fragen?
 
-Erste Adresse: Ihr Datenschutzbeauftragter oder IT-Verantwortlicher in der Firma. Steht in Ihrer Schulungs-Einladungs-Mail.
+Erste Adresse ist Ihr Datenschutzbeauftragter oder IT-Verantwortlicher im Haus. Wer das ist, steht in Ihrer Einladungs-Mail.

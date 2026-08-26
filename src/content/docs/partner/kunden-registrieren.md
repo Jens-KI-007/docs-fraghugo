@@ -1,54 +1,61 @@
 ---
 title: Kunden registrieren (für Berater)
-description: Als Partner einen neuen Mandanten in der Plattform anlegen — mit Vollmacht, eigenem Login und korrekter Rechnungsstellung.
+description: Als Partner einen Kunden im Portal anlegen — welche Angaben nötig sind, wann die Erst-Mail rausgeht und wie es danach weitergeht.
 ---
 
-Wenn Sie Berater, Buchhalter oder Systemhaus-Mitarbeiter sind und im Auftrag eines Kunden die Plattform einrichten sollen, geht das in zwei Wegen:
+Wenn Sie Berater, Buchhalter oder Systemhaus-Mitarbeiter sind und einen Kunden an frag.hugo übergeben wollen, läuft das über **eine** Stelle: `app.fraghugo.de/partner/neu`. Sie legen dort den Kunden an, ab da übernimmt frag.hugo — Erstgespräch, Angebot, Vertrag. Sie behalten den Kunden, bekommen den Status im Dashboard zu sehen und die [Provision](/partner/empfehlungs-programm/).
 
-## Weg A: Kunde registriert selbst, Sie als Partner verbunden
+## Das Formular
 
-Empfohlen, wenn der Kunde technisch fit ist:
+<figure class="shot shot--phone">
+  <img src="/screenshots/partner/neue-empfehlung.jpg" alt="Formular „Neue Empfehlung“ im Partner-Portal, ausgefüllt mit Firmenname Petersen Kältetechnik GmbH, Ansprechpartner Silke Petersen, E-Mail-Adresse, Telefonnummer, Auswahl 26-50 Mitarbeiter, Website-URL und einer Notiz zum Gesprächsanlass" width="1040" height="1760" loading="lazy" />
+  <figcaption>Pflicht sind vier Felder. Alles andere hilft Nils beim Erstgespräch, ist aber optional.</figcaption>
+</figure>
 
-1. **Sie verschicken einen Einladungslink** aus Ihrem Partner-Portal (`app.fraghugo.de/partner/lead-neu`).
-2. **Kunde klickt** → landet auf einer kogebrandeten Signup-Seite ("Ihr Berater [Ihre Firma] hat Sie eingeladen").
-3. **Kunde legt Konto an** + bucht Tarif. Stripe-Checkout läuft direkt mit Kunden-Karte.
-4. **Sie sind als Partner verknüpft** — sehen den Status in Ihrem Dashboard, bekommen Provision.
+| Feld | Pflicht | Wozu |
+|---|---|---|
+| Firmenname | ja | erscheint so in Ihrer Empfehlungs-Liste |
+| Ansprechpartner | ja | wer im Erstgespräch am Telefon ist |
+| E-Mail | ja | Empfänger der Erst-Mail — und Grundlage der Dubletten-Prüfung |
+| Geschätzte Mitarbeiteranzahl | ja | 1–10, 11–25, 26–50, 51–100, 100+ — bestimmt die Tarif-Empfehlung |
+| Telefon | nein | für den Fall, dass die Mail versandet |
+| Website-URL | nein | löst den automatischen DSGVO-Scan aus, siehe unten |
+| Notiz | nein | Gesprächsanlass, Vorgeschichte, Besonderheiten |
 
-## Weg B: Sie richten alles ein, Kunde unterschreibt
+**Dubletten-Prüfung:** Sobald Sie das E-Mail-Feld verlassen, gleicht das Portal die Domain gegen alle vorhandenen Empfehlungen ab. Hat ein Kollege denselben Kunden schon angelegt, steht die Warnung sofort da — bevor Sie den Rest ausfüllen.
 
-Empfohlen für Kunden ohne IT-Affinität:
+## Zwei Wege der Kontaktaufnahme
 
-1. **Im Partner-Portal** klicken Sie "Mandant für Kunden anlegen".
-2. **Kunden-Daten erfassen** — Firma, USt-ID, Ansprechpartner, Branche, NIS2-Sektor.
-3. **Vollmacht** — Sie laden eine unterschriebene Vollmacht hoch ("Ich, [Kunde], beauftrage [Partner], die Plattform für mich einzurichten und Verträge zu schließen").
-4. **Tarif wählen** — Sie wählen den passenden Plan; Rechnung geht trotzdem an den Kunden, nicht an Sie.
-5. **Erste Daten anlegen** — VVT-Grundgerüst, AVV-Standardliste (Microsoft 365, DATEV, ...), TOMs-Vorlage. Sie machen das in 1-2 h.
-6. **Kunde wird übergeben** — Sie schalten den Kunden frei, er kann selbst weiterarbeiten oder Sie weiter operativ.
+Am Ende des Formulars entscheiden Sie, wie der Erstkontakt läuft. Diese Wahl ist der eigentliche Unterschied zwischen den beiden Vorgehensweisen:
 
-## Was Sie als Partner sehen
+<figure class="shot shot--phone">
+  <img src="/screenshots/partner/kontaktaufnahme.jpg" alt="Unterer Teil des Empfehlungs-Formulars mit dem Block Kontaktaufnahme: ausgewählte Option „E-Mail mit Scan-Report sofort senden“ und Alternative „Nur als Lead speichern – Nils entscheidet“, darunter der Button Kunde empfehlen" width="1040" height="1760" loading="lazy" />
+  <figcaption>Voreingestellt ist der sofortige Versand. Für heikle Kunden lohnt sich die zweite Option.</figcaption>
+</figure>
 
-In Ihrem Mandanten-Portal (`app.fraghugo.de/partner/mandanten`):
+**Weg A — E-Mail mit Scan-Report sofort senden.** Empfohlen, wenn der Kunde den Kontakt erwartet. Der Kontakt bekommt direkt nach dem Anlegen eine Mail von frag.hugo. Haben Sie eine Website-URL hinterlegt, läuft dazu ein DSGVO-Scan der Domain, und dessen Ergebnis geht mit in die Mail — der Kunde sieht also beim ersten Kontakt schon etwas Konkretes über seine eigene Seite.
 
-- Liste aller Kunden, die Sie vertreten
-- Letzte Aktivität pro Kunde
-- Offene Aufgaben (z.B. "VVT von Kunde X braucht Review")
-- Provisions-Stand pro Kunde
-- Direkt-Login als Kunde (mit Audit-Log — der Kunde sieht später, wer wann was geändert hat)
+**Weg B — Nur als Lead speichern.** Empfohlen, wenn Sie den Kontakt lieber selbst vorbereiten oder der Kunde von der Empfehlung noch nichts weiß. Es geht keine Mail raus. Der Lead landet bei Nils, der prüft und selbst Kontakt aufnimmt.
 
-## Datenschutz / Vollmacht
+## Was danach passiert
 
-- **Sie sehen die Daten Ihres Kunden** wie ein interner Datenschutzbeauftragter — VVT, AVV, Datenpannen, Mitarbeiter-Liste.
-- **Sie sehen NICHT die Daten anderer Mandanten** — Mandanten-Trennung in der DB ist hart, Sie kommen technisch nicht an fremde Daten.
-- **Der Kunde kann Sie jederzeit aussperren** — über "Einstellungen → Berater entziehen". Sie verlieren Zugriff sofort.
+1. Der Lead steht mit Status **Neu** in Ihrer Liste unter „Meine Empfehlungen".
+2. frag.hugo nimmt Kontakt auf — der Status wandert über **Kontaktiert** und **Erstgespräch geplant** zu **Angebot raus**.
+3. Schließt der Kunde ab, springt der Status auf **Gewonnen**, und Ihre Provision beginnt zu laufen.
+4. Schließt er nicht ab, steht der Lead als **Verloren** mit Notiz in der Liste — für die Wiedervorlage.
 
-## Rechnungsstellung
+Sie müssen dafür nichts tun. Die Status setzt frag.hugo, Sie sehen sie im Dashboard.
 
-- Rechnung der Plattform geht **direkt an den Kunden** (nicht an Sie).
-- Sie können dem Kunden parallel eine **eigene Rechnung** schreiben für Ihre Beratungsleistung ("Einrichtung Datenschutz-Plattform", "Monatliche Pflege").
-- Plattform-Provision (12-Monats-Provision) bekommen Sie zusätzlich — siehe [Empfehlungs-Programm](/partner/empfehlungs-programm/).
+## Rechnung und Provision
 
-## Wenn der Kunde wechselt
+- Die Rechnung der Plattform geht **direkt an den Kunden**, nicht an Sie.
+- Sie können dem Kunden parallel eine **eigene Rechnung** für Ihre Beratungsleistung schreiben.
+- Die Provision bekommen Sie zusätzlich — 10 % der Monatsgebühr über 12 Monate, Details unter [Empfehlungs-Programm](/partner/empfehlungs-programm/).
 
-- Vom Berater zu sich selbst übernehmen: "Berater entziehen" durch den Kunden — Sie verlieren Zugriff, Provision läuft trotzdem 12 Monate weiter (laut Vertrag).
-- Berater wechseln: Kunde lädt neuen Berater ein, alter wird ausgeladen.
-- Sie kündigen die Partnerschaft: alle aktiven Mandanten zahlen weiter Provision bis Ablauf der 12-Monats-Periode.
+## Was das Portal heute nicht kann
+
+Damit niemand danach sucht: Ein Partner-Zugang legt **Empfehlungen** an, keine Mandanten. Es gibt im Portal keinen Weg, im Namen des Kunden ein Konto anzulegen, eine Vollmacht hochzuladen, sich als Kunde einzuloggen oder dessen Verarbeitungsverzeichnis zu bearbeiten. Wenn ein Kunde Sie operativ in seinem Datenschutz haben will, lädt er Sie nach Vertragsabschluss in **seiner** Organisation als Benutzer ein — das läuft über seine Benutzerverwaltung, nicht über Ihren Partner-Zugang.
+
+## Fragen?
+
+Mail an [partner@fraghugo.de](mailto:partner@fraghugo.de).

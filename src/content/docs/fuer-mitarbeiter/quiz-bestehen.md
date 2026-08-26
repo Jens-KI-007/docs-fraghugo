@@ -1,48 +1,47 @@
 ---
 title: Quiz bestehen
-description: Tipps zum Quiz — wie funktioniert's, wie viele Versuche, was wenn Sie durchfallen.
+description: Wie das Abschlussquiz abläuft, wie viele Versuche Sie haben und was passiert, wenn Sie durchfallen.
 ---
 
-Am Ende jeder Schulung kommt das Quiz. Bestehen = 80 % richtig (also 4 von 5 oder 8 von 10).
+Am Ende jeder Schulung kommt das Abschlussquiz. Bestanden haben Sie ab **80 % richtig** — also 4 von 5 oder 8 von 10 Fragen.
 
-## Was Sie erwartet
+## So läuft es ab
 
-- **Multiple-Choice** überwiegend
-- **Einige Drag-and-drop** (z.B. "Welche dieser Mails ist Phishing?")
-- **Manchmal Freitext** (kurze Antwort, Hugo prüft fuzzy)
+Das Quiz stellt **Multiple-Choice-Fragen**, eine nach der anderen. Sie wählen eine Antwort aus, und sofort steht darunter, ob sie richtig war — samt Begründung. Erst danach erscheint „Nächste Frage". Es gibt kein Zurückspringen und kein gesammeltes Abschicken am Ende: Jede Antwort zählt in dem Moment, in dem Sie sie anklicken.
 
-Die Übungen stehen schon zwischen den Lern-Screens, nicht erst am Ende — hier eine Zuordnungs-Aufgabe aus „DSGVO-Grundlagen“:
+Einen Timer gibt es nicht. Lesen Sie in Ruhe. Wenn Sie mittendrin abbrechen, merkt sich die Plattform, wo Sie waren — beim nächsten Aufruf machen Sie an derselben Frage weiter.
+
+## Übungen kommen schon vorher
+
+Die interaktiven Aufgaben stehen zwischen den Lern-Abschnitten, nicht erst im Quiz — hier eine Zuordnungs-Aufgabe aus „DSGVO-Grundlagen":
 
 ![Interaktive Zuordnungs-Aufgabe „Personenbezogen — ja oder nein?“ mit sechs Beispielen (E-Mail-Adresse, dynamische IP-Adresse, Kfz-Kennzeichen, Jahresumsatz, anonyme Statistik) und je zwei Antwortschaltflächen; darüber der Lerntext mit den geprüften Quellen Art. 4 Nr. 1 DSGVO und EuGH C-582/14 Breyer](/screenshots/schulungen/interaktive-uebung.jpg)
 
+Diese Übungen zählen nicht in die Wertung. Sie sind zum Ausprobieren da — und die Quiz-Fragen greifen später genau diese Punkte auf.
+
 ## Beispiel-Fragen
 
-Aus dem DSGVO-Basis-Kurs:
-- "Wie schnell müssen Sie eine Datenpanne intern melden?" — Antwort: **sofort** (nicht erst nach Schichtende)
-- "Darf der Chef E-Mails von Mitarbeitern lesen?" — Antwort: Kommt drauf an (siehe Schulungs-Material)
-- "Was ist KEIN personenbezogenes Datum?" — Antwort z.B. "Wetterdaten Hamburg"
+Aus „DSGVO-Grundlagen":
 
-## Beim Quiz
-
-- **Zeit**: kein Druck, kein Timer. Lies in Ruhe.
-- **Zurück**: Sie können zwischen Fragen vor- und zurückspringen, bevor Sie finalisieren.
-- **Korrektur**: nach dem Klick "Quiz abschicken" sehen Sie sofort, was richtig/falsch war + die Begründung.
+- „Welche der folgenden Informationen ist **kein** personenbezogenes Datum?" — Antwort: der Jahresumsatz eines Unternehmens als Gesamtzahl.
+- „Sie finden einen USB-Stick auf dem Firmenparkplatz. Was tun Sie?" — Antwort: an die IT oder den Datenschutzbeauftragten übergeben, keinesfalls selbst einstecken.
+- „Innerhalb welcher Frist muss eine meldepflichtige Datenpanne an die Aufsichtsbehörde?" — Antwort: binnen 72 Stunden nach Kenntnisnahme.
 
 ## Durchgefallen?
 
-Macht nichts. Wiederholen klicken → Quiz mit anderen Fragen (aus einem größeren Pool) startet. Sie können beliebig oft wiederholen.
+Halb so wild. Sie können das Quiz **beliebig oft** wiederholen — es gibt keine Sperre und keinen Vermerk über Fehlversuche. Beim neuen Anlauf kommen dieselben Fragen des Moduls, aber in anderer Reihenfolge.
 
-**Tipp**: Wenn Sie zwei Mal durchfällst, geh die Video-Slides nochmal durch — bei der dritten Runde klappt's meistens.
+Wenn es zweimal nicht klappt: Gehen Sie die Abschnitte des Moduls noch einmal durch. Die Fragen stammen ausschließlich aus dem Material, das Sie vorher gesehen haben.
 
-## Wer sieht meine Quiz-Ergebnisse?
+## Wer sieht meine Ergebnisse?
 
 - **Sie** — immer.
-- **Ihr DSB / Compliance-Officer** — sieht "bestanden" oder "nicht bestanden", nicht jeden einzelnen Fehler.
-- **Ihr Chef** — Standardmäßig nicht (außer es ist so eingestellt).
-- **Aufsichtsbehörde** — nie. Persönlich identifizierbare Quiz-Ergebnisse werden nicht raus gegeben.
+- **Ihr Datenschutzbeauftragter oder Compliance-Verantwortlicher** — sieht, ob Sie bestanden haben, das Prozentergebnis und das Datum. **Nicht**, welche einzelne Frage Sie falsch beantwortet haben.
+- **Ihre Vorgesetzten** — nur, wenn sie in der Plattform ausdrücklich die Rolle für Schulungsverwaltung haben.
+- **Die Aufsichtsbehörde** — im Prüfungsfall zählt, *dass* geschult wurde. Einzelergebnisse mit Namen gehen dorthin nicht.
 
-## Tipps
+## Drei Tipps
 
-- **Erst alle Folien gesehen** — Quiz-Fragen kommen aus dem Material.
-- **Beim Phishing-Quiz auf Details achten** — Absender-Adresse, Druck-Element, Tippfehler.
-- **Bei Unsicherheit ankreuzen** — keine Minuspunkte für falsche Antworten.
+- **Erst alle Abschnitte durchgehen.** Die Fragen kommen aus dem Material, nirgendwo sonst her.
+- **Bei Phishing-Fragen auf Details achten** — Absenderadresse, Zeitdruck, ungewöhnliche Bitte. Genau darauf zielen die Fragen.
+- **Im Zweifel antworten.** Für eine falsche Antwort gibt es keine Minuspunkte, und die Begründung darunter erklärt sofort, warum.
