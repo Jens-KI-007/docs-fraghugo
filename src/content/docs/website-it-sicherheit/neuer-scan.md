@@ -13,7 +13,7 @@ So scannst Sie eine Website:
 4. **Warten** — 30–60 Sekunden. Sie sehen Live, was geprüft wird.
 5. **Ergebnis** — Score 0–100, Ampelsystem, alle Befunde.
 
-## Was Hugo testet (29 Checks)
+## Was Hugo testet (31 Checks)
 
 **Cookie-Banner:**
 - Existiert eines?
