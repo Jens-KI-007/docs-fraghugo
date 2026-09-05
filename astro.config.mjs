@@ -99,9 +99,12 @@ export default defineConfig({
 					label: 'Lieferkette',
 					items: [
 						{ label: 'Übersicht', slug: 'lieferkette/uebersicht' },
+						{ label: 'Sicherheitsprofil', slug: 'lieferkette/sicherheitsprofil' },
+						{ label: 'Fragebögen beantworten', slug: 'lieferkette/fragebogen-beantworten' },
 						{ label: 'Mein Score', slug: 'lieferkette/mein-score' },
 						{ label: 'Self-Assessment', slug: 'lieferkette/self-assessment' },
 						{ label: 'Auftraggeber-Dashboard', slug: 'lieferkette/dashboard' },
+						{ label: 'Profile lesen (Auftraggeber)', slug: 'lieferkette/fuer-auftraggeber-profile' },
 						{ label: 'Zulieferer verwalten', slug: 'lieferkette/zulieferer' },
 						{ label: 'Eigene Fragen', slug: 'lieferkette/eigene-fragen' },
 						{ label: 'Reports', slug: 'lieferkette/reports' },
