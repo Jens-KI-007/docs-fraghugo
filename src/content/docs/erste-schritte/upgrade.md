@@ -31,6 +31,14 @@ description: Wie Sie auf einen höheren Plan wechseln, was im Preis enthalten is
 - Team — 199 € / Monat
 - Enterprise — 499 € / Monat
 
+**Hugo NIS2** (monatlich kündbar, keine Mindestlaufzeit):
+- Basis — 49 € / Monat oder 490 € / Jahr
+- Schulung der Geschäftsleitung einzeln — 199 € **einmalig**, bis zu 5 Personen, zwölf Monate Zugang
+
+Enthalten in Hugo ISMS, der Compliance-Suite und den DSB-Tarifen Pro und Premium —
+in diesen Fällen ist keine zusätzliche Buchung nötig. Details:
+[Hugo NIS2 Basis](/isms-nis2/nis2-basis/).
+
 Alle Preise netto, zzgl. USt.
 
 ## Was bekomme ich beim Upgrade?
@@ -42,5 +50,8 @@ Wenn Sie z.B. die Datenschutz-Suite hast und brauchst nur kurzfristig 2 zusätzl
 ## Kündigen
 
 - **Einstellungen → Abrechnung → Plan ändern → Kündigen** (im Stripe-Portal).
-- Läuft bis Periodenende, danach kein Lastschrift mehr.
+- Läuft bis Periodenende, danach keine Lastschrift mehr.
+- Ein **Einmalkauf** wie die Schulung der Geschäftsleitung erscheint nicht im
+  Stripe-Portal — dort gibt es nichts zu kündigen. Der Zugang läuft nach zwölf Monaten
+  von selbst aus; das Ablaufdatum steht unter *Einstellungen → Abonnement*.
 - Daten bleiben 90 Tage erreichbar, danach automatisch gelöscht.

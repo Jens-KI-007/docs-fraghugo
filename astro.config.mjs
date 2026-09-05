@@ -111,6 +111,7 @@ export default defineConfig({
 					label: 'ISMS / NIS2',
 					items: [
 						{ label: 'Übersicht', slug: 'isms-nis2/uebersicht' },
+						{ label: 'Hugo NIS2 Basis', slug: 'isms-nis2/nis2-basis' },
 						{ label: 'Asset-Register', slug: 'isms-nis2/asset-register' },
 						{ label: 'Schutzbedarf', slug: 'isms-nis2/schutzbedarf' },
 						{ label: 'Risiko-Register', slug: 'isms-nis2/risiko-register' },
@@ -120,7 +121,7 @@ export default defineConfig({
 						{ label: 'ISMS-Reports', slug: 'isms-nis2/isms-reports' },
 						{ label: 'NIS2-Dashboard', slug: 'isms-nis2/nis2-dashboard' },
 						{ label: 'BSI-Registrierung', slug: 'isms-nis2/bsi-registrierung' },
-						{ label: 'GF-Schulung §38', slug: 'isms-nis2/gf-schulung' },
+						{ label: 'Schulung der Geschäftsleitung', slug: 'isms-nis2/gf-schulung' },
 					],
 				},
 				{
