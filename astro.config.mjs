@@ -125,6 +125,20 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Hersteller & CRA',
+					items: [
+						{ label: 'Übersicht', slug: 'hersteller-cra/uebersicht' },
+						{ label: 'Hersteller-Check', slug: 'hersteller-cra/hersteller-check' },
+						{ label: 'Produktregister', slug: 'hersteller-cra/produktregister' },
+						{ label: 'SBOM-Import', slug: 'hersteller-cra/sbom-import' },
+						{ label: 'Meldung erstellen', slug: 'hersteller-cra/meldung-erstellen' },
+						{ label: 'Bereitschaft', slug: 'hersteller-cra/bereitschaft' },
+						{ label: 'Richtlinien, CVD & security.txt', slug: 'hersteller-cra/richtlinien-cvd-security-txt' },
+						{ label: 'Fristen', slug: 'hersteller-cra/fristen' },
+						{ label: 'Prozessnachweis', slug: 'hersteller-cra/prozessnachweis' },
+					],
+				},
+				{
 					label: 'Arbeitsschutz',
 					items: [
 						{ label: 'Übersicht', slug: 'arbeitsschutz' },
@@ -221,6 +235,7 @@ export default defineConfig({
 						{ label: 'Preise & Abrechnung', slug: 'faq/preise' },
 						{ label: 'Datenschutz & Sicherheit', slug: 'faq/datenschutz' },
 						{ label: 'Technische Fragen', slug: 'faq/technik' },
+						{ label: 'Hersteller & CRA', slug: 'faq/hersteller-cra' },
 					],
 				},
 			],
