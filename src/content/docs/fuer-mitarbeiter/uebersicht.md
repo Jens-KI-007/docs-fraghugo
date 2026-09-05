@@ -28,6 +28,7 @@ Zu Beginn steht dort überall eine Null — das ist normal. Die Zahlen wachsen m
 | Aktion | Anleitung |
 |---|---|
 | Schulung machen | [So funktioniert's](/fuer-mitarbeiter/schulung-machen/) |
+| Anruf-Drill machen | [Die Übung zu Anrufbetrug](/fuer-mitarbeiter/anruf-drill/) |
 | Quiz bestehen | [Tipps fürs Quiz](/fuer-mitarbeiter/quiz-bestehen/) |
 | Zertifikat holen | [Herunterladen + speichern](/fuer-mitarbeiter/zertifikat/) |
 | Datenpanne melden | [So melden Sie](/fuer-mitarbeiter/datenpanne-melden/) |

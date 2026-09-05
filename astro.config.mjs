@@ -171,6 +171,7 @@ export default defineConfig({
 						{ label: 'Fortschritt im Blick', slug: 'schulungen/uebersicht-schulungen' },
 						{ label: 'Mitarbeiter verwalten', slug: 'schulungen/mitarbeiter' },
 						{ label: 'Phishing-Simulation', slug: 'schulungen/phishing-simulation' },
+						{ label: 'Anruf-Drills', slug: 'schulungen/anruf-drills' },
 						{ label: 'Unterweisungs-Baukasten (KI)', slug: 'schulungen/unterweisungs-baukasten' },
 						{ label: 'M365-Integration', slug: 'schulungen/m365-integration' },
 						{ label: 'Ihre Beschäftigten schulen', slug: 'schulungen/beschaeftigte-schulen' },
@@ -212,6 +213,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Übersicht', slug: 'fuer-mitarbeiter/uebersicht' },
 						{ label: 'Schulung machen', slug: 'fuer-mitarbeiter/schulung-machen' },
+						{ label: 'Anruf-Drill machen', slug: 'fuer-mitarbeiter/anruf-drill' },
 						{ label: 'Quiz bestehen', slug: 'fuer-mitarbeiter/quiz-bestehen' },
 						{ label: 'Zertifikat holen', slug: 'fuer-mitarbeiter/zertifikat' },
 						{ label: 'Datenpanne melden', slug: 'fuer-mitarbeiter/datenpanne-melden' },

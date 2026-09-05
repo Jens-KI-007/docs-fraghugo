@@ -52,3 +52,18 @@ NIS2 + ISO 27001 erwarten Phishing-Simulation als Awareness-Maßnahme. Sie dokum
 - **Erstmal nicht zu hart** — sehr realistische Kampagne ohne Vor-Ankündigung kann Mitarbeiter verärgern. Erst Sanftes, dann steigern.
 - **Mit Betriebsrat absprechen** — Phishing-Sims sind mitbestimmungspflichtig.
 - **Quartalsweise** ist guter Rhythmus — nicht zu selten (vergessen), nicht zu oft (gleichgültig).
+
+## Und der Kanal daneben: Anruf-Drills
+
+Die Mail ist nur ein Weg. Der Anruf ist der andere — und in einer Mail-Simulation kommt er nicht
+vor. [Anruf-Drills](/schulungen/anruf-drills/) trainieren Vishing und Deepfake-Anrufe als
+vierminütige Übung im Browser: Das Telefon klingelt auf dem Bildschirm, eine künstlich erzeugte
+Stimme setzt unter Druck, die Person entscheidet. Kein echter Anruf, keine Telefonnummer, keine
+Aufzeichnung.
+
+Beides lässt sich verbinden: In einer Mail-Kampagne können Sie einen **Nachfolge-Drill**
+hinterlegen. Wer auf den Link in der Testmail klickt, landet dann sofort in der Anruf-Übung zum
+selben Vorwand — genau so läuft die reale Angriffskette ab.
+
+Anruf-Drills gehören zur **Programm-Stufe** und sind ein eigener mitbestimmungspflichtiger
+Vorgang: Eine Betriebsvereinbarung, die nur simulierte E-Mails nennt, deckt sie nicht ab.

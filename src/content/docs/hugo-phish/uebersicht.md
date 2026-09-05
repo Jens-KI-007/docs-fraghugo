@@ -16,6 +16,7 @@ nicht, wer versagt, sondern wer **schützt**: die Melderate ist die Leitkennzahl
 | [Schnellstart](/hugo-phish/schnellstart/) | In fünf Schritten zur ersten Kampagne |
 | [Zustellbarkeit](/hugo-phish/zustellbarkeit/) | Allowlisting, damit die Mails ankommen (Pflicht) |
 | [Jahresprogramm](/hugo-phish/programm/) | Der Autopilot: Wellen, Rhythmus, Sperrzeiten |
+| [Anruf-Drills](/schulungen/anruf-drills/) | Der zweite Kanal: Vishing und Deepfakes im Browser (Programm-Stufe) |
 | [Betriebsrat & Datenschutz](/hugo-phish/betriebsrat/) | Anonymität, Musterbetriebsvereinbarung, Rechtsgrundlagen |
 | [Berichte & Nachweis](/hugo-phish/berichte/) | Report-PDF, Audit-Paket für NIS2/ISO/Versicherung |
 | [Häufige Fragen](/hugo-phish/faq/) | Kurz beantwortet |

@@ -13,6 +13,7 @@ Schulungs-Pflichten sind echt: DSGVO Art. 39, NIS2 Awareness-Pflicht, branchensp
 | [Schulungs-Übersicht](/schulungen/uebersicht-schulungen/) | Fortschritt aller Mitarbeiter |
 | [Mitarbeiter verwalten](/schulungen/mitarbeiter/) | Einladen, Kurse zuweisen, Erinnerungen |
 | [Phishing-Simulation](/schulungen/phishing-simulation/) | Live-Test, wer auf gefakte Mails klickt |
+| [Anruf-Drills](/schulungen/anruf-drills/) | Vishing- und Deepfake-Training im Browser (Programm-Stufe) |
 | [M365-Integration](/schulungen/m365-integration/) | Mitarbeiter automatisch aus Microsoft 365 ziehen |
 
 ## Was Hugo Learn anbietet
