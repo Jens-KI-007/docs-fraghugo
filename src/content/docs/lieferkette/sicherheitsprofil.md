@@ -17,7 +17,7 @@ Sie ohnehin in der Plattform pflegen. Sie entscheiden, wer es sehen darf.
 |---|---|
 | Editor | Anwendung unter *Lieferkette → Sicherheitsprofil* (`app.fraghugo.de/shield/profil`) |
 | Öffentliche Seite | `app.fraghugo.de/profil/<adresse>` |
-| Maschinenlesbar | `app.fraghugo.de/profil/<adresse>.json` |
+| Maschinenlesbar | `app.fraghugo.de/profil/<adresse>/json` |
 
 Die Adresse ist die Kurzbezeichnung Ihrer Organisation — dieselbe, die auch Ihr Meldeportal
 verwendet. Sie lässt sich im Editor ändern, solange sie nicht schon vergeben ist.
@@ -182,7 +182,7 @@ Editor stehen, aber die öffentliche Seite zeigt ihn nicht.
 
 ## Für die Prüfsoftware Ihres Auftraggebers
 
-`app.fraghugo.de/profil/<adresse>.json` liefert dieselben Angaben strukturiert, damit die
+`app.fraghugo.de/profil/<adresse>/json` liefert dieselben Angaben strukturiert, damit die
 Prüfsoftware des Auftraggebers sie ohne Abtippen übernehmen kann.
 
 - Format: **JSON-LD** mit dem schema.org-Typ `Organization`, ergänzt um einen eigenen Namensraum

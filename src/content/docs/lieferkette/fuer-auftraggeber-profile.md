@@ -57,7 +57,7 @@ Drei Dinge, auf die zu achten sich lohnt:
 Dieselbe Adresse mit der Endung `.json` liefert die Angaben strukturiert:
 
 ```
-https://app.fraghugo.de/profil/<adresse>.json
+https://app.fraghugo.de/profil/<adresse>/json
 ```
 
 - Es ist **JSON-LD** mit dem schema.org-Typ `Organization`; alles, wofür schema.org nichts
