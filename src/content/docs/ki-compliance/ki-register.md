@@ -35,6 +35,17 @@ Hugo zeigt **typische KI-Systeme** vor, die Sie wahrscheinlich nutzen (basierend
 
 Sie können die ankreuzen, was zutrifft, und nur die übernehmen.
 
+## Einträge aus dem Schatten-KI-Radar
+
+Wer einen Fund des [Schatten-KI-Radars](/ki-compliance/schatten-ki-radar/) ins Register übernimmt,
+bekommt einen vorbelegten Eintrag: Name, Anbieter, Rolle und ein Vorschlag für die Risikoklasse
+stehen schon drin, ergänzen müssen Sie nur den Zweck.
+
+Solche Einträge tragen in der Liste die Kennzeichnung **„aus Radar"** und führen mit einem Klick
+zum Fund zurück — dorthin, wo Sie sehen, wie viele Konten den Dienst verbunden haben, welche
+Berechtigungen er hat und wer zugestimmt hat. Umgekehrt wechselt der Fund im Radar auf den Zustand
+*im Register*, sodass er dort nicht ein zweites Mal bearbeitet wird.
+
 ## Verknüpfung mit VVT
 
 Jedes KI-System ist (fast immer) eine Datenverarbeitung. Sie können pro KI auf den zugehörigen VVT-Eintrag verlinken (oder einen neuen erzeugen).

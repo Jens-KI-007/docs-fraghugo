@@ -158,6 +158,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Übersicht', slug: 'ki-compliance/uebersicht' },
 						{ label: 'KI-Register', slug: 'ki-compliance/ki-register' },
+						{ label: 'Schatten-KI-Radar', slug: 'ki-compliance/schatten-ki-radar' },
 						{ label: 'Klassifizierung', slug: 'ki-compliance/klassifizierung' },
 						{ label: 'KI-Dokumente', slug: 'ki-compliance/ki-dokumente' },
 						{ label: 'FRIA (Grundrechte, Art. 27)', slug: 'ki-compliance/fria' },

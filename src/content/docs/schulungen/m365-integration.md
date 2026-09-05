@@ -21,6 +21,32 @@ Wenn Ihre Firma Microsoft 365 nutzt, haben Sie dort schon alle Mitarbeiter mit M
 3. **Erste Synchronisierung** — dauert je nach Tenant-Größe 1–5 Minuten.
 4. **Sync-Frequenz wählen** — täglich (empfohlen) oder stündlich.
 
+## Die drei Berechtigungssätze
+
+Dieselbe Verbindung trägt je nach Bedarf unterschiedlich viele Leserechte. Es gibt drei Sätze, und
+**Sie entscheiden, wie weit Sie gehen** — jede Erweiterung ist eine neue Zustimmung im
+Microsoft-Dialog. Eine zweite Anbindung brauchen Sie dafür nicht.
+
+| Satz | Berechtigungen | Wofür |
+|---|---|---|
+| **`basis`** | `User.Read.All` | Der Nutzer-Abgleich auf dieser Seite: Mitarbeiter, Abteilungen, An- und Abmeldungen. Mehr nicht. |
+| **`radar`** | zusätzlich `Application.Read.All`, `Directory.Read.All`, `AuditLog.Read.All` | Der [Schatten-KI-Radar](/ki-compliance/schatten-ki-radar/): welche KI-Dienste mit Firmenkonten verbunden sind und welche davon benutzt werden |
+| **`radar_reports`** | zusätzlich `Reports.Read.All` | Zusätzlich der Copilot-Nutzungsbericht |
+
+Alle Berechtigungen sind **lesend**. Für den Nutzer-Abgleich allein bleibt es bei `basis` — der
+Radar wird getrennt aktiviert und ist nicht automatisch an, nur weil M365 verbunden ist.
+
+Zwei Punkte, die beim Erweitern regelmäßig Zeit kosten:
+
+- **Die zustimmende Person braucht zusätzlich eine Verzeichnisrolle** — Globaler Leser,
+  Berichtsleser oder Sicherheitsleser. Ein Anwendungsadministrator reicht nicht; dann gelingt die
+  Zustimmung, und die Abfrage antwortet trotzdem mit einem 403.
+- **`Directory.Read.All` ist nicht überflüssig.** Die Abfrage der erteilten Zustimmungen braucht
+  genau diese Berechtigung, `Application.Read.All` allein genügt dort nicht.
+
+Wie der Radar aktiviert wird, was er liest und was ausdrücklich nicht, steht auf der Seite
+[Schatten-KI-Radar](/ki-compliance/schatten-ki-radar/).
+
 ## Was Hugo NICHT macht
 
 - **Keine Schreibzugriffe** auf M365 — wir lesen nur.

@@ -10,6 +10,7 @@ Mit dem EU AI Act (vollständig anwendbar ab 2027) müssen Sie **alle KI-Systeme
 | Funktion | Wofür |
 |---|---|
 | [KI-Register](/ki-compliance/ki-register/) | Liste aller eingesetzten KI-Systeme |
+| [Schatten-KI-Radar](/ki-compliance/schatten-ki-radar/) | Aus Microsoft 365 lesen, welche KI-Dienste mit Firmenkonten verbunden sind |
 | [Klassifizierung](/ki-compliance/klassifizierung/) | Risiko-Stufe je KI bestimmen |
 | [KI-Dokumente](/ki-compliance/ki-dokumente/) | Pflicht-Doku für Hochrisiko-KI |
 
