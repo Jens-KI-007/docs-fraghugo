@@ -86,6 +86,7 @@ export default defineConfig({
 						{ label: 'Übersicht', slug: 'website-it-sicherheit/uebersicht' },
 						{ label: 'Neuer Scan', slug: 'website-it-sicherheit/neuer-scan' },
 						{ label: 'Scan-Übersicht', slug: 'website-it-sicherheit/scan-uebersicht' },
+						{ label: 'Shop-Check', slug: 'website-it-sicherheit/shop-check' },
 						{ label: 'Trust-Badge einbinden', slug: 'website-it-sicherheit/trust-badge' },
 						{ label: 'Monitoring', slug: 'website-it-sicherheit/monitoring' },
 						{ label: 'Agentur-Bereich', slug: 'website-it-sicherheit/agentur-bereich' },
