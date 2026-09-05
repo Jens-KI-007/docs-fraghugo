@@ -39,6 +39,13 @@ Enthalten in Hugo ISMS, der Compliance-Suite und den DSB-Tarifen Pro und Premium
 in diesen Fällen ist keine zusätzliche Buchung nötig. Details:
 [Hugo NIS2 Basis](/isms-nis2/nis2-basis/).
 
+**Hugo Hersteller** (monatlich kündbar, keine Mindestlaufzeit):
+- 99 € / Monat oder 990 € / Jahr
+
+Für alle, die selbst Software, Firmware, Apps, Bibliotheken oder Geräte mit Software
+auf den EU-Markt bringen. Enthalten in Hugo ISMS Enterprise; in den DSB-Tarifen
+nicht enthalten. Details: [Hugo Hersteller](/hersteller-cra/uebersicht/).
+
 Alle Preise netto, zzgl. USt.
 
 ## Was bekomme ich beim Upgrade?
@@ -55,3 +62,7 @@ Wenn Sie z.B. die Datenschutz-Suite hast und brauchst nur kurzfristig 2 zusätzl
   Stripe-Portal — dort gibt es nichts zu kündigen. Der Zugang läuft nach zwölf Monaten
   von selbst aus; das Ablaufdatum steht unter *Einstellungen → Abonnement*.
 - Daten bleiben 90 Tage erreichbar, danach automatisch gelöscht.
+- **Ausnahme Hugo Hersteller:** Die Meldeakte bleibt nach der Kündigung zwölf Monate
+  lesbar und exportierbar — sie ist Ihr Nachweis darüber, dass Sie eine gesetzliche
+  Meldepflicht erfüllt haben. Neue Einträge und Änderungen sind ab der Kündigung
+  gesperrt.
