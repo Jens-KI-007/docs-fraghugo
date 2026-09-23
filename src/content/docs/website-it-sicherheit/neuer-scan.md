@@ -1,6 +1,6 @@
 ---
 title: Neuer Scan starten
-description: URL eingeben, 29 DSGVO-Checks in unter 60 Sekunden — Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
+description: URL eingeben, 23 Prüfpunkte (bei Online-Shops 27) in unter 60 Sekunden — Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
 ---
 
 ![Scan-Startseite](/screenshots/website-it-sicherheit/neuer-scan.png)
@@ -13,7 +13,9 @@ So scannst Sie eine Website:
 4. **Warten** — 30–60 Sekunden. Sie sehen Live, was geprüft wird.
 5. **Ergebnis** — Score 0–100, Ampelsystem, alle Befunde.
 
-## Was Hugo testet (31 Checks)
+## Was Hugo testet (23 Prüfpunkte, bei Online-Shops 27)
+
+Dazu kommen KI-Auswertungen: 5 im kostenlosen Tarif, bis zu 9 ab Pro.
 
 **Cookie-Banner:**
 - Existiert eines?
