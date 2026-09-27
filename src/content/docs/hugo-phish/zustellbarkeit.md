@@ -22,9 +22,13 @@ erwischen Sie garantiert die richtige Domain, auch wenn wir sie einmal wechseln.
 
 ![Der Assistent „Zustellbarkeit einrichten“ in der Plattform: links die Warnung zur Quarantäne und die Schritt-für-Schritt-Anleitung je Umgebung, rechts das Feld, um eine Prüfmail an ein Postfach zu senden. Oben die Statusampel je Umgebung.](/screenshots/hugo-phish/zustellbarkeit.jpg)
 
-:::note[Zwei Wege — Sie wählen]
-Sie können die Freigabe **selbst** eintragen (diese Anleitung) oder uns die Werte geben und den
-Schritt **von Ihrer IT** erledigen lassen. Beides führt zum selben Ziel: eine bestandene Prüfmail.
+:::tip[Der schnelle Weg: ein Klick]
+Für **Microsoft 365** gibt es in der Plattform (unter *Simulation → Zustellung prüfen*, Reiter
+Microsoft 365) den Knopf **„In Microsoft 365 freischalten"**. Ihr Administrator meldet sich einmalig
+bei Microsoft an und bestätigt — die Freigabe wird dann automatisch eingetragen. Wir speichern
+**keinen** dauerhaften Zugang, und bestehende Einträge bleiben unangetastet. Wer die Rechte lieber
+nicht erteilt oder ein anderes Mailsystem nutzt, trägt die Werte von Hand ein — diese Anleitung
+zeigt wie.
 :::
 
 ## Microsoft 365 (Defender)
