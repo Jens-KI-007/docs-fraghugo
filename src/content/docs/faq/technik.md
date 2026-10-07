@@ -33,7 +33,7 @@ Aktuell:
 - **Erste Seite**: ~600 ms (DOM-Content-Loaded)
 - **Interaktiv**: ~1.2 s
 - **Suche**: Echtzeit, < 100 ms
-- **Bei Hetzner-Hosting** (Frankfurt) — kurze Wege für DACH-User.
+- **Bei Hetzner-Hosting** (Nürnberg) — kurze Wege für DACH-User.
 
 Wenn's bei Ihnen langsam ist: 1) Netzwerk testen 2) Browser-Cache leeren 3) Console-Errors prüfen (F12) → uns melden.
 

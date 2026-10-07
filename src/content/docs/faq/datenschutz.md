@@ -5,7 +5,7 @@ description: Wo werden Daten gehostet, wer hat Zugriff, was passiert bei Kündig
 
 ## Wo werden meine Daten gehostet?
 
-Alle Daten liegen **ausschließlich in Deutschland**, auf einem dedizierten Server bei Hetzner Online (Frankfurt). Kein US-Anbieter, kein Drittland-Transfer. Server-Standort verifiziert.
+Ihre Daten werden **in Deutschland** verarbeitet, auf einem eigenen Server der Hetzner Online GmbH in Nürnberg. Die Sicherungen werden clientseitig verschlüsselt und liegen auf einer Hetzner Storage Box (Deutschland) und bei Cloudflare R2 (EU). Kein Drittland-Transfer.
 
 ## Wer hat Zugriff auf meine Daten?
 
@@ -22,10 +22,10 @@ Nicht zugreifend:
 
 ## Sind meine Daten verschlüsselt?
 
-- **In Ruhe**: Postgres-DB-Volumes verschlüsselt (LUKS + dm-crypt)
-- **Im Transit**: TLS 1.3 zwischen allen Komponenten
+- **Übertragung**: per TLS verschlüsselt
 - **Sensitive Felder** (wie Hinweisgeber-Identität): zusätzliche Field-Level-Verschlüsselung
-- **Backups**: ebenfalls verschlüsselt + räumlich getrennt
+- **Sicherungen**: clientseitig verschlüsselt, bevor sie den Server verlassen, und räumlich getrennt abgelegt — auf einer Hetzner Storage Box (Deutschland) und bei Cloudflare R2 (EU)
+- **Server**: bei der Hetzner Online GmbH in Nürnberg (Deutschland)
 
 ## Werden meine Daten von KI mittrainiert?
 
