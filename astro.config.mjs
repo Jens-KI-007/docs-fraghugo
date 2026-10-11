@@ -49,7 +49,7 @@ export default defineConfig({
 						{ label: 'Übersicht', slug: 'erste-schritte/uebersicht' },
 						{ label: 'Was ist neu', slug: 'erste-schritte/was-ist-neu' },
 						{ label: 'Account erstellen', slug: 'erste-schritte/account-erstellen' },
-						{ label: 'Dashboard verstehen', slug: 'erste-schritte/dashboard' },
+						{ label: 'Startseite und Navigation', slug: 'erste-schritte/dashboard' },
 						{ label: 'Einstellungen', slug: 'erste-schritte/einstellungen' },
 						{ label: 'Benachrichtigungen', slug: 'erste-schritte/notifications' },
 						{ label: 'Upgrade & Tarife', slug: 'erste-schritte/upgrade' },

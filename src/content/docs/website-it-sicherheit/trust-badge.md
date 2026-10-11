@@ -37,7 +37,7 @@ Sie erhalten eine Bestätigungsmail. Klicken Sie auf den Link, dann sind Sie ein
 
 ## 2. Website scannen
 
-Klicken Sie in der Seitenleiste auf **„Neuer Scan"** unter „Website & IT-Sicherheit".
+Klicken Sie in der Seitenleiste auf den Bereich **„Website“** und dort auf **„Website prüfen“** — oder auf der Startseite auf **„＋ Neu“ › „Website-Prüfung“**.
 
 ![Scan-Formular leer](/screenshots/badge-tutorial/05-scan-eingabe-leer.png)
 
