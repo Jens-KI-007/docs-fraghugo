@@ -47,6 +47,7 @@ export default defineConfig({
 					label: 'Erste Schritte',
 					items: [
 						{ label: 'Übersicht', slug: 'erste-schritte/uebersicht' },
+						{ label: 'Was ist neu', slug: 'erste-schritte/was-ist-neu' },
 						{ label: 'Account erstellen', slug: 'erste-schritte/account-erstellen' },
 						{ label: 'Dashboard verstehen', slug: 'erste-schritte/dashboard' },
 						{ label: 'Einstellungen', slug: 'erste-schritte/einstellungen' },
