@@ -59,6 +59,7 @@ export default defineConfig({
 					label: 'Datenschutz',
 					items: [
 						{ label: 'Übersicht', slug: 'datenschutz/uebersicht' },
+						{ label: 'Bestandsaufnahme', slug: 'datenschutz/bestandsaufnahme' },
 						{ label: 'Verarbeitungsverzeichnis (VVT)', slug: 'datenschutz/vvt' },
 						{ label: 'Auftragsverarbeiter (AVV)', slug: 'datenschutz/avv' },
 						{ label: 'Datenschutzerklärung', slug: 'datenschutz/dse' },
