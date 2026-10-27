@@ -3,7 +3,7 @@ title: Shop-Check
 description: Vier Prüfpunkte für Online-Shops — EU-Gewährleistungslabel, Umweltaussagen, Produktsicherheit und KI-Hinweis am Chat. Was geprüft wird, wie Produktseiten gefunden werden, wo die Grenzen liegen.
 ---
 
-![Kategorie „Shop & Werbung" im Scan-Ergebnis mit Shop-Score und Produktseiten-Tabelle](/screenshots/website-it-sicherheit/shop-check.png)
+![Die fünf Prüfpunkte der Kategorie „Shop & Werbung" im Scan-Ergebnis: Online-Shop, EU-Gewährleistungslabel, Produktsicherheitsangaben, Umweltaussagen und KI-Hinweis](/screenshots/website-it-sicherheit/shop-check.png)
 
 <!-- Screenshot wird nach dem Live-Deploy aus der Anwendung nachgereicht (1440 px, heller Modus). -->
 
