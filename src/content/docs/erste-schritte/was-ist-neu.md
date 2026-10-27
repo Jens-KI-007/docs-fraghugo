@@ -96,7 +96,7 @@ Jeder bisherige Menüpunkt und wo er jetzt steht. Sie sehen nur die Bereiche, di
 | Arbeitsschutz & Brandschutz › Nachweise | Arbeitsschutz › Nachweise |
 | Arbeitsschutz & Brandschutz › Unterweisungs-Baukasten | Arbeitsschutz › Unterweisungs-Baukasten |
 | Arbeitsschutz & Brandschutz › Ansprechperson & Betrieb | Arbeitsschutz › Ansprechperson & Betrieb |
-| Arbeitsschutz & Brandschutz › AV-Vertrag | Arbeitsschutz › AV-Vertrag |
+| AV-Vertrag › AV-Vertrag | AV-Vertrag |
 
 <!-- tabelle:ende -->
 
