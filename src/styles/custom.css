@@ -61,7 +61,7 @@
   --text-primary:    #FFFFFF;
   --text-secondary:  #CBD5E1;
   --text-muted:      #94A3B8;
-  --text-faint:      #64748B;
+  --text-faint:      #8090A6;
 
   --text-xs:    0.75rem;
   --text-sm:    0.875rem;
@@ -156,6 +156,9 @@ body::after {
 
 /* Stacking */
 header { position: relative; z-index: 20; }
+/* Kopfleiste bleibt fest oben (Starlight-Standard) — sonst steht sie im Fluss
+   und die Seite beginnt mit einer leeren Bande in Kopfleistenhöhe (FD-013). */
+header.header { position: fixed; }
 .sidebar { position: relative; z-index: 10; }
 .right-sidebar-container { position: relative; z-index: 10; }
 .main-frame { position: relative; z-index: 1; }
@@ -228,7 +231,7 @@ h1 {
 
 .sl-markdown-content p {
   font-size: var(--text-md);
-  line-height: 1.75;
+  line-height: 1.65;
   color: var(--text-secondary);
   max-width: 38rem;
 }
@@ -532,13 +535,13 @@ h1 {
   text-decoration: none !important;
   border: none !important;
   transition: all 200ms ease;
-  box-shadow: 0 8px 24px -8px rgba(245, 158, 11, 0.4);
+  box-shadow: none;
 }
 
 .cta-banner a.cta-button:hover {
   background: var(--hugo-amber-400);
   transform: translateY(-1px);
-  box-shadow: 0 12px 28px -8px rgba(245, 158, 11, 0.55);
+  box-shadow: none;
 }
 
 /* ------------------------------------------------------------------------
@@ -626,6 +629,7 @@ site-search button[data-open-modal]:hover {
    ------------------------------------------------------------------------ */
 
 main:has(.fh-hero) > .content-panel:first-child { display: none !important; }
+main:has(.fh-hero) > .content-panel { border-top: 0; }
 
 main:has(.fh-hero) .content-panel .sl-container {
   max-width: 1280px !important;
@@ -643,7 +647,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   align-items: center;
   padding: 5rem 0 4rem;
   position: relative;
-  animation: fhFadeUp 800ms var(--ease-out) both;
+  animation: fhFadeUp 400ms var(--ease-out) both;
 }
 
 @keyframes fhFadeUp {
@@ -676,10 +680,6 @@ main:has(.fh-hero) .content-panel .sl-container {
 
 .fh-hero-title .accent {
   color: var(--hugo-teal-300);
-  background: linear-gradient(135deg, var(--hugo-teal-300) 0%, var(--hugo-teal) 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .fh-hero-tagline {
@@ -711,8 +711,8 @@ main:has(.fh-hero) .content-panel .sl-container {
   box-shadow:
     inset 0 1px 0 rgba(255, 255, 255, 0.05),
     0 40px 80px -20px rgba(0, 0, 0, 0.6);
-  transform: rotate(-1deg);
-  transition: transform 600ms var(--ease-out);
+  transform: none;
+  transition: transform 300ms var(--ease-out);
 }
 
 .fh-hero-portrait-frame::before {
@@ -723,10 +723,10 @@ main:has(.fh-hero) .content-panel .sl-container {
   border-radius: 26px;
   z-index: -1;
   filter: blur(24px);
-  opacity: 0.6;
+  opacity: 0;
 }
 
-.fh-hero-portrait-frame:hover { transform: rotate(0deg) scale(1.01); }
+.fh-hero-portrait-frame:hover { transform: none; }
 
 .fh-hero-portrait-frame img {
   display: block;
@@ -830,28 +830,28 @@ main:has(.fh-hero) .content-panel .sl-container {
 .fh-pill--amber {
   background: var(--hugo-amber) !important;
   color: var(--hugo-navy-800) !important;
-  box-shadow: 0 8px 24px -8px rgba(245, 158, 11, 0.5);
+  box-shadow: none;
 }
 
 .fh-pill--amber:hover {
   background: var(--hugo-amber-400) !important;
   transform: translateY(-2px);
-  box-shadow: 0 14px 32px -8px rgba(245, 158, 11, 0.6);
+  box-shadow: none;
 }
 
 .fh-pill--amber .fh-pill-icon { transition: transform 250ms ease; }
 .fh-pill--amber:hover .fh-pill-icon { transform: translateX(3px); }
 
 .fh-pill--teal {
-  background: var(--hugo-teal) !important;
+  background: #0369A1 !important;
   color: #FFFFFF !important;
-  box-shadow: 0 8px 24px -8px rgba(14, 165, 233, 0.45);
+  box-shadow: none;
 }
 
 .fh-pill--teal:hover {
-  background: var(--hugo-teal-300) !important;
+  background: #075985 !important;
   transform: translateY(-2px);
-  box-shadow: 0 14px 32px -8px rgba(14, 165, 233, 0.55);
+  box-shadow: none;
 }
 
 /* ------------------------------------------------------------------------
@@ -904,10 +904,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .fh-section h2 .accent {
-  background: linear-gradient(135deg, var(--hugo-teal-300) 0%, var(--hugo-teal) 100%);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: currentColor;
 }
 
 .fh-section p.lead {
@@ -1003,7 +1000,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 
 .persona-card__role {
   font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: 0.6875rem;
+  font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.12em;
@@ -1032,7 +1029,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   gap: 0.4rem;
   margin-top: 0.5rem;
   font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: 0.6875rem;
+  font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -1101,7 +1098,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   border-radius: 0;
   box-shadow: none;
   background: transparent;
-  transition: transform 600ms var(--ease-out);
+  transition: transform 350ms var(--ease-out);
 }
 
 .hp-card:hover .hp-card-visual--image img { transform: scale(1.04); }
@@ -1126,7 +1123,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   gap: 0.4rem;
   padding: 0.35rem 0.7rem;
   border-radius: 999px;
-  font-size: 0.6875rem;
+  font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -1181,7 +1178,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   display: flex;
   flex-direction: column;
   font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--text-muted);
@@ -1323,7 +1320,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 .nis2-step__meta {
   display: inline-block;
   font-family: 'Plus Jakarta Sans', sans-serif;
-  font-size: 0.65rem;
+  font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   color: var(--hugo-amber-300);
@@ -1392,7 +1389,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .topic-strip__meta {
-  font-size: 0.6875rem;
+  font-size: 0.75rem;
   color: var(--text-muted);
   text-transform: uppercase;
   letter-spacing: 0.06em;
@@ -1624,8 +1621,6 @@ main:has(.fh-hero) .content-panel .sl-container {
   border: 1px solid rgba(255, 255, 255, 0.18) !important;
   box-shadow:
     0 1px 0 0 rgba(255, 255, 255, 0.35) inset,
-    0 0 0 1px rgba(245, 158, 11, 0.25),
-    0 10px 24px -10px rgba(245, 158, 11, 0.55),
     0 4px 10px -4px rgba(0, 0, 0, 0.35);
 }
 
@@ -1633,8 +1628,6 @@ main:has(.fh-hero) .content-panel .sl-container {
   transform: translateY(-2px);
   box-shadow:
     0 1px 0 0 rgba(255, 255, 255, 0.4) inset,
-    0 0 0 1px rgba(245, 158, 11, 0.35),
-    0 18px 36px -10px rgba(245, 158, 11, 0.65),
     0 6px 14px -4px rgba(0, 0, 0, 0.4);
 }
 
@@ -1649,7 +1642,7 @@ main:has(.fh-hero) .content-panel .sl-container {
   height: 1.625rem;
   padding: 0 0.625rem;
   margin-left: 0.375rem;
-  font-size: 0.6875rem;       /* 11px */
+  font-size: 0.75rem;       /* 11px */
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -1756,7 +1749,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .landing-cta__role {
-  font-size: 0.625rem;       /* 10px */
+  font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -1788,6 +1781,18 @@ main:has(.fh-hero) .content-panel .sl-container {
   *, *::before, *::after {
     animation-duration: 0.01ms !important;
     transition-duration: 0.01ms !important;
+  }
+  /* Nur Farbe und Deckkraft — keine Bewegung beim Überfahren */
+  .fh-hero { animation: none !important; }
+  .fh-pill:hover, .fh-pill:hover .fh-pill-icon,
+  .persona-card:hover, .persona-card:hover .persona-card__cta svg,
+  .hp-card:hover, .hp-card:hover .hp-card-visual--image img, .hp-card:hover .hp-card-cta svg,
+  .nis2-step:hover, .topic-strip a:hover .topic-strip__arrow svg,
+  .employee-card:hover, .employee-card:hover .employee-card__cta svg,
+  .related-articles a:hover, .related-articles a:hover::after,
+  .landing-cta a.cta-button:hover, .landing-cta a.cta-button--secondary:hover > svg,
+  .bereich-card:hover, .cta-banner a.cta-button:hover {
+    transform: none !important;
   }
 }
 
@@ -1988,11 +1993,8 @@ main:has(.fh-hero) .content-panel .sl-container {
   position: relative;
   margin: 2rem 0;
   padding: 1.25rem 1.5rem 1.35rem;
-  background:
-    radial-gradient(ellipse 640px 140px at 0% 0%, var(--aside-glow), transparent 70%),
-    linear-gradient(180deg, var(--bg-card-hi) 0%, var(--bg-card) 100%);
-  border: 1px solid var(--border-default);
-  border-left: 3px solid var(--aside-accent);
+  background: color-mix(in srgb, var(--aside-accent) 7%, var(--bg-card));
+  border: 1px solid color-mix(in srgb, var(--aside-accent) 45%, transparent);
   border-radius: 12px;
   box-shadow: 0 1px 0 rgba(255, 255, 255, 0.04), 0 18px 40px -28px rgba(0, 0, 0, 0.7);
   color: var(--text-secondary);
@@ -2031,7 +2033,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 .sl-markdown-content .starlight-aside__content p,
 .sl-markdown-content .starlight-aside__content li {
   color: var(--text-secondary);
-  max-width: none;
+  max-width: 36rem;
 }
 
 .sl-markdown-content .starlight-aside__content strong {
@@ -2067,4 +2069,150 @@ main:has(.fh-hero) .content-panel .sl-container {
   --aside-accent: #EF4444;
   --aside-accent-soft: #FCA5A5;
   --aside-glow: rgba(239, 68, 68, 0.13);
+}
+
+
+/* ------------------------------------------------------------------------
+   21. Feinschliff (FEINSCHLIFF-SPEZ §8) — Lesemodus, Klickflächen, Handy
+   ------------------------------------------------------------------------ */
+
+/* Inhaltsverzeichnis rechts: etwas mehr Zeilenhöhe (FD-035) */
+:is(starlight-toc, mobile-starlight-toc) nav a {
+  line-height: 1.4;
+}
+
+/* Sprunglink an Überschriften: neben, nicht über der Überschrift (FD-007),
+   Klickfläche mindestens 24 × 24 */
+.sl-markdown-content .sl-heading-wrapper {
+  display: flex;
+  align-items: baseline;
+}
+.sl-markdown-content .sl-heading-wrapper > :first-child {
+  display: block;
+  flex: 0 1 auto;
+  padding-inline-end: 0;
+  min-width: 0;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+.sl-markdown-content .sl-anchor-link {
+  margin-inline-start: 0.25em;
+  flex: none;
+  min-width: 24px;
+  min-height: 24px;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+.sl-markdown-content .sl-anchor-icon > svg {
+  transform: none;
+  vertical-align: middle;
+}
+
+/* Links als einziger Zellen-/Listeninhalt: Klickhöhe ≥ 24 px
+   (Polster an Inline-Links verändert den Zeilenfluss nicht) */
+.sl-markdown-content :is(td, th, li) > a:only-child,
+.landing-cta__content small > a {
+  padding-block: 0.2rem;
+}
+
+/* Code: Kopierknopf in eigener Leiste über dem Code statt darüber (FD-008) */
+.sl-markdown-content .expressive-code .frame:not(.has-title):not(.is-terminal) .header {
+  display: block;
+  height: 2.75rem;
+  background: var(--bg-card-hi);
+}
+.sl-markdown-content .expressive-code .frame:not(.has-title) .header {
+  border: 1px solid var(--border-default);
+  border-bottom: 1px solid var(--border-subtle);
+  border-radius: 8px 8px 0 0;
+}
+.sl-markdown-content .expressive-code .frame:not(.has-title) .header::before,
+.sl-markdown-content .expressive-code .frame:not(.has-title) .header::after {
+  border: 0;
+}
+.sl-markdown-content .expressive-code .frame:not(.has-title) .header + pre {
+  border-top: 0 !important;
+  border-top-left-radius: 0 !important;
+  border-top-right-radius: 0 !important;
+  margin-top: 0;
+}
+.sl-markdown-content .expressive-code .frame.is-terminal .header,
+.sl-markdown-content .expressive-code .frame.has-title .header {
+  min-height: 2.75rem;
+}
+.sl-markdown-content .expressive-code .copy {
+  inset-block-start: 0;
+}
+.sl-markdown-content .expressive-code .copy button {
+  width: 2.75rem;
+  height: 2.75rem;
+}
+.sl-markdown-content .expressive-code .copy button::after {
+  margin: 0.7rem;
+}
+/* Code immer im dunklen Farbschema der Seite (auch bei hellem System-Theme) */
+.expressive-code {
+  --ec-codeFg: #d6deeb;
+  --ec-codeSelBg: #1d3b53;
+  --ec-gtrFg: #8090a6;
+}
+.expressive-code .ec-line span[style^='--']:not([class]) {
+  color: var(--0, inherit);
+  background-color: var(--0bg, transparent);
+  font-style: var(--0fs, inherit);
+  font-weight: var(--0fw, inherit);
+  text-decoration: var(--0td, inherit);
+}
+
+/* Handy: Kopfleiste und Lesefluss */
+@media (max-width: 50rem) {
+  :root {
+    --sl-menu-button-size: 2.75rem;
+  }
+  starlight-menu-button button {
+    padding: 0.75rem;
+  }
+  /* Menüknopf über der festen Kopfleiste, sonst ist er verdeckt (FD-006) */
+  .sidebar { z-index: 30; }
+  site-search button[data-open-modal] {
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    justify-content: center;
+  }
+  .site-title {
+    min-height: 2.75rem;
+  }
+
+  /* Fließtext kräftiger und heller auf Navy (FD-004) */
+  .sl-markdown-content p,
+  .sl-markdown-content ul li,
+  .sl-markdown-content ol li,
+  .sl-markdown-content .starlight-aside__content p,
+  .sl-markdown-content .starlight-aside__content li {
+    color: #E2E8F0;
+    font-weight: 450;
+  }
+
+  /* Tabellen waagerecht scrollbar statt abgeschnitten (FD-003/039) */
+  .sl-markdown-content table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    overscroll-behavior-x: contain;
+    -webkit-overflow-scrolling: touch;
+  }
+  .sl-markdown-content table :is(th, td) {
+    min-width: 8.5rem;
+  }
+
+  /* Suche: Eingabe nicht abgeschnitten, Abstand zu „Abbrechen“ (FD-010) */
+  #starlight__search {
+    --sl-search-cancel-space: 6.5rem;
+    --pagefind-ui-scale: 0.8;
+  }
+  site-search dialog button[data-close-modal] {
+    min-height: 2.75rem;
+    padding-inline: 0.75rem;
+  }
 }

@@ -148,7 +148,18 @@ function messenImDom({ breite }) {
   for (let i = 0; i < kandidaten.length; i++) for (let j = i + 1; j < kandidaten.length; j++) {
     const a = kandidaten[i], b = kandidaten[j]; if (a.contains(b) || b.contains(a)) continue;
     const A = rects[i], B = rects[j];
-    const w = Math.min(A.right, B.right) - Math.max(A.left, B.left), h = Math.min(A.bottom, B.bottom) - Math.max(A.top, B.top);
+    let w = Math.min(A.right, B.right) - Math.max(A.left, B.left), h = Math.min(A.bottom, B.bottom) - Math.max(A.top, B.top);
+    if (w <= 2 || h <= 2) continue;
+    // Umbrechender Inline-Link: Zeilen-Rechtecke vergleichen, nicht das umschließende Rechteck (D11, wie App-Probe D09).
+    const ra = [...a.getClientRects()], rb = [...b.getClientRects()];
+    if (ra.length > 1 || rb.length > 1) {
+      let best = 0;
+      for (const x of ra) for (const y of rb) {
+        const ww = Math.min(x.right, y.right) - Math.max(x.left, y.left), hh = Math.min(x.bottom, y.bottom) - Math.max(x.top, y.top);
+        if (ww > 2 && hh > 2 && ww * hh > best) { best = ww * hh; w = ww; h = hh; }
+      }
+      if (!best) continue;
+    }
     if (w > 2 && h > 2) add('ueberlappung', { selector: `${sel(a)}  ⟂  ${sel(b)}`, text: `${text(a)} ⟂ ${text(b)}`, wert: `${Math.round(w)}×${Math.round(h)}` });
   }
 
