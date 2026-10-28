@@ -3,7 +3,7 @@ title: Datenschutz — Übersicht
 description: VVT, AVV, TOMs, Löschkonzept, DSFA, DSE — die Datenschutz-Pflichtmappe auf einen Blick.
 ---
 
-Der Bereich **Datenschutz** ist das Herzstück der Plattform. Hier dokumentierst Sie alles, was die DSGVO verlangt — strukturiert, prüfbar, KI-unterstützt.
+Der Bereich **Datenschutz** ist das Herzstück der Plattform. Hier dokumentieren Sie alles, was die DSGVO verlangt — strukturiert, prüfbar, KI-unterstützt.
 
 ## Was wohin?
 
