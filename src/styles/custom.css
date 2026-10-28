@@ -1488,7 +1488,6 @@ main:has(.fh-hero) .content-panel .sl-container {
 }
 
 .employee-card__title {
-  font-family: 'DM Serif Display', Georgia, serif;
   font-size: var(--text-xl);
   line-height: 1.1;
   color: var(--text-primary);
@@ -2118,6 +2117,10 @@ main:has(.fh-hero) .content-panel .sl-container {
   min-width: 0;
   overflow-wrap: break-word;
   hyphens: auto;
+  /* nur lange Wörter trennen, nie „Ih-res“ (D12) */
+  hyphenate-limit-chars: 10 4 4;
+  -webkit-hyphenate-limit-before: 4;
+  -webkit-hyphenate-limit-after: 4;
 }
 .sl-markdown-content .sl-anchor-link {
   margin-inline-start: 0.25em;
@@ -2233,7 +2236,7 @@ main:has(.fh-hero) .content-panel .sl-container {
     overscroll-behavior-x: contain;
     -webkit-overflow-scrolling: touch;
   }
-  .sl-markdown-content table :is(th, td) {
+  .sl-markdown-content table :is(th, td):first-child {
     min-width: 7.5rem;
   }
 
@@ -2246,4 +2249,20 @@ main:has(.fh-hero) .content-panel .sl-container {
     min-height: 2.75rem;
     padding-inline: 0.75rem;
   }
+}
+
+/* ─── D12 Abschlussprüfung ─── */
+/* Starlight setzt h3 auf 2,5 rem oben — in Karten regelt der gap den Abstand */
+.sl-markdown-content :is(.employee-card__title, .hp-card-name) { margin-top: 0 !important; }
+/* Zwei Werte in einer Meta-Zeile („Lite / bis / Premium“) bleiben auf einer Zeile */
+.hp-card-meta li:has(strong ~ strong) { flex-direction: row; flex-wrap: wrap; align-items: baseline; column-gap: 0.35em; }
+/* h3 direkt unter h2 gehört zu ihr */
+.sl-markdown-content .sl-heading-wrapper.level-h2 + .sl-heading-wrapper.level-h3 > h3 { margin-top: 1rem !important; }
+@media (min-width: 72rem) {
+  /* sieben Bereichskacheln setzen sich 4 + 3 statt 5 + 2 */
+  .bereich-grid { grid-template-columns: repeat(4, 1fr); }
+}
+@media (min-width: 50.0625rem) {
+  /* Tabellen am Desktop als echte Tabelle — Kopfband und Linien reichen bis zum Rahmen */
+  .sl-markdown-content table { display: table; }
 }
