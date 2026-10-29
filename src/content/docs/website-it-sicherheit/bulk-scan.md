@@ -27,7 +27,7 @@ Sie wollen nicht 50 Websites einzeln scannen? Bulk-Scan macht das in einem Rutsc
 
 ## Kosten
 
-Bulk-Scans gehören zum Agentur-Tarif (99 €/Monat) — unbegrenzt, keine Pro-Scan-Kosten. Auf Pro/Free nicht verfügbar.
+Bulk-Scans gehören zum Agentur-Tarif (99 €/Monat) — unbegrenzt, keine Pro-Scan-Kosten. Auf Pro/Free nicht verfügbar.
 
 ## Tipps
 

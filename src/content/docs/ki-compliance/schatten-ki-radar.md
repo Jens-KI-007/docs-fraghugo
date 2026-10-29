@@ -12,7 +12,7 @@ angebundenen Microsoft-365-Mandanten, **welche KI-Dienste mit Firmenkonten verbu
 macht daraus Registereinträge, Schulungszuweisungen und Richtlinien-Kenntnisnahmen.
 
 Sie finden ihn in der Anwendung unter *KI-Compliance → Schatten-KI-Radar*
-(`app.fraghugo.de/dsb/ki-register/radar`). Er ist Teil von **Hugo KI** (49 € im Monat) und in
+(`app.fraghugo.de/dsb/ki-register/radar`). Er ist Teil von **Hugo KI** (49 € im Monat) und in
 **Hugo DSB Pro und Premium** enthalten. Einen eigenen Preis hat er nicht.
 
 ## Voraussetzungen
@@ -208,14 +208,14 @@ Personen gezielt schulen.
 Rechtsgrundlage ist **Art. 6 Abs. 1 UAbs. 1 lit. f DSGVO** — das berechtigte Interesse an der
 Informationssicherheit, gestützt auf die Pflicht aus **Art. 32 Abs. 1 DSGVO**.
 
-Auf **§ 26 Abs. 1 BDSG stützen wir uns bewusst nicht.** Das Bundesarbeitsgericht hat entschieden,
+Auf **§ 26 Abs. 1 BDSG stützen wir uns bewusst nicht.** Das Bundesarbeitsgericht hat entschieden,
 dass die Vorschrift unangewendet zu bleiben hat (BAG, Urteil vom 08.05.2025 – 8 AZR 209/21). Ein
 Beschäftigtendatengesetz, das an ihre Stelle träte, gibt es bis heute nicht.
 
 ### Mitbestimmung — schon die Aktivierung
 
 Eine Auswertung, welche Person welchen Dienst nutzt, ist eine technische Einrichtung, die zur
-Überwachung von Verhalten **geeignet** ist. Nach **§ 87 Abs. 1 Nr. 6 BetrVG** kommt es auf genau
+Überwachung von Verhalten **geeignet** ist. Nach **§ 87 Abs. 1 Nr. 6 BetrVG** kommt es auf genau
 diese objektive Eignung an, nicht auf die Absicht (BAG, Beschluss vom 16.07.2024 – 1 ABR 16/23).
 
 **Mitbestimmungspflichtig ist deshalb schon die Aktivierung des Radars, nicht erst das Einschalten

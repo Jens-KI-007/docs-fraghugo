@@ -5,19 +5,19 @@ template: splash
 ---
 
 import { Image } from 'astro:assets';
+import AnleitungenZahl from '../../components/AnleitungenZahl.astro';
 
-export const totalGuides = 70;
 
 <section class="fh-hero">
   <div class="fh-hero-text">
-    <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Hilfe, die wirklich hilft · {totalGuides} Anleitungen</span>
+    <span class="fh-eyebrow"><span class="fh-eyebrow-line"></span>Hilfe, die wirklich hilft · <AnleitungenZahl /> Anleitungen</span>
     <h1 class="fh-hero-title">
       <span>Datenschutz.</span>
       <span>Verständlich.</span>
       <span class="accent">Erklärt.</span>
     </h1>
     <p class="fh-hero-tagline">
-      Alles, was Sie über die frag.hugo Plattform wissen müssen — Datenschutz, Website-Sicherheit, NIS2, Lieferkette, KI-Compliance und Schulungen in einer App. {totalGuides} Anleitungen, Schritt für Schritt, mit echten Screenshots, ohne Marketing-Sprech.
+      Alles, was Sie über die frag.hugo Plattform wissen müssen — Datenschutz, Website-Sicherheit, NIS2, Lieferkette, KI-Compliance und Schulungen in einer App. <AnleitungenZahl /> Anleitungen, Schritt für Schritt, mit echten Screenshots, ohne Marketing-Sprech.
     </p>
     <div class="fh-hero-actions">
       <a href="/erste-schritte/uebersicht/" class="fh-pill fh-pill--amber">
@@ -143,7 +143,7 @@ export const totalGuides = 70;
       <p class="hp-card-desc">VVT, AVV, TOMs, DSE-Generator, Löschkonzept, DSFA, Audits, Mein-Siegel. Die DSGVO-Pflichtmappe vollständig digital.</p>
       <ul class="hp-card-meta">
         <li><strong>11</strong> Anleitungen</li>
-        <li><strong>ab 79 €</strong> /Monat</li>
+        <li><strong>ab 79 €</strong> /Monat</li>
         <li><strong>Lite</strong> bis <strong>Premium</strong></li>
       </ul>
       <span class="hp-card-cta">Anleitungen lesen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
@@ -158,10 +158,10 @@ export const totalGuides = 70;
     <div class="hp-card-info">
       <span class="hp-badge hp-badge--teal">Kostenlos testbar</span>
       <h3 class="hp-card-name">Website & IT-Sicherheit</h3>
-      <p class="hp-card-desc">23 Prüfpunkte (bei Online-Shops 27) in 60 Sekunden. Score, KI-Analyse, Monitoring, Konkurrenzvergleich, Agentur-Bulk-Scan.</p>
+      <p class="hp-card-desc">26 Prüfpunkte (bei Online-Shops 30) in 60 Sekunden. Score, KI-Analyse, Monitoring, Konkurrenzvergleich, Agentur-Bulk-Scan.</p>
       <ul class="hp-card-meta">
         <li><strong>8</strong> Anleitungen</li>
-        <li><strong>0–99 €</strong> /Monat</li>
+        <li><strong>0–99 €</strong> /Monat</li>
         <li><strong>60 Sek</strong> bis zum Score</li>
       </ul>
       <span class="hp-card-cta">Anleitungen lesen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>
@@ -179,7 +179,7 @@ export const totalGuides = 70;
       <p class="hp-card-desc">Self-Assessment als Lieferant, Zulieferer-Verwaltung als Auftraggeber. 50 Standardfragen + Custom-Fragebogen.</p>
       <ul class="hp-card-meta">
         <li><strong>7</strong> Anleitungen</li>
-        <li><strong>0–499 €</strong> /Monat</li>
+        <li><strong>0–499 €</strong> /Monat</li>
         <li><strong>50 Fragen</strong> Assessment</li>
       </ul>
       <span class="hp-card-cta">Anleitungen lesen<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg></span>

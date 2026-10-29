@@ -42,7 +42,7 @@ genau die Zahl, die steigen soll.
 Auswertung anonym ist und dass niemand Konsequenzen zu befürchten hat. Das kostet einen
 Absatz im Intranet und nimmt der Sache den Beigeschmack einer Falle.
 
-**Betriebsrat einbinden**, wo es einen gibt. Simulationen berühren § 87 Abs. 1 Nr. 6 BetrVG.
+**Betriebsrat einbinden**, wo es einen gibt. Simulationen berühren § 87 Abs. 1 Nr. 6 BetrVG.
 Bei anonymer Auswertung ist das in der Regel unkritisch; eine Muster-Betriebsvereinbarung
 liegt in der Plattform bereit.
 

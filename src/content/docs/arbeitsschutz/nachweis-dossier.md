@@ -15,13 +15,13 @@ Im **Kopf** des Dossiers stehen Mitarbeiter, Betrieb, Erstellungsdatum (Stand) u
 
 | Spalte | Inhalt |
 |---|---|
-| Unterweisung | Titel + zugehörige Rechtsgrundlage (z. B. „§ 12 ArbSchG, § 4 DGUV Vorschrift 1") |
+| Unterweisung | Titel + zugehörige Rechtsgrundlage (z. B. „§ 12 ArbSchG, § 4 DGUV Vorschrift 1") |
 | Datum | Tag des Abschlusses |
 | Erg. | erreichtes Testergebnis in Prozent |
 | Best. | aktive „Verstanden & befolge"-Bestätigung (Ja) |
 | Aufbew. bis | empfohlenes Aufbewahrungs-Enddatum je Nachweis |
 
-Am Fuß des Dokuments steht ein Disclaimer, der die Abgrenzung klarstellt (Online-Theorie inkl. Verständnisprüfung; praktische und mündliche Anteile separat vor Ort; Aufbau auf der Gefährdungsbeurteilung; Verantwortung beim Arbeitgeber nach § 13 ArbSchG).
+Am Fuß des Dokuments steht ein Disclaimer, der die Abgrenzung klarstellt (Online-Theorie inkl. Verständnisprüfung; praktische und mündliche Anteile separat vor Ort; Aufbau auf der Gefährdungsbeurteilung; Verantwortung beim Arbeitgeber nach § 13 ArbSchG).
 
 So ist auf einen Blick belegt: **Wer** wurde **wann** zu **welchem Thema** unterwiesen, mit welchem Ergebnis — und hat das aktiv bestätigt.
 
@@ -42,7 +42,7 @@ Jeder Eintrag im Dossier stammt aus dem **Audit-Log** und trägt einen Zeitstemp
 Bewahren Sie die Unterweisungsnachweise auf. Eine feste gesetzliche Frist gibt es nicht; **praxisüblich sind mindestens zwei Jahre**, bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind **fünf Jahre** üblich. Genau dieses Enddatum weist das Dossier je Nachweis in der Spalte „Aufbew. bis" aus. Hugo Safe speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie ältere Jahrgänge jederzeit erneut exportieren können. Details unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
 
 :::caution[Was das Dossier belegt — und was nicht]
-Das Nachweis-Dossier belegt die **durchgeführten Online-Unterweisungen**. Praktische Übungen (Feuerlöscher, PSA, Stapler) und die mündliche Gefahrstoff-Komponente (§ 14 GefStoffV) finden vor Ort statt und werden dort separat dokumentiert. Das Dossier ersetzt außerdem **nicht** die Gefährdungsbeurteilung (§ 5 ArbSchG).
+Das Nachweis-Dossier belegt die **durchgeführten Online-Unterweisungen**. Praktische Übungen (Feuerlöscher, PSA, Stapler) und die mündliche Gefahrstoff-Komponente (§ 14 GefStoffV) finden vor Ort statt und werden dort separat dokumentiert. Das Dossier ersetzt außerdem **nicht** die Gefährdungsbeurteilung (§ 5 ArbSchG).
 :::
 
 ## Tipps

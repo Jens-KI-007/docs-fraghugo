@@ -18,7 +18,7 @@ Ohne bestätigte Zustellung startet auch keine Kampagne.
 Nein. Auf Test-Login-Seiten wird nur erfasst, *dass* eine Eingabe erfolgte — nie der Inhalt.
 
 **Brauchen wir eine Betriebsvereinbarung?**
-In Betrieben mit Betriebsrat ja (§ 87 Abs. 1 Nr. 6 BetrVG). Ein Muster liegt zum Download bereit.
+In Betrieben mit Betriebsrat ja (§ 87 Abs. 1 Nr. 6 BetrVG). Ein Muster liegt zum Download bereit.
 
 **Was ist der Resilienz-Index (HRI)?**
 Eine Kennzahl von 0–100 je Person, Abteilung und Organisation, die vor allem Melden belohnt und
@@ -42,9 +42,9 @@ Nein. Es gibt keinen Mikrofonzugriff. Gespeichert werden nur die angeklickten An
 Zeitpunkt und die daraus errechnete Punktzahl.
 
 **Reicht unsere bestehende Betriebsvereinbarung zur Phishing-Simulation?**
-Nur, wenn sie Anruf-Drills ausdrücklich nennt. § 87 Abs. 1 Nr. 6 BetrVG erfasst „Einführung und
+Nur, wenn sie Anruf-Drills ausdrücklich nennt. § 87 Abs. 1 Nr. 6 BetrVG erfasst „Einführung und
 Anwendung“; ein neuer Kanal mit einer neuen Datenart ist ein eigener mitbestimmungspflichtiger
-Vorgang. Das Rechtspaket enthält dafür den Abschnitt § 4a. Beim Anlegen einer Drill-Welle
+Vorgang. Das Rechtspaket enthält dafür den Abschnitt § 4a. Beim Anlegen einer Drill-Welle
 verlangt die Plattform eine ausdrückliche Bestätigung.
 
 **Was kostet ein Anruf-Drill zusätzlich?**

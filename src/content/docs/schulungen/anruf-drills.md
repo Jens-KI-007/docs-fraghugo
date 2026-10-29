@@ -95,11 +95,11 @@ Im Reiter *Anruf-Drills* führt die Schaltfläche **Drill-Welle planen** durch e
 5. **Pflichtbestätigung zur Betriebsvereinbarung.** Ohne Häkchen legt das Formular keine Welle an.
 
 > **Die Bestätigung ist kein Hinweis, den man wegklickt.**
-> § 87 Absatz 1 Nummer 6 BetrVG erfasst „Einführung **und** Anwendung“. Ein neuer Kanal mit einer
+> § 87 Absatz 1 Nummer 6 BetrVG erfasst „Einführung **und** Anwendung“. Ein neuer Kanal mit einer
 > neuen Datenart und einer neuen Bewertung ist ein **eigener** mitbestimmungspflichtiger Vorgang.
 > Eine Betriebsvereinbarung, die nur simulierte E-Mails nennt, deckt Anruf-Drills **nicht** ab.
 > Deshalb verlangt das Formular eine ausdrückliche Bestätigung. Den passenden Text finden Sie im
-> Rechtspaket unter *Nachweis* als **§ 4a**.
+> Rechtspaket unter *Nachweis* als **§ 4a**.
 
 ### Die Einladungsmail
 
@@ -240,7 +240,7 @@ Für Anruf-Drills gelten dieselben Regeln wie für die
 
 **Erstens: eigene Zustimmung.** Siehe oben. Eine bestehende Betriebsvereinbarung zur
 Phishing-Simulation reicht nicht, wenn sie nur E-Mails nennt. Das Rechtspaket enthält den
-Abschnitt **§ 4a Anruf-Drills (Vishing- und Deepfake-Übungen)** zum Übernehmen.
+Abschnitt **§ 4a Anruf-Drills (Vishing- und Deepfake-Übungen)** zum Übernehmen.
 
 **Zweitens: die fünf Punkte, die im Gespräch immer kommen.**
 
@@ -261,10 +261,10 @@ betriebsindividuell ab.
 Informationssicherheit, konkretisiert durch die Pflicht aus Art. 32 Abs. 1 DSGVO. Eine
 Betriebsvereinbarung tritt als Kollektivvereinbarung nach Art. 88 DSGVO hinzu.
 
-Auf **§ 26 Abs. 1 Satz 1 BDSG stützen wir uns bewusst nicht.** Der Europäische Gerichtshof hat
+Auf **§ 26 Abs. 1 Satz 1 BDSG stützen wir uns bewusst nicht.** Der Europäische Gerichtshof hat
 entschieden, dass eine nationale Norm keine eigene Rechtsgrundlage schafft, wenn sie die Vorgaben
 des Art. 88 Abs. 2 DSGVO nicht erfüllt (EuGH, Urteil vom 30.03.2023, C-34/21). Das
-Bundesarbeitsgericht hat § 26 Abs. 1 Satz 1 BDSG daraufhin für unanwendbar erklärt (BAG, Urteil
+Bundesarbeitsgericht hat § 26 Abs. 1 Satz 1 BDSG daraufhin für unanwendbar erklärt (BAG, Urteil
 vom 08.05.2025 – 8 AZR 209/21).
 
 **KI-Kennzeichnung:** Art. 50 Absatz 5 der Verordnung (EU) 2024/1689 verlangt den Hinweis
@@ -277,7 +277,7 @@ gilt seit dem 02.08.2026; eine Ausnahme für interne Schulungen gibt es nicht.
 mit deren Einwilligung. Der Grund ist weniger juristisch als praktisch: Die Einwilligung der
 Führungskraft deckt nicht die Täuschung derjenigen, die den Anruf hören.
 
-**NIS2:** § 30 Abs. 2 Nr. 7 BSIG verlangt „grundlegende Schulungen und
+**NIS2:** § 30 Abs. 2 Nr. 7 BSIG verlangt „grundlegende Schulungen und
 Sensibilisierungsmaßnahmen im Bereich der Sicherheit in der Informationstechnik“. Anruf-Drills
 sind Schulung in diesem Sinn. Eine Vorschrift, die Phishing- oder Anruftests **fordert**, gibt es
 nicht — weder im BSIG noch anderswo. Wer Ihnen das erzählt, zitiert etwas, das nicht existiert.

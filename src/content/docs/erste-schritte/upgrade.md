@@ -15,32 +15,32 @@ description: Wie Sie auf einen höheren Plan wechseln, was im Preis enthalten is
 ## Preise (Stand 2026)
 
 **Datenschutz-Suite** (immer monatlich, jederzeit kündbar):
-- Lite — 79 €
-- Standard — 149 €
-- Pro — 299 €
-- Premium — 499 €
+- Lite — 79 €
+- Standard — 149 €
+- Pro — 299 €
+- Premium — 499 €
 
 **Website & IT-Sicherheit** (Yearly: 2 Monate gratis):
-- Free — 0 €
-- Pro — 29 € / Monat
-- Agentur — 99 € / Monat
+- Free — 0 €
+- Pro — 29 € / Monat
+- Agentur — 99 € / Monat
 
 **Lieferkette**:
-- Basis — 0 €
-- Premium — 49 € / Monat
-- Team — 199 € / Monat
-- Enterprise — 499 € / Monat
+- Basis — 0 €
+- Premium — 49 € / Monat
+- Team — 199 € / Monat
+- Enterprise — 499 € / Monat
 
 **Hugo NIS2** (monatlich kündbar, keine Mindestlaufzeit):
-- Basis — 49 € / Monat oder 490 € / Jahr
-- Schulung der Geschäftsleitung einzeln — 199 € **einmalig**, bis zu 5 Personen, zwölf Monate Zugang
+- Basis — 49 € / Monat oder 490 € / Jahr
+- Schulung der Geschäftsleitung einzeln — 199 € **einmalig**, bis zu 5 Personen, zwölf Monate Zugang
 
 Enthalten in Hugo ISMS, der Compliance-Suite und den DSB-Tarifen Pro und Premium —
 in diesen Fällen ist keine zusätzliche Buchung nötig. Details:
 [Hugo NIS2 Basis](/isms-nis2/nis2-basis/).
 
 **Hugo Hersteller** (monatlich kündbar, keine Mindestlaufzeit):
-- 99 € / Monat oder 990 € / Jahr
+- 99 € / Monat oder 990 € / Jahr
 
 Für alle, die selbst Software, Firmware, Apps, Bibliotheken oder Geräte mit Software
 auf den EU-Markt bringen. Enthalten in Hugo ISMS Enterprise; in den DSB-Tarifen

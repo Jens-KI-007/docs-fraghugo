@@ -20,7 +20,7 @@ Wenn ein **schwerwiegender Cybersicherheits-Vorfall** auftritt, haben Sie nach N
 
 **Schwerwiegend** heißt nach BSI:
 - Erhebliche Auswirkung auf die Verfügbarkeit, Integrität oder Vertraulichkeit
-- ODER finanzieller Schaden > 100.000 €
+- ODER finanzieller Schaden > 100.000 €
 - ODER Auswirkungen auf andere (Kunden, Lieferkette)
 - ODER Hinweis auf Pflicht-Verstöße
 

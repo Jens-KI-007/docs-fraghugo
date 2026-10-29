@@ -5,7 +5,7 @@ description: Spezielles Dashboard für Agenturen — alle Kunden-Websites auf ei
 
 ![Agentur-Bereich mit Kundenliste](/screenshots/website-it-sicherheit/agentur-bereich.png)
 
-Sie betreuen mehrere Websites (Webagentur, Marketing-Agentur, IT-Systemhaus)? Der Agentur-Tarif (99 €/Monat) gibt Ihnen ein eigenes Dashboard für alle Ihre Kunden.
+Sie betreuen mehrere Websites (Webagentur, Marketing-Agentur, IT-Systemhaus)? Der Agentur-Tarif (99 €/Monat) gibt Ihnen ein eigenes Dashboard für alle Ihre Kunden.
 
 ## Was anders ist
 
@@ -27,7 +27,7 @@ Optional: **Kunde einladen** — er bekommt eigenen Login (mit eingeschränkten 
 
 ## Provisions-Programm
 
-Wenn Sie Kunden auf den Plan **Pro 29 €** verkaufen (die selber zahlen), bekommen Sie 20 % wiederkehrende Provision. Tracking läuft automatisch über Ihren Affiliate-Link (in den Einstellungen).
+Wenn Sie Kunden auf den Plan **Pro 29 €** verkaufen (die selber zahlen), bekommen Sie 20 % wiederkehrende Provision. Tracking läuft automatisch über Ihren Affiliate-Link (in den Einstellungen).
 
 ## Tipps
 

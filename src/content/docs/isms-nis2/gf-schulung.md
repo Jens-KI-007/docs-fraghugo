@@ -1,12 +1,12 @@
 ---
-title: Schulung der Geschäftsleitung (§ 38 Abs. 3 BSIG)
+title: Schulung der Geschäftsleitung (§ 38 Abs. 3 BSIG)
 description: Personen einladen, Schulung absolvieren, Nachweis-Paket erzeugen — und was das BSI von der Dokumentation erwartet.
 ---
 
 ![Schulung der Geschäftsleitung](/screenshots/isms-nis2/gf-schulung.png)
 
-§ 38 BSIG nimmt die Geschäftsleitung selbst in die Pflicht. Absatz 1: Sie muss die
-Risikomanagement-Maßnahmen nach § 30 **umsetzen und ihre Umsetzung überwachen**.
+§ 38 BSIG nimmt die Geschäftsleitung selbst in die Pflicht. Absatz 1: Sie muss die
+Risikomanagement-Maßnahmen nach § 30 **umsetzen und ihre Umsetzung überwachen**.
 Absatz 3: Sie muss **regelmäßig an Schulungen teilnehmen**, um Risiken und
 Risikomanagementpraktiken erkennen und bewerten zu können und um deren Auswirkungen auf
 die eigenen Dienste zu beurteilen.
@@ -23,7 +23,7 @@ Acht Einheiten mit Video-Einstieg, Szenarien, einer Entscheidungsübung und zehn
 zum Abschluss. Rund 45 Minuten, jederzeit unterbrechbar — der Stand wird gespeichert.
 Bestehensgrenze 80 %.
 
-Inhaltlich decken die Einheiten die drei Kompetenzen ab, die § 38 Abs. 3 nennt: Risiken
+Inhaltlich decken die Einheiten die drei Kompetenzen ab, die § 38 Abs. 3 nennt: Risiken
 erkennen und bewerten, Risikomanagementpraktiken beurteilen, Auswirkungen auf die
 eigenen Dienste einschätzen.
 
@@ -68,7 +68,7 @@ die die BSI-Handreichung nennt:
 1. **Schulungsanbieter** oder interne Stelle
 2. **Teilnehmende** mit Name und Funktion
 3. **Datum, Uhrzeit und Dauer** der Schulungseinheiten
-4. **Behandelte Inhalte** mit Bezug zu § 38 Abs. 3 BSIG
+4. **Behandelte Inhalte** mit Bezug zu § 38 Abs. 3 BSIG
 
 Dazu kommt ein Prüfwert (gekürzter SHA-256 über Nachweisnummern und Erstellungsdatum).
 Er beweist nichts kryptografisch — er zeigt, ob zwei Ausdrucke denselben Stand haben.
@@ -103,21 +103,21 @@ Administratoren der Organisation; im Frist-Kalender sehen wir denselben Termin.
 
 ## Was passiert, wenn nicht geschult wird
 
-Kein Bußgeld: **§ 38 steht nicht im Bußgeldkatalog des § 65 BSIG.** Die Zahl „10 Mio. €",
-die dazu oft genannt wird, gehört zu anderen Verstößen — fehlende Maßnahmen nach § 30,
-versäumte Meldungen nach § 32.
+Kein Bußgeld: **§ 38 steht nicht im Bußgeldkatalog des § 65 BSIG.** Die Zahl „10 Mio. €",
+die dazu oft genannt wird, gehört zu anderen Verstößen — fehlende Maßnahmen nach § 30,
+versäumte Meldungen nach § 32.
 
 Folgenlos ist es trotzdem nicht. Es wirkt an zwei Stellen:
 
-- **§ 38 Abs. 2 BSIG:** Wer die Pflichten aus Absatz 1 verletzt, haftet der eigenen
+- **§ 38 Abs. 2 BSIG:** Wer die Pflichten aus Absatz 1 verletzt, haftet der eigenen
   Einrichtung für einen schuldhaft verursachten Schaden — nach den Regeln des
   Gesellschaftsrechts der jeweiligen Rechtsform.
-- **§ 61 Abs. 1 BSIG:** Das Bundesamt kann anordnen, dass die Erfüllung der
-  Verpflichtungen nach § 30 Abs. 1, § 32 und **ausdrücklich auch § 38 Abs. 3** durch
+- **§ 61 Abs. 1 BSIG:** Das Bundesamt kann anordnen, dass die Erfüllung der
+  Verpflichtungen nach § 30 Abs. 1, § 32 und **ausdrücklich auch § 38 Abs. 3** durch
   unabhängige Stellen geprüft wird. Ohne Dokumentation gibt es dort nichts vorzulegen.
 
 ## Einzeln buchbar
 
-Wer nur diesen Baustein braucht, kauft ihn einmalig für 199 € (netto) — für bis zu fünf
+Wer nur diesen Baustein braucht, kauft ihn einmalig für 199 € (netto) — für bis zu fünf
 Personen, zwölf Monate Zugang, kein Abo. Enthalten in Hugo NIS2 Basis, Hugo ISMS und
 den DSB-Tarifen Pro und Premium.

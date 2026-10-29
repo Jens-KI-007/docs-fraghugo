@@ -11,11 +11,11 @@ Informationssicherheits-Managementsystem aufsetzen müssen.
 
 | Baustein | Fundstelle | Wo in der Anwendung |
 |---|---|---|
-| Betroffenheitscheck | § 28 BSIG | `/dsb/nis2/check` |
-| Assistent für die Registrierung | § 33 BSIG | `/dsb/nis2/bsi-registrierung` |
-| Vorfallmeldung in drei Stufen mit Fristen-Uhr | § 32 BSIG | `/dsb/isms/nis2-vorfaelle` |
-| Gap-Analyse zu den zehn Maßnahmen | § 30 Abs. 2 BSIG | `/dsb/nis2/gap-analyse` |
-| Schulung der Geschäftsleitung, bis zu 5 Personen | § 38 Abs. 3 BSIG | `/dsb/nis2/gf-schulung` |
+| Betroffenheitscheck | § 28 BSIG | `/dsb/nis2/check` |
+| Assistent für die Registrierung | § 33 BSIG | `/dsb/nis2/bsi-registrierung` |
+| Vorfallmeldung in drei Stufen mit Fristen-Uhr | § 32 BSIG | `/dsb/isms/nis2-vorfaelle` |
+| Gap-Analyse zu den zehn Maßnahmen | § 30 Abs. 2 BSIG | `/dsb/nis2/gap-analyse` |
+| Schulung der Geschäftsleitung, bis zu 5 Personen | § 38 Abs. 3 BSIG | `/dsb/nis2/gf-schulung` |
 | Dashboard und Report | — | `/dsb/nis2/dashboard` |
 
 ## Was Hugo ISMS vorbehalten bleibt
@@ -38,7 +38,7 @@ brauchen (TOM-Reifegrad, VVT-Vollständigkeit, Risikobewertung). Die Gewichte de
 
 ## Preis und Laufzeit
 
-49 € im Monat oder 490 € im Jahr, jeweils netto. Monatlich kündbar über das Stripe
+49 € im Monat oder 490 € im Jahr, jeweils netto. Monatlich kündbar über das Stripe
 Customer Portal unter *Einstellungen → Abonnement*. Keine Mindestlaufzeit, keine
 Einrichtungsgebühr.
 
@@ -54,7 +54,7 @@ beendet — Sie zahlen nicht doppelt.
 
 ## Was Hugo NIS2 nicht tut
 
-- **Wir registrieren Sie nicht beim Bundesamt.** Die Registrierung nach § 33 BSIG läuft
+- **Wir registrieren Sie nicht beim Bundesamt.** Die Registrierung nach § 33 BSIG läuft
   über das Portal des Bundesamts und verlangt Ihr ELSTER-Organisationszertifikat. Der
   Assistent führt Sie hin; absenden müssen Sie selbst.
 - **Wir melden keine Vorfälle für Sie.** Die Fristen-Uhr rechnet, die Vorlagen sind

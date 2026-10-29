@@ -29,11 +29,11 @@ Ein IT-Systemhaus berät seine Kunden täglich zu Server, Backup, Microsoft 365 
 
 | Tarif des Mandanten | Monatsgebühr | Provision je Monat | Provision über 12 Monate |
 |---|---:|---:|---:|
-| Standard | 149 € | 14,90 € | 178,80 € |
-| Pro | 299 € | 29,90 € | 358,80 € |
-| Premium | 499 € | 49,90 € | 598,80 € |
+| Standard | 149 € | 14,90 € | 178,80 € |
+| Pro | 299 € | 29,90 € | 358,80 € |
+| Premium | 499 € | 49,90 € | 598,80 € |
 
-Ein Mitarbeiter mit fünf aktiven Standard-Mandanten kommt damit auf rund **74,50 € extra im Monat**. Alle Beträge sind Brutto und laufen über die Gehaltsabrechnung.
+Ein Mitarbeiter mit fünf aktiven Standard-Mandanten kommt damit auf rund **74,50 € extra im Monat**. Alle Beträge sind Brutto und laufen über die Gehaltsabrechnung.
 
 <figure class="shot shot--phone">
   <img src="/screenshots/partner/provision.jpg" alt="Reiter „Meine Provision“ im Partner-Portal: drei aktive Provisionen (MVZ Praxiszentrum Alstertal 29,90 EUR, Havelmann Spedition 49,90 EUR, Feddersen Elektrotechnik 14,90 EUR) mit Laufzeitende, Gesamtsumme 94,70 EUR pro Monat, darunter der Provisions-Verlauf der letzten vier Monate mit den Kennzeichen ausstehend und ausgezahlt sowie der Provisions-Rechner" width="1040" height="1760" loading="lazy" />

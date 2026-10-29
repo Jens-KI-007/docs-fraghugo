@@ -13,7 +13,7 @@ Abgerechnet wird **pro Mitarbeiter und Jahr** mit automatischem Mengenrabatt —
 
 ## Worum es geht
 
-Arbeitgeber sind gesetzlich verpflichtet, ihre Beschäftigten **mindestens jährlich** zu unterweisen (§ 12 ArbSchG, § 4 DGUV Vorschrift 1). In der Praxis ist das oft ein Papier- und Excel-Chaos: Wer wurde wann unterwiesen? Wo ist der Nachweis, wenn die Berufsgenossenschaft oder die Gewerbeaufsicht fragt?
+Arbeitgeber sind gesetzlich verpflichtet, ihre Beschäftigten **mindestens jährlich** zu unterweisen (§ 12 ArbSchG, § 4 DGUV Vorschrift 1). In der Praxis ist das oft ein Papier- und Excel-Chaos: Wer wurde wann unterwiesen? Wo ist der Nachweis, wenn die Berufsgenossenschaft oder die Gewerbeaufsicht fragt?
 
 Hugo Safe digitalisiert genau das — von der automatischen Zuweisung nach Tätigkeit über die Fälligkeits-Erinnerung bis zum revisionssicheren Nachweis-Dossier.
 
@@ -37,11 +37,11 @@ Alle Preise sind **Netto** (zzgl. 19 % USt), jährlich abgerechnet, 12 Monate Mi
 
 | Tarif | Preis/MA/Jahr | Inhalt |
 |---|---|---|
-| **Free** | 0 € | 2 Unterweisungen (Allgemeine Sicherheit + Brandschutz), bis 20 Mitarbeiter — unbefristet, ohne Kreditkarte |
-| **Basis** | ab 14,90 € | 25 Unterweisungen — die Branche „Alle / Büro“, also alles, was in jedem Betrieb gilt; unbegrenzte Mitarbeiterzahl |
-| **Komplett** | ab 34,90 € | alle 156 Unterweisungen aus 13 Branchen + KI-Erklärvideos |
+| **Free** | 0 € | 2 Unterweisungen (Allgemeine Sicherheit + Brandschutz), bis 20 Mitarbeiter — unbefristet, ohne Kreditkarte |
+| **Basis** | ab 14,90 € | 25 Unterweisungen — die Branche „Alle / Büro“, also alles, was in jedem Betrieb gilt; unbegrenzte Mitarbeiterzahl |
+| **Komplett** | ab 34,90 € | alle 156 Unterweisungen aus 13 Branchen + KI-Erklärvideos |
 
-Der Mengenrabatt greift automatisch im Checkout: **Basis** 14,90 € → 9,90 € (ab 100 MA) → 7,90 € (ab 500 MA), **Komplett** 34,90 € → 24,90 € (ab 100 MA) → 16,90 € (ab 500 MA) — jeweils pro Mitarbeiter/Jahr. Die **Rechtssicherheits-Features** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos. Kurzformel: **Basis = die Branche „Alle / Büro“. Komplett = plus Ihre zwölf weiteren Branchen.**
+Der Mengenrabatt greift automatisch im Checkout: **Basis** 14,90 € → 9,90 € (ab 100 MA) → 7,90 € (ab 500 MA), **Komplett** 34,90 € → 24,90 € (ab 100 MA) → 16,90 € (ab 500 MA) — jeweils pro Mitarbeiter/Jahr. Die **Rechtssicherheits-Features** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos. Kurzformel: **Basis = die Branche „Alle / Büro“. Komplett = plus Ihre zwölf weiteren Branchen.**
 
 Buchen oder upgraden: [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghugo.de/upgrade/arbeitsschutz). DSB-Kunden erhalten mit dem Combo-Rabatt `COMBO-DSB-SAFE-15` 15 % auf Hugo Safe.
 
@@ -50,10 +50,10 @@ Buchen oder upgraden: [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghu
 Wir formulieren bewusst klar, damit Sie sich auf den Nachweis verlassen können. Diese Leitplanken gelten in der ganzen Doku:
 
 :::caution[Wichtige Abgrenzungen]
-- **Hugo Safe ergänzt die Gefährdungsbeurteilung — es ersetzt sie nicht.** Die Gefährdungsbeurteilung (§ 5 ArbSchG) bleibt Arbeitgeberpflicht. Mehr dazu unter [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/).
+- **Hugo Safe ergänzt die Gefährdungsbeurteilung — es ersetzt sie nicht.** Die Gefährdungsbeurteilung (§ 5 ArbSchG) bleibt Arbeitgeberpflicht. Mehr dazu unter [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/).
 - **Praktische Übungen bleiben Präsenz vor Ort.** Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren, Erste-Hilfe-Praxis und Räumungsübungen lassen sich nicht online ersetzen.
-- **Gefahrstoff-Unterweisungen brauchen zusätzlich eine mündliche, arbeitsplatzbezogene Komponente** (§ 14 GefStoffV). Der Online-Teil deckt die Theorie ab, nicht die mündliche Pflicht.
-- **Hugo Safe ist keine Rechtsberatung.** Die Verantwortung für den Arbeitsschutz verbleibt stets beim Arbeitgeber (§ 13 ArbSchG).
+- **Gefahrstoff-Unterweisungen brauchen zusätzlich eine mündliche, arbeitsplatzbezogene Komponente** (§ 14 GefStoffV). Der Online-Teil deckt die Theorie ab, nicht die mündliche Pflicht.
+- **Hugo Safe ist keine Rechtsberatung.** Die Verantwortung für den Arbeitsschutz verbleibt stets beim Arbeitgeber (§ 13 ArbSchG).
 :::
 
 :::note[Was korrekt ist]

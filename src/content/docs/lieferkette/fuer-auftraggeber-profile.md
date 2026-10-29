@@ -3,7 +3,7 @@ title: Für Auftraggeber — Profile lesen
 description: Wie Sie das Sicherheitsprofil eines Zulieferers lesen, was die Sichtbarkeitsstufen für Sie bedeuten, wie Sie das JSON in Ihren Prüfprozess übernehmen — und warum ein Profil eine Prüfung nicht ersetzt.
 ---
 
-Wenn Sie Ihre Zulieferer prüfen — nach **§ 30 Abs. 2 Nr. 4 BSIG** (Umsetzung von Art. 21 Abs. 2
+Wenn Sie Ihre Zulieferer prüfen — nach **§ 30 Abs. 2 Nr. 4 BSIG** (Umsetzung von Art. 21 Abs. 2
 lit. d NIS2) oder weil **Art. 28 Abs. 1 DSGVO** von Ihnen verlangt, nur Auftragsverarbeiter
 einzusetzen, die hinreichende Garantien bieten —, bekommen Sie zunehmend Antworten in Form eines
 **Sicherheitsprofils**: eine Adresse statt einer ausgefüllten Tabelle.
