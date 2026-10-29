@@ -1,19 +1,19 @@
 ---
 title: Rechtliche Hinweise
-description: Rechtsgrundlagen rund um Hugo Safe — DGUV Regel 100-001-Kriterien für Online-Unterweisungen, Präsenz- und mündliche Pflichten, Aufbewahrung sowie die Paragrafen § 12, § 5, § 13 und § 25 ArbSchG.
+description: Rechtsgrundlagen rund um Hugo Safe — DGUV Regel 100-001-Kriterien für Online-Unterweisungen, Präsenz- und mündliche Pflichten, Aufbewahrung sowie die Paragrafen § 12, § 5, § 13 und § 25 ArbSchG.
 sidebar:
   order: 9
 ---
 
-Diese Seite fasst die rechtlichen Grundlagen zusammen, auf denen Hugo Safe aufsetzt. Sie ist eine **sachliche Einordnung**, **keine Rechtsberatung**. Die Verantwortung für den Arbeitsschutz verbleibt stets beim Arbeitgeber (§ 13 ArbSchG).
+Diese Seite fasst die rechtlichen Grundlagen zusammen, auf denen Hugo Safe aufsetzt. Sie ist eine **sachliche Einordnung**, **keine Rechtsberatung**. Die Verantwortung für den Arbeitsschutz verbleibt stets beim Arbeitgeber (§ 13 ArbSchG).
 
 ## Die Unterweisungspflicht
 
 | Rechtsgrundlage | Inhalt |
 |---|---|
-| **§ 12 ArbSchG** | Der Arbeitgeber muss die Beschäftigten über Sicherheit und Gesundheitsschutz unterweisen — bei Einstellung und danach wiederkehrend. |
-| **§ 4 DGUV Vorschrift 1** | Unterweisung **mindestens einmal jährlich**, dokumentiert. |
-| **§ 29 JArbSchG** | Jugendliche sind **halbjährlich** zu unterweisen. |
+| **§ 12 ArbSchG** | Der Arbeitgeber muss die Beschäftigten über Sicherheit und Gesundheitsschutz unterweisen — bei Einstellung und danach wiederkehrend. |
+| **§ 4 DGUV Vorschrift 1** | Unterweisung **mindestens einmal jährlich**, dokumentiert. |
+| **§ 29 JArbSchG** | Jugendliche sind **halbjährlich** zu unterweisen. |
 
 ## Wann eine Online-Unterweisung rechtssicher ist
 
@@ -36,24 +36,24 @@ Die DGUV stellt klar: Elektronische Hilfsmittel **sollen und können die persön
 
 :::caution[Präsenz- und mündliche Pflichten]
 - **Praktische Übungen** lassen sich nicht online ersetzen: Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren (Erstausbildung), Erste-Hilfe-Praxis, Räumungs-/Evakuierungsübungen.
-- **Gefahrstoff-Unterweisung:** § 14 GefStoffV verlangt eine **mündliche, arbeitsplatzbezogene** Unterweisung. Der Online-Teil deckt die Theorie ab — die mündliche Komponente führen Sie zusätzlich vor Ort durch.
+- **Gefahrstoff-Unterweisung:** § 14 GefStoffV verlangt eine **mündliche, arbeitsplatzbezogene** Unterweisung. Der Online-Teil deckt die Theorie ab — die mündliche Komponente führen Sie zusätzlich vor Ort durch.
 - **Brandschutzhelfer-Ausbildung:** Die Bestellung und Ausbildung von Brandschutzhelfern (inkl. praktischer Feuerlösch-Übung) ist eine eigene Maßnahme und nicht Teil der Online-Unterweisung.
 :::
 
 ## Aufbewahrung der Nachweise
 
-Die Unterweisung ist zu dokumentieren (**§ 4 DGUV Vorschrift 1**). Für die Aufbewahrung der Nachweise nennt das Regelwerk keine feste Frist; **praxisüblich sind mindestens zwei Jahre**. Bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind in der Praxis **fünf Jahre** üblich. Hugo Safe weist dieses Enddatum je Nachweis aus („Aufbewahren bis") und speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
+Die Unterweisung ist zu dokumentieren (**§ 4 DGUV Vorschrift 1**). Für die Aufbewahrung der Nachweise nennt das Regelwerk keine feste Frist; **praxisüblich sind mindestens zwei Jahre**. Bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind in der Praxis **fünf Jahre** üblich. Hugo Safe weist dieses Enddatum je Nachweis aus („Aufbewahren bis") und speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
 
 ## Verantwortung und Haftung
 
 | Rechtsgrundlage | Bedeutung |
 |---|---|
-| **§ 13 ArbSchG** | Verantwortung für den Arbeitsschutz liegt beim Arbeitgeber (bzw. den verantwortlichen Personen). |
-| **§ 5 ArbSchG** | Die **Gefährdungsbeurteilung** ist eine eigenständige Arbeitgeberpflicht — Hugo Safe ergänzt sie, ersetzt sie nicht. Siehe [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/). |
-| **§ 25 ArbSchG** | Ordnungswidrigkeit (Bußgeld) insbesondere bei **Missachtung einer vollziehbaren behördlichen Anordnung**. |
+| **§ 13 ArbSchG** | Verantwortung für den Arbeitsschutz liegt beim Arbeitgeber (bzw. den verantwortlichen Personen). |
+| **§ 5 ArbSchG** | Die **Gefährdungsbeurteilung** ist eine eigenständige Arbeitgeberpflicht — Hugo Safe ergänzt sie, ersetzt sie nicht. Siehe [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/). |
+| **§ 25 ArbSchG** | Ordnungswidrigkeit (Bußgeld) insbesondere bei **Missachtung einer vollziehbaren behördlichen Anordnung**. |
 
 :::caution[Bußgelder ehrlich einordnen]
-Eine **fehlende Unterweisung führt nicht automatisch zu einem festen Bußgeld.** Das tatsächliche Risiko liegt in der **Haftung und im Regress nach einem Arbeitsunfall** sowie in einem Bußgeld bei **Missachtung einer behördlichen Anordnung** (§ 25 ArbSchG). Bei vorsätzlicher Gefährdung von Leben oder Gesundheit kommt § 26 ArbSchG (Straftatbestand) in Betracht. Pauschale Bußgeld-Aussagen ohne diesen Kontext sind irreführend — deshalb verwenden wir sie bewusst nicht.
+Eine **fehlende Unterweisung führt nicht automatisch zu einem festen Bußgeld.** Das tatsächliche Risiko liegt in der **Haftung und im Regress nach einem Arbeitsunfall** sowie in einem Bußgeld bei **Missachtung einer behördlichen Anordnung** (§ 25 ArbSchG). Bei vorsätzlicher Gefährdung von Leben oder Gesundheit kommt § 26 ArbSchG (Straftatbestand) in Betracht. Pauschale Bußgeld-Aussagen ohne diesen Kontext sind irreführend — deshalb verwenden wir sie bewusst nicht.
 :::
 
 ## Zahlen & Quellen
@@ -65,7 +65,7 @@ In Deutschland ereignen sich weiterhin **mehrere hunderttausend meldepflichtige 
 
 ## Quellen zum Nachlesen
 
-- Gesetze: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/) (§ 5, § 12, § 13, § 25, § 26 ArbSchG; § 14 GefStoffV; § 29 JArbSchG)
+- Gesetze: [gesetze-im-internet.de](https://www.gesetze-im-internet.de/) (§ 5, § 12, § 13, § 25, § 26 ArbSchG; § 14 GefStoffV; § 29 JArbSchG)
 - DGUV-Publikationen: [publikationen.dguv.de](https://publikationen.dguv.de/) (DGUV Vorschrift 1, DGUV Regel 100-001)
 - Bundesanstalt für Arbeitsschutz und Arbeitsmedizin: [baua.de](https://www.baua.de/)
 

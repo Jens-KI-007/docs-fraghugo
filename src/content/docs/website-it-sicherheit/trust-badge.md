@@ -10,7 +10,7 @@ Das **Hugo Check Verified Badge** ist ein kostenloses Datenschutz-Siegel für Ih
 
 :::note[Was auf dem Siegel steht]
 Das Siegel nennt **keine Punktzahl**, sondern eine Stufe: ab 90 Punkten „Exzellent", ab 80
-„Sehr gut", ab 70 „Gut". Unter 70 Punkten gibt es kein Siegel. Den genauen Score sehen Sie
+„Sehr gut", ab 60 „Gut". Unter 60 Punkten gibt es kein Siegel. Den genauen Score sehen Sie
 weiterhin im Scan-Ergebnis und auf der verlinkten Verifizierungsseite — dort ist er Diagnose,
 auf der Website des Kunden wäre er eine Note.
 :::
@@ -178,7 +178,7 @@ Klick darauf führt zu `www.fraghugo.de/verified/IHR-BADGE-ID` — einer öffent
 12 Monate ab Aktivierung. Vor Ablauf bekommen Sie eine Erinnerungsmail mit einem Re-Scan-Link. Verbessert sich Ihr Score (oder bleibt stabil ≥ 60), wird automatisch verlängert.
 
 **Was passiert, wenn mein Score nach einem Update der Website fällt?**
-Wir scannen Ihre Website nicht automatisch. Solange Sie kein neues Scan-Ergebnis hochladen, bleibt das Badge aktiv. Mit **Hugo Check Pro** (29 €/Monat) bekommen Sie wöchentliches Monitoring + automatisches Badge-Update.
+Wir scannen Ihre Website nicht automatisch. Solange Sie kein neues Scan-Ergebnis hochladen, bleibt das Badge aktiv. Mit **Hugo Check Pro** (29 €/Monat) bekommen Sie wöchentliches Monitoring + automatisches Badge-Update.
 
 **Wie viel kostet das Badge?**
 Komplett kostenlos im Free-Tarif. Pro-Nutzer bekommen zusätzlich gebrandetes Badge-Design.

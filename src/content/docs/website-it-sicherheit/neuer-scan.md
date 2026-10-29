@@ -1,6 +1,6 @@
 ---
 title: Neuer Scan starten
-description: URL eingeben, 23 Prüfpunkte (bei Online-Shops 27) in unter 60 Sekunden — Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
+description: URL eingeben, 26 Prüfpunkte (bei Online-Shops 30) in unter 60 Sekunden — Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
 ---
 
 ![Scan-Startseite](/screenshots/website-it-sicherheit/neuer-scan.png)
@@ -13,7 +13,7 @@ So scannen Sie eine Website:
 4. **Warten** — 30–60 Sekunden. Sie sehen Live, was geprüft wird.
 5. **Ergebnis** — Score 0–100, Ampelsystem, alle Befunde.
 
-## Was Hugo testet (23 Prüfpunkte, bei Online-Shops 27)
+## Was Hugo testet (26 Prüfpunkte, bei Online-Shops 30)
 
 Dazu kommen KI-Auswertungen: 5 im kostenlosen Tarif, bis zu 9 ab Pro.
 
@@ -33,6 +33,9 @@ Dazu kommen KI-Auswertungen: 5 im kostenlosen Tarif, bis zu 9 ab Pro.
 - Findet sie unter typischen URLs (/datenschutz, /datenschutzerklaerung, /privacy)?
 - Hat sie alle Pflichtangaben (Verantwortlicher, Zwecke, Empfänger, Rechte)?
 - Ist sie max. 12 Monate alt?
+- Nennt sie den Hoster der Website?
+- Verweist sie noch auf abgelöste Gesetze (TMG, TTDSG, RStV)?
+- Steht auf der Website noch der Link zur abgeschalteten EU-Streitschlichtungsplattform (OS-Plattform)?
 
 **Server & Verbindung:**
 - HTTPS aktiv?
@@ -54,7 +57,7 @@ Wenn Sie auf der Plattform Ihre [Datenschutzerklärung](/datenschutz/dse/) gepfl
 
 ## Free vs. Pro vs. Agentur
 
-| Feature | Free | Pro 29 € | Agentur 99 € |
+| Feature | Free | Pro 29 € | Agentur 99 € |
 |---|---|---|---|
 | Anzahl Scans/Monat | 3 | unbegrenzt | unbegrenzt |
 | Captcha | ja | nein | nein |

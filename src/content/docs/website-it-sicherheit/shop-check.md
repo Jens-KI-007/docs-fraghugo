@@ -24,15 +24,15 @@ B2B-Shops — kann er nicht zuverlässig erkennen.
 
 | Prüfpunkt | Rechtsgrund | Gilt ab |
 |---|---|---|
-| EU-Gewährleistungslabel | Art. 246a § 1 Abs. 1 S. 1 Nr. 11 EGBGB in Verbindung mit Anhang I der Durchführungsverordnung (EU) 2025/1960 | 27.09.2026, keine Übergangsfrist |
-| Umweltaussagen | Anhang zu § 3 Abs. 3 UWG Nr. 2a, 4a, 4b, 4c, 10a in der ab dem 27.09.2026 geltenden Fassung | 27.09.2026 |
+| EU-Gewährleistungslabel | Art. 246a § 1 Abs. 1 S. 1 Nr. 11 EGBGB in Verbindung mit Anhang I der Durchführungsverordnung (EU) 2025/1960 | 27.09.2026, keine Übergangsfrist |
+| Umweltaussagen | Anhang zu § 3 Abs. 3 UWG Nr. 2a, 4a, 4b, 4c, 10a in der ab dem 27.09.2026 geltenden Fassung | 27.09.2026 |
 | Produktsicherheitsangaben | Art. 19 Buchst. a–d der Verordnung (EU) 2023/988 | seit 13.12.2024 |
 | KI-Hinweis am Chat-Fenster | Art. 50 Abs. 1 der Verordnung (EU) 2024/1689 | seit 02.08.2026 |
 
 ### 1. EU-Gewährleistungslabel
 
 Ab dem **27.09.2026** müssen Sie beim Verkauf von **Waren** an Verbraucher ein einheitliches
-Label zur gesetzlichen Gewährleistung anzeigen. Rechtsgrund ist Art. 246a § 1 Abs. 1 S. 1 Nr. 11
+Label zur gesetzlichen Gewährleistung anzeigen. Rechtsgrund ist Art. 246a § 1 Abs. 1 S. 1 Nr. 11
 EGBGB — das Einführungsgesetz zum Bürgerlichen Gesetzbuch, in dem die Informationspflichten im
 Fernabsatz stehen — in Verbindung mit Anhang I der Durchführungsverordnung (EU) 2025/1960, die das
 Label grafisch vorgibt. **Eine Übergangsfrist gibt es nicht.**
@@ -53,7 +53,7 @@ angezeigt.
 ### 2. Umweltaussagen
 
 Ab dem 27.09.2026 sind bestimmte Werbeaussagen zur Umwelt in jedem Fall unzulässig. Grundlage ist
-der Anhang zu § 3 Abs. 3 UWG — das Gesetz gegen den unlauteren Wettbewerb — dort die Nummern
+der Anhang zu § 3 Abs. 3 UWG — das Gesetz gegen den unlauteren Wettbewerb — dort die Nummern
 2a, 4a, 4b, 4c und 10a in der ab dem 27.09.2026 geltenden Fassung (Drittes Gesetz zur Änderung
 des UWG vom 12.02.2026, BGBl. 2026 I Nr. 43).
 
@@ -71,7 +71,7 @@ Ein selbst gestaltetes Nachhaltigkeitssiegel ohne erkennbares Zertifizierungssys
 belegpflichtig eingestuft.
 
 **Zukunftsversprechen** wie „bis 2030 klimaneutral" fallen **nicht** unter diese Liste. Fehlt
-dafür ein detaillierter, überprüfbarer Plan, ist der Maßstab § 5 Abs. 3 Nr. 4 UWG — Hugo weist
+dafür ein detaillierter, überprüfbarer Plan, ist der Maßstab § 5 Abs. 3 Nr. 4 UWG — Hugo weist
 solche Aussagen deshalb gesondert aus.
 
 ### 3. Produktsicherheitsangaben (GPSR)

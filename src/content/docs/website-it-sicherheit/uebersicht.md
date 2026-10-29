@@ -9,7 +9,7 @@ Ihre Website ist die häufigste Angriffsfläche für Aufsichtsbehörden und Abma
 
 | Funktion | Wofür |
 |---|---|
-| [Neuer Scan](/website-it-sicherheit/neuer-scan/) | Einzelne Website prüfen (23 Prüfpunkte, bei Online-Shops 27) |
+| [Neuer Scan](/website-it-sicherheit/neuer-scan/) | Einzelne Website prüfen (26 Prüfpunkte, bei Online-Shops 30) |
 | [Scan-Übersicht](/website-it-sicherheit/scan-uebersicht/) | Alle Ihre Scans, Status, Verbesserungen |
 | [Monitoring](/website-it-sicherheit/monitoring/) | Automatischer Re-Scan in Intervallen |
 | [Agentur-Bereich](/website-it-sicherheit/agentur-bereich/) | Kunden-Verwaltung für Agenturen + Whitelabel |

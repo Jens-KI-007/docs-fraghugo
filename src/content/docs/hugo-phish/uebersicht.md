@@ -28,4 +28,4 @@ nicht, wer versagt, sondern wer **schützt**: die Melderate ist die Leitkennzahl
   Administrator sieht Einzelnamen. Das ist in der Datenbank gesperrt, nicht nur zugesagt.
 - **Sofort-Schulung im Moment des Fehlers.** Ein Klick löst binnen Sekunden eine kurze Auffrischung aus.
 - **Nachweis auf Knopfdruck.** Audit-Paket mit Zuordnung zu DSGVO Art. 32, ISO 27001 A.6.3, NIS2 und
-  § 391 SGB V.
+  § 391 SGB V.

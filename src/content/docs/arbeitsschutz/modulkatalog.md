@@ -7,7 +7,7 @@ sidebar:
 
 Hugo Safe enthält **156 Unterweisungen** in **13 Branchen**. Jede Unterweisung
 nennt ihre Rechtsgrundlage und ihren Turnus; welche Themen Ihr Betrieb braucht, ergibt sich aus
-Ihrer Gefährdungsbeurteilung nach § 5 ArbSchG.
+Ihrer Gefährdungsbeurteilung nach § 5 ArbSchG.
 
 :::note[Vollständiger Katalog zum Filtern]
 Diese Seite gibt den Überblick. Die **komplette Liste aller 156 Unterweisungen** — nach Branche
@@ -93,8 +93,8 @@ Hygiene und Infektionsschutz (Lebensmittel) · Biostoffe / Reinigung und Desinfe
 
 :::caution[Der Katalog ersetzt nicht die Gefährdungsbeurteilung]
 Welche dieser Unterweisungen für Ihren Betrieb Pflicht sind, leitet sich aus Ihrer
-**Gefährdungsbeurteilung nach § 5 ArbSchG** ab — die bleibt Arbeitgeberpflicht. Ebenso ersetzt
+**Gefährdungsbeurteilung nach § 5 ArbSchG** ab — die bleibt Arbeitgeberpflicht. Ebenso ersetzt
 der Katalog keine praktischen Übungen und keine mündliche, arbeitsplatzbezogene Unterweisung,
-wo das Regelwerk sie verlangt (etwa § 14 GefStoffV). Mehr dazu unter
+wo das Regelwerk sie verlangt (etwa § 14 GefStoffV). Mehr dazu unter
 [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
 :::

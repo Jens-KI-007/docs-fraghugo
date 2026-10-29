@@ -8,27 +8,27 @@ description: Was kostet was, wie wird abgerechnet, wann kann ich kündigen.
 ### Datenschutz-Suite
 | Plan | Monatlich (netto) | Was drin |
 |---|---|---|
-| **Lite** | 79 € | Plattform-only, keine Beratung |
-| **Standard** | 149 € | + 12 h Beratung / Jahr |
-| **Pro** | 299 € | + 24 h Beratung / Jahr |
-| **Premium** | 499 € | + 48 h Beratung / Jahr |
+| **Lite** | 79 € | Plattform-only, keine Beratung |
+| **Standard** | 149 € | + 12 h Beratung / Jahr |
+| **Pro** | 299 € | + 24 h Beratung / Jahr |
+| **Premium** | 499 € | + 48 h Beratung / Jahr |
 
 ### Website & IT-Sicherheit
 | Plan | Preis | Was drin |
 |---|---|---|
-| **Free** | 0 € | 3 Scans/Monat, mit Captcha |
-| **Pro** | 29 € / Monat | Unbegrenzte Scans, KI-Analyse, Monitoring |
-| **Agentur** | 99 € / Monat | + Whitelabel, Bulk-Scan, API, Kunden-Verwaltung |
+| **Free** | 0 € | 3 Scans/Monat, mit Captcha |
+| **Pro** | 29 € / Monat | Unbegrenzte Scans, KI-Analyse, Monitoring |
+| **Agentur** | 99 € / Monat | + Whitelabel, Bulk-Scan, API, Kunden-Verwaltung |
 
 Jahres-Tarif: 2 Monate gratis.
 
 ### Lieferkette
 | Plan | Preis | Was drin |
 |---|---|---|
-| **Basis** | 0 € | Eigenes Profil, Self-Assessment, Score teilen |
-| **Premium** | 49 € / Monat | + 5 Zulieferer einladen + verwalten |
-| **Team** | 199 € / Monat | + 50 Zulieferer + Custom-Fragen |
-| **Enterprise** | 499 € / Monat | + 500 Zulieferer + API + Premium-Support |
+| **Basis** | 0 € | Eigenes Profil, Self-Assessment, Score teilen |
+| **Premium** | 49 € / Monat | + 5 Zulieferer einladen + verwalten |
+| **Team** | 199 € / Monat | + 50 Zulieferer + Custom-Fragen |
+| **Enterprise** | 499 € / Monat | + 500 Zulieferer + API + Premium-Support |
 
 ## Wann wird abgerechnet
 

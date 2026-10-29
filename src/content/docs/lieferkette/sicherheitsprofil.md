@@ -117,11 +117,11 @@ ihn nichts an.
 
 ### Zertifikate und eigene Nachweise stehen in zwei Blöcken
 
-:::caution[Zwei Überschriften, nicht eine — § 5 UWG]
+:::caution[Zwei Überschriften, nicht eine — § 5 UWG]
 Ein ISO/IEC-27001-Zertifikat stammt von einer akkreditierten Stelle, die geprüft und ihren Namen
 darunter gesetzt hat. Ein eigenes Prüfergebnis — etwa ein Hugo-Check-Score oder ein
 Shield-Ergebnis — stammt von Ihnen selbst. Beides unter eine gemeinsame Überschrift zu stellen,
-wäre eine irreführende geschäftliche Handlung nach **§ 5 Abs. 1, Abs. 2 Nr. 3 UWG**; die Vorschrift
+wäre eine irreführende geschäftliche Handlung nach **§ 5 Abs. 1, Abs. 2 Nr. 3 UWG**; die Vorschrift
 gilt auch gegenüber Unternehmen, nicht nur gegenüber Verbrauchern.
 
 Deshalb kennzeichnet die Anwendung jeden Eintrag: **unabhängige Stelle** bei ISO/IEC 27001,
@@ -158,7 +158,7 @@ Zwei weitere Punkte gehören vor die Veröffentlichung von Kennzahlen:
   Daten, um Schulungsbedarf zu erkennen. Sie an Dritte zu geben, ist eine
   Zweckänderung und an **Art. 6 Abs. 4 DSGVO** zu messen.
 - **Eine bestehende Betriebsvereinbarung deckt das regelmäßig nicht.** Betriebsvereinbarungen zu
-  Schulung und Simulation nach **§ 87 Abs. 1 Nr. 6 BetrVG** regeln die interne Auswertung. Die
+  Schulung und Simulation nach **§ 87 Abs. 1 Nr. 6 BetrVG** regeln die interne Auswertung. Die
   Weitergabe aggregierter Verhaltensdaten an Auftraggeber ist ein eigener Vorgang — klären Sie ihn
   vorher mit dem Betriebs- oder Personalrat.
 

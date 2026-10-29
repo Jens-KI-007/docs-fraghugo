@@ -17,7 +17,7 @@ umfasst **31 Module** in vier Gruppen; 27 davon haben ein Erklärvideo, zusammen
 - **Abschlussquiz** — sechs bis zehn Fragen, Bestehen ab 80 %
 - **Zertifikat** als PDF mit Datum, Person und Quiz-Ergebnis
 
-Ein Modul dauert rund 15–20 Minuten. Ausnahme ist die Geschäftsführungs-Schulung nach § 38 BSIG,
+Ein Modul dauert rund 15–20 Minuten. Ausnahme ist die Geschäftsführungs-Schulung nach § 38 BSIG,
 die deutlich umfangreicher ist.
 
 ## Die vier Gruppen

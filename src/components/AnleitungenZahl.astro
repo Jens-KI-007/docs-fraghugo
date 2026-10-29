@@ -1,0 +1,8 @@
+---
+// Zahl der Anleitungen wie in der Fußzeile — gezählt, nicht von Hand gepflegt (vorher stand fest „70“, D13/B54)
+import { getCollection } from 'astro:content';
+
+const alle = await getCollection('docs');
+const anzahl = alle.filter((eintrag) => eintrag.slug !== '' && eintrag.slug !== 'index').length;
+---
+{anzahl}

@@ -56,5 +56,5 @@ Arbeitsschutz-Unterweisungen also Deutsch.
 
 **Weitere Sprachen** richten wir auf Wunsch ein. Sprechen Sie uns an; Umfang und Termin klären
 wir verbindlich im Erstgespräch. Hintergrund: Für Unterweisungen mit Gefahrstoffbezug verlangt
-§ 14 Abs. 2 GefStoffV, dass sie *in für die Beschäftigten verständlicher Form und Sprache*
+§ 14 Abs. 2 GefStoffV, dass sie *in für die Beschäftigten verständlicher Form und Sprache*
 erfolgen — wo die Belegschaft kein Deutsch spricht, ist das eine Rechtsfrage.

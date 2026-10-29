@@ -10,7 +10,7 @@ ist dafür gebaut.
 
 ## Mitbestimmung
 Eine Phishing-Simulation erfasst Verhaltensdaten und ist damit eine technische Einrichtung im Sinne
-des **§ 87 Abs. 1 Nr. 6 BetrVG**. In mitbestimmten Betrieben ist sie ohne Betriebsvereinbarung
+des **§ 87 Abs. 1 Nr. 6 BetrVG**. In mitbestimmten Betrieben ist sie ohne Betriebsvereinbarung
 angreifbar. Unter *Berichte & Dokumente* finden Sie eine **Muster-Betriebsvereinbarung** zum Download.
 
 ## Anonymität — drei Stufen, technisch erzwungen
@@ -28,12 +28,12 @@ zusätzliche Schulung — nie eine Meldung an Vorgesetzte.
 Verarbeitung nach **Art. 6 Abs. 1 UAbs. 1 lit. f DSGVO** (berechtigtes Interesse an der
 Informationssicherheit), konkretisiert durch die Pflicht aus **Art. 32 Abs. 1 DSGVO**; die
 Betriebsvereinbarung tritt als Kollektivvereinbarung nach **Art. 88 DSGVO** hinzu. Für Krankenhäuser
-zusätzlich **§ 391 SGB V**.
+zusätzlich **§ 391 SGB V**.
 
-Auf **§ 26 Abs. 1 Satz 1 BDSG** stützen wir uns bewusst **nicht** (mehr): Der Europäische Gerichtshof
+Auf **§ 26 Abs. 1 Satz 1 BDSG** stützen wir uns bewusst **nicht** (mehr): Der Europäische Gerichtshof
 hat entschieden, dass eine nationale Norm keine eigene Rechtsgrundlage schafft, wenn sie die Vorgaben
 des Art. 88 Abs. 2 DSGVO nicht erfüllt (EuGH, 30.03.2023, C-34/21); das Bundesarbeitsgericht hat
-§ 26 Abs. 1 Satz 1 BDSG daraufhin für unanwendbar erklärt (BAG, 08.05.2025 – 8 AZR 209/21). Das
+§ 26 Abs. 1 Satz 1 BDSG daraufhin für unanwendbar erklärt (BAG, 08.05.2025 – 8 AZR 209/21). Das
 Rechtspaket in der Anwendung ist entsprechend gefasst.
 
 Die Muster-Dokumente sind Vorlagen und ersetzen keine Rechtsberatung — bitte betriebsindividuell
@@ -41,11 +41,11 @@ abstimmen.
 
 ## Anruf-Drills brauchen eine eigene Zustimmung
 
-§ 87 Abs. 1 Nr. 6 BetrVG erfasst „Einführung **und** Anwendung“. Ein neuer Kanal mit einer neuen
+§ 87 Abs. 1 Nr. 6 BetrVG erfasst „Einführung **und** Anwendung“. Ein neuer Kanal mit einer neuen
 Datenart und einer neuen Bewertung ist deshalb ein **eigener** mitbestimmungspflichtiger Vorgang:
 Eine Betriebsvereinbarung, die nur simulierte E-Mails nennt, deckt
 [Anruf-Drills](/schulungen/anruf-drills/) nicht ab. Das Rechtspaket enthält dafür den Abschnitt
-**§ 4a**; beim Anlegen einer Drill-Welle verlangt die Plattform eine ausdrückliche Bestätigung.
+**§ 4a**; beim Anlegen einer Drill-Welle verlangt die Plattform eine ausdrückliche Bestätigung.
 
 ## Was der einzelne Mitarbeiter sieht
 

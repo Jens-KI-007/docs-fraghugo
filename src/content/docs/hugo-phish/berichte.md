@@ -1,6 +1,6 @@
 ---
 title: Hugo Phish — Berichte & Nachweis
-description: Report-PDF und Audit-Paket für NIS2, ISO 27001, DSGVO Art. 32 und § 391 SGB V.
+description: Report-PDF und Audit-Paket für NIS2, ISO 27001, DSGVO Art. 32 und § 391 SGB V.
 ---
 
 Beide Nachweise liegen unter *Nachweis & Berichte* — der Schulungsstand und die Simulations-Berichte auf derselben Seite.
@@ -13,7 +13,7 @@ den Quartals-Überblick.
 
 ## Audit-Paket
 Für Prüfer und Cyberversicherer: Nachweis der Durchführung mit Zuordnung zu **DSGVO Art. 32**,
-**ISO/IEC 27001:2022 Control A.6.3**, **NIS2 / § 38 BSIG** und **§ 391 SGB V**. Jedes PDF trägt einen
+**ISO/IEC 27001:2022 Control A.6.3**, **NIS2 / § 38 BSIG** und **§ 391 SGB V**. Jedes PDF trägt einen
 **SHA-256-Integritäts-Hash** als Beleg der Unveränderlichkeit.
 
 ## Aggregiert und BR-konform

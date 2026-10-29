@@ -27,7 +27,7 @@ Klassische Unterweisungsvideos sind teuer und veralten schnell. KI-generierte Er
 ## Was die Videos nicht ersetzen
 
 :::caution[Theorie ja — Praxis vor Ort]
-Auch ein gutes Erklärvideo bleibt **Theorie**. Praktische Übungen — Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren, Erste-Hilfe-Praxis, Räumungsübungen — finden weiterhin **vor Ort** statt. Bei Gefahrstoffen kommt die **mündliche, arbeitsplatzbezogene** Komponente hinzu (§ 14 GefStoffV). Ein E-Learning-Video soll und kann die persönliche Unterweisung nicht vollständig ersetzen (DGUV Regel 100-001).
+Auch ein gutes Erklärvideo bleibt **Theorie**. Praktische Übungen — Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren, Erste-Hilfe-Praxis, Räumungsübungen — finden weiterhin **vor Ort** statt. Bei Gefahrstoffen kommt die **mündliche, arbeitsplatzbezogene** Komponente hinzu (§ 14 GefStoffV). Ein E-Learning-Video soll und kann die persönliche Unterweisung nicht vollständig ersetzen (DGUV Regel 100-001).
 :::
 
 ## Tipps

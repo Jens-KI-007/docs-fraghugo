@@ -79,13 +79,13 @@ Hugo Hersteller arbeitet am Produkt. Das Managementsystem darum herum gehört in
 - Audit-Exporte und externer Auditor-Zugang
 
 Und die Pflichten, die an Ihrer **Einrichtung** hängen — Registrierung beim Bundesamt,
-Vorfallmeldung nach § 32 BSIG, Schulung der Geschäftsleitung — liegen in
+Vorfallmeldung nach § 32 BSIG, Schulung der Geschäftsleitung — liegen in
 [Hugo NIS2 Basis](/isms-nis2/nis2-basis/). Die beiden Meldeketten sind verschieden: NIS2 meldet
 die Einrichtung, der CRA meldet das Produkt. Es kann sein, dass beides zugleich fällig wird.
 
 ## Preis und Laufzeit
 
-**99 € im Monat oder 990 € im Jahr**, jeweils netto. Monatlich kündbar über das Stripe Customer
+**99 € im Monat oder 990 € im Jahr**, jeweils netto. Monatlich kündbar über das Stripe Customer
 Portal unter *Einstellungen → Abonnement*. Keine Mindestlaufzeit, keine Einrichtungsgebühr.
 
 Enthalten in **Hugo ISMS Enterprise**. Wer diesen Tarif hat, braucht Hugo Hersteller nicht
