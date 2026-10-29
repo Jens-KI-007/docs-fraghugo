@@ -11,7 +11,7 @@ Die Pflicht-Übersicht aller Verarbeitungen personenbezogener Daten. Wenn die Au
 
 ### Neue Verarbeitung anlegen
 
-Klicken Sie "Neu" oben rechts. Zwei Wege:
+Klicken Sie „Neu“ oben rechts. Zwei Wege:
 
 - **Aus Vorlage** — 400+ vorbefüllte Vorlagen (Mitarbeiterstamm, Bewerbungen, Newsletter, Webshop-Bestellungen, CRM, Cloud-Backup, Videoüberwachung, ...). Spart 80 % der Zeit.
 - **Leer** — wenn Sie eine spezifische Eigen-Verarbeitung haben.

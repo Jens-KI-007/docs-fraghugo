@@ -42,7 +42,7 @@ Kürzer geht nur, wenn das Produkt voraussichtlich weniger als fünf Jahre genut
 (Art. 13 Abs. 8 UAbs. 2 und 3).
 
 Bei Routern, Betriebssystemen, Hauptplatinen, Mikroprozessoren und Software für industrielle
-Umgebungen ist ein **längerer** Zeitraum die Regel (Erwägungsgrund 60). „Fünf Jahre" als
+Umgebungen ist ein **längerer** Zeitraum die Regel (Erwägungsgrund 60). „Fünf Jahre“ als
 Voreinstellung wäre dort eine falsche Angabe — und sie ist öffentlich.
 :::
 
@@ -73,8 +73,8 @@ Welchen Weg Sie gehen dürfen, entscheidet die Produktklasse:
 | Klasse | Zulässige Verfahren | Ist ein Dritter zwingend? |
 |---|---|---|
 | weder wichtig noch kritisch | Modul A (internes Kontrollverfahren) — oder B+C, H, europäisches Zertifizierungsschema | nein (Art. 32 Abs. 1) |
-| wichtig, Klasse I | Modul A **nur**, wenn harmonisierte Normen, gemeinsame Spezifikationen oder eine europäische Cybersicherheitszertifizierung mindestens der Stufe „mittel" **vollständig** angewandt wurden; sonst B+C oder H | bedingt (Art. 32 Abs. 2, Erwägungsgrund 91) |
-| wichtig, Klasse II | B+C, H oder europäisches Zertifizierungsschema ab Stufe „mittel" | ja, immer (Art. 32 Abs. 3) |
+| wichtig, Klasse I | Modul A **nur**, wenn harmonisierte Normen, gemeinsame Spezifikationen oder eine europäische Cybersicherheitszertifizierung mindestens der Stufe „mittel“ **vollständig** angewandt wurden; sonst B+C oder H | bedingt (Art. 32 Abs. 2, Erwägungsgrund 91) |
+| wichtig, Klasse II | B+C, H oder europäisches Zertifizierungsschema ab Stufe „mittel“ | ja, immer (Art. 32 Abs. 3) |
 | kritisch | vorrangig europäisches Cybersicherheitszertifizierungsschema nach Art. 8 Abs. 1, sonst die Verfahren der Klasse II | ja (Art. 32 Abs. 4) |
 
 :::note[Klasse I ist selten Selbstbewertung]
@@ -103,7 +103,7 @@ Bei Software gibt es nichts, worauf man ein Zeichen kleben könnte. Die Verordnu
 > angebracht. Im letzteren Fall muss der relevante Abschnitt der Website für Verbraucher leicht
 > und direkt zugänglich sein. (Art. 30 Abs. 1)
 
-Das Register fragt deshalb nicht nur „CE ja/nein", sondern auch **wo** — Konformitätserklärung
+Das Register fragt deshalb nicht nur „CE ja/nein“, sondern auch **wo** — Konformitätserklärung
 oder Website — und im zweiten Fall die URL. War eine notifizierte Stelle nach Modul H beteiligt,
 folgt auf die Kennzeichnung ihre Kennnummer (Art. 30 Abs. 4).
 

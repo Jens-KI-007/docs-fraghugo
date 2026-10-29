@@ -39,7 +39,7 @@ Am Ende des Formulars entscheiden Sie, wie der Erstkontakt läuft. Diese Wahl is
 
 ## Was danach passiert
 
-1. Der Lead steht mit Status **Neu** in Ihrer Liste unter „Meine Empfehlungen".
+1. Der Lead steht mit Status **Neu** in Ihrer Liste unter „Meine Empfehlungen“.
 2. frag.hugo nimmt Kontakt auf — der Status wandert über **Kontaktiert** und **Erstgespräch geplant** zu **Angebot raus**.
 3. Schließt der Kunde ab, springt der Status auf **Gewonnen**, und Ihre Provision beginnt zu laufen.
 4. Schließt er nicht ab, steht der Lead als **Verloren** mit Notiz in der Liste — für die Wiedervorlage.

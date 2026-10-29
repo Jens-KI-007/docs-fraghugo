@@ -9,7 +9,7 @@ Schulen ist eins. Testen ist ein anderes Niveau: Echte (harmlose) Phishing-Mails
 
 ## So funktioniert's
 
-1. **Kampagne anlegen** — Auswahl aus 30+ Vorlagen ("Microsoft-Login abgelaufen", "Paket-Lieferung", "Geschäftsführer fordert Überweisung", "HR — neue Dienstanweisung", ...).
+1. **Kampagne anlegen** — Auswahl aus 30+ Vorlagen („Microsoft-Login abgelaufen“, „Paket-Lieferung“, „Geschäftsführer fordert Überweisung“, „HR — neue Dienstanweisung“, ...).
 2. **Anpassen** — Hugo passt die Mail an Ihre Firma an (Logo, Firmenname, Mitarbeiter-Namen werden eingebaut für Spear-Phishing-Realität).
 3. **Empfänger wählen** — alle / Abteilung / einzelne
 4. **Zeitfenster** — von wann bis wann gehen die Mails raus (verteilt über mehrere Tage = realistisch)
@@ -26,7 +26,7 @@ Pro Mail-Versand und Empfänger:
 ## Nach dem Klick
 
 Statt zu echtem Phishing: Mitarbeiter landet auf einer Lern-Seite mit:
-- "Diese Mail war eine Simulation"
+- „Diese Mail war eine Simulation“
 - Erklärung was die Phishing-Indikatoren waren (Absender-Domain, schlechtes Deutsch, Druck-Element)
 - Mini-Quiz (5 Fragen)
 - **Kein Schamspiel** — niemand wird outed, aber er wird sensibilisiert
@@ -38,7 +38,7 @@ Statt zu echtem Phishing: Mitarbeiter landet auf einer Lern-Seite mit:
 - **Trend über Zeit** — wird's besser?
 - **Repeat-Offender** — wer klickt regelmäßig, der braucht extra Coaching
 
-**Wichtig**: keine personenbezogene "Wer-hat-geklickt-Liste" für Geschäftsführung — nur aggregierte Daten. Sonst wirken Simulationen toxisch.
+**Wichtig**: keine personenbezogene „Wer-hat-geklickt-Liste“ für Geschäftsführung — nur aggregierte Daten. Sonst wirken Simulationen toxisch.
 
 ## Compliance-Wert
 

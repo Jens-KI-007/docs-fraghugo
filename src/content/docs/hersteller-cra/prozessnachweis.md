@@ -61,7 +61,7 @@ Einträge, erster und letzter Zeitpunkt.
   eine unverfälschte Kette mit einem falschen Wert darin.
 - **einen Zeitstempel gegenüber Dritten.** Die Zeiten stammen aus unserem System, nicht von einem
   qualifizierten Zeitstempeldienst. Es gibt keine Hinterlegung bei einer neutralen Stelle.
-- **dass eine Meldung tatsächlich angekommen ist.** „Als eingereicht markieren" ist Ihre Erklärung.
+- **dass eine Meldung tatsächlich angekommen ist.** „Als eingereicht markieren“ ist Ihre Erklärung.
   Der Empfangsnachweis kommt von der Meldeplattform; hängen Sie ihn am Fall an, dann steht er im
   Paket.
 - **Konformität.** Kein Dokument aus dieser Anwendung ersetzt eine Konformitätsbewertung, eine

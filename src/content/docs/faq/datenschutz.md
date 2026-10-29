@@ -12,7 +12,7 @@ Ihre Daten werden **in Deutschland** verarbeitet, auf einem eigenen Server der H
 - **Sie und Ihre Mitarbeiter** (je nach Rollen-Berechtigung in der App)
 - **frag.hugo Support-Team** nur auf ausdrückliche Anfrage von Ihnen + mit Audit-Log
 - **Externer DSB Nils** nur, wenn Sie ihn als Ihren DSB benennen (mit Bestellungsurkunde)
-- **Aufsichtsbehörden** im Rahmen von §44a / §40 BDSG bei berechtigtem Anlass
+- **Aufsichtsbehörden** im Rahmen von § 44a / § 40 BDSG bei berechtigtem Anlass
 
 Nicht zugreifend:
 - Niemand bei OpenAI / Anthropic (KI-Anfragen werden ANONYMISIERT verarbeitet, kein Re-Training auf Ihren Daten)
@@ -31,7 +31,7 @@ Nicht zugreifend:
 
 **Nein.** Wir nutzen API-Anfragen an OpenAI / Anthropic mit dem No-Training-Opt-out (zero retention). Ihre VVT-Einträge, Datenpannen, Mitarbeiter-Antworten werden nicht zum Training fremder Modelle benutzt.
 
-## Was passiert bei einer Datenpanne bei euch?
+## Was passiert bei einer Datenpanne bei frag.hugo?
 
 - **Innerhalb 24 h** Mail an alle betroffenen Kunden mit Details + Maßnahmen
 - **Externer Krisen-Stab** für Forensik aktiviert
@@ -49,7 +49,7 @@ Ja, immer. **Einstellungen → Daten-Export** → ZIP mit allen Ihren Daten als 
 - Nach 90 Tagen: **automatische Komplett-Löschung** (alle Datensätze + alle Backups)
 - **Bestätigungs-PDF** der Löschung wird Ihnen per Mail geschickt
 
-## Auftragsverarbeitung — habt ihr einen AVV?
+## Auftragsverarbeitung — gibt es einen AVV mit frag.hugo?
 
 Ja, **immer**. Wenn Sie bei uns Kunde werden, bekommen Sie automatisch einen AVV nach Art. 28 DSGVO zu unterschreiben. Sie finden ihn in den **Einstellungen → Recht → AVV-Vertrag** als PDF.
 

@@ -15,7 +15,7 @@ Sie wollen die DSGVO-Scores in Ihr eigenes Reporting bringen oder ein eigenes Fr
 
 ## Token erstellen
 
-1. **Einstellungen → API** → "+ Neuer Token".
+1. **Einstellungen → API** → „+ Neuer Token“.
 2. **Name + Scope** wählen (Read-only oder Write).
 3. **Token kopieren** — wird nur einmal gezeigt!
 4. **Speichern** in Ihrem Backend als Umgebungsvariable.

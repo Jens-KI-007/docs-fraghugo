@@ -3,13 +3,13 @@ title: Shop-Check
 description: Vier Prüfpunkte für Online-Shops — EU-Gewährleistungslabel, Umweltaussagen, Produktsicherheit und KI-Hinweis am Chat. Was geprüft wird, wie Produktseiten gefunden werden, wo die Grenzen liegen.
 ---
 
-![Die fünf Prüfpunkte der Kategorie „Shop & Werbung" im Scan-Ergebnis: Online-Shop, EU-Gewährleistungslabel, Produktsicherheitsangaben, Umweltaussagen und KI-Hinweis](/screenshots/website-it-sicherheit/shop-check.png)
+![Die fünf Prüfpunkte der Kategorie „Shop & Werbung“ im Scan-Ergebnis: Online-Shop, EU-Gewährleistungslabel, Produktsicherheitsangaben, Umweltaussagen und KI-Hinweis](/screenshots/website-it-sicherheit/shop-check.png)
 
 <!-- Screenshot wird nach dem Live-Deploy aus der Anwendung nachgereicht (1440 px, heller Modus). -->
 
 Wenn Hugo auf Ihrer Website einen Online-Shop erkennt, prüft er zusätzlich zu den DSGVO-Checks vier
 Punkte, die für den Verkauf an Verbraucher gelten. Sie erscheinen im Scan-Ergebnis als eigene
-Kategorie **„Shop & Werbung"** mit einem eigenen **Shop-Score** von 0 bis 100.
+Kategorie **„Shop & Werbung“** mit einem eigenen **Shop-Score** von 0 bis 100.
 
 Der Shop-Score steht neben dem DSGVO-Score und fließt **nicht** in ihn ein. So bleibt Ihr
 Datenschutz-Wert über die Zeit vergleichbar, auch wenn die Shop-Prüfung dazukommt.
@@ -46,8 +46,8 @@ Shop-Plugins. Der Scan prüft dabei die **Produktseite, nicht den Bestellvorgang
 und die Kasse werden nicht durchlaufen.
 
 **Bewertung:** vor dem Stichtag gilt ein fehlendes Label als Hinweis (gelb, „ab 27.09.2026
-Pflicht"), ab dem Stichtag als Fehler (rot). Erkennt Hugo einen B2B-Shop — etwa an
-Netto-Preisen oder am Hinweis „nur für Gewerbetreibende" —, wird der Punkt nur zur Information
+Pflicht“), ab dem Stichtag als Fehler (rot). Erkennt Hugo einen B2B-Shop — etwa an
+Netto-Preisen oder am Hinweis „nur für Gewerbetreibende“ —, wird der Punkt nur zur Information
 angezeigt.
 
 ### 2. Umweltaussagen
@@ -58,7 +58,7 @@ der Anhang zu § 3 Abs. 3 UWG — das Gesetz gegen den unlauteren Wettbewerb �
 des UWG vom 12.02.2026, BGBl. 2026 I Nr. 43).
 
 Hugo geht in zwei Schritten vor. Zuerst sucht er im sichtbaren Text nach Begriffen wie
-„klimaneutral", „nachhaltig", „umweltfreundlich" oder „CO₂-neutral" — auf der Startseite, den
+„klimaneutral“, „nachhaltig“, „umweltfreundlich“ oder „CO₂-neutral“ — auf der Startseite, den
 Kategorieseiten, den Produktseiten und auf Seiten wie `/nachhaltigkeit`. Danach ordnet die KI jeden
 Fund im Umfeld von rund 240 Zeichen ein:
 
@@ -70,7 +70,7 @@ Fund im Umfeld von rund 240 Zeichen ein:
 Ein selbst gestaltetes Nachhaltigkeitssiegel ohne erkennbares Zertifizierungssystem wird als
 belegpflichtig eingestuft.
 
-**Zukunftsversprechen** wie „bis 2030 klimaneutral" fallen **nicht** unter diese Liste. Fehlt
+**Zukunftsversprechen** wie „bis 2030 klimaneutral“ fallen **nicht** unter diese Liste. Fehlt
 dafür ein detaillierter, überprüfbarer Plan, ist der Maßstab § 5 Abs. 3 Nr. 4 UWG — Hugo weist
 solche Aussagen deshalb gesondert aus.
 
@@ -98,8 +98,8 @@ dagegen der **Betreiber der Website** (OLG Hamm, Urteil vom 12.05.2026, 4 UKl 3/
 ein Grund, den Hinweis sichtbar zu setzen.
 
 Hugo erkennt gängige Chat-Widgets, öffnet das Fenster und prüft den Begrüßungstext auf einen
-Hinweis wie „KI", „künstliche Intelligenz", „virtueller Assistent" oder „automatisiert". Lässt
-sich das Widget nicht öffnen, meldet Hugo „nicht prüfbar" statt eines Fehlers.
+Hinweis wie „KI“, „künstliche Intelligenz“, „virtueller Assistent“ oder „automatisiert“. Lässt
+sich das Widget nicht öffnen, meldet Hugo „nicht prüfbar“ statt eines Fehlers.
 
 ## Wie der Scanner Produktseiten findet
 
@@ -128,7 +128,7 @@ Shop-System — gibt es ab Pro.
 ## Eigene Produkt-URLs hinterlegen (Pro)
 
 Manche Shops verstecken ihre Produktseiten hinter Filtern, Endlos-Scroll oder einer Suche. Dann
-findet Hugo nichts Verwertbares und meldet „Produktseiten nicht automatisch auffindbar".
+findet Hugo nichts Verwertbares und meldet „Produktseiten nicht automatisch auffindbar“.
 
 Als Pro-Kunde geben Sie deshalb **bis zu fünf Beispiel-URLs** von Hand vor:
 
@@ -141,10 +141,10 @@ Der nächste Scan prüft **bevorzugt diese Seiten** und füllt erst danach mit a
 Seiten auf. Wählen Sie Beispiele, die repräsentativ sind — je eine Seite aus verschiedenen
 Kategorien sagt mehr aus als fünf Varianten desselben Artikels.
 
-## Was „nicht prüfbar" heißt
+## Was „nicht prüfbar“ heißt
 
-„Nicht prüfbar" ist kein Fehler und kein Freispruch, sondern ein ehrliches „konnte ich nicht
-sehen". Es gibt drei Gründe:
+„Nicht prüfbar“ ist kein Fehler und kein Freispruch, sondern ein ehrliches „konnte ich nicht
+sehen“. Es gibt drei Gründe:
 
 | Grund | Was Sie tun können |
 |---|---|
@@ -152,7 +152,7 @@ sehen". Es gibt drei Gründe:
 | **Ein Consent-Banner blockiert die Seite** — der Inhalt liegt hinter einer Einwilligungsschicht, die sich nicht schließen ließ | Prüfen Sie, ob sich Ihr Banner ohne Zustimmung schließen lässt. Bleibt es hart, hinterlegen Sie Produkt-URLs (Pro) und prüfen die betroffenen Punkte einmal von Hand. |
 | **Die KI war nicht erreichbar** — die Einordnung der Umweltaussagen und der Produktsicherheitsangaben braucht sie | Der Scan bricht deswegen nicht ab: Sie bekommen das heuristische Ergebnis als Hinweis (gelb). Ein erneuter Scan liefert in aller Regel die vollständige Einordnung. |
 
-Betrifft „nicht prüfbar" einzelne Seiten, steht in den Details, welche das waren.
+Betrifft „nicht prüfbar“ einzelne Seiten, steht in den Details, welche das waren.
 
 ## Wie das Monitoring alarmiert
 
@@ -161,7 +161,7 @@ vergleicht Hugo bei jedem automatischen Scan auch die Shop-Kategorie mit dem Vor
 
 - **Alarmtyp `shop_regression`** — verschlechtert sich einer der vier Prüfpunkte, geht eine Mail
   an die hinterlegten Empfänger. Typischer Betreff: „Shop-Prüfung: ihr-shop.de — Gewährleistungslabel
-  fehlt auf 3 Seiten." Damit fällt auf, wenn ein Theme-Update das Label aus der Produktseite wirft
+  fehlt auf 3 Seiten.“ Damit fällt auf, wenn ein Theme-Update das Label aus der Produktseite wirft
   oder das Marketing eine neue Umweltaussage ergänzt.
 - **Einmalige Stichtags-Mail am 27.09.2026** — an alle überwachten Domains, bei denen ein Shop
   erkannt wurde und das Gewährleistungslabel an diesem Tag noch nicht auf allen geprüften Seiten
@@ -186,7 +186,7 @@ vergleicht Hugo bei jedem automatischen Scan auch die Shop-Kategorie mit dem Vor
 **Warum sieht mein Shop keinen Shop-Score?**
 Weil Hugo Ihre Seite nicht als Shop erkannt hat. Die Erkennung greift erst ab einer **Konfidenz von
 0,5**: Ohne Warenkorb, Kaufbutton und Produktdaten gilt die Seite nicht als Shop, und die vier
-Prüfpunkte werden übersprungen — Sie sehen dann nur den Hinweis „Kein Online-Shop erkannt". Das ist
+Prüfpunkte werden übersprungen — Sie sehen dann nur den Hinweis „Kein Online-Shop erkannt“. Das ist
 Absicht, damit Firmen-Websites keine Fehlalarme bekommen. Halten Sie das für ein Fehlurteil, melden
 Sie es uns bitte über das Feedback im Scan-Ergebnis; wir sehen uns die Domain an.
 
@@ -208,7 +208,7 @@ Im kostenlosen Tarif kommen rund 40 Sekunden dazu, bei Pro bis zu anderthalb Min
 wie viele Produktseiten geprüft werden und wie schnell Ihr Shop antwortet.
 
 **Kann ich das Ergebnis weitergeben?**
-Ja. Der PDF-Bericht enthält einen eigenen Abschnitt „Shop & Werbung" mit dem Shop-Score und einer
+Ja. Der PDF-Bericht enthält einen eigenen Abschnitt „Shop & Werbung“ mit dem Shop-Score und einer
 Tabelle aller geprüften Produktseiten — geeignet für die Agentur, die Ihren Shop betreut, oder für
 die Geschäftsführung.
 

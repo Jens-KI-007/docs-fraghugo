@@ -27,7 +27,7 @@ Am Ende prüft ein kurzer Test das Verständnis. Bestehensgrenze: **80 %**. Deta
 
 ### Schritt 4: Aktive Bestätigung
 
-Der Mitarbeiter bestätigt aktiv „Ich habe die Unterweisung verstanden und werde sie befolgen". Diese Bestätigung wird mit Zeitstempel im Audit-Log festgehalten und fließt ins [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) ein.
+Der Mitarbeiter bestätigt aktiv „Ich habe die Unterweisung verstanden und werde sie befolgen“. Diese Bestätigung wird mit Zeitstempel im Audit-Log festgehalten und fließt ins [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) ein.
 
 ![Abschließende Bestätigung in Hugo Safe nach bestandenem Test (88 %): ein grünes Häkchen, der Hinweis „Test bestanden“, eine angekreuzte Bestätigungs-Checkbox mit dem Wortlaut „Ich habe die Unterweisung … verstanden und werde die vermittelten Sicherheitsregeln an meinem Arbeitsplatz befolgen“ und der Button „Abschließen & Zertifikat erhalten“](/screenshots/arbeitsschutz/aktive-bestaetigung.png)
 

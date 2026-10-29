@@ -40,7 +40,7 @@ Menschen, die eine Schwachstelle melden wollen.
 
 Oben stehen vier Kacheln: **Produkte** im Register, **offene Meldungen** mit der jeweils
 nächsten Frist, der Stand der **Bereitschaft** und die **nächste Frist** über alle Produkte
-hinweg. Darunter steht die Liste „Was jetzt zu tun ist" — abgeleitet aus dem, was fehlt: ein
+hinweg. Darunter steht die Liste „Was jetzt zu tun ist“ — abgeleitet aus dem, was fehlt: ein
 Produkt ohne Unterstützungszeitraum, eine Meldung mit laufender Uhr, eine Richtlinie ohne Stand,
 eine Bereitschaftsrolle ohne Person.
 

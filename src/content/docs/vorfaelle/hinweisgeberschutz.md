@@ -32,7 +32,7 @@ Default: Hinweisgeber **kann** anonym bleiben. Plattform legt einen Pseudonym-Ac
 Sofort nach Meldung bestätigen Sie den Eingang (Default-Mail-Template). Verpasste Eingangsbestätigung = Bußgeld.
 
 ### Frist 2: Rückmeldung (3 Monate)
-Innerhalb 3 Monaten müssen Sie dem Hinweisgeber sagen, was Sie getan haben (geprüft, abgewiesen, in Bearbeitung). Auch wenn Sie "Vorwürfe nicht bestätigt" sagen — kommunizieren müssen Sie.
+Innerhalb 3 Monaten müssen Sie dem Hinweisgeber sagen, was Sie getan haben (geprüft, abgewiesen, in Bearbeitung). Auch wenn Sie „Vorwürfe nicht bestätigt“ sagen — kommunizieren müssen Sie.
 
 ### Hugo bringt
 - **Frist-Tracker** pro Fall

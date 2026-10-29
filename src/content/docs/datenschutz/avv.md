@@ -11,7 +11,7 @@ Jeder externe Dienst, der personenbezogene Daten in Ihrem Auftrag verarbeitet (C
 
 ### Neuer Auftragsverarbeiter
 
-Klicken Sie "Neu". Sie geben Name, Webseite, Zweck ein. Hugo macht:
+Klicken Sie „Neu“. Sie geben Name, Webseite, Zweck ein. Hugo macht:
 
 - **DPA-Check** — sucht automatisch den AVV-Vertrag des Anbieters (Microsoft, Google, AWS, HubSpot, Slack haben standardisierte Verträge im Netz).
 - **Drittland-Bewertung** — Hauptsitz, Server-Standort, Standard-Vertragsklauseln (SCC), Angemessenheitsbeschluss.
@@ -30,7 +30,7 @@ Sie können den unterschriebenen AVV als PDF hochladen. Erscheint in der Detaila
 
 ### Mit VVT verknüpfen
 
-Jeder AVV-Eintrag kann auf die Verarbeitungen verlinken, in denen er eingesetzt wird (z.B. "Microsoft 365" → "Mitarbeiter-Kommunikation" + "Kalender" + "Cloud-Speicher"). Bei AVV-Wechsel sehen Sie sofort, welche Verarbeitungen betroffen sind.
+Jeder AVV-Eintrag kann auf die Verarbeitungen verlinken, in denen er eingesetzt wird (z.B. „Microsoft 365“ → „Mitarbeiter-Kommunikation“ + „Kalender“ + „Cloud-Speicher“). Bei AVV-Wechsel sehen Sie sofort, welche Verarbeitungen betroffen sind.
 
 ### Export
 

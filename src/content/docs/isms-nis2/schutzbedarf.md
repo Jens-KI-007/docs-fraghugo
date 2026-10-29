@@ -27,21 +27,21 @@ Pro Asset, pro Schutzziel:
 
 In der Übersicht sehen Sie eine Matrix: Assets in Zeilen, CIA-Stufen in Spalten. Sie klicken Felder an und stufen ein.
 
-Hugo schlägt Default-Werte vor — z.B. "Patientendaten" sind by-default sehr hoch in V + I + A. Sie können überschreiben.
+Hugo schlägt Default-Werte vor — z.B. „Patientendaten“ sind by-default sehr hoch in V + I + A. Sie können überschreiben.
 
 ## Aggregations-Regel
 
-Hugo wendet die **Maximums-Regel** an: Das Asset bekommt insgesamt den Maximalwert der drei Dimensionen. Also "Hoch in V, Normal in I+A" → Asset insgesamt "Hoch".
+Hugo wendet die **Maximums-Regel** an: Das Asset bekommt insgesamt den Maximalwert der drei Dimensionen. Also „Hoch in V, Normal in I+A“ → Asset insgesamt „Hoch“.
 
-Alternativ: **Kumulations-Effekt** — wenn viele "Normal"-Werte zusammenkommen, kann das Gesamt-Risiko trotzdem "Hoch" werden.
+Alternativ: **Kumulations-Effekt** — wenn viele „Normal“-Werte zusammenkommen, kann das Gesamt-Risiko trotzdem „Hoch“ werden.
 
 ## Was passiert mit dem Schutzbedarf?
 
 - **Risiko-Register** — Hugo schlägt für hoch-eingestufte Assets automatisch Risiko-Analysen vor.
-- **Maßnahmen-Auswahl** — pro Schutzbedarf gibt's Standard-Maßnahmen (z.B. "sehr hoch in C" → Verschlüsselung Pflicht, Zugriff strikt protokolliert).
+- **Maßnahmen-Auswahl** — pro Schutzbedarf gibt's Standard-Maßnahmen (z.B. „sehr hoch in C“ → Verschlüsselung Pflicht, Zugriff strikt protokolliert).
 - **Notfall-Planung** — Assets mit hoher A-Anforderung kommen in den Wiederanlauf-Plan.
 
 ## Tipps
 
-- **Nicht inflationär hochstufen** — wenn alles "sehr hoch" ist, ist nichts wirklich kritisch und Sie können nicht priorisieren.
+- **Nicht inflationär hochstufen** — wenn alles „sehr hoch“ ist, ist nichts wirklich kritisch und Sie können nicht priorisieren.
 - **Geschäftsführung muss zustimmen** — sehr-hoch-eingestufte Assets brauchen Budget für Schutzmaßnahmen. Lieber GF früh einbinden.

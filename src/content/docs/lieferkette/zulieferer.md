@@ -9,7 +9,7 @@ Die operative Seite des Lieferketten-Bereichs — hier legen Sie neue Zulieferer
 
 ## Neuen Zulieferer hinzufügen
 
-Klicken Sie "+ Zulieferer". Sie brauchen:
+Klicken Sie „+ Zulieferer“. Sie brauchen:
 - Firmenname
 - Mail-Adresse Kontaktperson
 - Branche (optional, für Branchen-Filter)
@@ -38,7 +38,7 @@ Lieferant bekommt Mail mit Link, registriert sich kostenlos im Basis-Plan, beant
 
 Pro Lieferant einstellbar. Beeinflusst:
 - Wie streng die Re-Assessment-Erinnerung kommt
-- Ob er im "Hochrisiko"-Filter erscheint
+- Ob er im „Hochrisiko“-Filter erscheint
 - Welche Score-Schwelle als kritisch gilt
 
 ## Massenaktionen
@@ -49,5 +49,5 @@ Pro Lieferant einstellbar. Beeinflusst:
 
 ## Tipps
 
-- **Erst Pareto**: konzentriere Sie auf die 20 % kritischen Lieferanten, die 80 % Ihres Risikos abdecken.
-- **Auftrags-Wertgrenze** mit Risiko-Klasse verknüpfen — z.B. "alle Lieferanten > 50k €/Jahr automatisch kritisch".
+- **Erst Pareto**: konzentrieren Sie sich auf die 20 % kritischen Lieferanten, die 80 % Ihres Risikos abdecken.
+- **Auftrags-Wertgrenze** mit Risiko-Klasse verknüpfen — z.B. „alle Lieferanten > 50k €/Jahr automatisch kritisch“.

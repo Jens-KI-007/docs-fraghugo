@@ -18,4 +18,4 @@ In diesem Bereich landen alle Vorgänge mit **rechtlich harter Frist**:
 
 - **Mitarbeiter** melden Vorfälle über interne Meldewege oder direkt in der Plattform.
 - **Datenschutzbeauftragter** (intern oder extern) prüft, bewertet, meldet ggf. an Behörde.
-- **Geschäftsführung** wird über kritische Fälle informiert (automatischer E-Mail-Trigger ab Schweregrad "hoch").
+- **Geschäftsführung** wird über kritische Fälle informiert (automatischer E-Mail-Trigger ab Schweregrad „hoch“).

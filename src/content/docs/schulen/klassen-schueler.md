@@ -7,17 +7,17 @@ sidebar:
 
 Pflichtunterweisungen betreffen an Schulen nicht nur das Kollegium. Die RiSU verlangt, dass auch **Schülerinnen und Schüler** sicherheitsunterwiesen werden — jährlich und vor praktischen Experimenten. Bisher lief das über Namenslisten und Unterschriften im Klassenbuch. frag.hugo bildet das digital ab.
 
-![Ansicht „Klassen & Schüler-Unterweisungen" in der frag.hugo-Plattform: Erklärtext, dass Sicherheitsbelehrungen der Klassen jährlich und vor Experimenten protokolliert und als revisionssichere Klassenbuch-Nachweise mit Namensliste erstellt werden; links eine Klassen-Liste (Klasse „8a", Gymnasium) und ein Formular „Neue Klasse" mit Feldern für Name, Jahrgang (optional) und Schul-Auswahl sowie dem Button „Klasse anlegen"; rechts der Hinweis „Wählen Sie links eine Klasse oder legen Sie eine neue an"](/screenshots/schulen/klassen-schueler.png)
+![Ansicht „Klassen & Schüler-Unterweisungen“ in der frag.hugo-Plattform: Erklärtext, dass Sicherheitsbelehrungen der Klassen jährlich und vor Experimenten protokolliert und als revisionssichere Klassenbuch-Nachweise mit Namensliste erstellt werden; links eine Klassen-Liste (Klasse „8a“, Gymnasium) und ein Formular „Neue Klasse“ mit Feldern für Name, Jahrgang (optional) und Schul-Auswahl sowie dem Button „Klasse anlegen“; rechts der Hinweis „Wählen Sie links eine Klasse oder legen Sie eine neue an“](/screenshots/schulen/klassen-schueler.png)
 
 ## Klasse anlegen
 
-Legen Sie eine Klasse an (z. B. „8a"), optional mit Jahrgang, und ordnen Sie sie der richtigen Schule zu. Anschließend hinterlegen Sie die Namensliste der Klasse.
+Legen Sie eine Klasse an (z. B. „8a“), optional mit Jahrgang, und ordnen Sie sie der richtigen Schule zu. Anschließend hinterlegen Sie die Namensliste der Klasse.
 
 ## Unterweisung protokollieren
 
 Für eine Klasse protokollieren Sie eine Gruppen-Unterweisung:
 
-- **Thema oder Modul** — z. B. „Sicherheit im Chemieexperiment".
+- **Thema oder Modul** — z. B. „Sicherheit im Chemieexperiment“.
 - **Datum** der Durchführung.
 - **Art** — *jährlich* oder *vor dem Experiment*.
 - **Bestätigung** — Namensliste bzw. Unterschrift.

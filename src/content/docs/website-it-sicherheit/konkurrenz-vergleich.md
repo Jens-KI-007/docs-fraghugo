@@ -16,13 +16,13 @@ Wenn Sie wissen wollen, wo Sie im Branchenvergleich stehen — geben Sie bis zu 
 
 ## Was nützt's
 
-- **Argument fürs Marketing**: "Wir sind die einzige Werkstatt in Hamburg mit 92 Punkten DSGVO-Score."
-- **Argument fürs Abmahn-Risiko**: "Wir sind nicht schlechter als die anderen" hilft im Streit zwar nicht (DSGVO ist absolut nicht relativ), aber gibt Anhaltspunkte wo Branche-Standard liegt.
+- **Argument fürs Marketing**: „Wir sind die einzige Werkstatt in Hamburg mit 92 Punkten DSGVO-Score.“
+- **Argument fürs Abmahn-Risiko**: „Wir sind nicht schlechter als die anderen“ hilft im Streit zwar nicht (DSGVO ist absolut nicht relativ), aber gibt Anhaltspunkte wo Branche-Standard liegt.
 - **Inspiration**: Sehen, welche Cookie-Banner-Lösung Wettbewerber nutzen.
 
 ## PDF-Bericht
 
-Sie können den Vergleich als PDF exportieren — gebrandet, mit Ihrem Logo. Eignet sich gut zum Versenden an Geschäftsführung ("Wir liegen bei 87, Wettbewerb bei 72").
+Sie können den Vergleich als PDF exportieren — gebrandet, mit Ihrem Logo. Eignet sich gut zum Versenden an Geschäftsführung („Wir liegen bei 87, Wettbewerb bei 72“).
 
 ## Tipps
 

@@ -34,7 +34,7 @@ als leere Balken, damit Ihr Score nicht künstlich niedrig aussieht:
 Das NIS2-Dashboard rechnet in der Basis-Sicht ohne die drei Blöcke, die ISMS-Daten
 brauchen (TOM-Reifegrad, VVT-Vollständigkeit, Risikobewertung). Die Gewichte der
 übrigen Blöcke werden entsprechend hochgerechnet — 100 % bleiben erreichbar. Eine Pille
-„Basis-Sicht" am Score sagt, dass gerade so gerechnet wird.
+„Basis-Sicht“ am Score sagt, dass gerade so gerechnet wird.
 
 ## Preis und Laufzeit
 

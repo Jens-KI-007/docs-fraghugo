@@ -22,7 +22,7 @@ Pflichten für Anhang-III-Hochrisiko-Systeme gelten **ab dem 2. August 2026**.
 ## Der Wizard Schritt für Schritt
 
 1. **Betroffenheit** — Zwei kurze Fragen (Betreiber-Typ + Hochrisiko-Einordnung). Ergebnis: „FRIA
-   erforderlich" oder „nicht erforderlich". Beides lässt sich mit Begründung speichern.
+   erforderlich“ oder „nicht erforderlich“. Beides lässt sich mit Begründung speichern.
 2. **System & Kontext** — Verknüpfung mit einem KI-System aus dem KI-Register, Beschreibung der Prozesse
    (Art. 27 Abs. 1 lit. a) und des Nutzungszeitraums/-häufigkeit (lit. b).
 3. **Betroffene Personen** — Kategorien betroffener natürlicher Personen und Gruppen (lit. c).

@@ -36,7 +36,7 @@ Tabelle mit allen Mitarbeitern. Pro Person:
 
 ## Trends
 
-Ein kleines Liniendiagramm zeigt die Abdeckungs-Quote über 12 Monate — bei NIS2-Audits wichtig: "Wir haben die Quote stetig erhöht."
+Ein kleines Liniendiagramm zeigt die Abdeckungs-Quote über 12 Monate — bei NIS2-Audits wichtig: „Wir haben die Quote stetig erhöht.“
 
 ## Export
 

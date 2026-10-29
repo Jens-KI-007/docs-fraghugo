@@ -9,7 +9,7 @@ Wenn personenbezogene Daten **unbefugt** offengelegt, verändert oder verloren w
 
 ## Neuen Vorfall melden
 
-Klicken Sie "+ Neue Datenpanne" oben rechts. Wizard:
+Klicken Sie „+ Neue Datenpanne“ oben rechts. Wizard:
 
 ### Schritt 1: Was ist passiert
 - Beschreibung in eigenen Worten
@@ -37,7 +37,7 @@ Hugo gibt einen Vorschlag basierend auf Datenkategorie und Umfang. Sie können �
 - Was planen Sie noch (Pen-Test, Schulung, ...)
 
 :::note[Technische Sofortreaktion]
-Konto sperren, betroffene Systeme isolieren, Backups prüfen und sauber wiederherstellen: Diese Schritte macht Ihre IT im Ernstfall. Wer kein eigenes IT-Team hat, braucht dafür einen [festen IT-Ansprechpartner](https://www.kjello.de/funktionen/support) mit garantierter Reaktionszeit.
+Konto sperren, betroffene Systeme isolieren, Backups prüfen und sauber wiederherstellen: Diese Schritte macht Ihre IT im Ernstfall. Wer kein eigenes IT-Team hat, braucht dafür einen [festen IT-Ansprechpartner](https://www.kjello.de/funktionen/support), der bei kritischen Störungen in der Regel innerhalb von 30 Minuten reagiert.
 :::
 
 ### Schritt 6: Meldung
@@ -66,6 +66,6 @@ Jeder Klick wird protokolliert (wer hat wann was geändert). Bei Rückfragen der
 
 ## Häufige Fragen
 
-- **"Auch wenn kein Schaden entstanden ist?"** — Ja, dokumentieren müssen Sie immer. Melden nur bei hohem Risiko.
-- **"E-Mail an falsche Person — Panne?"** — Ja, wenn personenbezogene Daten drin sind. Wenn der Empfänger zur eigenen Firma gehört + die Mail sofort gelöscht hat, meist geringes Risiko.
-- **"Was ist mit Datenpanne beim Auftragsverarbeiter?"** — Der muss sie Ihnen melden (steht im AVV). Sie dokumentieren sie hier genauso wie eigene Pannen.
+- **„Auch wenn kein Schaden entstanden ist?“** — Ja, dokumentieren müssen Sie immer. Melden nur bei hohem Risiko.
+- **„E-Mail an falsche Person — Panne?“** — Ja, wenn personenbezogene Daten drin sind. Wenn der Empfänger zur eigenen Firma gehört + die Mail sofort gelöscht hat, meist geringes Risiko.
+- **„Was ist mit Datenpanne beim Auftragsverarbeiter?“** — Der muss sie Ihnen melden (steht im AVV). Sie dokumentieren sie hier genauso wie eigene Pannen.

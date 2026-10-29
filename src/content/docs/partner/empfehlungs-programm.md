@@ -3,7 +3,7 @@ title: Empfehlungs-Programm für IT-Systemhäuser
 description: Wie Mitarbeiter eines IT-Systemhauses Datenschutz-Mandanten an frag.hugo empfehlen, eine 12-monatige Provision verdienen und alles DATEV-konform per Lohnabrechnung läuft.
 ---
 
-Ein IT-Systemhaus berät seine Kunden täglich zu Server, Backup, Microsoft 365 und Firewall. Datenschutz und NIS2 fallen dabei laufend mit auf den Tisch — und werden meistens an den Kunden zurückgegeben („Da brauchen Sie einen DSB"). Das Empfehlungs-Programm von frag.hugo dreht das um. Jeder Mitarbeiter kann den Datenschutz-Bedarf direkt platzieren, der Kunde bekommt eine fertige Lösung, der Mitarbeiter eine Provision — und die Geschäftsführung des Systemhauses muss nichts buchhalten, weil alles DATEV-konform automatisiert ist.
+Ein IT-Systemhaus berät seine Kunden täglich zu Server, Backup, Microsoft 365 und Firewall. Datenschutz und NIS2 fallen dabei laufend mit auf den Tisch — und werden meistens an den Kunden zurückgegeben („Da brauchen Sie einen DSB“). Das Empfehlungs-Programm von frag.hugo dreht das um. Jeder Mitarbeiter kann den Datenschutz-Bedarf direkt platzieren, der Kunde bekommt eine fertige Lösung, der Mitarbeiter eine Provision — und die Geschäftsführung des Systemhauses muss nichts buchhalten, weil alles DATEV-konform automatisiert ist.
 
 ## Drei Bausteine
 
@@ -19,7 +19,7 @@ Ein IT-Systemhaus berät seine Kunden täglich zu Server, Backup, Microsoft 365 
 | 2. Erst-Kontakt | Plattform | Automatisierte Erst-Mail an den Kontakt — sofern der Mitarbeiter sie ausgewählt hat |
 | 3. Erstgespräch | frag.hugo | Nils Oehmichen führt das 15-Minuten-Erstgespräch |
 | 4. Angebot | frag.hugo | Vertrag &amp; Stripe-Checkout an den Kunden |
-| 5. Mandant aktiv | frag.hugo | Der Lead wird auf „Gewonnen" gesetzt, die Provision startet |
+| 5. Mandant aktiv | frag.hugo | Der Lead wird auf „Gewonnen“ gesetzt, die Provision startet |
 | 6. Monatsabrechnung | Plattform | Am 28. berechnet, im Portal unter „Meine Provision“ sichtbar |
 | 7. Lohn-Buchung | Buchhaltung | Am 1. kommt die DATEV-CSV; importieren, Mitarbeiter bekommt den Bonus aufs Gehalt |
 
@@ -45,7 +45,7 @@ Ein Mitarbeiter mit fünf aktiven Standard-Mandanten kommt damit auf rund **74,5
 Mitarbeiter melden sich mit ihrer Firmen-E-Mail an — per Anmeldelink, ohne Passwort. Beim ersten Login durchlaufen sie ein kurzes Onboarding (Personalnummer für die DATEV-Abrechnung, Anzeigename) und landen dann im Dashboard mit drei Reitern:
 
 - **Meine Empfehlungen** — alle Leads mit Status: Neu, Kontaktiert, Erstgespräch geplant, Angebot raus, Gewonnen, Verloren. Filter für Alle / Aktiv / Gewonnen / Verloren.
-- **Meine Provision** — laufende Verträge, Auszahlungs-Historie, Rechner: „Wenn ich noch einen Pro-Kunden gewinne, hätte ich pro Monat …".
+- **Meine Provision** — laufende Verträge, Auszahlungs-Historie, Rechner: „Wenn ich noch einen Pro-Kunden gewinne, hätte ich pro Monat …“.
 - **Rangliste** — alle Beschäftigten Ihres Systemhauses nach gewonnenen Mandanten, dazu der Quartals-Champion und die eigene Platzierung. Beschäftigte anderer Partnerfirmen tauchen dort nicht auf.
 
 <figure class="shot shot--phone">
@@ -60,14 +60,14 @@ Oben im Dashboard stehen drei Zahlen: Provision in diesem Monat, gesamt verdient
 ## Anti-Frust-Regeln
 
 - **Doppel-Lead-Schutz** — legt ein Mitarbeiter einen Kunden an, dessen E-Mail-Domain schon im System liegt, warnt das Formular sofort. Niemand muss sich streiten.
-- **Transparente Status** — jeder sieht jederzeit, wo sein Lead steht. Kein „war da was?".
-- **Verlorene Leads bleiben sichtbar** — sie verschwinden nicht aus der Liste, sondern bekommen den Status „Verloren" samt Notiz für die Wiedervorlage.
+- **Transparente Status** — jeder sieht jederzeit, wo sein Lead steht. Kein „war da was?“.
+- **Verlorene Leads bleiben sichtbar** — sie verschwinden nicht aus der Liste, sondern bekommen den Status „Verloren“ samt Notiz für die Wiedervorlage.
 
 ## Was bringt's der Geschäftsführung des Systemhauses?
 
 - **Zusatz-Umsatz für Mitarbeiter** ohne extra Aufwand für die Geschäftsführung.
 - **Höhere Bindung** — Mitarbeiter mit Provisions-Pfad kündigen seltener.
-- **Erweitertes Service-Portfolio** — Kunden sehen das Systemhaus als „kümmert sich auch um Datenschutz", auch wenn das Systemhaus es nicht selber macht.
+- **Erweitertes Service-Portfolio** — Kunden sehen das Systemhaus als „kümmert sich auch um Datenschutz“, auch wenn das Systemhaus es nicht selber macht.
 - **Keine Buchhaltungs-Last** — die DATEV-CSV kommt fertig am Monatsersten, Ihre Buchhaltung importiert sie und ist fertig.
 
 ## Fragen?

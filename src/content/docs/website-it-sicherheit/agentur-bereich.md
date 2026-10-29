@@ -15,7 +15,7 @@ Sie betreuen mehrere Websites (Webagentur, Marketing-Agentur, IT-Systemhaus)? De
 
 ## Kunden hinzufügen
 
-Klicken Sie "+ Kunde" → Name, Hauptdomain. Sie können pro Kunde mehrere Domains tracken.
+Klicken Sie „+ Kunde“ → Name, Hauptdomain. Sie können pro Kunde mehrere Domains tracken.
 
 Optional: **Kunde einladen** — er bekommt eigenen Login (mit eingeschränkten Rechten) und kann seinen Score selber einsehen.
 

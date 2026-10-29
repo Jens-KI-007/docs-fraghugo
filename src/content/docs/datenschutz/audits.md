@@ -25,7 +25,7 @@ Beim Anlegen wählen Sie den passenden Katalog:
 2. **Fragen beantworten** — pro Frage: Ja/Nein/Teilweise/N.A., Kommentar, Nachweis-Upload.
 3. **Befunde** — alles Nicht-Ja wird als Befund markiert. Pro Befund: Schweregrad, Maßnahme, Frist, Verantwortlicher.
 4. **Bericht erzeugen** — 3 Stile (siehe unten).
-5. **Re-Audit Magic-Link** — Sie können dem Geprüften einen Link schicken; er beantwortet die Folge-Fragen ohne Account ("Hat die Maßnahme funktioniert?").
+5. **Re-Audit Magic-Link** — Sie können dem Geprüften einen Link schicken; er beantwortet die Folge-Fragen ohne Account („Hat die Maßnahme funktioniert?“).
 
 ## 3 Bericht-Stile
 
@@ -37,7 +37,7 @@ Alle drei werden aus den selben Daten generiert.
 
 ## Audit-Historie
 
-Wiederholungs-Audits werden gebündelt: Sie sehen den Fortschritt pro Frage über mehrere Audits hinweg ("Frage X war 2024 Nein, 2025 Teilweise, 2026 Ja").
+Wiederholungs-Audits werden gebündelt: Sie sehen den Fortschritt pro Frage über mehrere Audits hinweg („Frage X war 2024 Nein, 2025 Teilweise, 2026 Ja“).
 
 ## Tipps
 

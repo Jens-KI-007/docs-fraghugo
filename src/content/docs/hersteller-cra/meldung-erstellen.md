@@ -70,9 +70,9 @@ Bewertung mehr.
    Abschlussbericht hat einen eigenen Anker — bei der Schwachstelle die Verfügbarkeit der Abhilfe,
    beim Vorfall die tatsächliche Übermittlung der 72-Stunden-Meldung.
 2. **Auch ein Workaround startet die 14 Tage.** Der Anker ist die „Korrektur- oder
-   Risikominderungsmaßnahme" — ein Mitigations-Hinweis an die Nutzer zählt, nicht erst der Patch.
+   Risikominderungsmaßnahme“ — ein Mitigations-Hinweis an die Nutzer zählt, nicht erst der Patch.
 3. **24 Stunden sind die äußerste Grenze, nicht das Ziel.** Die Verordnung sagt „unverzüglich, in
-   jedem Fall aber innerhalb von 24 Stunden".
+   jedem Fall aber innerhalb von 24 Stunden“.
 :::
 
 Der Zwischenbericht ist keine Kür und keine freiwillige Zwischenmeldung: Das als Koordinator
@@ -82,7 +82,7 @@ Fall die Stufe **Zwischenbericht** an; sie erscheint im Zeitstrahl und im Nachwe
 
 ## Wohin die Meldung geht
 
-:::note[Nicht „an die ENISA, die weiterleitet"]
+:::note[Nicht „an die ENISA, die weiterleitet“]
 Sie melden **gleichzeitig an das für Sie zuständige, als Koordinator benannte CSIRT und an die
 ENISA** — und zwar über den Meldeendpunkt **Ihres CSIRT** auf der einheitlichen Meldeplattform,
 die die ENISA betreibt (Art. 14 Abs. 1 und 7, Art. 16 Abs. 1). Weitergeleitet wird anschließend
@@ -95,7 +95,7 @@ Produkte überwiegend getroffen werden (Art. 14 Abs. 7 UAbs. 2) — nicht der Ha
 Lässt sich das nicht bestimmen, zählt der Standort mit den meisten Beschäftigten in der Union.
 
 Für Deutschland ist das **CERT-Bund beim Bundesamt für Sicherheit in der Informationstechnik**
-(ENISA, „List of CSIRTs designated as coordinators", Stand 4. September 2026).
+(ENISA, „List of CSIRTs designated as coordinators“, Stand 4. September 2026).
 
 Haben Sie keine Hauptniederlassung in der Union, gilt eine Rangfolge: Land des Bevollmächtigten,
 sonst des Einführers, sonst des Händlers, sonst das Land mit den meisten Nutzern
@@ -134,7 +134,7 @@ vor.
 
 Schweregrad und Auswirkungen gehören also in den Abschlussbericht, nicht schon in die
 72-Stunden-Meldung. Umgekehrt gibt es Felder, nach denen oft gefragt wird und die in Art. 14
-nirgends stehen: „grenzüberschreitende Auswirkung" und „Lessons Learned" stammen aus NIS2, nicht
+nirgends stehen: „grenzüberschreitende Auswirkung“ und „Lessons Learned“ stammen aus NIS2, nicht
 aus dem CRA.
 
 ### Die Felder der Meldeplattform
@@ -217,7 +217,7 @@ Der Ablauf sieht deshalb so aus:
    kopierbar, dazu ein PDF fürs Archiv.
 3. **In der Meldeplattform einloggen und einfügen.** Die Adresse veröffentlicht die ENISA auf
    ihrer SRP-Seite.
-4. **Zurück in Hugo: „als eingereicht markieren".**
+4. **Zurück in Hugo: „als eingereicht markieren“.**
 
 Den Zugang legen Sie einmal vorher an — das ist kein Fünf-Minuten-Schritt: Die erste
 Ansprechperson wählt bei der Registrierung das zuständige CSIRT aus, meldet sich per EU-Login an,
@@ -225,7 +225,7 @@ akzeptiert die Bedingungen und trägt die Herstellerdaten ein. Weitere Ansprechp
 per Mail ein; diese Einladung verfällt nach sieben Tagen. Wer das erst anfängt, wenn die 24
 Stunden schon laufen, verliert sie damit.
 
-## Was „als eingereicht markieren" bedeutet
+## Was „als eingereicht markieren“ bedeutet
 
 Der Knopf verschickt nichts. Er hält fest, **dass und wann** Sie die Stufe auf der Meldeplattform
 abgegeben haben. Das hat drei Folgen:
@@ -234,7 +234,7 @@ abgegeben haben. Das hat drei Folgen:
   Abschlussbericht an der tatsächlichen Übermittlung der 72-Stunden-Meldung, nicht an deren
   Fälligkeit (Art. 14 Abs. 4 lit. c).
 - **Der Fall bekommt einen Protokolleintrag** mit Zeitpunkt und handelnder Person.
-- **Die Frist gilt in der Übersicht als erfüllt** und verschwindet aus „Was jetzt zu tun ist".
+- **Die Frist gilt in der Übersicht als erfüllt** und verschwindet aus „Was jetzt zu tun ist“.
 
 Es ist eine Erklärung von Ihnen, kein Empfangsnachweis. Bestätigungen und Aktenzeichen der
 Plattform hängen Sie am Fall an — dafür gibt es ein Feld und einen Dateianhang. Was das Protokoll

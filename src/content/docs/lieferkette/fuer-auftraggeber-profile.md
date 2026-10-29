@@ -25,7 +25,7 @@ Profil führt, ist dessen Sache.
 | Die Seite öffnet sich sofort | Das Profil ist **öffentlich**. |
 | Der Link enthält einen langen Zusatz und funktioniert nur vollständig | Stufe **nur mit Link** — geben Sie ihn nur intern weiter, er ist der Schlüssel. |
 | Sie werden nach Ihrer E-Mail-Adresse gefragt | Stufe **nach Nachweis**. Sie erhalten einen sechsstelligen Code, danach ist das Profil sieben Tage für Sie geöffnet. |
-| „Nicht gefunden" | Das Profil ist privat, es existiert nicht, oder Ihr Link ist unvollständig. Welcher der drei Fälle vorliegt, sagt die Anwendung nicht — fragen Sie beim Zulieferer nach. |
+| „Nicht gefunden“ | Das Profil ist privat, es existiert nicht, oder Ihr Link ist unvollständig. Welcher der drei Fälle vorliegt, sagt die Anwendung nicht — fragen Sie beim Zulieferer nach. |
 
 In der Stufe **nach Nachweis** wird Ihr Zugriff protokolliert und ist für den Zulieferer sichtbar:
 Adresse, Zeitpunkt. Das ist beabsichtigt und gehört zur Gegenleistung dafür, dass Sie Unterlagen

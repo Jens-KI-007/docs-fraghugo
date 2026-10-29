@@ -21,14 +21,14 @@ Die jährliche Frist (mindestens einmal pro Jahr) ist der Standard. Für **Jugen
 
 ## Wo Sie den Status sehen
 
-- **Hugo Safe → Übersicht:** zeigt auf einen Blick, wie viele Unterweisungen erledigt und wie viele noch offen sind; jede Unterweisungs-Kachel trägt ihren Status (z. B. „Offen").
+- **Hugo Safe → Übersicht:** zeigt auf einen Blick, wie viele Unterweisungen erledigt und wie viele noch offen sind; jede Unterweisungs-Kachel trägt ihren Status (z. B. „Offen“).
 - **Hugo Safe → Mitarbeiter:** zeigt je Person den Fortschritt (z. B. 0/10) und den Status. So erkennen Sie sofort, wer noch offene oder fällige Unterweisungen hat.
 
 Wird eine Unterweisung fällig, löst Hugo Safe zusätzlich eine automatische **E-Mail-Erinnerung** an den betroffenen Mitarbeiter aus — Sie müssen die Fristen nicht selbst im Kalender führen.
 
 ## Wiederkehrende Unterweisungen planen
 
-Viele Betriebe bündeln die jährlichen Unterweisungen in einem festen Monat (z. B. „Unterweisungsmonat Januar"). Hugo Safe unterstützt das: Sie stoßen die fälligen Unterweisungen gesammelt an, die Mitarbeiter erledigen sie in ihrem Tempo, und Sie sehen die Erledigungsquote live.
+Viele Betriebe bündeln die jährlichen Unterweisungen in einem festen Monat (z. B. „Unterweisungsmonat Januar“). Hugo Safe unterstützt das: Sie stoßen die fälligen Unterweisungen gesammelt an, die Mitarbeiter erledigen sie in ihrem Tempo, und Sie sehen die Erledigungsquote live.
 
 ## Warum das wichtig ist
 

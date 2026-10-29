@@ -18,13 +18,13 @@ Rechnen Sie mit **rund einer halben Stunde** einmalig. Danach prüft die Plattfo
 Die konkreten Angaben — **Absender-Domain**, **Sende-IP** und die **Simulations-URL** — hängen an der
 Domain, die Ihrem Konto zugewiesen ist, und stehen zum Kopieren im Cockpit unter
 **Simulation → Zustellung prüfen**. Nehmen Sie die Werte von dort, nicht aus dieser Anleitung — so
-erwischen Sie garantiert die richtige Domain, auch wenn wir sie einmal wechseln.
+erwischen Sie immer die richtige Domain, auch wenn wir sie einmal wechseln.
 
 ![Der Assistent „Zustellbarkeit einrichten“ in der Plattform: links die Warnung zur Quarantäne und die Schritt-für-Schritt-Anleitung je Umgebung, rechts das Feld, um eine Prüfmail an ein Postfach zu senden. Oben die Statusampel je Umgebung.](/screenshots/hugo-phish/zustellbarkeit.jpg)
 
 :::tip[Der schnelle Weg: ein Klick]
 Für **Microsoft 365** gibt es in der Plattform (unter *Simulation → Zustellung prüfen*, Reiter
-Microsoft 365) den Knopf **„In Microsoft 365 freischalten"**. Ihr Administrator meldet sich einmalig
+Microsoft 365) den Knopf **„In Microsoft 365 freischalten“**. Ihr Administrator meldet sich einmalig
 bei Microsoft an und bestätigt — die Freigabe wird dann automatisch eingetragen. Wir speichern
 **keinen** dauerhaften Zugang, und bestehende Einträge bleiben unangetastet. Wer die Rechte lieber
 nicht erteilt oder ein anderes Mailsystem nutzt, trägt die Werte von Hand ein — diese Anleitung
@@ -35,7 +35,7 @@ zeigt wie.
 
 Microsoft hat für genau diesen Fall einen eigenen Bereich — die **erweiterte Zustellung**
 (*Advanced Delivery*). Dort eingetragene Absender werden von der Filterung ausgenommen, **ohne** als
-„sicher" markiert zu werden. Das ist wichtig: Ein Eintrag in der normalen Absender-Allowlist würde
+„sicher“ markiert zu werden. Das ist wichtig: Ein Eintrag in der normalen Absender-Allowlist würde
 dazu führen, dass gemeldete Übungs-Mails nicht mehr sauber im Meldeprozess auftauchen — die
 erweiterte Zustellung hat dieses Problem nicht.
 
@@ -68,8 +68,8 @@ rechnet sie heraus — sauber ist die Messung aber nur, wenn der Scanner gar nic
 
 1. **Zugelassene Absender** (*Email Allowlist*, unter *Spam, Phishing und Malware*): die Sende-IP
    `116.203.38.76` eintragen.
-2. **Spam** → neue Regel mit **„Absender-Domain überschreiben"** für Ihre Simulations-Domain; Option
-   **„Interne Absender-Authentifizierung umgehen"** aktivieren.
+2. **Spam** → neue Regel mit **„Absender-Domain überschreiben“** für Ihre Simulations-Domain; Option
+   **„Interne Absender-Authentifizierung umgehen“** aktivieren.
 3. Ist der **erweiterte Phishing- und Malware-Schutz** aktiv: dieselbe Domain dort ausnehmen.
 
 Änderungen in Google Workspace brauchen erfahrungsgemäß bis zu einer Stunde, bis sie greifen.
@@ -89,7 +89,7 @@ die Microsoft-/Google-Einstellung greift dann gar nicht mehr. Tragen Sie dieselb
 
 Senden Sie im Cockpit eine **Prüfmail** an ein echtes Postfach der jeweiligen Umgebung.
 
-- Kommt sie **im Posteingang** an, klicken Sie in der Mail auf **„Zustellung bestätigen"** → die
+- Kommt sie **im Posteingang** an, klicken Sie in der Mail auf **„Zustellung bestätigen“** → die
   Umgebung wird **grün**, und Übungen laufen an.
 - Landet sie im **Spam** oder gar nicht: nacharbeiten (siehe Tabelle) und erneut prüfen.
 
@@ -102,7 +102,7 @@ und eine ein Jahr alte Freigabe sagt nichts über heute.
 |---|---|---|
 | Mail kommt gar nicht an | Ein Gateway davor (Hornetsecurity, Mimecast, Proofpoint) filtert vorher | Dort dieselben Werte eintragen — die Microsoft-Einstellung greift erst danach |
 | Mail im Junk-Ordner | Freigabe fehlt oder steht auf der falschen Domain | Absender-Domain prüfen: Sie steht im Kopf der Prüfmail |
-| Links werden sofort „geklickt" | Sichere Links / URL-Rewriting ist aktiv | Domain von Safe Links / URL-Schutz ausnehmen |
+| Links werden sofort „geklickt“ | Sichere Links / URL-Rewriting ist aktiv | Domain von Safe Links / URL-Schutz ausnehmen |
 | Nur einzelne Postfächer betroffen | persönliche Blockierliste der Person | Über das Postfach der Person entfernen |
 | War grün, jetzt wieder rot | 90-Tage-Frist abgelaufen oder Filter geändert | Prüfmail erneut senden und bestätigen |
 

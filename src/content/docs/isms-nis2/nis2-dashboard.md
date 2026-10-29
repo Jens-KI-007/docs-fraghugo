@@ -21,7 +21,7 @@ Aggregiert über alle NIS2-Pflichten. Skala:
 Karten für die NIS2-Hauptpflichten:
 - **BSI-Registrierung** — erledigt? Aktenzeichen?
 - **ISMS aufgebaut** — alle Bausteine voll?
-- **GF-Schulung §38 BSIG** — Geschäftsführung durch?
+- **GF-Schulung § 38 BSIG** — Geschäftsführung durch?
 - **Vorfall-Meldewege** — Prozesse definiert + getestet?
 - **Lieferkette geprüft** — Lieferanten-Assessments laufend?
 - **Maßnahmen umgesetzt** — Top-10-Risiken adressiert?
@@ -45,4 +45,4 @@ Hugo schlägt aktiv die **drei wichtigsten offenen Aufgaben** vor — basierend 
 ## Tipps
 
 - **Wöchentlich kurz reinschauen** — dauert 1 Minute, Sie erkennen Entwicklungen.
-- **Pre-Audit-Modus** — Sie können einen Stichtag-Snapshot speichern, der zeigt: "Wie war NIS2-Stand zum Audit-Zeitpunkt?" Wichtig für Auditoren-Nachweis.
+- **Pre-Audit-Modus** — Sie können einen Stichtag-Snapshot speichern, der zeigt: „Wie war NIS2-Stand zum Audit-Zeitpunkt?“ Wichtig für Auditoren-Nachweis.

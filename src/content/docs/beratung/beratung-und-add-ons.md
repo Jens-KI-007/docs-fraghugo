@@ -1,5 +1,5 @@
 ---
-title: Beratung & Add-Ons
+title: Beratungsstunden & Add-Ons
 description: Ihr Beratungsstunden-Kontingent, Verbrauch im Blick behalten, Stundenpakete und Service-Pakete nachbuchen.
 ---
 
@@ -34,11 +34,11 @@ Reicht das Jahres-Kontingent nicht? Beratungsstunden lassen sich jederzeit zubuc
 | 10-Stunden-Paket | 1.190 € einmalig | 119 €/h | Beliebt bei laufenden Projekten und Audit-Vorbereitung. |
 | 20-Stunden-Paket | 2.290 € einmalig | 114,50 €/h | Bestes Pro-Stunde-Verhältnis, für aktive Datenschutz-Projekte. |
 
-Zubuchen über die Add-On-Galerie (**„Im Login zubuchen"**) → Stripe-Checkout → die Stunden werden Ihrem Kontingent sofort gutgeschrieben.
+Zubuchen über die Add-On-Galerie (**„Im Login zubuchen“**) → Stripe-Checkout → die Stunden werden Ihrem Kontingent sofort gutgeschrieben.
 
 ## Service-Pakete (festes Ergebnis)
 
-Wenn Sie nicht „irgendwie Beratung" wollen, sondern ein konkretes Liefer­ergebnis zum Festpreis:
+Wenn Sie nicht „irgendwie Beratung“ wollen, sondern ein konkretes Liefer­ergebnis zum Festpreis:
 
 | Paket | Was Sie bekommen | Preis (netto) |
 |---|---|---|

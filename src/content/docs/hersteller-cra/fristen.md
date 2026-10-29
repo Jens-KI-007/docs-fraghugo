@@ -70,7 +70,7 @@ Was dahintersteht, in der gebotenen Vorsicht:
   zurückgeht (Art. 7 Abs. 2 lit. f, Art. 11 Abs. 2 der Richtlinie).
 
 :::caution[Das deutsche Gesetz ist noch nicht verkündet]
-Deutschland setzt die Richtlinie mit dem „Gesetz zur Modernisierung des Produkthaftungsrechts"
+Deutschland setzt die Richtlinie mit dem „Gesetz zur Modernisierung des Produkthaftungsrechts“
 um. Der Regierungsentwurf liegt dem Bundestag seit dem 25. Februar 2026 vor
 (BT-Drucksache 21/4297); die erste Lesung war am 4. März 2026, die Sachverständigen-Anhörung am
 13. April 2026. Verabschiedet und verkündet ist das Gesetz nicht (Stand: 5. September 2026). Der

@@ -30,6 +30,15 @@ export default defineConfig({
 					attrs: { property: 'og:image', content: 'https://docs.fraghugo.de/og-image.jpg' },
 				},
 				{
+					// Seitenleiste: Die Liste ist über 4.000 px hoch. Starlight klappt alle Bereiche auf, rollt die Leiste beim
+					// ersten Aufruf aber nicht zur aktuellen Seite — ab „Website & IT-Sicherheit“ lag sie unter dem sichtbaren
+					// Teil (Befund doku-d03-01…05). Liegt der markierte Eintrag außerhalb, rollen wir die Leiste (nicht die
+					// Seite) so, dass er im oberen Drittel steht. Eine von Starlight wiederhergestellte Position bleibt, wenn
+					// der Eintrag dort schon sichtbar ist.
+					tag: 'script',
+					content: `document.addEventListener('DOMContentLoaded',function(){var a=document.querySelector('.sidebar-pane a[aria-current="page"]');if(!a)return;var p=a.closest('.sidebar-pane');if(!p||!p.clientHeight)return;var r=a.getBoundingClientRect(),q=p.getBoundingClientRect();if(r.top>=q.top&&r.bottom<=q.bottom)return;p.scrollTop+=r.top-q.top-p.clientHeight/3;});`,
+				},
+				{
 					tag: 'script',
 					content: `var _paq=window._paq=window._paq||[];_paq.push(['disableCookies']);_paq.push(['setDoNotTrack',true]);_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);(function(){var u='//metomo.it-support-hamburg-24x7.de/';_paq.push(['setTrackerUrl',u+'matomo.php']);_paq.push(['setSiteId','6']);function loadMatomo(){var d=document,g=d.createElement('script'),s=d.getElementsByTagName('script')[0];g.async=true;g.src=u+'matomo.js';s.parentNode.insertBefore(g,s);}function scheduleMatomo(){if('requestIdleCallback' in window){requestIdleCallback(loadMatomo,{timeout:3000});}else{setTimeout(loadMatomo,2000);}}if(document.readyState==='complete'){scheduleMatomo();}else{window.addEventListener('load',scheduleMatomo,{once:true});}})();`,
 				},
@@ -53,6 +62,7 @@ export default defineConfig({
 						{ label: 'Einstellungen', slug: 'erste-schritte/einstellungen' },
 						{ label: 'Benachrichtigungen', slug: 'erste-schritte/notifications' },
 						{ label: 'Upgrade & Tarife', slug: 'erste-schritte/upgrade' },
+						{ label: 'AV-Vertrag mit frag.hugo', slug: 'erste-schritte/av-vertrag' },
 					],
 				},
 				{
@@ -210,7 +220,7 @@ export default defineConfig({
 					label: 'Beratung & Add-Ons',
 					items: [
 						{ label: 'Übersicht', slug: 'beratung/uebersicht' },
-						{ label: 'Beratung & Add-Ons', slug: 'beratung/beratung-und-add-ons' },
+						{ label: 'Beratungsstunden & Add-Ons', slug: 'beratung/beratung-und-add-ons' },
 						{ label: 'Reifegrad-Check', slug: 'beratung/reifegrad-check' },
 					],
 				},

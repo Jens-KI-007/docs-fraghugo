@@ -10,7 +10,7 @@ So sieht ein Modul von innen aus:
 ## So finden Sie Ihre Schulungen
 
 1. **Anmelden** unter `app.fraghugo.de`. Mit der Einladung kommt ein Anmeldelink — ein Klick darauf genügt, ein Passwort brauchen Sie dafür nicht. Ist der Link abgelaufen, fordern Sie auf der Anmeldeseite einfach einen neuen an.
-2. **Schulungs-Übersicht** öffnen — in der Navigation unter „Schulungen & Simulation → Übersicht".
+2. **Schulungs-Übersicht** öffnen — in der Navigation unter „Schulungen & Simulation → Übersicht“.
 3. Modul anklicken. Was Ihre Firma verpflichtend gesetzt hat, steht unter **Pflicht-Schulungen**.
 
 ## So läuft eine Schulung ab
@@ -45,4 +45,4 @@ In der Mittagspause ein Modul am Handy durchzugehen funktioniert.
 
 - **Konzentriert durchgehen.** Nebenher chatten und Tabs wechseln kostet am Ende mehr Zeit, weil das Quiz die Inhalte abfragt.
 - **Notieren, was neu war.** Ein Satz genügt — genau das ist der Teil, der im Arbeitsalltag zählt.
-- **Fragen stellen.** Was unklar bleibt, geht an Ihren Datenschutzbeauftragten. Nils Oehmichen sagt dazu: „Keine Frage ist doof."
+- **Fragen stellen.** Was unklar bleibt, geht an Ihren Datenschutzbeauftragten. Nils Oehmichen sagt dazu: „Keine Frage ist doof.“

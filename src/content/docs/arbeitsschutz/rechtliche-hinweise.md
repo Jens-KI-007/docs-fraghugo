@@ -42,7 +42,7 @@ Die DGUV stellt klar: Elektronische Hilfsmittel **sollen und können die persön
 
 ## Aufbewahrung der Nachweise
 
-Die Unterweisung ist zu dokumentieren (**§ 4 DGUV Vorschrift 1**). Für die Aufbewahrung der Nachweise nennt das Regelwerk keine feste Frist; **praxisüblich sind mindestens zwei Jahre**. Bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind in der Praxis **fünf Jahre** üblich. Hugo Safe weist dieses Enddatum je Nachweis aus („Aufbewahren bis") und speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
+Die Unterweisung ist zu dokumentieren (**§ 4 DGUV Vorschrift 1**). Für die Aufbewahrung der Nachweise nennt das Regelwerk keine feste Frist; **praxisüblich sind mindestens zwei Jahre**. Bei expositionsbezogenen Themen (Gefahrstoffe, Lärm, Schweißen, Biostoffe) sind in der Praxis **fünf Jahre** üblich. Hugo Safe weist dieses Enddatum je Nachweis aus („Aufbewahren bis“) und speichert die Nachweise über die gesamte Vertragslaufzeit, sodass Sie auch ältere Jahrgänge jederzeit erneut als [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) exportieren können.
 
 ## Verantwortung und Haftung
 
@@ -61,7 +61,7 @@ Eine **fehlende Unterweisung führt nicht automatisch zu einem festen Bußgeld.*
 In Deutschland ereignen sich weiterhin **mehrere hunderttausend meldepflichtige Arbeitsunfälle pro Jahr**; Stolper-, Rutsch- und Sturzunfälle zählen dabei zu den häufigsten Unfallarten. Die DGUV veröffentlicht die genauen aktuellen Zahlen jährlich — wenn Sie intern mit belastbaren Werten argumentieren möchten, nutzen Sie die Originalquelle statt gerundeter Sekundärzahlen:
 
 - DGUV — Arbeits- und Wegeunfallgeschehen (jährlich aktualisiert): [dguv.de/zahlen-fakten](https://www.dguv.de/de/zahlen-fakten/au-wu-geschehen/index.jsp)
-- DGUV-Publikation „Arbeitsunfallgeschehen": [publikationen.dguv.de](https://publikationen.dguv.de/statistiken/arbeitsunfallgeschehen/)
+- DGUV-Publikation „Arbeitsunfallgeschehen“: [publikationen.dguv.de](https://publikationen.dguv.de/statistiken/arbeitsunfallgeschehen/)
 
 ## Quellen zum Nachlesen
 

@@ -56,14 +56,14 @@ Abhängigkeitsbaum einer Container-Basis mitschreibt. Zwei Wege heraus: die SBOM
 Anwendungsebene beschränken, oder das Produkt in mehrere Produktversionen aufteilen, die
 ohnehin getrennt ausgeliefert werden.
 
-## Was „nicht überwachbar" bedeutet
+## Was „nicht überwachbar“ bedeutet
 
 Nach dem Import steht an manchen Komponenten die Markierung **nicht überwachbar**. Sie bedeutet
 genau eine Sache: Diese Komponente lässt sich nicht zuverlässig gegen Schwachstellendaten
 abgleichen. Zwei Ursachen gibt es.
 
 - **Keine Package-URL (`purl`).** Ohne sie ist unklar, welches Paket aus welchem Ökosystem
-  gemeint ist. „openssl" gibt es als Systempaket, als npm-Wrapper und als Vendor-Kopie im Quellbaum.
+  gemeint ist. „openssl“ gibt es als Systempaket, als npm-Wrapper und als Vendor-Kopie im Quellbaum.
 - **Keine Version.** Ohne Version lässt sich nicht sagen, ob eine bekannte Schwachstelle dieses
   Stück Software betrifft.
 

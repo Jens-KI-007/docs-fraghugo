@@ -5,7 +5,7 @@ description: Self-Service-Portal für Ihre Website — Betroffene reichen DSAR d
 
 ![Public-DSAR-Portal Konfigurator](/screenshots/vorfaelle/public-portal.png)
 
-Statt eine "Datenschutz-Kontakt"-Mailadresse, an die alle möglichen Anfragen landen, können Sie Betroffene auf ein **strukturiertes Portal** schicken. Sie wählen Antrags-Typ aus, geben strukturiert Daten ein, Sie bekommen eine saubere Anfrage im System.
+Statt eine „Datenschutz-Kontakt“-Mailadresse, an die alle möglichen Anfragen landen, können Sie Betroffene auf ein **strukturiertes Portal** schicken. Sie wählen Antrags-Typ aus, geben strukturiert Daten ein, Sie bekommen eine saubere Anfrage im System.
 
 ## Setup
 
@@ -20,12 +20,12 @@ Setup-Zeit: ca. 30 Sekunden bis 5 Minuten (je nachdem wie viel Sie branden).
 ## So sieht's für den Betroffenen aus
 
 1. Person geht auf `datenschutz.Ihre-firma.de`.
-2. Wählt: "Ich möchte Auskunft / Löschung / Berichtigung / Widerspruch".
+2. Wählt: „Ich möchte Auskunft / Löschung / Berichtigung / Widerspruch“.
 3. Gibt Name, Mail, optional Geburtsdatum / Kundennummer ein.
 4. Erhält Verifizierungs-Mail. Klickt Link.
-5. Sieht "Eingang bestätigt. Sie hören innerhalb von 30 Tagen von uns."
+5. Sieht „Eingang bestätigt. Sie hören innerhalb von 30 Tagen von uns.“
 
-Bei Ihnen im System: neuer DSAR-Eintrag, Status "Verifiziert", Frist startet.
+Bei Ihnen im System: neuer DSAR-Eintrag, Status „Verifiziert“, Frist startet.
 
 ## Aufsichtsbehörden Art. 77
 

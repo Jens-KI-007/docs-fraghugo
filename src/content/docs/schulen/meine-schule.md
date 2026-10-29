@@ -7,7 +7,7 @@ sidebar:
 
 Als Schulträger verwalten Sie mehrere Schulen unter einem Dach — sauber getrennt. Jede Schule ist eine eigene Einheit mit eigenen Mitarbeitenden, eigenem Unterweisungs-Stand und eigenem Nachweis.
 
-![Ansicht „Meine Schule" in der frag.hugo-Plattform: Kopfzeile mit dem Unterweisungs-Stand zweier Schulen und 8 Mitarbeitenden, drei Kennzahl-Kacheln (2 Schulen, 8 Mitarbeitende, 0 mit fälliger Wiederholung) und darunter je Schule (Grundschule Nord, Gymnasium am Testweg) eine Mitarbeiter-Tabelle mit Bereich, Abschluss-Status (offen / aktuell) und je Schule den Export-Buttons „Dossier (PDF)" und „CSV"; oben rechts ein Button „Klassen & Schüler-Unterweisungen"](/screenshots/schulen/meine-schule.png)
+![Ansicht „Meine Schule“ in der frag.hugo-Plattform: Kopfzeile mit dem Unterweisungs-Stand zweier Schulen und 8 Mitarbeitenden, drei Kennzahl-Kacheln (2 Schulen, 8 Mitarbeitende, 0 mit fälliger Wiederholung) und darunter je Schule (Grundschule Nord, Gymnasium am Testweg) eine Mitarbeiter-Tabelle mit Bereich, Abschluss-Status (offen / aktuell) und je Schule den Export-Buttons „Dossier (PDF)“ und „CSV“; oben rechts ein Button „Klassen & Schüler-Unterweisungen“](/screenshots/schulen/meine-schule.png)
 
 ## Schulen anlegen und zuordnen
 

@@ -16,7 +16,7 @@ Hier antworten Sie auf die 50 Standardfragen. Dauert ca. 30–45 Minuten, Sie k�
 
 ## KI-Hilfe
 
-Klicken Sie "Hugo, hilf mir" → Hugo:
+Klicken Sie „Hugo, hilf mir“ → Hugo:
 - Erklärt die Frage in einfacheren Worten
 - Schlägt Antwort basierend auf Ihren anderen Daten (VVT, TOMs, Audits) vor
 - Sagt, welche Belege Sie als Nachweis liefern sollten
@@ -27,16 +27,16 @@ Auto-Save nach jeder Antwort. Sie können den Wizard schließen und später weit
 
 ## Validierung
 
-Bevor Sie "Abschließen" klicken, prüft Hugo:
+Bevor Sie „Abschließen“ klicken, prüft Hugo:
 - Sind alle Pflichtfragen beantwortet?
-- Gibt es Widersprüche (z.B. "Wir haben kein Backup" + "Unser RPO ist 4 h")?
+- Gibt es Widersprüche (z.B. „Wir haben kein Backup“ + „Unser RPO ist 4 h“)?
 
 ## Erstmal ausfüllen, dann nachbessern
 
-Sie müssen nicht alles perfekt machen. Erstes Ausfüllen ist Status-Quo-Aufnahme, jedes Nein wird zur Maßnahme im Maßnahmenplan, an dem Sie dann arbeitest.
+Sie müssen nicht alles perfekt machen. Erstes Ausfüllen ist Status-Quo-Aufnahme, jedes Nein wird zur Maßnahme im Maßnahmenplan, an dem Sie dann arbeiten.
 
 ## Tipps
 
-- **Verteile auf mehrere Tage** — manche Fragen brauchen IT-Input ("Was ist unser RPO?"), manche HR ("Wie sieht das Off-Boarding aus?").
+- **Verteile auf mehrere Tage** — manche Fragen brauchen IT-Input („Was ist unser RPO?“), manche HR („Wie sieht das Off-Boarding aus?“).
 - **Mit Ihrem IT-Dienstleister machen** — wenn Sie keine eigene IT haben, sitzt Ihr IT-Systemhaus oder Ihr Cloud-Anbieter neben Ihnen am Tisch.
-- **Re-Assessment jährlich** — Sie starten dann mit Ihren alten Antworten und arbeitest nur die Veränderungen ein.
+- **Re-Assessment jährlich** — Sie starten dann mit Ihren alten Antworten und arbeiten nur die Veränderungen ein.

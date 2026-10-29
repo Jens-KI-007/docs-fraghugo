@@ -1,5 +1,5 @@
 ---
-title: Beratung & Add-Ons
+title: Beratung — Übersicht
 description: Beratungsstunden-Kontingent, Add-Ons buchen, Reifegrad-Check — alles rund um persönliche Hilfe.
 ---
 

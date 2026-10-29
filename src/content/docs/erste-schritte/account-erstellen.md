@@ -18,7 +18,7 @@ Statt E-Mail/Passwort können Sie sich auch über Ihren Google-Account einloggen
 
 ## Passwort vergessen?
 
-Auf der Login-Seite "Passwort vergessen?" — Reset-Link per Mail. Link ist 1 h gültig.
+Auf der Login-Seite „Passwort vergessen?“ — Reset-Link per Mail. Link ist 1 h gültig.
 
 ## Mehrere Firmen / Mandanten
 

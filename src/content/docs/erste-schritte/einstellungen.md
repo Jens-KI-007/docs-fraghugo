@@ -9,7 +9,7 @@ Unter **Einstellungen** (oben rechts unter Ihrem Avatar) finden Sie alles, was S
 
 ## Profil
 
-- Name, E-Mail, Foto, Position, Telefon. Diese Daten erscheinen z.B. in Datenpannen-Meldungen an die Behörde als "Kontaktperson".
+- Name, E-Mail, Foto, Position, Telefon. Diese Daten erscheinen z.B. in Datenpannen-Meldungen an die Behörde als „Kontaktperson“.
 - **Passwort ändern** — direkter Reset, Sie brauchen Ihr altes Passwort.
 
 ## Firmendaten

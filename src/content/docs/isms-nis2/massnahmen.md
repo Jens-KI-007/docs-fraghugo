@@ -41,15 +41,15 @@ Filterbar nach Status. Wichtige Sichten:
 
 ## Maßnahmen-Bibliothek mit AI-Hilfe
 
-Klicken Sie "Hugo, hilf mir" bei einer Maßnahme → Hugo:
+Klicken Sie „Hugo, hilf mir“ bei einer Maßnahme → Hugo:
 - Erklärt was zu tun ist
-- Schlägt ein konkretes Vorgehen vor (z.B. "Backup-Strategie 3-2-1 — drei Kopien, zwei Medien, ein Off-Site")
+- Schlägt ein konkretes Vorgehen vor (z.B. „Backup-Strategie 3-2-1 — drei Kopien, zwei Medien, ein Off-Site“)
 - Verlinkt auf BSI-Empfehlungen / Industry-Standards
 - Generiert Mustertexte für Richtlinien
 
 ## Verbindung zu Richtlinien
 
-Maßnahmen sind das WAS, Richtlinien das WIE. Maßnahme "Passwort-Schutz" → verlinkt auf [Richtlinie "Passwort-Vorgaben"](/isms-nis2/richtlinien/).
+Maßnahmen sind das WAS, Richtlinien das WIE. Maßnahme „Passwort-Schutz“ → verlinkt auf [Richtlinie „Passwort-Vorgaben“](/isms-nis2/richtlinien/).
 
 ## Tipps
 

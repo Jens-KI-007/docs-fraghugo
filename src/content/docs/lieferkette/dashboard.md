@@ -31,13 +31,13 @@ Klicken Sie auf einen Lieferanten →
 - Re-Assessment anfordern (Mail-Template)
 - Risiko-Klasse ändern
 - Notiz hinzufügen
-- Lieferant als "abgelöst" markieren
+- Lieferant als „abgelöst“ markieren
 
 ## Filter
 
 Filter nach: Risiko-Klasse, Branche, Region, Score-Bereich, letzte-Aktualisierung-vor-X-Monaten, Zertifikat-Status.
 
 Wichtige gespeicherte Sichten:
-- **Hochrisiko-Liste** — Score < 60 + Risikoklasse "kritisch"
+- **Hochrisiko-Liste** — Score < 60 + Risikoklasse „kritisch“
 - **Tender-Liste** — wer wurde diese Quartal in Tender eingebunden
 - **Re-Assessment fällig** — letzte Beantwortung > 12 Monate her

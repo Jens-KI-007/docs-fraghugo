@@ -18,7 +18,7 @@ Wenn Ihre Firma unter **NIS2** fällt (Energie, Transport, Logistik, Wasser, Ges
 | [ISMS-Reports](/isms-nis2/isms-reports/) | Management-Reports, Audit-Vorbereitung |
 | [NIS2-Dashboard](/isms-nis2/nis2-dashboard/) | Compliance-Stand auf einen Blick |
 | [BSI-Registrierung](/isms-nis2/bsi-registrierung/) | Pflicht-Meldung an BSI nach NIS2 |
-| [GF-Schulung §38](/isms-nis2/gf-schulung/) | Geschäftsführungs-Pflicht-Schulung |
+| [GF-Schulung § 38](/isms-nis2/gf-schulung/) | Geschäftsführungs-Pflicht-Schulung |
 
 ## Bin ich NIS2-betroffen?
 
@@ -35,4 +35,4 @@ Machen Sie den **[NIS2-Quick-Check](https://www.fraghugo.de/nis2-quick-check/)**
 
 Erstaufbau: 1–3 Wochen verteilt über 2–3 Monate (Asset-Register dauert am längsten). Danach Pflege: 1–2 Tage pro Quartal + bei Vorfällen.
 
-Mit dem Service-Paket "ISMS-Onboarding" macht Nils das mit Ihnen zusammen — ca. 4 Termine à 2 h.
+Mit dem Service-Paket „ISMS-Onboarding“ macht Nils das mit Ihnen zusammen — ca. 4 Termine à 2 h.

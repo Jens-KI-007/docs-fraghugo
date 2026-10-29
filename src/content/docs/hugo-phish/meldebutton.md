@@ -13,7 +13,7 @@ IT-Sicherheit weiter.
 3. Manifest-URL angeben: `https://app.fraghugo.de/phish-addin/manifest.xml`
    (oder die Datei herunterladen und hochladen).
 4. Zuweisung wählen (ganze Organisation oder bestimmte Gruppen) und bereitstellen.
-5. Nach kurzer Verteilzeit erscheint in Outlook (Desktop, Web, Mac) der Button **„Phishing melden"**.
+5. Nach kurzer Verteilzeit erscheint in Outlook (Desktop, Web, Mac) der Button **„Phishing melden“**.
 
 ## Google Workspace
 Ein gleichwertiges Add-on steht auf Anfrage bereit; die Meldung läuft über denselben Endpoint.

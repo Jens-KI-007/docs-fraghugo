@@ -17,7 +17,7 @@ Sicherheit des Produkts beeinträchtigt hat. **Erst dann laufen die 24 Stunden.*
 
 Zwei Folgerungen daraus:
 
-- **Die Bewertung selbst hat kein Zeitfenster, sie ist „unverzüglich".** Wer einen Hinweis zwei
+- **Die Bewertung selbst hat kein Zeitfenster, sie ist „unverzüglich“.** Wer einen Hinweis zwei
   Wochen liegen lässt und sich darauf beruft, er habe ja noch keine Kenntnis gehabt, dreht die
   Regel um.
 - **Halten Sie beide Zeitpunkte fest** — Hinweis eingegangen und Kenntnis festgestellt. Der
@@ -47,7 +47,7 @@ nicht die 72-Stunden-Meldung und nicht den Abschlussbericht. Und die Größe des
 ohnehin ein ausdrücklicher Zumessungsfaktor (Art. 64 Abs. 5 lit. c).
 :::
 
-## Meldet ihr für uns?
+## Meldet frag.hugo für uns?
 
 Nein — und das ist keine Zurückhaltung, sondern der Stand der Technik auf der Gegenseite.
 

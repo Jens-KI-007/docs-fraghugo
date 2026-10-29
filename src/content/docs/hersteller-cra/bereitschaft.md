@@ -33,7 +33,7 @@ Details unter [Meldung erstellen](/hersteller-cra/meldung-erstellen/).
 
 ## Außerhalb der Geschäftszeiten
 
-Der Schalter **„außerhalb der Geschäftszeiten erreichbar"** entscheidet, ob Hugo bei einem neuen
+Der Schalter **„außerhalb der Geschäftszeiten erreichbar“** entscheidet, ob Hugo bei einem neuen
 Fall und bei ablaufenden Fristen auch abends, nachts und am Wochenende benachrichtigt — oder erst
 am nächsten Werktag.
 
@@ -46,7 +46,7 @@ jemand öffnet.
 
 Zwei Angaben gehören dazu:
 
-- **Geschäftszeiten** und Zeitzone, damit „außerhalb" definiert ist.
+- **Geschäftszeiten** und Zeitzone, damit „außerhalb“ definiert ist.
 - **Wege je Rolle** — welche Adresse tagsüber, welche Nummer nachts.
 
 ## Testmail

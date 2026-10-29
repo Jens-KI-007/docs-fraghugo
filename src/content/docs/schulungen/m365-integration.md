@@ -69,5 +69,5 @@ Direkt-Connect nur für M365. Für Personio, HRWORKS, SAP Successfactors etc. nu
 
 ## Tipps
 
-- **Manager-Hierarchie hilft** — Hugo kann dann Schulungs-Reports an Manager schicken ("Folgende Ihrer Mitarbeiter sind im Phishing-Test durchgefallen").
-- **Filter** — Sie können sagen "nur Mitarbeiter mit Domain @meine-firma.de synchronisieren, externe Gäste ignorieren".
+- **Manager-Hierarchie hilft** — Hugo kann dann Schulungs-Reports an Manager schicken („Folgende Ihrer Mitarbeiter sind im Phishing-Test durchgefallen“).
+- **Filter** — Sie können sagen „nur Mitarbeiter mit Domain @meine-firma.de synchronisieren, externe Gäste ignorieren“.

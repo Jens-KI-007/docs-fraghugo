@@ -24,7 +24,7 @@ Hugo gibt 8 Kategorien vor, in denen Sie jeweils ankreuzt was Sie machen:
 
 - **Maßnahmen ankreuzen** — pro Kategorie 5-15 Standard-Maßnahmen, Sie wählen.
 - **Custom Maßnahmen** hinzufügen — falls Sie etwas Besonderes haben.
-- **Status pro Maßnahme** — "Ja vollständig" / "Ja teilweise" / "Geplant" / "Nein".
+- **Status pro Maßnahme** — „Ja vollständig“ / „Ja teilweise“ / „Geplant“ / „Nein“.
 - **Nachweis** — pro Maßnahme PDF anhängen (z.B. Pen-Test-Bericht, ISO-Zertifikat).
 - **Letzte Prüfung** — wann haben Sie das zuletzt überprüft? (Pflicht: mind. 1× jährlich)
 
@@ -39,6 +39,6 @@ Jeder AVV bekommt eine Kopie Ihrer TOMs als Anlage 2 zum Vertrag. Hugo macht das
 
 ## Tipps
 
-- Bei kleinen Firmen reicht ein **Basis-Set von ~30 Maßnahmen**. Übertreibe nicht.
-- Versprich nichts, was Sie nicht tust. Wenn "Vier-Augen-Prinzip" angekreuzt ist aber niemand das prüft, ist das schlechter als ehrliches "Nein, brauchen wir nicht weil Mini-Team".
-- **Re-Review** mind. jährlich, sonst markiert Hugo das TOMs-Dokument als "veraltet".
+- Bei kleinen Firmen reicht ein **Basis-Set von ~30 Maßnahmen**. Übertreiben Sie nicht.
+- Versprechen Sie nichts, was Sie nicht tun. Wenn „Vier-Augen-Prinzip“ angekreuzt ist, aber niemand das prüft, ist das schlechter als ehrliches „Nein, brauchen wir nicht weil Mini-Team“.
+- **Re-Review** mind. jährlich, sonst markiert Hugo das TOMs-Dokument als „veraltet“.

@@ -38,13 +38,13 @@ Sie brauchen eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Ver
 ## Wie nutzen
 
 1. Vorlage suchen (Filter oder Suche).
-2. "Anpassen" — Hugo macht ein neues Dokument aus der Vorlage, befüllt mit Ihren Firmendaten.
+2. „Anpassen“ — Hugo macht ein neues Dokument aus der Vorlage, befüllt mit Ihren Firmendaten.
 3. Im Editor anpassen.
 4. PDF/Word herunterladen, drucken, unterschreiben.
 
 ## Eigene Vorlagen
 
-"+ Neue Vorlage" oben rechts — Sie können eigene Templates speichern, mit Variablen (z.B. `{{firma}}`, `{{datum}}`, `{{mitarbeitername}}`).
+„+ Neue Vorlage“ oben rechts — Sie können eigene Templates speichern, mit Variablen (z.B. `{{firma}}`, `{{datum}}`, `{{mitarbeitername}}`).
 
 ## Branding
 

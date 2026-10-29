@@ -11,7 +11,7 @@ Bevor jemand unterwiesen werden kann, müssen Ihre Mitarbeiter in Hugo Safe ange
 
 ## Mitarbeiter anlegen
 
-Über **„+ Hinzufügen"** erfassen Sie eine Person mit **Name, E-Mail und Tätigkeitsbereich**. Hugo Safe verschickt daraufhin automatisch eine Einladung per E-Mail; der Mitarbeiter meldet sich an und sieht seine offenen Unterweisungen.
+Über **„+ Hinzufügen“** erfassen Sie eine Person mit **Name, E-Mail und Tätigkeitsbereich**. Hugo Safe verschickt daraufhin automatisch eine Einladung per E-Mail; der Mitarbeiter meldet sich an und sieht seine offenen Unterweisungen.
 
 Die Mitarbeiterliste ist **organisationsweit geteilt**: Wer bereits in [Hugo Learn](/schulungen/mitarbeiter/) angelegt ist – auch über die [Microsoft-365-Integration](/schulungen/m365-integration/) automatisch synchronisiert – steht hier ebenfalls zur Verfügung und muss nicht erneut erfasst werden. So pflegen Sie Ihren Personalstamm an einer Stelle und nutzen ihn für Schulungen **und** Arbeitsschutz-Unterweisungen.
 
@@ -32,7 +32,7 @@ Hugo Safe ordnet jedem Mitarbeiter einen oder mehrere Bereiche zu. Daraus ergebe
 | **Fahrer & Transport** | UVV-Fahrerunterweisung, Ladungssicherung, Ladekran & Hebezeuge |
 | **Branchenspezifisch** | Hygiene & Infektionsschutz, Biostoffe/Reinigung, Baustellensicherheit |
 
-Ein Mitarbeiter kann mehreren Bereichen angehören (z. B. „Büro" + „Lager") — dann erhält er die Vereinigungsmenge der Unterweisungen.
+Ein Mitarbeiter kann mehreren Bereichen angehören (z. B. „Büro“ + „Lager“) — dann erhält er die Vereinigungsmenge der Unterweisungen.
 
 ## Automatische Zuweisung
 
@@ -52,4 +52,4 @@ Nach dem Anlegen lädt Hugo Safe die Mitarbeiter per E-Mail ein. Sie melden sich
 
 - **Mit den Tätigkeitsbereichen starten** — sie sind der Hebel für die richtige Zuweisung. Lieber einmal sauber pflegen, als später einzeln nachsortieren.
 - **Personalstamm zentral halten** — wer in Hugo Learn (ggf. via M365-Sync) gepflegt ist, taucht hier automatisch auf. Doppelte Pflege sparen Sie sich.
-- **Neue Mitarbeiter sofort anlegen** — die Erstunterweisung sollte vor Aufnahme der Tätigkeit erfolgen. Hugo Safe markiert neu Angelegte als „offen" (noch nicht unterwiesen).
+- **Neue Mitarbeiter sofort anlegen** — die Erstunterweisung sollte vor Aufnahme der Tätigkeit erfolgen. Hugo Safe markiert neu Angelegte als „offen“ (noch nicht unterwiesen).

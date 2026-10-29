@@ -20,10 +20,10 @@ Hugo unterscheidet 6 Klassen:
 
 ## Asset anlegen
 
-Klicken Sie "+ Asset". Pro Asset geben Sie an:
+Klicken Sie „+ Asset“. Pro Asset geben Sie an:
 - Name
 - Klasse
-- Kategorie (innerhalb der Klasse, z.B. "Laptop" / "Server" / "VM")
+- Kategorie (innerhalb der Klasse, z.B. „Laptop“ / „Server“ / „VM“)
 - Verantwortlicher (Mitarbeiter, der dafür zuständig ist)
 - Standort (physisch oder logisch)
 - Schutzbedarf — wird im [nächsten Baustein](/isms-nis2/schutzbedarf/) festgelegt
@@ -49,4 +49,4 @@ Das Register hält Ihre Hardware, Software und Lizenzen fest. Das laufende **Bet
 
 - **Nicht alles aufnehmen** — der Bürostuhl ist kein Asset im ISMS-Sinne. Faustregel: Was Sicherheitsbedeutung hat.
 - **Mit Verantwortlichen sprechen** — Sie als Compliance-Officer kennen nicht alle Systeme. IT-Admin, HR, Buchhaltung müssen je ihre Assets bestätigen.
-- **Granularität**: "Alle Bürorechner" als ein Asset reicht — nicht jeden einzeln aufnehmen, sondern als Klasse mit Stückzahl.
+- **Granularität**: „Alle Bürorechner“ als ein Asset reicht — nicht jeden einzeln aufnehmen, sondern als Klasse mit Stückzahl.

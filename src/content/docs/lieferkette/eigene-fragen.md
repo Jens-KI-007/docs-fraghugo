@@ -14,7 +14,7 @@ Die 50 Standardfragen decken den Mainstream ab. Für Ihre Branche brauchen Sie o
 
 ## Frage anlegen
 
-Klicken Sie "+ Neue Frage". Sie geben ein:
+Klicken Sie „+ Neue Frage“. Sie geben ein:
 - **Fragetext** + Erklärung
 - **Kategorie** (frei wählbar oder einer der Standard-Kategorien zugeordnet)
 - **Antwort-Typ**: Ja/Nein/Teilweise (Standard) ODER Freitext ODER Auswahl-Liste ODER Datei-Upload
@@ -23,7 +23,7 @@ Klicken Sie "+ Neue Frage". Sie geben ein:
 
 ## Fragen-Sets
 
-Sie können Fragen in **Sets** gruppieren und Sets pro Lieferant zuweisen — z.B. "Pharma-Pflicht-Fragen" nur an pharma-bezogene Lieferanten schicken.
+Sie können Fragen in **Sets** gruppieren und Sets pro Lieferant zuweisen — z.B. „Pharma-Pflicht-Fragen“ nur an pharma-bezogene Lieferanten schicken.
 
 ## Aus Vorlagen-Bibliothek
 

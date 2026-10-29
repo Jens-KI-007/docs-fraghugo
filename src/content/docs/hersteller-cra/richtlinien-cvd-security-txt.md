@@ -111,7 +111,7 @@ Eine Meldung über die CVD-Seite ist zunächst **kein** meldepflichtiger Fall. S
 den Sie unverzüglich bewerten müssen; die Frist beginnt erst, wenn Sie danach mit hinreichender
 Sicherheit wissen, dass tatsächlich ausgenutzt wird (Kommissionsleitlinie C(2026) 5252, Rn. 213).
 
-Deshalb der Ablauf: Hinweis eingegangen → Bewertung → **entweder** Vermerk „nicht meldepflichtig"
+Deshalb der Ablauf: Hinweis eingegangen → Bewertung → **entweder** Vermerk „nicht meldepflichtig“
 mit Begründung **oder** Fall im [Meldeassistenten](/hersteller-cra/meldung-erstellen/). Beide Wege
 landen im Ereignisprotokoll, und genau diese Kette ist es, die der
 [Prozessnachweis](/hersteller-cra/prozessnachweis/) später zeigt.

@@ -53,7 +53,7 @@ Dazu kommen KI-Auswertungen: 5 im kostenlosen Tarif, bis zu 9 ab Pro.
 
 ## Mit DSE verknüpfen
 
-Wenn Sie auf der Plattform Ihre [Datenschutzerklärung](/datenschutz/dse/) gepflegt haben, vergleicht der Scan: "Sie haben Matomo auf der Website, aber in Ihrer DSE steht nichts dazu." → konkreter Befund.
+Wenn Sie auf der Plattform Ihre [Datenschutzerklärung](/datenschutz/dse/) gepflegt haben, vergleicht der Scan: „Sie haben Matomo auf der Website, aber in Ihrer DSE steht nichts dazu.“ → konkreter Befund.
 
 ## Free vs. Pro vs. Agentur
 

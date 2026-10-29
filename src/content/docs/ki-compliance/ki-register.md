@@ -9,7 +9,7 @@ Hier landen alle KI-Systeme in Ihrer Firma — von ChatGPT-Pro bis zur eigenen M
 
 ## Pro KI-System
 
-- **Name** — z.B. "ChatGPT für Mitarbeiter", "Bewerber-Sortierung HR-Tool", "Predictive Maintenance Maschine X"
+- **Name** — z.B. „ChatGPT für Mitarbeiter“, „Bewerber-Sortierung HR-Tool“, „Predictive Maintenance Maschine X“
 - **Anbieter** — OpenAI, Microsoft, eigene Entwicklung
 - **Zweck** — wofür wird's verwendet
 - **Daten-Inputs** — was geht rein (Texte, Bilder, Stammdaten)
@@ -21,7 +21,7 @@ Hier landen alle KI-Systeme in Ihrer Firma — von ChatGPT-Pro bis zur eigenen M
 
 ## Anlegen
 
-Klicken Sie "+ Neue KI". Wizard fragt durch, Hugo schlägt typische Antworten vor.
+Klicken Sie „+ Neue KI“. Wizard fragt durch, Hugo schlägt typische Antworten vor.
 
 ## Auto-Vorschläge
 
@@ -41,7 +41,7 @@ Wer einen Fund des [Schatten-KI-Radars](/ki-compliance/schatten-ki-radar/) ins R
 bekommt einen vorbelegten Eintrag: Name, Anbieter, Rolle und ein Vorschlag für die Risikoklasse
 stehen schon drin, ergänzen müssen Sie nur den Zweck.
 
-Solche Einträge tragen in der Liste die Kennzeichnung **„aus Radar"** und führen mit einem Klick
+Solche Einträge tragen in der Liste die Kennzeichnung **„aus Radar“** und führen mit einem Klick
 zum Fund zurück — dorthin, wo Sie sehen, wie viele Konten den Dienst verbunden haben, welche
 Berechtigungen er hat und wer zugestimmt hat. Umgekehrt wechselt der Fund im Radar auf den Zustand
 *im Register*, sodass er dort nicht ein zweites Mal bearbeitet wird.
@@ -52,5 +52,5 @@ Jedes KI-System ist (fast immer) eine Datenverarbeitung. Sie können pro KI auf 
 
 ## Tipps
 
-- **Aktuell halten** — bei jedem neuen Tool prüfen, ob KI drin. Auch "klassische" Software bekommt zunehmend KI-Features (z.B. M365, Salesforce, Atlassian).
-- **Eigene KI besonders dokumentieren** — wenn ihr selbst KI entwickelt, sind die Pflichten höher (Sie sind Anbieter, nicht nur Betreiber).
+- **Aktuell halten** — bei jedem neuen Tool prüfen, ob KI drin. Auch „klassische“ Software bekommt zunehmend KI-Features (z.B. M365, Salesforce, Atlassian).
+- **Eigene KI besonders dokumentieren** — wenn Sie selbst KI entwickeln, sind die Pflichten höher (Sie sind Anbieter, nicht nur Betreiber).

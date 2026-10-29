@@ -7,7 +7,7 @@ sidebar:
 
 Bei 250 bis 999 Beschäftigten legen Sie niemanden einzeln an. Über **Mitarbeiter → Hinzufügen** importieren Sie ganze Kollegien aus einer Tabelle — inklusive Schul- und Bereichszuordnung.
 
-![Mitarbeiter-Verwaltung in der frag.hugo-Plattform mit geöffnetem „Hinzufügen"-Menü: drei Optionen — „Per E-Mail einladen" (Login-Link per Mail), „Ohne E-Mail anlegen" (Benutzername plus Initial-Passwort, für Schulungs-Rechner und Tablets ohne E-Mail) und „Per CSV importieren" (viele Mitarbeiter auf einmal, z. B. ganze Kollegien aus einer Tabelle); darunter der Hinweis „Für Schulträger: Sie verwalten 2 Schulen getrennt" und die Mitarbeiter-Tabelle mit Spalten für Schul-Zuordnung, Bereich (z. B. „Schule / Lehrkräfte") und Status](/screenshots/schulen/csv-import.png)
+![Mitarbeiter-Verwaltung in der frag.hugo-Plattform mit geöffnetem „Hinzufügen“-Menü: drei Optionen — „Per E-Mail einladen“ (Login-Link per Mail), „Ohne E-Mail anlegen“ (Benutzername plus Initial-Passwort, für Schulungs-Rechner und Tablets ohne E-Mail) und „Per CSV importieren“ (viele Mitarbeiter auf einmal, z. B. ganze Kollegien aus einer Tabelle); darunter der Hinweis „Für Schulträger: Sie verwalten 2 Schulen getrennt“ und die Mitarbeiter-Tabelle mit Spalten für Schul-Zuordnung, Bereich (z. B. „Schule / Lehrkräfte“) und Status](/screenshots/schulen/csv-import.png)
 
 ## Drei Wege, Mitarbeitende anzulegen
 
@@ -25,4 +25,4 @@ Sie können die **Schule** schon in der CSV-Spalte mitgeben. So landen die Lehrk
 
 ## Gemeinsamer Mitarbeiterstamm
 
-Wen Sie hier anlegen, ist auch unter [Schulungen](/schulungen/uebersicht/) (Hugo Learn) verfügbar — und umgekehrt. Sie pflegen die Liste also nur an **einer** Stelle. Über den **Bereich** (z. B. „Schule / Lehrkräfte") werden die passenden Pflicht-Unterweisungen automatisch zugewiesen.
+Wen Sie hier anlegen, ist auch unter [Schulungen](/schulungen/uebersicht/) (Hugo Learn) verfügbar — und umgekehrt. Sie pflegen die Liste also nur an **einer** Stelle. Über den **Bereich** (z. B. „Schule / Lehrkräfte“) werden die passenden Pflicht-Unterweisungen automatisch zugewiesen.

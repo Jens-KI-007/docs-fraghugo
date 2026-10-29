@@ -45,7 +45,7 @@ Zu den Pflichtangaben gehört auch der **IT-Dienstleister mit Zugriff**. NIS2 ve
 ## So gehen Sie vor
 
 ### Schritt 1: Daten zusammen
-Wizard öffnen → "Daten prüfen". Hugo füllt aus Ihrem [Firmenprofil](/erste-schritte/einstellungen/) + [Asset-Register](/isms-nis2/asset-register/) so viel wie möglich vor.
+Wizard öffnen → „Daten prüfen“. Hugo füllt aus Ihrem [Firmenprofil](/erste-schritte/einstellungen/) + [Asset-Register](/isms-nis2/asset-register/) so viel wie möglich vor.
 
 ### Schritt 2: Ergänzen
 Fehlende Felder ausfüllen — typisch 5–10 Felder, alles andere ist aus Ihrem Profil.
@@ -57,7 +57,7 @@ Hugo erzeugt das Anmeldungsformular im BSI-vorgegebenen Format als PDF.
 **Online-Portal**: https://portal.bsi.bund.de — Anmeldung mit ELSTER-Organisationszertifikat, dann die NIS-2-Registrierung im Portal abschließen. Offizielle Schritt-für-Schritt-Anleitung: https://www.bsi.bund.de/dok/anleitung-portal-registrierung
 
 :::note[Das Organisationszertifikat braucht Vorlauf]
-Das ELSTER-Organisationszertifikat beantragen Sie über „Mein Unternehmenskonto". Der
+Das ELSTER-Organisationszertifikat beantragen Sie über „Mein Unternehmenskonto“. Der
 Aktivierungscode kommt **per Post** an die dort hinterlegte Adresse. Wer damit erst
 anfängt, wenn die Registrierung abgeschickt werden soll, verliert eine Woche. Das ist
 die Stelle, an der die meisten hängenbleiben — nicht das Formular.
@@ -82,15 +82,15 @@ niemandem auf.
 
 ## Häufige Probleme
 
-- **„Bin ich überhaupt betroffen?"** — Der [Betroffenheitscheck](/isms-nis2/nis2-basis/) in
+- **„Bin ich überhaupt betroffen?“** — Der [Betroffenheitscheck](/isms-nis2/nis2-basis/) in
   der Anwendung fragt Sektor, Beschäftigte, Umsatz, Bilanzsumme und Sonderfälle ab und
   nennt zu jeder Einstufung die Fundstelle. Kostenlos und ohne Anmeldung geht auch der
   [NIS2-Schnellcheck](https://www.fraghugo.de/nis2-schnellcheck/).
-- **„Was heißt ‚besonders wichtig'?"** — Die Einstufung nach § 28 Abs. 1 BSIG. Sie bringt
+- **„Was heißt ‚besonders wichtig'?“** — Die Einstufung nach § 28 Abs. 1 BSIG. Sie bringt
   strengere Aufsicht mit sich: Nach § 61 Abs. 1 kann das Bundesamt Audits, Prüfungen oder
   Zertifizierungen durch unabhängige Stellen anordnen. Bei wichtigen Einrichtungen geht
   das nach § 62 nur anlassbezogen.
-- **„Was, wenn ich es versäume?"** — Wer entgegen § 33 Abs. 1 BSIG eine Angabe nicht,
+- **„Was, wenn ich es versäume?“** — Wer entgegen § 33 Abs. 1 BSIG eine Angabe nicht,
   nicht richtig, nicht vollständig oder nicht rechtzeitig übermittelt, handelt
   ordnungswidrig. Der Rahmen liegt bei **bis zu 500.000 €** (§ 65 Abs. 2 Nr. 6 in
   Verbindung mit Abs. 5 Nr. 5). Die höheren Beträge von 10 beziehungsweise 7 Mio. €

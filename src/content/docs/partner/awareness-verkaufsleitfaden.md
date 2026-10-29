@@ -7,7 +7,7 @@ Zwei Seiten. Der Preis verschafft den Termin, der Nachweis bringt die Unterschri
 
 ## Die sechs Argumente, in dieser Reihenfolge
 
-**1. „Sie müssen ohnehin wechseln."**
+**1. „Sie müssen ohnehin wechseln.“**
 Viele Awareness-Produkte am Markt werden gerade durch Nachfolge-Plattformen abgelöst. Wo das
 so ist, gilt fast immer: Die Historie abgeschlossener Kampagnen und ihre Auswertungen lassen
 sich nicht übertragen. Der Kunde steht also so oder so vor neuem Onboarding und neuem
@@ -15,25 +15,25 @@ Allowlisting. Wer neu anfangen muss, kann auch gleich das Produkt wechseln.
 **Prüfen Sie das vor dem Gespräch beim konkreten Anbieter nach** — und weisen Sie den Kunden
 darauf hin, dass er seine Daten **vor** der Kündigung exportieren muss.
 
-**2. „Es kostet einen Bruchteil."**
+**2. „Es kostet einen Bruchteil.“**
 Rechnen Sie mit der Mitarbeiterzahl des Kunden, nicht mit Prozenten. Marktübliche
 Awareness-Abonnements liegen im Bereich weniger Euro **je Person und Monat**. Hugo Learn
 kostet ab 14,90 € **je Person und Jahr** (Standard) bzw. ab 15 € je Person und Jahr im Programm
 bei großen Belegschaften.
 
-**3. „Sie bekommen mehr Inhalt."**
+**3. „Sie bekommen mehr Inhalt.“**
 Über 30 Schulungsmodule statt einer Handvoll Videos, dazu monatlich eine neue Lektion und
 unbegrenzt viele Übungs-Mails aus 73 Vorlagen — statt einer festen Zahl pro Jahr. Der
 Schwierigkeitsgrad steigt mit dem Resilienz-Index der einzelnen Person, statt für alle gleich
 zu bleiben.
 
-**4. „Sie bekommen den Nachweis, den eine Prüfung verlangt."**
+**4. „Sie bekommen den Nachweis, den eine Prüfung verlangt.“**
 Das Audit-Paket als PDF mit Integritäts-Prüfsumme, Zuordnung zu NIS2, ISO 27001 A.6.3 und
 Art. 32 DSGVO, dazu der Eintrag als technisch-organisatorische Maßnahme im
 Verarbeitungsverzeichnis samt Wirksamkeitsbeleg. Das ist der Punkt, an dem sich Awareness von
-„wir haben mal ein Video geschaut" unterscheidet.
+„wir haben mal ein Video geschaut“ unterscheidet.
 
-**5. „Ihr Betriebsrat wird zustimmen."**
+**5. „Ihr Betriebsrat wird zustimmen.“**
 Die anonyme Auswertung ist erzwungen, nicht eingestellt: Es gibt keinen Schalter, der
 personenbezogene Ergebnisse freigibt — auch nicht für die Geschäftsführung, auch nicht für uns.
 Unter fünf ausgewerteten Personen erscheint gar keine Quote. Eine Muster-Betriebsvereinbarung
@@ -41,7 +41,7 @@ liegt bei. Fragen Sie den Kunden, was sein bisheriger Anbieter dazu in den Vertr
 stehen hat — insbesondere, ob dort personenbezogene Auswertungen möglich sind und wem die
 Nutzung der gewonnenen Erkenntnisse zusteht.
 
-**6. „Wir kümmern uns um die Zustellung."**
+**6. „Wir kümmern uns um die Zustellung.“**
 Sende-Domain, SPF, DKIM, DMARC und eine Prüfmail, bevor die erste Übung läuft — und
 ausdrücklich kein Versand, solange die Prüfung nicht grün ist. Viele Anbieter sichern die
 Zustellung vertraglich gerade nicht zu und überlassen das Whitelisting dem Kunden. Genau daran
@@ -81,6 +81,6 @@ kippt ins Gegenteil.
 
 ## Was Sie nicht sagen
 
-„Rechtssicher", „konform", „abmahnsicher", „garantiert". Richtig ist: **unterstützt den
+„Rechtssicher“, „konform“, „abmahnsicher“, „garantiert“. Richtig ist: **unterstützt den
 Nachweis**. Und keine Wettbewerber-Schelte — die Fakten oben genügen, und sie stammen aus den
 veröffentlichten Unterlagen der Anbieter. Wer sie zitiert, sollte sie vorher nachgelesen haben.

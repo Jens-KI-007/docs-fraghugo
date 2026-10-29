@@ -18,9 +18,9 @@ Sobald Sie das Abschlussquiz eines Moduls bestanden haben — ab **80 %** —, e
 </figure>
 
 - Ihr **Name**
-- Der **Modulname** — hier „DSGVO-Grundlagen"
+- Der **Modulname** — hier „DSGVO-Grundlagen“
 - Das **Abschlussdatum**
-- Ihr **Ergebnis in Prozent** im Siegel, darunter „BESTANDEN"
+- Ihr **Ergebnis in Prozent** im Siegel, darunter „BESTANDEN“
 - **Unterschrift** von Nils Oehmichen, Geschäftsführer und Datenschutzbeauftragter der frag.hugo Informationssicherheit GmbH
 - Ein **QR-Code** samt Zertifikatsnummer zur Echtheitsprüfung
 
@@ -39,7 +39,7 @@ Wer die Nummer prüft, sieht Schulung, Abschlussdatum, Ergebnis und Zertifikatsn
 
 ## Wo speichern
 
-- **PDF ablegen** auf Ihrem Rechner, zum Beispiel im Ordner „Schulungsnachweise/2026"
+- **PDF ablegen** auf Ihrem Rechner, zum Beispiel im Ordner „Schulungsnachweise/2026“
 - **Ausdrucken**, falls Ihr Arbeitgeber eine Papierablage führt
 - **An sich selbst mailen** als Sicherung, falls der Rechner ausfällt
 

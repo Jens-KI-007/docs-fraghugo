@@ -3,7 +3,7 @@ title: Schatten-KI-Radar
 description: Aus dem angebundenen Microsoft-365-Mandanten lesen, welche KI-Dienste mit Firmenkonten verbunden sind — Voraussetzungen, Berechtigungen, Funde, Personenbezug und Betriebsrat.
 ---
 
-Das KI-Register beantwortet die Frage „Welche KI setzen wir ein?" nur so gut, wie jemand sie
+Das KI-Register beantwortet die Frage „Welche KI setzen wir ein?“ nur so gut, wie jemand sie
 beantworten kann. In den meisten Betrieben kennt niemand die vollständige Liste: Werkzeuge kommen
 über einen einzelnen Klick ins Haus, nicht über eine Beschaffung.
 
@@ -37,7 +37,7 @@ Nicht nur die Administrator-Zustimmung, sondern **zusätzlich eine Verzeichnisro
 
 > **Ein Anwendungsadministrator reicht nicht.** Das ist die häufigste Ursache dafür, dass die
 > Zustimmung im Microsoft-Dialog gelingt und die Abfrage danach trotzdem mit einem 403 antwortet.
-> Wenn die Verbindung steht, der Lauf aber „Berechtigung fehlt" meldet, prüfen Sie zuerst die
+> Wenn die Verbindung steht, der Lauf aber „Berechtigung fehlt“ meldet, prüfen Sie zuerst die
 > Verzeichnisrolle der Person, die zugestimmt hat — nicht die Zustimmung selbst.
 
 ### Für die Anmeldungen zusätzlich Entra ID P1
@@ -48,7 +48,7 @@ Business Premium** enthalten.
 
 **Ohne P1 funktioniert der Radar trotzdem.** Er sieht dann die zugestimmten Anwendungen — also
 welche Dienste Zugriff auf Konten und Daten haben —, aber nicht, was davon im Alltag benutzt wird.
-Die Statuskarte sagt das offen: Das Signal *Anmeldungen* steht dann auf „nicht verfügbar".
+Die Statuskarte sagt das offen: Das Signal *Anmeldungen* steht dann auf „nicht verfügbar“.
 
 ## Die drei Berechtigungssätze
 
@@ -72,13 +72,13 @@ dort nicht.
 ## Aktivierung Schritt für Schritt
 
 1. **Radar-Seite öffnen** — *KI-Compliance → Schatten-KI-Radar*.
-2. **„Radar aktivieren"** anklicken.
+2. **„Radar aktivieren“** anklicken.
 3. **Im Dialog steht, was der Radar tut.** Drei Absätze, bevor irgendetwas passiert: was gelesen
    wird, was **nicht** gelesen wird und wie ausgewertet wird. Dazu die Rechtsgrundlage.
 4. **Pflicht-Bestätigung zur Mitbestimmung.** Ohne Häkchen aktiviert das Formular nichts; es
-   erscheint der Hinweis „Bitte bestätigen Sie den Punkt zur Mitbestimmung." Die Begründung steht
+   erscheint der Hinweis „Bitte bestätigen Sie den Punkt zur Mitbestimmung.“ Die Begründung steht
    unten unter [Personenbezug und Betriebsrat](#personenbezug-und-betriebsrat).
-5. **„Jetzt prüfen"** startet den ersten Lauf. Der erste Lauf sieht 30 Tage rückwärts und dauert
+5. **„Jetzt prüfen“** startet den ersten Lauf. Der erste Lauf sieht 30 Tage rückwärts und dauert
    entsprechend länger als die täglichen.
 
 Fehlen für eine Stufe noch die Berechtigungen, führt die Schaltfläche **Berechtigungen erweitern**
@@ -132,7 +132,7 @@ zusammengefasst und immer mit Text angezeigt, nicht nur mit Farbe:
 | **liest Kalender oder Kontakte** | Zugriff auf Termine, Kontakte, Verzeichnisdaten |
 | **nur Profilangaben** | Name und Mailadresse zur Anmeldung, mehr nicht |
 
-„Liest Inhalte" ist die Stufe, bei der eine Datenschutz-Folgenabschätzung nach Art. 35 DSGVO in
+„Liest Inhalte“ ist die Stufe, bei der eine Datenschutz-Folgenabschätzung nach Art. 35 DSGVO in
 Betracht kommt und ein Blick in die Vertragslage mit dem Anbieter fällig ist. Der Detailbereich
 eines Fundes nennt dafür die Angaben aus dem Dienste-Katalog: Anbieter, Hosting-Region, Datenrolle
 (*Auftragsverarbeitung möglich* oder *Anbieter verarbeitet zu eigenen Zwecken*) und ob der Anbieter
@@ -146,18 +146,18 @@ Eingaben standardmäßig zum Training verwendet.
 | **`Principal`** | Eine einzelne Person hat selbst zugestimmt. Das ist der klassische Fall von Schatten-IT. |
 | **gemischt** | Teils vom Administrator freigegeben, teils von einzelnen Personen selbst zugestimmt. |
 
-Diese Spalte trennt „wir haben das eingeführt" von „das ist uns passiert". Beides kann in Ordnung
+Diese Spalte trennt „wir haben das eingeführt“ von „das ist uns passiert“. Beides kann in Ordnung
 sein — aber es sind unterschiedliche Gespräche.
 
 ### Abteilungen erst ab fünf Personen
 
 Abteilungswerte erscheinen erst, wenn **mindestens fünf Personen** dahinterstehen. Darunter steht
-„unter fünf Personen".
+„unter fünf Personen“.
 
 Das ist keine Formalie: In einer Abteilung mit drei Beschäftigten ist jede Zahl eine
 Personenauskunft, auch ohne Namen.
 
-### Der Zustand „zu prüfen"
+### Der Zustand „zu prüfen“
 
 Unbekannte Anwendungen, deren Name oder Domain auf KI hindeutet (`ai`, `gpt`, `copilot`,
 `assistant`, `llm`), landen als **zu prüfen** — nie automatisch als KI-Dienst. Das heißt: Der
@@ -172,10 +172,10 @@ Kunden lesen.
 Der Radar endet nicht beim Fund. Aus dem Detailbereich heraus stehen vier Wege offen:
 
 - **Ins KI-Register übernehmen.** Legt einen Registereintrag mit Vorbelegung an — Name, Anbieter,
-  Rolle, Vorschlag für die Risikoklasse. Der Eintrag trägt danach die Kennzeichnung **„aus Radar"**
+  Rolle, Vorschlag für die Risikoklasse. Der Eintrag trägt danach die Kennzeichnung **„aus Radar“**
   und führt zum Fund zurück. Der Zustand des Fundes wechselt auf *im Register*.
-- **KI-Schulung zuweisen.** Zwei Module: **„KI verstehen: Grundlagen für den Arbeitsalltag"** und
-  **„KI sicher nutzen: Daten, Fakten, Urheberrecht"** — zugewiesen **ohne Frist und ohne Pflicht**.
+- **KI-Schulung zuweisen.** Zwei Module: **„KI verstehen: Grundlagen für den Arbeitsalltag“** und
+  **„KI sicher nutzen: Daten, Fakten, Urheberrecht“** — zugewiesen **ohne Frist und ohne Pflicht**.
   Das ist Absicht: Wer eine Zuweisung bekommt, weil ein Werkzeug auf einer Liste steht, soll darin
   keinen Vorwurf lesen. Eine Auflage mit Frist wird als Abmahnung verstanden, und dann lernt
   niemand mehr etwas.
@@ -234,7 +234,7 @@ Funde werden **zwölf Monate** aufbewahrt und danach gelöscht.
 
 ## Fehlermeldungen und was sie bedeuten
 
-### „Entra ID P1 nicht vorhanden"
+### „Entra ID P1 nicht vorhanden“
 
 Diese Meldung ist weniger eindeutig, als sie klingt. Microsoft gibt **denselben Fehlercode** auch
 dann zurück, wenn
@@ -244,18 +244,18 @@ dann zurück, wenn
   Mandanten noch nicht überall bekannt ist.
 
 Prüfen Sie deshalb in dieser Reihenfolge: Rolle der zustimmenden Person, dann Lizenz, dann einen
-weiteren Lauf am Folgetag. Der Radar erkennt erst nach einer Wiederholung auf „keine Lizenz".
+weiteren Lauf am Folgetag. Der Radar erkennt erst nach einer Wiederholung auf „keine Lizenz“.
 
-### „Der Lauf hat keine Daten zurückbekommen" (Zustand *unklar*)
+### „Der Lauf hat keine Daten zurückbekommen“ (Zustand *unklar*)
 
 Microsoft drosselt Abfragen auf Aktivitätsprotokolle und antwortet dann **leer statt mit einem
 Fehler**. Ein solcher Lauf wird als **unklar** vermerkt.
 
-> **Das ist ausdrücklich kein „nichts gefunden".** Ein leerer Lauf, der als Entwarnung gelesen
+> **Das ist ausdrücklich kein „nichts gefunden“.** Ein leerer Lauf, der als Entwarnung gelesen
 > wird, ist schlimmer als gar kein Lauf. Versuchen Sie es später erneut; der nächste tägliche Lauf
 > holt den Zeitraum nach.
 
-### „Berechtigung fehlt"
+### „Berechtigung fehlt“
 
 Die Verbindung besteht, aber der angeforderte Berechtigungssatz deckt die Abfrage nicht ab — oder
 der zustimmenden Person fehlt die Verzeichnisrolle. **Berechtigungen erweitern** führt zurück in

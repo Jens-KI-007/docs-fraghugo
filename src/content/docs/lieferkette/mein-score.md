@@ -25,7 +25,7 @@ Drei Wege:
 ## Was Auftraggeber sehen
 
 - Ihr Score
-- Antworten in den 50 Fragen (Sie können Felder als "nicht teilen" markieren, dann erscheinen sie geblurrt)
+- Antworten in den 50 Fragen (Sie können Felder als „nicht teilen“ markieren, dann erscheinen sie geblurrt)
 - Hochgeladene Zertifikate
 - Ablaufdaten
 
@@ -35,4 +35,4 @@ Klicken Sie auf einen schwachen Bereich → konkrete Empfehlung was zu tun. Manc
 
 ## Re-Assessment
 
-Mindestens jährlich neu beantworten. Hugo erinnert Sie. Veraltete Assessments werden im Auftraggeber-Dashboard als "veraltet" markiert.
+Mindestens jährlich neu beantworten. Hugo erinnert Sie. Veraltete Assessments werden im Auftraggeber-Dashboard als „veraltet“ markiert.

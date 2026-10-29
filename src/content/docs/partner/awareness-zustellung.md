@@ -29,7 +29,7 @@ Im **Microsoft Defender Portal** → *Richtlinien & Regeln* → *Bedrohungsricht
 die normale Absender-Allowlist.
 
 Der Unterschied ist wichtig: Die erweiterte Zustellung nimmt die Mails von der Filterung aus,
-ohne sie als „sicher" zu markieren. Ein Eintrag in der normalen Allowlist würde dagegen dazu
+ohne sie als „sicher“ zu markieren. Ein Eintrag in der normalen Allowlist würde dagegen dazu
 führen, dass gemeldete Übungs-Mails nicht mehr im Meldeprozess auftauchen.
 
 Einzutragen sind: die **Absender-Domain**, die **absendenden IP-Adressen** und die
@@ -46,7 +46,7 @@ es nur, wenn der Scanner gar nicht erst klickt.)
 **Admin-Konsole** → *Apps* → *Google Workspace* → *Gmail*:
 
 * **Zugelassene Absender** (*Email Allowlist*): die absendenden IP-Adressen eintragen.
-* **Spam** → Regel mit „Absender-Domain überschreiben" für die Sende-Domain, Option
+* **Spam** → Regel mit „Absender-Domain überschreiben“ für die Sende-Domain, Option
   *Interne Absender-Authentifizierung umgehen* aktivieren.
 * Bei aktiver **erweiterter Phishing-Schutz-Prüfung**: dieselbe Domain ausnehmen.
 
@@ -56,7 +56,7 @@ es nur, wenn der Scanner gar nicht erst klickt.)
 |---|---|---|
 | Mail kommt gar nicht an | Gateway davor (Hornetsecurity, Mimecast, Proofpoint) filtert vorher | Dort dieselben Werte eintragen — die Microsoft-Einstellung greift erst danach |
 | Mail im Junk-Ordner | Allowlist fehlt oder ist auf die falsche Domain gesetzt | Absender-Domain prüfen: Sie steht in der Prüfmail im Kopf |
-| Links werden sofort „geklickt" | Sichere Links / URL-Rewriting ist aktiv | Domain von Safe Links ausnehmen |
+| Links werden sofort „geklickt“ | Sichere Links / URL-Rewriting ist aktiv | Domain von Safe Links ausnehmen |
 | Nur einzelne Postfächer betroffen | persönliche Blockierliste der Person | Über das Postfach der Person entfernen |
 
 ## Was wir nicht zusichern

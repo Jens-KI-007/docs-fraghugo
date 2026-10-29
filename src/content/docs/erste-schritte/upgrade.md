@@ -20,7 +20,7 @@ description: Wie Sie auf einen höheren Plan wechseln, was im Preis enthalten is
 - Pro — 299 €
 - Premium — 499 €
 
-**Website & IT-Sicherheit** (Yearly: 2 Monate gratis):
+**Website & IT-Sicherheit** (jährlich: 2 Monate gratis):
 - Free — 0 €
 - Pro — 29 € / Monat
 - Agentur — 99 € / Monat

@@ -33,7 +33,7 @@ Jahres-Tarif: 2 Monate gratis.
 ## Wann wird abgerechnet
 
 - **Monatlich** im Voraus — am Tag der Buchung (z.B. 12. eines Monats → nächste Lastschrift am 12. nächsten Monats)
-- **Yearly** im Voraus für 12 Monate
+- **Jährlich** im Voraus für 12 Monate
 
 ## Zahlungsmethoden
 
@@ -54,7 +54,7 @@ Alle Preise **netto**. Bei B2B-Kunden mit gültiger USt-ID innerhalb EU: Reverse
 ## Kündigung
 
 - **Monatlich**: zum Periodenende, keine Kündigungsfrist über Monat hinaus
-- **Yearly**: zum Periodenende (also nach 12 Monaten)
+- **Jährlich**: zum Periodenende (also nach 12 Monaten)
 - Kündigung über das **Stripe-Kundenportal** — kein Anruf, keine Mail nötig
 - **Daten bleiben 90 Tage** nach Kündigung erreichbar (Download als Backup), danach automatisch gelöscht
 
@@ -66,6 +66,6 @@ Alle Preise **netto**. Bei B2B-Kunden mit gültiger USt-ID innerhalb EU: Reverse
 
 ## Rabatte
 
-- **Yearly**: 2 Monate gratis
+- **Jährlich**: 2 Monate gratis
 - **Schul / Verein / NGO**: −30 % auf Anfrage (Mail an hugo@fraghugo.de)
 - **Partner-Programm**: Wenn Sie Kunden vermitteln → 20 % wiederkehrend

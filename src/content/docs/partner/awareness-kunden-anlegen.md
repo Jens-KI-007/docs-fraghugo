@@ -54,7 +54,7 @@ weil ab dieser Größe niemand mehr Lust hat, Kampagnen von Hand zu starten.
   Wirksamkeitsprüfung nach Art. 32 Abs. 1 lit. d DSGVO.
 * Bei der Programm-Stufe zusätzlich einen Quartalsbericht, der ohne Zutun ankommt.
 
-Wir sagen **nicht** „rechtssicher" und **nicht** „abmahnsicher". Was das Produkt tut, ist den
+Wir sagen **nicht** „rechtssicher“ und **nicht** „abmahnsicher“. Was das Produkt tut, ist den
 Nachweis unterstützen — und das ist in einer Prüfung genau das, worauf es ankommt.
 
 ## Wer was sieht

@@ -39,7 +39,7 @@ Output: **Risiko-Klasse + Begründung + Pflichten-Liste**.
 - Verstärkte Transparenz für Betroffene
 
 ### Begrenztes Risiko
-- **Transparenzpflicht** — User muss wissen "Sie sprechen mit einer KI"
+- **Transparenzpflicht** — User muss wissen „Sie sprechen mit einer KI“
 - **Kennzeichnung von KI-generierten Inhalten**
 
 ### Minimal

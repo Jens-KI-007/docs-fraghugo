@@ -5,7 +5,7 @@ description: Schwerwiegende Sicherheitsvorfälle nach NIS2 — 24-h-Erstmeldung,
 
 ![NIS2-Vorfälle Übersicht mit Frist-Trackern](/screenshots/isms-nis2/nis2-vorfaelle.png)
 
-Wenn ein **schwerwiegender Cybersicherheits-Vorfall** auftritt, haben Sie nach NIS2 (§32 BSIG) eine Meldekette mit harten Fristen.
+Wenn ein **schwerwiegender Cybersicherheits-Vorfall** auftritt, haben Sie nach NIS2 (§ 32 BSIG) eine Meldekette mit harten Fristen.
 
 ## Fristen-Kette
 
@@ -45,5 +45,5 @@ Jeder Vorfall hat einen vollständigen Audit-Trail. Bei späteren Behörden-Rüc
 ## Tipps
 
 - **24 h ist viel kürzer als gedacht** — Wochenende zählt mit. Schicht-Bereitschaft im Compliance-Team einplanen.
-- **Erstmeldung darf unvollständig sein** — Sie müssen nicht alles wissen, "Wir wissen es passierte was am Datum X, Details prüfen wir" reicht für die Erstmeldung.
+- **Erstmeldung darf unvollständig sein** — Sie müssen nicht alles wissen, „Wir wissen es passierte was am Datum X, Details prüfen wir“ reicht für die Erstmeldung.
 - **Kommunikation mit IT-Forensik** — wenn ext. Forensiker dran arbeiten, halt sie informiert über die Fristen.

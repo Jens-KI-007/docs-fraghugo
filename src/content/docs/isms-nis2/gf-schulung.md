@@ -12,9 +12,9 @@ Risikomanagementpraktiken erkennen und bewerten zu können und um deren Auswirku
 die eigenen Dienste zu beurteilen.
 
 :::note[Zum Wortlaut]
-Die europäische NIS-2-Richtlinie spricht davon, die Maßnahmen zu „billigen". Das
+Die europäische NIS-2-Richtlinie spricht davon, die Maßnahmen zu „billigen“. Das
 deutsche BSIG verlangt mehr — umsetzen und überwachen. Wer Texte liest, die nur von
-„billigen" sprechen, liest die Richtlinie, nicht das Gesetz.
+„billigen“ sprechen, liest die Richtlinie, nicht das Gesetz.
 :::
 
 ## Die Schulung
@@ -33,8 +33,8 @@ Unter *NIS2 → Schulung der Geschäftsleitung* verwalten Administratoren die Pe
 Je Person werden Name, E-Mail-Adresse und **Funktion** erfasst.
 
 :::caution[Die Funktion ist keine Formalie]
-Die BSI-Handreichung „Schulung für Geschäftsleitungen" (Version 1.0 vom 17.04.2026)
-verlangt in der Dokumentation „Teilnehmende mit Name und Rolle oder Funktion". Fehlt
+Die BSI-Handreichung „Schulung für Geschäftsleitungen“ (Version 1.0 vom 17.04.2026)
+verlangt in der Dokumentation „Teilnehmende mit Name und Rolle oder Funktion“. Fehlt
 die Funktion, erscheint im Nachweis-Paket ein Hinweis darauf — die Lücke bleibt nicht
 unbemerkt.
 :::
@@ -52,7 +52,7 @@ Nach bestandener Wissensprüfung lädt jede Person ihre **Teilnahmebescheinigung
 PDF — mit Name, Organisation, Datum, Ergebnis, Nachweisnummer und QR-Code zur
 Verifikation.
 
-:::note[Warum nicht „Zertifikat"?]
+:::note[Warum nicht „Zertifikat“?]
 Das BSIG sieht keine Anerkennung von Schulungsanbietern durch das BSI vor und schreibt
 keine Prüfung vor. Was wir ausstellen können, ist eine Bescheinigung über die Teilnahme
 — nicht über die Vermittlung ausreichender Kenntnisse und Fertigkeiten. Das BSI
@@ -80,7 +80,7 @@ Das BSI erwartet zusätzlich einen **einrichtungsindividuellen Bezug**: kritisch
 Geschäftsprozesse, Governance-Struktur, aktuelle Risikolage Ihrer Einrichtung. Externe
 Anbieter sollen ihre allgemeinen Inhalte um solche Angaben ergänzen lassen.
 
-Dafür gibt es auf derselben Seite ein Textfeld „Ergänzung der Einrichtung". Was Sie dort
+Dafür gibt es auf derselben Seite ein Textfeld „Ergänzung der Einrichtung“. Was Sie dort
 festhalten, erscheint als Punkt 4 im Nachweis-Paket. Bleibt es leer, steht im Dokument
 ein Hinweis, dass dieser Teil fehlt.
 
@@ -103,7 +103,7 @@ Administratoren der Organisation; im Frist-Kalender sehen wir denselben Termin.
 
 ## Was passiert, wenn nicht geschult wird
 
-Kein Bußgeld: **§ 38 steht nicht im Bußgeldkatalog des § 65 BSIG.** Die Zahl „10 Mio. €",
+Kein Bußgeld: **§ 38 steht nicht im Bußgeldkatalog des § 65 BSIG.** Die Zahl „10 Mio. €“,
 die dazu oft genannt wird, gehört zu anderen Verstößen — fehlende Maßnahmen nach § 30,
 versäumte Meldungen nach § 32.
 

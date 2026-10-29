@@ -21,7 +21,7 @@ Sie geben pro Risiko ein:
 
 ## Hugo-Bedrohungs-Katalog
 
-Klicken Sie "Bedrohungen vorschlagen" → Hugo zeigt Ihnen die typischen Bedrohungen für die Asset-Klasse, basierend auf BSI-Grundschutz-Bausteinen + ENISA-Empfehlungen. Sie können die übernehmen oder ignorieren.
+Klicken Sie „Bedrohungen vorschlagen“ → Hugo zeigt Ihnen die typischen Bedrohungen für die Asset-Klasse, basierend auf BSI-Grundschutz-Bausteinen + ENISA-Empfehlungen. Sie können die übernehmen oder ignorieren.
 
 ## Heat-Map
 
@@ -39,5 +39,5 @@ Für GF-Meeting: Liste der 10 größten Risiken mit einem Klick. Wird auch im NI
 ## Tipps
 
 - **Nicht zu kleinteilig** — 50 Risiken sind realistisch zu managen, 500 niemand pflegt.
-- **Konsistenz** — wenn "Phishing" wahrscheinlich hoch ist für E-Mail, sollte es für gleiche Systeme auch hoch sein. Hugo prüft das.
+- **Konsistenz** — wenn „Phishing“ wahrscheinlich hoch ist für E-Mail, sollte es für gleiche Systeme auch hoch sein. Hugo prüft das.
 - **Maßnahmen müssen wirken** — wenn Sie nach Maßnahmen das Risiko nicht reduzieren, haben Sie die falsche Maßnahme.

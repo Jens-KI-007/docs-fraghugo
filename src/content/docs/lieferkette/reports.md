@@ -28,7 +28,7 @@ Eignet sich für externe Wirtschaftsprüfer / Aufsichts-Audits.
 ### NIS2-Lieferantenbericht
 - Spezial-Bericht: alle Lieferanten die NIS2-relevant sind
 - Schwachstellen-Liste pro Lieferant
-- "Was passiert wenn dieser Lieferant ausfällt"-Notfallszenarien
+- „Was passiert wenn dieser Lieferant ausfällt“-Notfallszenarien
 
 Pflicht-Anhang zur **BSI-Registrierung** für betroffene Firmen.
 

@@ -20,10 +20,10 @@ Wenn Sie sich nicht sicher sind, welcher Tarif zu Ihnen passt oder ob Ihr Datens
 ## Was Sie am Ende bekommen
 
 - **Schwächste 3 Bereiche** mit konkreter Empfehlung was zu tun ist.
-- **Tarif-Empfehlung** — z.B. "Für Ihren Stand reicht Lite, aber Standard ergäbe Sinn wenn Sie 2 + Stunden Beratung/Monat brauchen".
+- **Tarif-Empfehlung** — z.B. „Für Ihren Stand reicht Lite, aber Standard ergäbe Sinn wenn Sie 2 + Stunden Beratung/Monat brauchen“.
 - **Onboarding-Vorschlag** — ob ein Service-Paket sinnvoll wäre.
 - **PDF-Bericht** zum Speichern.
 
 ## Mehrfach machen?
 
-Sinn macht es 1× pro Jahr — z.B. vor dem Jahresbericht — um Fortschritt zu sehen. Alte Checks bleiben gespeichert (oben "Verlauf").
+Sinn macht es 1× pro Jahr — z.B. vor dem Jahresbericht — um Fortschritt zu sehen. Alte Checks bleiben gespeichert (oben „Verlauf“).

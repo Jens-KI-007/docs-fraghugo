@@ -73,13 +73,13 @@ Jede Antwort trägt drei Angaben:
 | **prüfen** | eine Antwort liegt vor, aber Konfidenz oder Quelle tragen sie nicht allein |
 | **fehlt** | im System steht nichts dazu |
 
-:::caution[Ohne Quelle nie „belegt"]
+:::caution[Ohne Quelle nie „belegt“]
 Eine Antwort ohne benannte Quelle erreicht den Zustand **belegt** nicht — auch dann nicht, wenn
 das Modell sich sehr sicher ist. Konfidenz allein ist eine Selbstauskunft des Modells über sich
 selbst; sie sagt nichts darüber, ob die Aussage in Ihren Unterlagen steht.
 
-Neben jeder Farbe steht deshalb ein Wort. Wer die Ampel nicht unterscheiden kann, liest „belegt",
-„prüfen" oder „fehlt".
+Neben jeder Farbe steht deshalb ein Wort. Wer die Ampel nicht unterscheiden kann, liest „belegt“,
+„prüfen“ oder „fehlt“.
 :::
 
 **Quellen** — als anklickbare Verweise. Ein Klick öffnet die Maßnahme, die Richtlinie oder den
@@ -97,10 +97,10 @@ Antwort trägt.
 Sie können jede Antwort überschreiben. Freigegeben wird je Frage; freigegebene Antworten werden
 bei einem erneuten Durchlauf **nicht überschrieben**.
 
-#### „Nachweis ergänzen"
+#### „Nachweis ergänzen“
 
 Steht zu einer Frage nichts im System, tragen Sie die Tatsache als **einen Satz** ein — etwa
-„Wiederherstellungstests der Datensicherung erfolgen halbjährlich, zuletzt im März 2026".
+„Wiederherstellungstests der Datensicherung erfolgen halbjährlich, zuletzt im März 2026“.
 
 Dieser Satz wird Teil Ihres Faktenbestands. Er beantwortet die Frage in diesem Bogen und **künftig
 auch in anderen Bögen**, und er überlebt den nächtlichen Neubau des Faktenbestands. Auf Wunsch
@@ -117,7 +117,7 @@ Ausgegeben wird eine Excel-Datei mit zwei Blättern:
 - **Hinweise** — das Deckblatt mit Titel, anfragender Stelle, Erstellungsdatum, der Zahl der
   freigegebenen Antworten und dem Kennzeichnungshinweis.
 - **Antworten** — Nummer, Abschnitt, Frage, Antwort, Grundlage (die Quellen) und die Spalte
-  „Freigegeben".
+  „Freigegeben“.
 
 **Nur freigegebene Antworten stehen im Export.** Was Sie nicht freigegeben haben, bleibt leer —
 nichts verlässt das Haus, das ein Mensch nicht angesehen hat. Solange keine Antwort freigegeben
@@ -131,7 +131,7 @@ von einer verantwortlichen Person geprüft und freigegeben wurden — und dass s
 Selbstauskunft sind, die keine Prüfung durch Dritte ersetzt.
 
 **Art. 50 Abs. 2 der KI-Verordnung** verlangt für maschinell erzeugte Inhalte eine maschinenlesbare
-Kennzeichnung. Die Ausnahme für Systeme mit „unterstützender Funktion für die Standardbearbeitung"
+Kennzeichnung. Die Ausnahme für Systeme mit „unterstützender Funktion für die Standardbearbeitung“
 wäre hier vertretbar — der Bogen geht aber als eigene Erklärung an einen Dritten, und der Hinweis
 kostet nichts.
 :::

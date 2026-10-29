@@ -5,7 +5,7 @@ description: Pflicht-Risiko-Analyse bei riskanten Verarbeitungen — Art. 35 DSG
 
 ![DSFA-Übersicht](/screenshots/datenschutz/dsfa.png)
 
-Bei einer Verarbeitung mit hohem Risiko für Betroffene müssen Sie **vor Start** eine Datenschutz-Folgenabschätzung machen — Art. 35 DSGVO. Wenn Sie das nicht tust und es geht schief, ist das Bußgeld doppelt so teuer.
+Bei einer Verarbeitung mit hohem Risiko für Betroffene müssen Sie **vor Start** eine Datenschutz-Folgenabschätzung machen — Art. 35 DSGVO. Wenn Sie das nicht tun und es geht schief, ist das Bußgeld doppelt so teuer.
 
 ## Wann ist DSFA Pflicht?
 
@@ -34,7 +34,7 @@ Vollständiger **DSFA-Bericht als PDF** — entspricht der Empfehlung der DSK. H
 
 ## Re-DSFA
 
-Bei Änderungen an der Verarbeitung (neue Tools, Erweiterung des Datenumfangs) zeigt Hugo "DSFA aktualisieren". Mindestens 1× jährlich erinnert die Plattform an Review.
+Bei Änderungen an der Verarbeitung (neue Tools, Erweiterung des Datenumfangs) zeigt Hugo „DSFA aktualisieren“. Mindestens 1× jährlich erinnert die Plattform an Review.
 
 ## Beispiel
 

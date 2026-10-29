@@ -9,8 +9,8 @@ Das **Hugo Check Verified Badge** ist ein kostenloses Datenschutz-Siegel für Ih
 
 
 :::note[Was auf dem Siegel steht]
-Das Siegel nennt **keine Punktzahl**, sondern eine Stufe: ab 90 Punkten „Exzellent", ab 80
-„Sehr gut", ab 60 „Gut". Unter 60 Punkten gibt es kein Siegel. Den genauen Score sehen Sie
+Das Siegel nennt **keine Punktzahl**, sondern eine Stufe: ab 90 Punkten „Exzellent“, ab 80
+„Sehr gut“, ab 60 „Gut“. Unter 60 Punkten gibt es kein Siegel. Den genauen Score sehen Sie
 weiterhin im Scan-Ergebnis und auf der verlinkten Verifizierungsseite — dort ist er Diagnose,
 auf der Website des Kunden wäre er eine Note.
 :::
@@ -23,7 +23,7 @@ auf der Website des Kunden wäre er eine Note.
 
 ## 1. Account anlegen (kostenlos)
 
-Öffnen Sie [app.fraghugo.de](https://app.fraghugo.de) und klicken Sie auf „Konto erstellen".
+Öffnen Sie [app.fraghugo.de](https://app.fraghugo.de) und klicken Sie auf „Konto erstellen“.
 
 ![Registrierungsformular](/screenshots/badge-tutorial/01-signup.png)
 
@@ -59,11 +59,11 @@ Dann qualifiziert Ihre Website noch nicht für das Badge. Beheben Sie zuerst die
 
 ## 3. Badge generieren
 
-Bei Score ≥ 60 erscheint im Ergebnis eine grüne Box: **„Ihr Score qualifiziert Sie für das Hugo Check Verified Badge!"**
+Bei Score ≥ 60 erscheint im Ergebnis eine grüne Box: **„Ihr Score qualifiziert Sie für das Hugo Check Verified Badge!“**
 
 ![Badge-CTA im Scan-Ergebnis](/screenshots/badge-tutorial/09-scan-mit-badge-cta.png)
 
-Klicken Sie auf **„Badge generieren"**. Das System erstellt einen pending Trust-Seal-Eintrag und zeigt Ihnen zwei Verifikations-Wege:
+Klicken Sie auf **„Badge generieren“**. Das System erstellt einen pending Trust-Seal-Eintrag und zeigt Ihnen zwei Verifikations-Wege:
 
 - **Per E-Mail** — wir senden einen Bestätigungslink an Ihre Adresse auf der Domain
 - **Per DNS-TXT** — Sie legen einen TXT-Record an
@@ -74,11 +74,11 @@ Klicken Sie auf **„Badge generieren"**. Das System erstellt einen pending Trus
 
 Wenn Ihre Account-E-Mail auf der gescannten Domain liegt (z. B. `vorname@meine-firma.de` für `meine-firma.de`), bekommen Sie automatisch eine Aktivierungs-Mail. Klicken Sie auf den Link in der Mail — das Badge ist sofort aktiv.
 
-Bekommen Sie die Mail nicht? **„Mail erneut senden"** drücken, dann auch Spam/Junk prüfen.
+Bekommen Sie die Mail nicht? **„Mail erneut senden“** drücken, dann auch Spam/Junk prüfen.
 
 ## 4b. Verifikation per DNS-TXT (auch wenn keine On-Domain-E-Mail vorhanden)
 
-Klicken Sie im Pending-Panel auf **„Per DNS-TXT"**.
+Klicken Sie im Pending-Panel auf **„Per DNS-TXT“**.
 
 ![DNS-TXT-Anleitung mit Hostname und Wert](/screenshots/badge-tutorial/11-badge-pending-dns.png)
 
@@ -93,7 +93,7 @@ Sie sehen drei Werte:
 Loggen Sie sich bei Ihrem DNS-Anbieter ein (Cloudflare, IONOS, All-Inkl, Hetzner DNS, GoDaddy, …) und legen Sie einen neuen TXT-Record mit genau diesen Werten an.
 
 :::tip[Cloudflare-Beispiel]
-Cloudflare → DNS → „Add record" → Type `TXT`, Name `_fraghugo-verify`, Content `fraghugo-verify=...`, TTL `Auto`. Speichern. Die Propagation dauert je nach Provider 1–10 Minuten.
+Cloudflare → DNS → „Add record“ → Type `TXT`, Name `_fraghugo-verify`, Content `fraghugo-verify=...`, TTL `Auto`. Speichern. Die Propagation dauert je nach Provider 1–10 Minuten.
 :::
 
 Prüfen Sie die Propagation kurz selbst:
@@ -102,11 +102,11 @@ Prüfen Sie die Propagation kurz selbst:
 dig +short TXT _fraghugo-verify.ihre-domain.de @1.1.1.1
 ```
 
-Sobald die Ausgabe Ihren Token zeigt, klicken Sie in der App auf **„Jetzt prüfen"**. Das Badge wird sofort aktiviert.
+Sobald die Ausgabe Ihren Token zeigt, klicken Sie in der App auf **„Jetzt prüfen“**. Das Badge wird sofort aktiviert.
 
 ## 5. Embed-Code kopieren
 
-Nach erfolgreicher Verifikation wechselt das Panel auf **„Ihr Verified Badge"** und zeigt:
+Nach erfolgreicher Verifikation wechselt das Panel auf **„Ihr Verified Badge“** und zeigt:
 
 - **Vorschau** auf hellem und dunklem Hintergrund
 - **Größe wählen** — S (120×48), M (150×60, Standard), L (200×80)
@@ -115,7 +115,7 @@ Nach erfolgreicher Verifikation wechselt das Panel auf **„Ihr Verified Badge"*
 
 ![Aktives Badge mit Embed-Code](/screenshots/badge-tutorial/12-badge-aktiv-embed-code.png)
 
-Klicken Sie auf **„Code kopieren"**. Das Snippet sieht so aus:
+Klicken Sie auf **„Code kopieren“**. Das Snippet sieht so aus:
 
 ```html
 <!-- Hugo Check Verified Badge -->
@@ -133,7 +133,7 @@ Das Bild ist ein SVG (klein, scharf auf jedem Display) und ist mit `loading="laz
 
 ### WordPress
 
-Im Admin-Bereich: **Design → Widgets** → Block „Custom HTML" in den Footer-Bereich ziehen → Snippet einfügen → Speichern.
+Im Admin-Bereich: **Design → Widgets** → Block „Custom HTML“ in den Footer-Bereich ziehen → Snippet einfügen → Speichern.
 
 Alternativ in der `footer.php` Ihres Child-Themes direkt vor dem schließenden `</footer>`-Tag einfügen.
 
@@ -143,7 +143,7 @@ Alternativ in der `footer.php` Ihres Child-Themes direkt vor dem schließenden `
 
 ### Wix / Squarespace / Jimdo
 
-Footer-Bereich → **„Embed Code"-Element** hinzufügen → HTML-Snippet einfügen → Veröffentlichen.
+Footer-Bereich → **„Embed Code“-Element** hinzufügen → HTML-Snippet einfügen → Veröffentlichen.
 
 ### Astro / Next.js / statisches HTML
 
@@ -187,13 +187,13 @@ Komplett kostenlos im Free-Tarif. Pro-Nutzer bekommen zusätzlich gebrandetes Ba
 Nein, pro Badge-ID ist genau **eine Domain** verifiziert. Für weitere Domains starten Sie einen neuen Scan dieser Domain — dann erhalten Sie ein eigenes Badge.
 
 **Was wenn meine E-Mail nicht auf der Domain liegt (z. B. `vorname@gmail.com`)?**
-Dann nutzen Sie die DNS-TXT-Methode (Schritt 4b). Funktioniert garantiert, egal welcher Anbieter.
+Dann nutzen Sie die DNS-TXT-Methode (Schritt 4b). Das funktioniert unabhängig vom Mail-Anbieter.
 
 **Wie sieht die Verifikations-Seite aus?**
 [Beispiel: cuttofame.com Trust-Seal](https://www.fraghugo.de/verified/3181460b-b93c-4805-9dc0-6eefc821e356) — Sie sehen Score, Bewertung, alle geprüften Punkte und Prüfdatum.
 
 **Kann ich das Badge wieder entfernen?**
-Entfernen Sie den HTML-Snippet aus dem Footer. In Ihren App-Einstellungen können Sie zusätzlich das Badge im Backend deaktivieren — dann liefert die SVG-URL ein neutrales „Nicht mehr aktiv"-Bild aus.
+Entfernen Sie den HTML-Snippet aus dem Footer. In Ihren App-Einstellungen können Sie zusätzlich das Badge im Backend deaktivieren — dann liefert die SVG-URL ein neutrales „Nicht mehr aktiv“-Bild aus.
 
 ## Verwandte Themen
 

@@ -34,7 +34,7 @@ aus Ihren bereits gepflegten Modulen entstehen.
 
 | Quelle | Was daraus wird |
 |---|---|
-| [TOMs](/datenschutz/toms/) | „Zugriffskontrolle: Mehr-Faktor-Anmeldung für alle Administratorkonten" — Titel und Kurztext je Maßnahme |
+| [TOMs](/datenschutz/toms/) | „Zugriffskontrolle: Mehr-Faktor-Anmeldung für alle Administratorkonten“ — Titel und Kurztext je Maßnahme |
 | [Verarbeitungsverzeichnis](/datenschutz/vvt/) | Zwecke und Datenkategorien als Übersicht, ohne Betroffene und ohne Inhalte |
 | [Auftragsverarbeiter](/datenschutz/avv/) | Name, Leistung und ob ein Drittland betroffen ist |
 | [Löschkonzept](/datenschutz/loeschkonzept/) | Aufbewahrungs- und Löschfristen je Datenart |
@@ -47,12 +47,12 @@ aus Ihren bereits gepflegten Modulen entstehen.
 | [Website-Prüfung](/website-it-sicherheit/scan-uebersicht/) | Datum und Ergebnis der letzten Prüfung |
 
 Der Faktenbestand wird **nächtlich um 02:40 UTC** neu gebaut. Wer nicht bis zum nächsten Morgen
-warten will, drückt im Editor **„Fakten aktualisieren"** — das geht **einmal je fünf Minuten**,
+warten will, drückt im Editor **„Fakten aktualisieren“** — das geht **einmal je fünf Minuten**,
 weil sich die zugrunde liegenden Module nicht schneller ändern.
 
 :::note[Von Hand ergänzte Aussagen überleben den Neubau]
 Nicht alles steht in einem Modul. Wenn Sie im Fragebogen-Modul unter *Nachweis ergänzen* eine
-Tatsache als Satz erfassen — „Wiederherstellungstests der Sicherungen erfolgen halbjährlich" —,
+Tatsache als Satz erfassen — „Wiederherstellungstests der Sicherungen erfolgen halbjährlich“ —,
 wird sie Teil desselben Faktenbestands und **bleibt beim nächtlichen Neubau erhalten**. Siehe
 [Fragebögen beantworten](/lieferkette/fragebogen-beantworten/).
 :::
@@ -60,9 +60,9 @@ wird sie Teil desselben Faktenbestands und **bleibt beim nächtlichen Neubau erh
 Zwei Regeln, die man kennen sollte, weil sie erklären, warum eine Angabe **nicht** im Profil
 auftaucht:
 
-- **Eine Maßnahme im Zustand „noch nicht bewertet" erzeugt keine Aussage.** Sie würde im
-  Fragebogen als „haben wir nicht" gelesen — und das ist etwas anderes als „haben wir noch nicht
-  angesehen". Bewerten Sie die Maßnahme, dann erscheint sie.
+- **Eine Maßnahme im Zustand „noch nicht bewertet“ erzeugt keine Aussage.** Sie würde im
+  Fragebogen als „haben wir nicht“ gelesen — und das ist etwas anderes als „haben wir noch nicht
+  angesehen“. Bewerten Sie die Maßnahme, dann erscheint sie.
 - **Wo eine Prüfung eine Selbsteinschätzung korrigiert hat, gilt die Korrektur.** Hat Ihre
   Betreuung einen Reifegrad heruntergestuft, geht dieser Wert ins Profil, nicht die ursprüngliche
   Selbsteinschätzung. Andernfalls stünde in einem Dokument, das an Ihre Auftraggeber geht, ein
@@ -77,7 +77,7 @@ auftaucht:
 | **Nach Nachweis** | wer seine E-Mail-Adresse angibt und den Code eingibt | nein |
 | **Öffentlich** | alle | ja |
 
-So läuft die Stufe **„Nach Nachweis"** ab: Die Prüferin trägt ihre dienstliche Adresse ein und
+So läuft die Stufe **„Nach Nachweis“** ab: Die Prüferin trägt ihre dienstliche Adresse ein und
 erhält per Mail einen **sechsstelligen Code**, der 15 Minuten gilt. Nach der Eingabe ist das
 Profil **sieben Tage** für sie geöffnet. **Jeder Zugriff wird protokolliert**, im Editor
 einsehbar. Gegen Ausprobieren: **sechs Fehlversuche sperren die Adresse für eine Stunde**, und je
@@ -87,7 +87,7 @@ Adresse werden **höchstens fünf Codes am Tag** verschickt.
 Ein Profil, das es nicht gibt, ein auf **privat** gestelltes und ein falscher Zugangsschlüssel
 erzeugen dieselbe Antwort — dieselbe Meldung, derselbe Statuscode.
 
-Das ist kein Versehen und keine Bequemlichkeit. Würde die Anwendung „privat" von „gibt es nicht"
+Das ist kein Versehen und keine Bequemlichkeit. Würde die Anwendung „privat“ von „gibt es nicht“
 unterscheiden, wäre die Fehlermeldung eine Auskunft darüber, wer unser Kunde ist. Wer Adressen
 durchprobiert, bekäme so eine Kundenliste. Deshalb schweigen alle drei Fälle gleich.
 :::
@@ -147,7 +147,7 @@ Außenstehende nicht kennen.
 
 Auf einer **öffentlichen** Seite ist die Bezugsgruppe die ganze Organisation, und deren Größe ist
 öffentlich bekannt — aus dem Handelsregister, aus Ihrer eigenen Website, aus Bewertungsportalen.
-„Melderate 83 Prozent" bei sechs Beschäftigten ist keine Statistik, sondern eine Personenauskunft:
+„Melderate 83 Prozent“ bei sechs Beschäftigten ist keine Statistik, sondern eine Personenauskunft:
 Fünf von sechs haben gemeldet, einer nicht. 25 ist die vorsichtige Zahl dafür, nicht die
 gesetzliche.
 :::
@@ -191,11 +191,11 @@ Prüfsoftware des Auftraggebers sie ohne Abtippen übernehmen kann.
 - Zertifikate erscheinen als `EducationalOccupationalCredential`; ist ein Aussteller erfasst,
   steht er als `recognizedBy` daran.
 - Die Antwort trägt die Felder `hugo:stand` (Datum), `hugo:erzeugt` („automatisch aus dem
-  Compliance-System") und `hugo:istSelbstauskunft` mit dem Wert `true`. Der letzte Punkt ist
+  Compliance-System“) und `hugo:istSelbstauskunft` mit dem Wert `true`. Der letzte Punkt ist
   Absicht: Auch eine Maschine soll erkennen, dass sie eine Selbstauskunft liest.
 - Die Antwort wird **eine Stunde** zwischengespeichert.
 - **Ein verschlossenes Profil gibt maschinenlesbar nichts heraus** — es gilt dieselbe Regel wie
-  oben, dieselbe Antwort für „privat", „gibt es nicht" und „falscher Schlüssel".
+  oben, dieselbe Antwort für „privat“, „gibt es nicht“ und „falscher Schlüssel“.
 
 ## Verwandte Seiten
 

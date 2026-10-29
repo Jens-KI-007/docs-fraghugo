@@ -43,12 +43,12 @@ Hugo bietet ~30 vorgefertigte Richtlinien:
 1. Vorlage öffnen
 2. Anpassen (auf Ihre Firma, Ihre Tools, Ihre Größe)
 3. Geschäftsführung freigibt
-4. **An Mitarbeiter verteilen** — automatischer Versand per Mail, mit "Gelesen-und-verstanden"-Bestätigung
+4. **An Mitarbeiter verteilen** — automatischer Versand per Mail, mit „Gelesen-und-verstanden“-Bestätigung
 5. Re-Approval mind. jährlich
 
 ## Versionierung
 
-Jede Änderung erzeugt eine neue Version. Alte Versionen bleiben einsehbar — wichtig im Streitfall ("Welche Policy galt am Datum X?").
+Jede Änderung erzeugt eine neue Version. Alte Versionen bleiben einsehbar — wichtig im Streitfall („Welche Policy galt am Datum X?“).
 
 ## Verteilung an Mitarbeiter
 
@@ -59,5 +59,5 @@ Jede Änderung erzeugt eine neue Version. Alte Versionen bleiben einsehbar — w
 ## Tipps
 
 - **Kurz halten** — eine Passwort-Policy mit 30 Seiten liest niemand. 1-2 Seiten reichen.
-- **Konkret** — "Sichere Passwörter" ist sinnlos. "Mindestens 12 Zeichen, 2FA Pflicht, kein Mehrfachgebrauch" ist umsetzbar.
+- **Konkret** — „Sichere Passwörter“ ist sinnlos. „Mindestens 12 Zeichen, 2FA Pflicht, kein Mehrfachgebrauch“ ist umsetzbar.
 - **Lebendiges Dokument** — wenn Sie ein Tool wechseln, Richtlinie anpassen, nicht ignorieren.

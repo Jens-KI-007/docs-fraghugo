@@ -7,7 +7,7 @@ sidebar:
 
 Für viele Themen gibt es fertige Module — aber nicht für alles. Gerade an Schulen fehlt für Lehrkräfte-Themen wie **Sport, Chemie oder Aufsichtspflicht** oft eine passende Vorlage. Genau dafür ist der **Unterweisungs-Baukasten** da: Sie erstellen eigene, interaktive Unterweisungen mit KI-Hilfe — in Minuten statt Tagen.
 
-![Unterweisungs-Baukasten in der frag.hugo-Plattform: Überschrift „Unterweisungs-Baukasten — Eigene Unterweisungen mit KI-Hilfe erstellen, in Minuten statt Tagen", ein gelber Rechts-Hinweis, dass die Online-Unterweisung das verpflichtende Unterweisungsgespräch ergänzt und nicht vollständig ersetzt, sowie ein leerer Zustand „Ihre erste eigene Unterweisung" mit dem Button „Jetzt erstellen"](/screenshots/schulungen/unterweisungs-baukasten.png)
+![Unterweisungs-Baukasten in der frag.hugo-Plattform: Überschrift „Unterweisungs-Baukasten — Eigene Unterweisungen mit KI-Hilfe erstellen, in Minuten statt Tagen“, ein gelber Rechts-Hinweis, dass die Online-Unterweisung das verpflichtende Unterweisungsgespräch ergänzt und nicht vollständig ersetzt, sowie ein leerer Zustand „Ihre erste eigene Unterweisung“ mit dem Button „Jetzt erstellen“](/screenshots/schulungen/unterweisungs-baukasten.png)
 
 ## So funktioniert es — in 4 Schritten
 
@@ -15,7 +15,7 @@ Für viele Themen gibt es fertige Module — aber nicht für alles. Gerade an Sc
 
 Klicken Sie auf **Neue Unterweisung**. Sie haben zwei Wege:
 
-- **Stichpunkte tippen** — z. B. „Aufsichtspflicht auf dem Pausenhof" oder „Sicherer Umgang mit Säuren im Chemieraum".
+- **Stichpunkte tippen** — z. B. „Aufsichtspflicht auf dem Pausenhof“ oder „Sicherer Umgang mit Säuren im Chemieraum“.
 - **Vorhandenes Dokument hochladen** — PDF, Word oder PowerPoint. Der Text wird automatisch extrahiert.
 
 Optional geben Sie die Zielgruppe und Lernziele an.

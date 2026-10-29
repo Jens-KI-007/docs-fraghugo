@@ -17,7 +17,7 @@ Ein Scan ist eine Momentaufnahme. Monitoring scannt automatisch nach (täglich/w
 ## Was Hugo dann macht
 
 - **Vergleich** mit letztem Scan
-- **Bei Verschlechterung** → Mail mit Details: "Score gesunken von 87 auf 79, weil neuer Facebook-Pixel ohne Consent."
+- **Bei Verschlechterung** → Mail mit Details: „Score gesunken von 87 auf 79, weil neuer Facebook-Pixel ohne Consent.“
 - **Bei Verbesserung** → optional Glückwunsch-Mail an Geschäftsführung (motiviert mehr als Schimpf-Mails).
 - **Wöchentlicher Digest** — wenn Sie nicht jeden einzelnen Scan gemailt bekommen wollen.
 

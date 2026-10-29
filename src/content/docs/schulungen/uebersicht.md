@@ -31,7 +31,7 @@ Schulungs-Pflichten sind echt: DSGVO Art. 39, NIS2 Awareness-Pflicht, branchensp
 - Vorfälle melden
 - Datenpannen vermeiden
 - NIS2-Awareness
-- Geschäftsführer-Schulung §38
+- Geschäftsführer-Schulung § 38
 
 Jeder Kurs: Video + interaktive Übung + Quiz. Bestehen mit 80 %, dann Zertifikat.
 
@@ -43,4 +43,4 @@ Pro Mitarbeiter sehen Sie:
 - Quiz-Ergebnis
 - Zertifikat als PDF
 
-Das ist Ihre **Audit-Antwort**: "Alle 42 Mitarbeiter haben DSGVO-Schulung im laufenden Jahr absolviert. Hier sind die Zertifikate."
+Das ist Ihre **Audit-Antwort**: „Alle 42 Mitarbeiter haben DSGVO-Schulung im laufenden Jahr absolviert. Hier sind die Zertifikate.“
