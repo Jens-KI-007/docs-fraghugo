@@ -1,11 +1,11 @@
 ---
 title: Asset-Register
-description: Alle Werte, die Sie schützen musst — Hardware, Software, Daten, Prozesse, Menschen.
+description: Alle Werte, die Sie schützen müssen — Hardware, Software, Daten, Prozesse, Menschen.
 ---
 
 ![Asset-Register Liste](/screenshots/isms-nis2/asset-register.png)
 
-Bevor Sie schützen kannst, müssen Sie wissen WAS. Das Asset-Register ist die Grundlage des ganzen ISMS — alles andere baut darauf auf.
+Bevor Sie schützen können, müssen Sie wissen WAS. Das Asset-Register ist die Grundlage des ganzen ISMS — alles andere baut darauf auf.
 
 ## Asset-Kategorien
 
@@ -48,5 +48,5 @@ Das Register hält Ihre Hardware, Software und Lizenzen fest. Das laufende **Bet
 ## Tipps
 
 - **Nicht alles aufnehmen** — der Bürostuhl ist kein Asset im ISMS-Sinne. Faustregel: Was Sicherheitsbedeutung hat.
-- **Mit Verantwortlichen sprechen** — Sie als Compliance-Officer kennst nicht alle Systeme. IT-Admin, HR, Buchhaltung müssen je ihre Assets bestätigen.
+- **Mit Verantwortlichen sprechen** — Sie als Compliance-Officer kennen nicht alle Systeme. IT-Admin, HR, Buchhaltung müssen je ihre Assets bestätigen.
 - **Granularität**: "Alle Bürorechner" als ein Asset reicht — nicht jeden einzeln aufnehmen, sondern als Klasse mit Stückzahl.

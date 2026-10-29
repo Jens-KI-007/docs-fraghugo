@@ -5,7 +5,7 @@ description: Datenpanne dokumentieren, Schweregrad bewerten, an Behörde melden 
 
 ![Datenpannen-Übersicht mit Status](/screenshots/vorfaelle/datenpannen.png)
 
-Wenn personenbezogene Daten **unbefugt** offengelegt, verändert oder verloren wurden — Stichworte: Phishing-Klicken Sie, Laptop verloren, Mail an falschen Empfänger, Cyber-Angriff — ist das eine Datenpanne nach Art. 4 Nr. 12 DSGVO. Sie müssen die in 72 h an die Aufsichtsbehörde melden, sonst Bußgeld.
+Wenn personenbezogene Daten **unbefugt** offengelegt, verändert oder verloren wurden — Stichworte: Phishing-Klick, Laptop verloren, Mail an falschen Empfänger, Cyber-Angriff — ist das eine Datenpanne nach Art. 4 Nr. 12 DSGVO. Sie müssen die in 72 h an die Aufsichtsbehörde melden, sonst Bußgeld.
 
 ## Neuen Vorfall melden
 
@@ -34,7 +34,7 @@ Hugo gibt einen Vorschlag basierend auf Datenkategorie und Umfang. Sie können �
 
 ### Schritt 5: Maßnahmen
 - Was haben Sie sofort getan (Passwort zurückgesetzt, Konto gesperrt, Backup geprüft)
-- Was planst Sie noch (Pen-Test, Schulung, ...)
+- Was planen Sie noch (Pen-Test, Schulung, ...)
 
 :::note[Technische Sofortreaktion]
 Konto sperren, betroffene Systeme isolieren, Backups prüfen und sauber wiederherstellen: Diese Schritte macht Ihre IT im Ernstfall. Wer kein eigenes IT-Team hat, braucht dafür einen [festen IT-Ansprechpartner](https://www.kjello.de/funktionen/support) mit garantierter Reaktionszeit.
@@ -62,7 +62,7 @@ Status:
 
 ## Audit-Log
 
-Jeder Klicken Sie wird protokolliert (wer hat wann was geändert). Bei Rückfragen der Behörde kann jeder Schritt nachvollzogen werden.
+Jeder Klick wird protokolliert (wer hat wann was geändert). Bei Rückfragen der Behörde kann jeder Schritt nachvollzogen werden.
 
 ## Häufige Fragen
 

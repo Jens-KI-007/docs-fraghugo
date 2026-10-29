@@ -1,11 +1,11 @@
 ---
 title: Datenschutzerklärung (DSE)
-description: Generator für die Website-Datenschutzerklärung — bleibt automatisch aktuell, wenn Sie AVV/VVT änderst.
+description: Generator für die Website-Datenschutzerklärung — bleibt automatisch aktuell, wenn Sie AVV/VVT ändern.
 ---
 
 ![DSE-Generator mit Live-Vorschau](/screenshots/datenschutz/dse.png)
 
-Die Datenschutzerklärung ist Pflicht auf jeder Website. Statt sie manuell zu pflegen (und dabei zu vergessen, dass Sie letzten Monat Matomo installiert hast), erzeugst Sie sie hier automatisch.
+Die Datenschutzerklärung ist Pflicht auf jeder Website. Statt sie manuell zu pflegen (und dabei zu vergessen, dass Sie letzten Monat Matomo installiert haben), erzeugen Sie sie hier automatisch.
 
 ## So funktioniert's
 
@@ -17,7 +17,7 @@ Die Datenschutzerklärung ist Pflicht auf jeder Website. Statt sie manuell zu pf
 
 ## Aktualisieren
 
-Bei einer neuen Verarbeitung oder einem neuen AVV schlägt Hugo automatisch eine DSE-Anpassung vor. Sie bekommen eine Benachrichtigung "Ihre DSE ist 23 Tage alt — möchtest Sie sie aktualisieren?".
+Bei einer neuen Verarbeitung oder einem neuen AVV schlägt Hugo automatisch eine DSE-Anpassung vor. Sie bekommen eine Benachrichtigung "Ihre DSE ist 23 Tage alt — möchten Sie sie aktualisieren?".
 
 ## Versionierung
 

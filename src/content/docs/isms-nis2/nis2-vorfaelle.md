@@ -9,7 +9,7 @@ Wenn ein **schwerwiegender Cybersicherheits-Vorfall** auftritt, haben Sie nach N
 
 ## Fristen-Kette
 
-| Frist | Was Sie melden musst |
+| Frist | Was Sie melden müssen |
 |---|---|
 | **24 h ab Kenntnis** | Erstmeldung an BSI: kurze Beschreibung |
 | **72 h ab Kenntnis** | Update mit ersten Bewertungen |

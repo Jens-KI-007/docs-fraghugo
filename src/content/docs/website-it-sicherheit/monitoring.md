@@ -10,7 +10,7 @@ Ein Scan ist eine Momentaufnahme. Monitoring scannt automatisch nach (täglich/w
 ## Pro Domain einstellbar
 
 - **Intervall** — täglich / wöchentlich / monatlich / quartalsweise
-- **Schwellwert** — bei welcher Score-Veränderung sollst Sie alarmiert werden (z.B. −5 Punkte)
+- **Schwellwert** — bei welcher Score-Veränderung sollen Sie alarmiert werden (z.B. −5 Punkte)
 - **Neue Tracker melden** — sobald ein neuer Drittanbieter auftaucht (häufig bei Marketing-Pixel-Einbau ohne Sie zu fragen)
 - **Empfänger** — wer kriegt die Mail (Sie + ggf. Marketing-Team + externe Agentur)
 
@@ -19,7 +19,7 @@ Ein Scan ist eine Momentaufnahme. Monitoring scannt automatisch nach (täglich/w
 - **Vergleich** mit letztem Scan
 - **Bei Verschlechterung** → Mail mit Details: "Score gesunken von 87 auf 79, weil neuer Facebook-Pixel ohne Consent."
 - **Bei Verbesserung** → optional Glückwunsch-Mail an Geschäftsführung (motiviert mehr als Schimpf-Mails).
-- **Wöchentlicher Digest** — wenn Sie nicht jeden einzelnen Scan mailen willst.
+- **Wöchentlicher Digest** — wenn Sie nicht jeden einzelnen Scan gemailt bekommen wollen.
 
 ## Slack / Microsoft Teams
 
@@ -31,5 +31,5 @@ Realistisches Szenario: Marketing baut einen neuen Pixel ohne Sie zu fragen. Sie
 
 ## Tipps
 
-- **Täglich für Hauptseite**, monatlich für Nebenseiten — sonst überfütterst Sie Sie mit Mails.
+- **Täglich für Hauptseite**, monatlich für Nebenseiten — sonst überfüttern Sie sich mit Mails.
 - **Schwellwert nicht zu niedrig** — Score schwankt um ±2 Punkte je nach Hugos Server-Response-Time. Schwellwert ≥ 5 macht Sinn.

@@ -53,5 +53,5 @@ Maßnahmen sind das WAS, Richtlinien das WIE. Maßnahme "Passwort-Schutz" → ve
 
 ## Tipps
 
-- **80/20-Regel** — die 20 wichtigsten Maßnahmen decken 80 % Ihres Risikos ab. Fang da an.
+- **80/20-Regel** — die 20 wichtigsten Maßnahmen decken 80 % Ihres Risikos ab. Fangen Sie da an.
 - **Frist realistisch** — lieber 90 Tage und es wirklich tun als 14 Tage und nie liefern.

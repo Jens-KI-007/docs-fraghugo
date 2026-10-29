@@ -3,7 +3,7 @@ title: Account erstellen
 description: Registrierung, E-Mail-Bestätigung, erste Schritte. Dauert keine 2 Minuten.
 ---
 
-Geh auf [app.fraghugo.de/signup](https://app.fraghugo.de/signup). Sie brauchen nur eine Geschäfts-E-Mail-Adresse und die Firmendaten.
+Gehen Sie auf [app.fraghugo.de/signup](https://app.fraghugo.de/signup). Sie brauchen nur eine Geschäfts-E-Mail-Adresse und die Firmendaten.
 
 ## Was passiert
 
@@ -14,7 +14,7 @@ Geh auf [app.fraghugo.de/signup](https://app.fraghugo.de/signup). Sie brauchen n
 
 ## Login mit Google
 
-Statt E-Mail/Passwort können Sie Sie auch über Ihren Google-Account einloggen. Wir bekommen nur Name + Mail-Adresse, sonst nichts.
+Statt E-Mail/Passwort können Sie sich auch über Ihren Google-Account einloggen. Wir bekommen nur Name + Mail-Adresse, sonst nichts.
 
 ## Passwort vergessen?
 

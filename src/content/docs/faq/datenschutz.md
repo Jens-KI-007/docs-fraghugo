@@ -11,7 +11,7 @@ Ihre Daten werden **in Deutschland** verarbeitet, auf einem eigenen Server der H
 
 - **Sie und Ihre Mitarbeiter** (je nach Rollen-Berechtigung in der App)
 - **frag.hugo Support-Team** nur auf ausdrückliche Anfrage von Ihnen + mit Audit-Log
-- **Externer DSB Nils** nur, wenn Sie ihn als Ihren DSB benennst (mit Bestellungsurkunde)
+- **Externer DSB Nils** nur, wenn Sie ihn als Ihren DSB benennen (mit Bestellungsurkunde)
 - **Aufsichtsbehörden** im Rahmen von §44a / §40 BDSG bei berechtigtem Anlass
 
 Nicht zugreifend:
@@ -51,7 +51,7 @@ Ja, immer. **Einstellungen → Daten-Export** → ZIP mit allen Ihren Daten als 
 
 ## Auftragsverarbeitung — habt ihr einen AVV?
 
-Ja, **immer**. Wenn Sie bei uns Kunde wirst, bekommen Sie automatisch einen AVV nach Art. 28 DSGVO zu unterschreiben. Findest Sie in den **Einstellungen → Recht → AVV-Vertrag** als PDF.
+Ja, **immer**. Wenn Sie bei uns Kunde werden, bekommen Sie automatisch einen AVV nach Art. 28 DSGVO zu unterschreiben. Sie finden ihn in den **Einstellungen → Recht → AVV-Vertrag** als PDF.
 
 ## Pen-Tests / Sicherheits-Audits
 

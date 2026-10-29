@@ -5,7 +5,7 @@ description: Ihr NIS2-Compliance-Stand auf einen Blick — Pflichten, Lücken, n
 
 ![NIS2-Dashboard mit Compliance-Ampel](/screenshots/isms-nis2/nis2-dashboard.png)
 
-Ein zentrales Cockpit, das Ihnen sagt: **Wo stehst Sie mit NIS2 — fertig, in Arbeit, kritisch?**
+Ein zentrales Cockpit, das Ihnen sagt: **Wo stehen Sie mit NIS2 — fertig, in Arbeit, kritisch?**
 
 ## Was Sie sehen
 

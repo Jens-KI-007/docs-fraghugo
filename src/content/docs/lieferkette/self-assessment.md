@@ -9,7 +9,7 @@ Hier antworten Sie auf die 50 Standardfragen. Dauert ca. 30–45 Minuten, Sie k�
 
 ## Pro Frage
 
-- **Frage + Erklärung** — Hugo erklärt jede Frage in Klartext, damit Sie nicht raten musst.
+- **Frage + Erklärung** — Hugo erklärt jede Frage in Klartext, damit Sie nicht raten müssen.
 - **Antwort-Optionen** — Ja-vollständig / Ja-teilweise / Nein / Nicht zutreffend / Weiß-nicht.
 - **Kommentar** — optionales Freitext-Feld.
 - **Nachweis-Upload** — z.B. ISO-Zertifikat, Pen-Test-Bericht, Policy-PDF.
@@ -19,7 +19,7 @@ Hier antworten Sie auf die 50 Standardfragen. Dauert ca. 30–45 Minuten, Sie k�
 Klicken Sie "Hugo, hilf mir" → Hugo:
 - Erklärt die Frage in einfacheren Worten
 - Schlägt Antwort basierend auf Ihren anderen Daten (VVT, TOMs, Audits) vor
-- Sagt, welche Belege Sie als Nachweis liefern solltest
+- Sagt, welche Belege Sie als Nachweis liefern sollten
 
 ## Speichern
 
@@ -27,7 +27,7 @@ Auto-Save nach jeder Antwort. Sie können den Wizard schließen und später weit
 
 ## Validierung
 
-Bevor Sie "Abschließen" klickst, prüft Hugo:
+Bevor Sie "Abschließen" klicken, prüft Hugo:
 - Sind alle Pflichtfragen beantwortet?
 - Gibt es Widersprüche (z.B. "Wir haben kein Backup" + "Unser RPO ist 4 h")?
 
@@ -38,5 +38,5 @@ Sie müssen nicht alles perfekt machen. Erstes Ausfüllen ist Status-Quo-Aufnahm
 ## Tipps
 
 - **Verteile auf mehrere Tage** — manche Fragen brauchen IT-Input ("Was ist unser RPO?"), manche HR ("Wie sieht das Off-Boarding aus?").
-- **Mit Ihrem IT-Dienstleister machen** — wenn Sie keine eigene IT hast, sitzt Ihr IT-Systemhaus oder Ihr Cloud-Anbieter neben Ihnen am Tisch.
+- **Mit Ihrem IT-Dienstleister machen** — wenn Sie keine eigene IT haben, sitzt Ihr IT-Systemhaus oder Ihr Cloud-Anbieter neben Ihnen am Tisch.
 - **Re-Assessment jährlich** — Sie starten dann mit Ihren alten Antworten und arbeitest nur die Veränderungen ein.

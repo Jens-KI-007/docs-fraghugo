@@ -9,7 +9,7 @@ Der AI Act verlangt: für jede KI müssen Sie wissen, in welcher Risiko-Klasse s
 
 ## Der Wizard
 
-Pro KI-System klicken Sie Sie durch ~10 Ja/Nein-Fragen:
+Pro KI-System klicken Sie sich durch ~10 Ja/Nein-Fragen:
 
 1. Wird die KI für **verbotene Praktiken** eingesetzt (Social-Scoring, manipulative KI für vulnerable Gruppen)? → wenn ja: STOP, dürfen Sie nicht.
 2. Ist die KI in einem der **8 Hochrisiko-Anwendungsfelder**?

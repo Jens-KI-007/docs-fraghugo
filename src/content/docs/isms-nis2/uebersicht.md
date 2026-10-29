@@ -12,7 +12,7 @@ Wenn Ihre Firma unter **NIS2** fällt (Energie, Transport, Logistik, Wasser, Ges
 | [Asset-Register](/isms-nis2/asset-register/) | Was müssen Sie schützen — Hardware, Software, Daten |
 | [Schutzbedarf](/isms-nis2/schutzbedarf/) | Wie wichtig ist welches Asset (CIA-Klassifizierung) |
 | [Risiko-Register](/isms-nis2/risiko-register/) | Welche Bedrohungen, wie wahrscheinlich, wie schlimm |
-| [Maßnahmen](/isms-nis2/massnahmen/) | Was tust Sie dagegen |
+| [Maßnahmen](/isms-nis2/massnahmen/) | Was tun Sie dagegen |
 | [Richtlinien](/isms-nis2/richtlinien/) | Schriftliche Policies — Passwort, Backup, Notfall, ... |
 | [NIS2-Vorfälle](/isms-nis2/nis2-vorfaelle/) | 24-h-Meldung bei NIS2-relevanten Vorfällen |
 | [ISMS-Reports](/isms-nis2/isms-reports/) | Management-Reports, Audit-Vorbereitung |
@@ -29,7 +29,7 @@ Faustregel: Ihre Firma ist betroffen, wenn:
 
 Schon kleinere Firmen sind betroffen, wenn sie kritische Infrastruktur betreiben.
 
-Mach den **[NIS2-Quick-Check](https://www.fraghugo.de/nis2-quick-check/)** auf der Landingpage — 5 Fragen, Sie wissen es.
+Machen Sie den **[NIS2-Quick-Check](https://www.fraghugo.de/nis2-quick-check/)** auf der Landingpage — 5 Fragen, Sie wissen es.
 
 ## Ist das viel Arbeit?
 

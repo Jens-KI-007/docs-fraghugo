@@ -22,7 +22,7 @@ Sie wollen nicht 50 Websites einzeln scannen? Bulk-Scan macht das in einem Rutsc
 ## Anwendungsfälle
 
 - **Konkurrenten scouten** — wer in Ihrer Branche ist DSGVO-Spitze, wer ist Schlusslicht.
-- **Vor Vertragsabschluss** mit Kunden — Status-quo dokumentieren bevor Sie Optimierung übernimmst.
+- **Vor Vertragsabschluss** mit Kunden — Status-quo dokumentieren bevor Sie Optimierung übernehmen.
 - **Compliance-Audit für Konzern** — alle Töchter auf einmal.
 
 ## Kosten

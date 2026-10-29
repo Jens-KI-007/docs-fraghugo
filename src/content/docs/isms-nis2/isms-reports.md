@@ -5,7 +5,7 @@ description: Management-Reports, Audit-Vorbereitungen, BSI-Berichte, ISO-27001-S
 
 ![ISMS-Reports Auswahl](/screenshots/isms-nis2/isms-reports.png)
 
-Aus Ihren ISMS-Daten erzeugst Sie hier alle gängigen Berichte mit einem Klicken Sie.
+Aus Ihren ISMS-Daten erzeugen Sie hier alle gängigen Berichte mit einem Klick.
 
 ## Verfügbare Reports
 

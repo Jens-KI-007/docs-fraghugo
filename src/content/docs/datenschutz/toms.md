@@ -5,7 +5,7 @@ description: Sicherheits-Maßnahmen nach Art. 32 DSGVO — Vertraulichkeit, Inte
 
 ![TOMs-Übersicht in Kategorien](/screenshots/datenschutz/toms.png)
 
-Pflicht nach Art. 32 DSGVO: Sie müssen dokumentieren, **wie** Sie personenbezogene Daten technisch und organisatorisch schützt. Hier listest Sie das auf.
+Pflicht nach Art. 32 DSGVO: Sie müssen dokumentieren, **wie** Sie personenbezogene Daten technisch und organisatorisch schützen. Hier listen Sie das auf.
 
 ## Kategorien (Standardgliederung)
 
@@ -15,15 +15,15 @@ Hugo gibt 8 Kategorien vor, in denen Sie jeweils ankreuzt was Sie machen:
 2. **Zugangskontrolle** — Wer kommt an die Systeme? (Passwortrichtlinie, 2FA, VPN, Single-Sign-On)
 3. **Zugriffskontrolle** — Wer sieht welche Daten? (Rollenkonzept, least-privilege, Logging)
 4. **Trennungskontrolle** — Kundendaten getrennt von Mitarbeiterdaten? (Mandanten-Trennung, Test/Prod-Trennung)
-5. **Pseudonymisierung & Verschlüsselung** — wo verschlüsselst Sie? (in Ruhe, im Transit)
+5. **Pseudonymisierung & Verschlüsselung** — wo verschlüsseln Sie? (in Ruhe, im Transit)
 6. **Integrität** — Schutz vor unbefugter Änderung. (Backups, Versionierung, Integritätsprüfung)
 7. **Verfügbarkeit & Belastbarkeit** — was wenn was ausfällt? (Redundanz, Notfallplan, Wiederherstellungstests)
-8. **Auftragskontrolle** — wie kontrollierst Sie AVV? (Prüfung der Anbieter, Audit-Rechte)
+8. **Auftragskontrolle** — wie kontrollieren Sie AVV? (Prüfung der Anbieter, Audit-Rechte)
 
 ## Was Sie hier machen
 
 - **Maßnahmen ankreuzen** — pro Kategorie 5-15 Standard-Maßnahmen, Sie wählen.
-- **Custom Maßnahmen** hinzufügen — falls Sie etwas Besonderes hast.
+- **Custom Maßnahmen** hinzufügen — falls Sie etwas Besonderes haben.
 - **Status pro Maßnahme** — "Ja vollständig" / "Ja teilweise" / "Geplant" / "Nein".
 - **Nachweis** — pro Maßnahme PDF anhängen (z.B. Pen-Test-Bericht, ISO-Zertifikat).
 - **Letzte Prüfung** — wann haben Sie das zuletzt überprüft? (Pflicht: mind. 1× jährlich)

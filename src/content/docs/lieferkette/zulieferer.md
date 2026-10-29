@@ -21,7 +21,7 @@ Optional gleich mit einladen.
 
 Sie wählen Lieferant + Einladungstyp:
 - **Standard-Self-Assessment** — bekommt den 50-Fragen-Fragebogen
-- **Plus eigene Fragen** — falls Sie Custom-Fragen erstellt hast
+- **Plus eigene Fragen** — falls Sie Custom-Fragen erstellt haben
 - **Nur Profil-Update** — falls schon vorhanden
 
 Lieferant bekommt Mail mit Link, registriert sich kostenlos im Basis-Plan, beantwortet, Sie sehen Antworten.
@@ -32,7 +32,7 @@ Lieferant bekommt Mail mit Link, registriert sich kostenlos im Basis-Plan, beant
 - **In Bearbeitung** — Lieferant ist dran
 - **Abgeschlossen** — Score sichtbar
 - **Veraltet** — letzte Antwort > 12 Monate
-- **Abgelöst** — wirst nicht mehr mit ihm arbeiten
+- **Abgelöst** — Sie werden nicht mehr mit ihm arbeiten
 
 ## Risiko-Klasse pflegen
 

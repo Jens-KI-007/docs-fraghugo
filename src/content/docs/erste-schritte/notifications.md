@@ -1,13 +1,13 @@
 ---
 title: Benachrichtigungen
-description: Die Glocke oben rechts — wann erscheint was, wie schaltest Sie Lärm ab.
+description: Die Glocke oben rechts — wann erscheint was, wie schalten Sie Lärm ab.
 ---
 
 ![Benachrichtigungs-Übersicht](/screenshots/erste-schritte/notifications.png)
 
 Die Glocke oben rechts (🔔) sammelt alles, was Ihre Aufmerksamkeit braucht — in Echtzeit, ohne Reload.
 
-## Was Sie hier siehst
+## Was Sie hier sehen
 
 - **Datenpannen-Meldung gestartet** — Mitarbeiter hat Vorfall gemeldet.
 - **DSAR neu** — Betroffener fragt nach seinen Daten (1-Monats-Frist startet automatisch).

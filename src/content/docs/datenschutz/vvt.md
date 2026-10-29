@@ -14,7 +14,7 @@ Die Pflicht-Übersicht aller Verarbeitungen personenbezogener Daten. Wenn die Au
 Klicken Sie "Neu" oben rechts. Zwei Wege:
 
 - **Aus Vorlage** — 400+ vorbefüllte Vorlagen (Mitarbeiterstamm, Bewerbungen, Newsletter, Webshop-Bestellungen, CRM, Cloud-Backup, Videoüberwachung, ...). Spart 80 % der Zeit.
-- **Leer** — wenn Sie eine spezifische Eigen-Verarbeitung hast.
+- **Leer** — wenn Sie eine spezifische Eigen-Verarbeitung haben.
 
 Der Wizard fragt:
 - Was wird verarbeitet (Datenkategorien)
@@ -64,4 +64,4 @@ Faustregel: **Wenn personenbezogene Daten verarbeitet werden, ja**. Auch wenn nu
 
 - **Pflege-Rhythmus**: 1× im Jahr durchsehen, ob noch alles stimmt. Bei jeder Änderung (neue Software, neuer Prozess) zeitnah aktualisieren.
 - **DSFA-Indikator**: Eine Verarbeitung mit roter Markierung ist DSFA-pflichtig (z.B. systematische Überwachung, Profiling, besondere Datenkategorien). Hugo sagt's Ihnen.
-- **AVV-Verknüpfung**: Wenn Sie einen Auftragsverarbeiter im VVT angibst, wird automatisch ein AVV-Eintrag verlangt — die beiden Bereiche sind verknüpft.
+- **AVV-Verknüpfung**: Wenn Sie einen Auftragsverarbeiter im VVT angeben, wird automatisch ein AVV-Eintrag verlangt — die beiden Bereiche sind verknüpft.

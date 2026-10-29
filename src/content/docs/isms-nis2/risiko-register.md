@@ -5,7 +5,7 @@ description: Bedrohungen pro Asset identifizieren, bewerten, priorisieren. Mit H
 
 ![Risiko-Register mit Heat-Map](/screenshots/isms-nis2/risiko-register.png)
 
-Hier listest Sie, **was schief gehen kann**. Pro Risiko: Wahrscheinlichkeit × Schadenshöhe = Risikowert.
+Hier listen Sie auf, **was schief gehen kann**. Pro Risiko: Wahrscheinlichkeit × Schadenshöhe = Risikowert.
 
 ## Risiko anlegen
 
@@ -29,7 +29,7 @@ Visualisierung: Wahrscheinlichkeit × Schadenshöhe als 5×5-Matrix, jeder Punkt
 
 ## Top-10-Liste
 
-Für GF-Meeting: Liste der 10 größten Risiken als ein Klicken Sie. Wird auch im NIS2-Bericht und Jahres-Audit verwendet.
+Für GF-Meeting: Liste der 10 größten Risiken mit einem Klick. Wird auch im NIS2-Bericht und Jahres-Audit verwendet.
 
 ## Tracking
 
@@ -40,4 +40,4 @@ Für GF-Meeting: Liste der 10 größten Risiken als ein Klicken Sie. Wird auch i
 
 - **Nicht zu kleinteilig** — 50 Risiken sind realistisch zu managen, 500 niemand pflegt.
 - **Konsistenz** — wenn "Phishing" wahrscheinlich hoch ist für E-Mail, sollte es für gleiche Systeme auch hoch sein. Hugo prüft das.
-- **Maßnahmen müssen wirken** — wenn Sie nach Maßnahmen das Risiko nicht reduzierst, haben Sie die falsche Maßnahme.
+- **Maßnahmen müssen wirken** — wenn Sie nach Maßnahmen das Risiko nicht reduzieren, haben Sie die falsche Maßnahme.

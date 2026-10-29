@@ -1,6 +1,6 @@
 ---
 title: Mein Siegel
-description: Verifiziertes Trust-Badge für Ihre Website — Sie zeigen, dass Sie Datenschutz ernst nimmst.
+description: Verifiziertes Trust-Badge für Ihre Website — Sie zeigen, dass Sie Datenschutz ernst nehmen.
 ---
 
 ![Mein-Siegel-Konfigurator](/screenshots/datenschutz/siegel.png)
@@ -31,7 +31,7 @@ Sie sehen auf der Siegel-Page eine **Checkliste**, was noch fehlt.
 - **WordPress-Plugin** — wenn Sie WP nutzt.
 - **Direkter Link** als Button.
 
-Klicken Sie Besucher das Badge, landen sie auf einer Verifizierungsseite mit:
+Klickt ein Besucher das Badge an, landen sie auf einer Verifizierungsseite mit:
 - Firmenname, Bestätigung der Stufe
 - Datum der letzten Prüfung
 - "Diese Firma hat einen DSB benannt: Nils Oehmichen" (falls Externer DSB)
@@ -39,7 +39,7 @@ Klicken Sie Besucher das Badge, landen sie auf einer Verifizierungsseite mit:
 
 ## Auto-Update
 
-Das Siegel ist dynamisch. Wenn Sie den Status verlierst (z.B. TOMs werden 12 Monate alt), wird das Badge automatisch auf "geprüft wird" gesetzt, Sie bekommen eine Erinnerungs-Mail.
+Das Siegel ist dynamisch. Wenn Sie den Status verlieren (z.B. TOMs werden 12 Monate alt), wird das Badge automatisch auf "geprüft wird" gesetzt, Sie bekommen eine Erinnerungs-Mail.
 
 ## Bewerbung im Marketing
 
