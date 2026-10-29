@@ -3,7 +3,7 @@ title: Schulungs-Übersicht (Fortschritt)
 description: Wer hat welchen Kurs absolviert, wer ist überfällig — die Audit-Sicht aller Mitarbeiter.
 ---
 
-![Schulungs-Übersicht mit Quote](/screenshots/schulungen/uebersicht.png)
+![Schulungs-Übersicht: Kennzahlen, Abschlussquote pro Modul und Schulungsstand je Mitarbeiter mit Filter nach Status](/screenshots/schulungen/uebersicht.png)
 
 Die **Audit-Sicht** auf Ihre Schulungen. Was ein Auditor sehen will:
 
