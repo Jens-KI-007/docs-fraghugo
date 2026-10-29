@@ -149,6 +149,9 @@ const apps = [
     background: var(--bg-section, #0F1629);
     color: var(--text-secondary, #CBD5E1);
     font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    /* Auf Anleitungsseiten steht die Fußzeile in der Inhaltsspalte (~770 px): Spalten nach der eigenen Breite
+       richten, nicht nach dem Fenster — sonst vier gequetschte Spalten mit dreizeiligen Links (D13) */
+    container-type: inline-size;
   }
 
   /* Top glow divider — dezent, refined */
@@ -182,14 +185,14 @@ const apps = [
     margin-bottom: 3rem;
   }
 
-  @media (min-width: 40rem) {
+  @container (min-width: 40rem) {
     .fh-footer-grid {
       grid-template-columns: 1fr 1fr;
       gap: 2.5rem 2rem;
     }
   }
 
-  @media (min-width: 64rem) {
+  @container (min-width: 64rem) {
     .fh-footer-grid {
       grid-template-columns: 2.4fr 1fr 1fr 1fr;
       gap: 3rem;
@@ -297,7 +300,7 @@ const apps = [
     text-align: center;
   }
 
-  @media (min-width: 64rem) {
+  @container (min-width: 64rem) {
     .fh-footer-bottom {
       flex-direction: row;
       justify-content: space-between;
