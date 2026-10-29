@@ -32,4 +32,4 @@ Hugo bietet **kuratierte Fragen-Sets** pro Branche (TISAX 2.0, DORA-Lieferanten-
 ## Tipps
 
 - **Nicht zu viele Fragen** — Lieferanten füllen 50 Standard + 10 Custom willig aus. 50 Standard + 80 Custom werden sie schleifen lassen.
-- **Frage erst klären, dann ergänzen** — wenn Sie eine Frage 5× wiederholst weil Standardfrage zu unklar war, lieber Standardfrage als Kommentar präzisieren statt eigene Frage.
+- **Frage erst klären, dann ergänzen** — wenn Sie eine Frage 5× wiederholen, weil Standardfrage zu unklar war, lieber Standardfrage als Kommentar präzisieren statt eigene Frage.

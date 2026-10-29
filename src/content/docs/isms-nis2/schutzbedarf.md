@@ -25,7 +25,7 @@ Pro Asset, pro Schutzziel:
 
 ## Wie pflegen
 
-In der Übersicht sehen Sie eine Matrix: Assets in Zeilen, CIA-Stufen in Spalten. Sie klicken Felder an und stufst ein.
+In der Übersicht sehen Sie eine Matrix: Assets in Zeilen, CIA-Stufen in Spalten. Sie klicken Felder an und stufen ein.
 
 Hugo schlägt Default-Werte vor — z.B. "Patientendaten" sind by-default sehr hoch in V + I + A. Sie können überschreiben.
 

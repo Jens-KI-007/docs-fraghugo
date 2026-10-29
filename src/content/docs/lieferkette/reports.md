@@ -5,7 +5,7 @@ description: Compliance-Reports zum Versenden — Audit-Vorlage, Management-One-
 
 ![Reports-Auswahl](/screenshots/lieferkette/reports.png)
 
-Hier erzeugst Sie Berichte über Ihre Lieferkette für externe Stakeholder.
+Hier erzeugen Sie Berichte über Ihre Lieferkette für externe Stakeholder.
 
 ## Verfügbare Report-Typen
 

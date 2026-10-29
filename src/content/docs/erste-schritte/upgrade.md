@@ -52,7 +52,7 @@ Alle Preise netto, zzgl. USt.
 
 Auf der Upgrade-Seite sehen Sie **vorher/nachher** je Feature: KI-Vorschläge limitiert oder unbegrenzt, wie viele Scans/Monat, wie viele Mitarbeiter, etc.
 
-Wenn Sie z.B. die Datenschutz-Suite hast und brauchst nur kurzfristig 2 zusätzliche Beratungsstunden, ist ein Stundenpaket oft günstiger als ein Plan-Upgrade ([Beratung & Add-Ons](/beratung/uebersicht/)).
+Wenn Sie z.B. die Datenschutz-Suite haben und nur kurzfristig 2 zusätzliche Beratungsstunden brauchen, ist ein Stundenpaket oft günstiger als ein Plan-Upgrade ([Beratung & Add-Ons](/beratung/uebersicht/)).
 
 ## Kündigen
 

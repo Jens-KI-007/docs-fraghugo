@@ -51,4 +51,4 @@ Jeder AVV-Eintrag kann auf die Verarbeitungen verlinken, in denen er eingesetzt 
 ## Tipps
 
 - **Wer nicht?** — Eigene Mitarbeiter sind nie AVV (interne Verarbeitung). Versicherer/Banken sind keine AVV sondern eigene Verantwortliche.
-- **Standardvertrag**: Hugo bietet einen mustergültigen AVV-Vertrag zum Herunterladen, den Sie Anbietern schicken kannst falls sie keinen eigenen haben.
+- **Standardvertrag**: Hugo bietet einen mustergültigen AVV-Vertrag zum Herunterladen, den Sie Anbietern schicken können, falls sie keinen eigenen haben.

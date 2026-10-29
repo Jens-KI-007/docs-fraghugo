@@ -13,7 +13,7 @@ Beim Anlegen wählen Sie den passenden Katalog:
 
 1. **DSGVO-Basis** (ca. 60 Fragen) — Standard für jede Firma
 2. **TOMs-Audit** (40 Fragen) — fokussiert auf Sicherheits-Maßnahmen
-3. **AVV-Audit** (25 Fragen) — was Sie bei einem Auftragsverarbeiter prüfen solltest
+3. **AVV-Audit** (25 Fragen) — was Sie bei einem Auftragsverarbeiter prüfen sollten
 4. **Mitarbeiter-Datenschutz** (35 Fragen) — Personalwesen-spezifisch
 5. **Marketing/CRM-Audit** (30 Fragen) — Newsletter, Cookies, Tracking
 6. **Cloud/IT-Sicherheit** (45 Fragen) — Hosting, Backup, Disaster-Recovery

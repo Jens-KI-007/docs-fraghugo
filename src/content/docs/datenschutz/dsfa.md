@@ -21,7 +21,7 @@ DSK-Liste der pflichtigen Verarbeitungen ist im Wizard hinterlegt.
 
 ## Wie der Wizard läuft
 
-1. **Schritt 1: Beschreibung** — Was verarbeitest Sie, warum, wie. Sie können aus VVT-Eintrag übernehmen.
+1. **Schritt 1: Beschreibung** — Was verarbeiten Sie, warum, wie. Sie können aus VVT-Eintrag übernehmen.
 2. **Schritt 2: Notwendigkeit & Verhältnismäßigkeit** — Brauchen Sie wirklich diese Daten? Gibt's mildere Mittel?
 3. **Schritt 3: Risiken identifizieren** — Hugo schlägt typische Risiken pro Verarbeitungstyp vor (Identitätsdiebstahl, Diskriminierung, finanzieller Schaden, ...).
 4. **Schritt 4: Schadenswahrscheinlichkeit + Schwere bewerten** — 4×4-Matrix, Hugo gibt Default-Werte.

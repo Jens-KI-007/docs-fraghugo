@@ -5,7 +5,7 @@ description: Alle Scans im Blick — Score-Verlauf, Fortschritt, Nachverfolgung 
 
 ![Scan-Übersicht mit Score-Verlauf](/screenshots/website-it-sicherheit/scan-uebersicht.png)
 
-Hier landen alle Scans, die Sie je gemacht hast — chronologisch, mit Score-Verlauf und Befundliste.
+Hier landen alle Scans, die Sie je gemacht haben — chronologisch, mit Score-Verlauf und Befundliste.
 
 ## Was Sie sehen
 
@@ -29,7 +29,7 @@ Jedes Finding hat einen Status:
 
 ## Vergleich
 
-Wähle zwei Scans → "Vergleichen" zeigt Ihnen was sich geändert hat: neue Tracker, gestrichene Tracker, Score-Differenz, neue/behobene Befunde.
+Wählen Sie zwei Scans → "Vergleichen" zeigt Ihnen was sich geändert hat: neue Tracker, gestrichene Tracker, Score-Differenz, neue/behobene Befunde.
 
 ## Export
 

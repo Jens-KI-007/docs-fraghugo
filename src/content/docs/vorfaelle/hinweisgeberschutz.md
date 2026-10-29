@@ -5,7 +5,7 @@ description: Internes Meldesystem nach HinSchG — anonyme Meldungen, Bearbeitun
 
 ![Hinweisgeber-Fälle in der Übersicht](/screenshots/vorfaelle/hinweisgeberschutz.png)
 
-Wenn Sie **50 oder mehr Mitarbeiter** hast, brauchen Sie nach Hinweisgeberschutzgesetz (HinSchG) ein internes Meldesystem. Mit dem Hinweisgeber-Modul erfüllst Sie das.
+Wenn Sie **50 oder mehr Mitarbeiter** haben, brauchen Sie nach Hinweisgeberschutzgesetz (HinSchG) ein internes Meldesystem. Mit dem Hinweisgeber-Modul erfüllen Sie das.
 
 ## Was Whistleblower melden können
 
@@ -29,10 +29,10 @@ Default: Hinweisgeber **kann** anonym bleiben. Plattform legt einen Pseudonym-Ac
 ## Bearbeitungs-Workflow
 
 ### Frist 1: Eingangsbestätigung (7 Tage)
-Sofort nach Meldung bestätigst Sie Eingang (Default-Mail-Template). Verpasste Eingangsbestätigung = Bußgeld.
+Sofort nach Meldung bestätigen Sie den Eingang (Default-Mail-Template). Verpasste Eingangsbestätigung = Bußgeld.
 
 ### Frist 2: Rückmeldung (3 Monate)
-Innerhalb 3 Monaten müssen Sie dem Hinweisgeber sagen, was Sie getan hast (geprüft, abgewiesen, in Bearbeitung). Auch wenn Sie "Vorwürfe nicht bestätigt" sagst — kommunizieren müssen Sie.
+Innerhalb 3 Monaten müssen Sie dem Hinweisgeber sagen, was Sie getan haben (geprüft, abgewiesen, in Bearbeitung). Auch wenn Sie "Vorwürfe nicht bestätigt" sagen — kommunizieren müssen Sie.
 
 ### Hugo bringt
 - **Frist-Tracker** pro Fall
@@ -42,7 +42,7 @@ Innerhalb 3 Monaten müssen Sie dem Hinweisgeber sagen, was Sie getan hast (gepr
 ## Schutz für Hinweisgeber
 
 - **Repressalien-Verbot** — Hinweisgeber darf nicht gekündigt, abgemahnt, benachteiligt werden wegen seiner Meldung.
-- **Beweislastumkehr** — wenn er nach Meldung sehr schnell gekündigt wird, MUSST DU beweisen, dass das nichts mit der Meldung zu tun hat.
+- **Beweislastumkehr** — wenn er nach Meldung sehr schnell gekündigt wird, MÜSSEN SIE beweisen, dass das nichts mit der Meldung zu tun hat.
 - **Geheimhaltung** — Identität bleibt geheim, auch innerhalb der Firma. Nur das Bearbeitungsteam (Sie, ggf. Compliance-Officer) sieht den Vorgang.
 
 ## Externe Meldestelle (BAFin / BMJ)

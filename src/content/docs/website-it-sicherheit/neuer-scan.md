@@ -5,7 +5,7 @@ description: URL eingeben, 23 Prüfpunkte (bei Online-Shops 27) in unter 60 Seku
 
 ![Scan-Startseite](/screenshots/website-it-sicherheit/neuer-scan.png)
 
-So scannst Sie eine Website:
+So scannen Sie eine Website:
 
 1. **URL eingeben** — `https://www.Ihre-firma.de` (mit oder ohne `https://`).
 2. **Scan starten** — Hugo crawlt die Seite, lädt sie wie ein echter Besucher, prüft Cookies, Tracker, Header.
@@ -43,14 +43,14 @@ Dazu kommen KI-Auswertungen: 5 im kostenlosen Tarif, bis zu 9 ab Pro.
 ## Im Ergebnis sehen Sie
 
 - **Score** als große Zahl (0–100). 80+ ist gut, 90+ ist sehr gut.
-- **Ampel pro Check** (rot/gelb/grün) mit Klicken Sie auf Details.
+- **Ampel pro Check** (rot/gelb/grün) mit Klick auf Details.
 - **Fix-Vorschläge** — pro Befund konkrete Anleitung wie zu beheben (Plugin, Code-Snippet, externe Anleitung).
 - **PDF-Bericht** — schick an Geschäftsführung oder externe Agentur.
 - **Re-Scan-Button** — nach Fixes nochmal durchlaufen lassen, dann haben Sie auch den Vorher/Nachher-Vergleich.
 
 ## Mit DSE verknüpfen
 
-Wenn Sie auf der Plattform Ihre [Datenschutzerklärung](/datenschutz/dse/) gepflegt hast, vergleicht der Scan: "Sie haben Matomo auf der Website, aber in Ihrer DSE steht nichts dazu." → konkreter Befund.
+Wenn Sie auf der Plattform Ihre [Datenschutzerklärung](/datenschutz/dse/) gepflegt haben, vergleicht der Scan: "Sie haben Matomo auf der Website, aber in Ihrer DSE steht nichts dazu." → konkreter Befund.
 
 ## Free vs. Pro vs. Agentur
 

@@ -27,7 +27,7 @@ In der Regel:
 1. **VVT befüllen** — Hugo schlägt die typischen Verarbeitungen vor.
 2. **AVV erfassen** — alle Dienstleister anlegen, Hugo bewertet jeden.
 3. **DSE generieren** — automatisch aus Ihren Daten.
-4. **TOMs dokumentieren** — was Sie an Sicherheitsmaßnahmen hast.
+4. **TOMs dokumentieren** — was Sie an Sicherheitsmaßnahmen haben.
 5. **Löschkonzept ableiten** — aus dem VVT.
 6. **DSFA nur falls nötig** — Hugo sagt Ihnen, wenn eine Verarbeitung DSFA-pflichtig ist.
 

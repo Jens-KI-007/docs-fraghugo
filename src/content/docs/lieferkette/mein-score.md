@@ -5,7 +5,7 @@ description: Ihr Sicherheits-Profil als Lieferant — Score, Zertifikate, Self-A
 
 ![Mein Score mit Spider-Chart](/screenshots/lieferkette/mein-score.png)
 
-Als Lieferant zeigst Sie Ihren Sicherheitsstand hier. Ihr Score wird automatisch berechnet aus dem [Self-Assessment](/lieferkette/self-assessment/) — je vollständiger + besser, desto höher.
+Als Lieferant zeigen Sie Ihren Sicherheitsstand hier. Ihr Score wird automatisch berechnet aus dem [Self-Assessment](/lieferkette/self-assessment/) — je vollständiger + besser, desto höher.
 
 ## Was zu sehen ist
 

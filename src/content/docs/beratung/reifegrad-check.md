@@ -5,7 +5,7 @@ description: 25 Fragen, am Ende ein Score 0–100 und eine konkrete Tarif-Empfeh
 
 ![Reifegrad-Check Wizard mit 25 Fragen](/screenshots/beratung/reifegrad-check.png)
 
-Wenn Sie Ihnen nicht sicher sind, welcher Tarif zu Ihnen passt oder ob Ihr Datenschutz-Stand überhaupt OK ist, mach den Reifegrad-Check.
+Wenn Sie sich nicht sicher sind, welcher Tarif zu Ihnen passt oder ob Ihr Datenschutz-Stand überhaupt OK ist, machen Sie den Reifegrad-Check.
 
 ## Was Sie erwartet
 
@@ -17,10 +17,10 @@ Wenn Sie Ihnen nicht sicher sind, welcher Tarif zu Ihnen passt oder ob Ihr Daten
   - **61–85** Solide — Sie erfüllen die DSGVO.
   - **86–100** Hervorragend — Sie sind über dem Branchendurchschnitt.
 
-## Was Sie am Ende bekommst
+## Was Sie am Ende bekommen
 
 - **Schwächste 3 Bereiche** mit konkreter Empfehlung was zu tun ist.
-- **Tarif-Empfehlung** — z.B. "Für Ihren Stand reicht Lite, aber Standard ergäbe Sinn wenn Sie 2 + Stunden Beratung/Monat brauchst".
+- **Tarif-Empfehlung** — z.B. "Für Ihren Stand reicht Lite, aber Standard ergäbe Sinn wenn Sie 2 + Stunden Beratung/Monat brauchen".
 - **Onboarding-Vorschlag** — ob ein Service-Paket sinnvoll wäre.
 - **PDF-Bericht** zum Speichern.
 

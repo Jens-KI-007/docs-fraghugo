@@ -5,7 +5,7 @@ description: Ihre Website neben Wettbewerbern — Score-Vergleich, Tracker-Vergl
 
 ![Konkurrenz-Vergleich mit Balkendiagramm](/screenshots/website-it-sicherheit/konkurrenz-vergleich.png)
 
-Wenn Sie wissen willst, wo Sie im Branchenvergleich stehst — gib bis zu 5 Wettbewerber-URLs ein und Hugo scannt sie und Ihre eigene Seite, stellt nebeneinander.
+Wenn Sie wissen wollen, wo Sie im Branchenvergleich stehen — geben Sie bis zu 5 Wettbewerber-URLs ein und Hugo scannt sie und Ihre eigene Seite, stellt nebeneinander.
 
 ## So funktioniert's
 
@@ -26,6 +26,6 @@ Sie können den Vergleich als PDF exportieren — gebrandet, mit Ihrem Logo. Eig
 
 ## Tipps
 
-- **Branchen-Auswahl** — nimm wirklich vergleichbare Firmen, nicht Konzerne.
+- **Branchen-Auswahl** — nehmen Sie wirklich vergleichbare Firmen, nicht Konzerne.
 - **Größe ist nicht alles** — kleine Firmen mit gepflegter Website schlagen oft Konzerne mit veralteten Tracking-Setups.
 - **Update halbjährlich** — Branchenstand ändert sich (z.B. wenn ein neues EuGH-Urteil kommt).

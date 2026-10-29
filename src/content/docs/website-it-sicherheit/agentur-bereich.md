@@ -27,7 +27,7 @@ Optional: **Kunde einladen** — er bekommt eigenen Login (mit eingeschränkten 
 
 ## Provisions-Programm
 
-Wenn Sie Kunden auf den Plan **Pro 29 €** verkaufst (die selber zahlen), bekommen Sie 20 % wiederkehrende Provision. Tracking läuft automatisch über Ihren Affiliate-Link (in den Einstellungen).
+Wenn Sie Kunden auf den Plan **Pro 29 €** verkaufen (die selber zahlen), bekommen Sie 20 % wiederkehrende Provision. Tracking läuft automatisch über Ihren Affiliate-Link (in den Einstellungen).
 
 ## Tipps
 

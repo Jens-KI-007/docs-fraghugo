@@ -61,7 +61,7 @@ Wie der Radar aktiviert wird, was er liest und was ausdrücklich nicht, steht au
 
 ## Alternative: Azure AD / Entra ID nur
 
-Wenn Sie Azure AD ohne M365 hast (z.B. nur für Single-Sign-On), funktioniert die Integration auch — gleiche Felder, gleiche Berechtigung.
+Wenn Sie Azure AD ohne M365 haben (z.B. nur für Single-Sign-On), funktioniert die Integration auch — gleiche Felder, gleiche Berechtigung.
 
 ## Andere HR-Systeme
 
