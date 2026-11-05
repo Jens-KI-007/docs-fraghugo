@@ -1,38 +1,36 @@
 ---
 title: Jahresbericht (Tätigkeitsbericht DSB)
-description: Auto-generierter Tätigkeitsbericht des Datenschutzbeauftragten — für Geschäftsführung und Behörde.
+description: Jahresbericht aus Ihren Daten in drei Stilen, zum Drucken, Herunterladen und als Lese-Link für die Geschäftsführung.
 ---
 
 ![Jahresbericht-Vorschau](/screenshots/datenschutz/jahresbericht.png)
 
-Wenn Ihre Firma einen DSB hat (intern oder extern wie Nils), ist ein **jährlicher Tätigkeitsbericht** üblich (in einigen Branchen Pflicht, sonst Best Practice für die Geschäftsführungs-Vorlage).
+Ein jährlicher Tätigkeitsbericht des Datenschutzbeauftragten ist üblich und eine gute Vorlage für die Geschäftsführung. Hugo erstellt ihn aus den Daten, die ohnehin in der Plattform stehen.
 
-## Was drin steht (Auto-generiert)
+## Was drin steht
 
-Aus Ihren Daten ziehe ich das Jahresbericht-PDF zusammen:
+- **Verzeichnis der Verarbeitungen:** Anzahl, Vollständigkeit, Veränderung zum Vorjahr
+- **Auftragsverarbeitung:** Anzahl der Verträge, davon mit Drittlandtransfer
+- **Datenschutz-Folgenabschätzungen** im Berichtsjahr
+- **Datenpannen:** Anzahl, davon an die Aufsicht gemeldet
+- **Betroffenenanfragen:** Anzahl und Erledigungsquote
+- **Schutzmaßnahmen (TOM):** umgesetzt von gesamt
+- **Schulungen:** Beschäftigte mit abgeschlossener Schulung
+- **Audits:** Anzahl und durchschnittlicher Erfüllungsgrad
+- **Empfehlungen**, wo Werte zurückbleiben
 
-- **VVT-Stand** — wieviele Verarbeitungen, wieviele neu, wieviele veraltet
-- **AVV-Stand** — wieviele Verträge, Status, Lücken
-- **Datenpannen** — Anzahl im Jahr, Schweregrade, Meldungen an Behörde
-- **Betroffenenanfragen** — Anzahl, durchschnittliche Bearbeitungszeit, Status
-- **Schulungen** — Quote durchgeführter Schulungen, fällige Mitarbeiter
-- **Audits** — durchgeführte interne + externe Audits, Hauptbefunde
-- **Hinweisgeber-Fälle** (falls aktiv)
-- **DSFA** — Anzahl, Befund, Maßnahmen-Status
-- **Geplante Schwerpunkte** für nächstes Jahr (können Sie im Editor anpassen)
+## So erstellen Sie ihn
 
-## Wie generieren
+1. **Berichtsjahr wählen.** Ab April ist das laufende Jahr vorgewählt, davor das Vorjahr.
+2. **Stil wählen:** GF-1-Pager (eine Seite mit Kennzahlen), Audit-Report (ausführlich) oder Behörden-Format (Tätigkeitsbericht in nummerierten Abschnitten).
+3. **Erstellen.** Der Bericht erscheint sofort. Für dasselbe Jahr und denselben Stil ersetzt eine neue Erstellung die alte Fassung.
 
-1. **Zeitraum wählen** — Default: vergangenes Kalenderjahr.
-2. **Schwerpunkte ankreuzen** — was war 2026 wichtig (NIS2-Vorbereitung, KI-Register-Aufbau, Re-Audit Cloud-Anbieter, ...).
-3. **Generieren** — Hugo erzeugt PDF mit Ihrem Logo, Branding.
-4. **Anpassen** — Editor öffnen, Texte feinjustieren, eigene Bullet-Points hinzufügen.
-5. **Veröffentlichen** — PDF herunterladen, an Geschäftsführung schicken.
+## Weitergeben
 
-## Geschäftsführung-Vorlage
+- **Drucken oder als PDF sichern** über die Druckfunktion des Browsers.
+- **Als HTML herunterladen.**
+- **Lese-Link kopieren:** Die Geschäftsführung öffnet den Bericht ohne Konto. Der Link gilt 30 Tage ab Erstellung. Wer den Bericht löscht, macht auch den Link ungültig.
 
-Zusätzlich gibt's einen kürzeren **Management-One-Pager** — perfekt für die Vorstands-Sitzung. 1 Seite, Ampel-Status, 3 Highlights, 3 Pain-Points.
+## Ältere Berichte
 
-## Versionierung
-
-Alle erzeugten Berichte werden gespeichert. Sie können die alten Jahresberichte einsehen.
+Alle erstellten Berichte bleiben in der Liste und lassen sich jederzeit wieder öffnen.

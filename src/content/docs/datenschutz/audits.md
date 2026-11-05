@@ -1,46 +1,58 @@
 ---
 title: Audits
-description: Eigene Datenschutz-Audits durchführen oder Lieferanten auditieren — mit 7 Frage-Katalogen und 3 Bericht-Stilen.
+description: Datenschutz- und Sicherheits-Audits mit fertigen Fragenkatalogen, automatischen Maßnahmen, Fragen per Link an Externe und Re-Audits ohne Anmeldung.
 ---
 
 ![Audits-Übersicht mit Fortschritt](/screenshots/datenschutz/audits.png)
 
-Audits sind strukturierte Prüfungen — entweder bei Ihnen selbst (intern) oder bei Lieferanten (extern). Hier verwalten Sie beide Typen.
+Ein Audit ist eine strukturierte Prüfung anhand eines Fragenkatalogs. Aus jeder Antwort „Nein“ oder „Teilweise“ entsteht beim Abschluss eine Maßnahme, und das Audit wiederholt sich nach dem gewählten Abstand von selbst.
 
-## 7 Frage-Kataloge
+## Fragenkataloge
 
-Beim Anlegen wählen Sie den passenden Katalog:
+| Katalog | Fragen |
+|---|---|
+| NIS2-Audit | 264 |
+| VS-NfD-Audit | 159 |
+| IT-Grundschutz Reifegradprüfung | 85 |
+| ISMS-Audit (ISO 27001 + BSI 200) | 64 |
+| Datenschutzaudit (Standard) | 23 |
+| IT-Grundschutz Zusatz-Audit | 6 |
+| Verpflichtung auf das Datengeheimnis | 5 |
+| Audit Verarbeitungstätigkeiten (zur ersten Erstellung des Verzeichnisses) | 4 |
 
-1. **DSGVO-Basis** (ca. 60 Fragen) — Standard für jede Firma
-2. **TOMs-Audit** (40 Fragen) — fokussiert auf Sicherheits-Maßnahmen
-3. **AVV-Audit** (25 Fragen) — was Sie bei einem Auftragsverarbeiter prüfen sollten
-4. **Mitarbeiter-Datenschutz** (35 Fragen) — Personalwesen-spezifisch
-5. **Marketing/CRM-Audit** (30 Fragen) — Newsletter, Cookies, Tracking
-6. **Cloud/IT-Sicherheit** (45 Fragen) — Hosting, Backup, Disaster-Recovery
-7. **Custom** — eigene Fragen anlegen oder aus anderen Katalogen mischen
+## So läuft ein Audit
 
-## Workflow
+1. **Starten:** Katalog wählen und festlegen, nach wie vielen Monaten das Audit wiederholt wird.
+2. **Beantworten:** je Frage Ja, Teilweise, Nein oder Nicht relevant, dazu eine Anmerkung. Bei „Nein“ und „Teilweise“ ist eine Begründung empfohlen, bei manchen Fragen Pflicht. Jede Antwort wird sofort gespeichert.
+3. **Abschließen:** Hugo berechnet den Erfüllungsgrad in Prozent und legt für jede offene Frage eine Maßnahme an (Frist 90 Tage, „Nein“ mit hoher Priorität). Gleichzeitig wird der nächste Wiederholungstermin gesetzt.
+4. **Bericht:** „Bericht öffnen“ erzeugt den Bericht in einem von drei Stilen, zum Download als PDF, Word oder HTML.
 
-1. **Anlegen** — Name, Auditor, Geprüfter, Katalog wählen, Zieldatum.
-2. **Fragen beantworten** — pro Frage: Ja/Nein/Teilweise/N.A., Kommentar, Nachweis-Upload.
-3. **Befunde** — alles Nicht-Ja wird als Befund markiert. Pro Befund: Schweregrad, Maßnahme, Frist, Verantwortlicher.
-4. **Bericht erzeugen** — 3 Stile (siehe unten).
-5. **Re-Audit Magic-Link** — Sie können dem Geprüften einen Link schicken; er beantwortet die Folge-Fragen ohne Account („Hat die Maßnahme funktioniert?“).
+## Fragen an andere geben
 
-## 3 Bericht-Stile
+Manche Fragen beantwortet jemand anderes besser, etwa Ihr IT-Dienstleister. Im Audit wählen Sie **Fragen an Externe senden**, markieren die Fragen und tragen E-Mail-Adresse und Frist ein.
 
-- **Management** — 1 Seite, Ampel-Status, Top-3-Befunde, Empfehlungen.
-- **Audit-Standard** — kompletter Bericht mit allen Fragen, Antworten, Befunden.
-- **Behörde** — strenger Stil, formales Audit-Protokoll, mit Unterschriftsfeldern.
+- Die Person bekommt einen Link und beantwortet **ohne eigenes Konto** nur die ausgewählten Fragen.
+- Antworten werden sofort gespeichert, sie kann unterbrechen und über denselben Link weitermachen.
+- Eingereicht werden kann erst, wenn alles beantwortet ist. Danach ist der Link geschlossen, und Sie bekommen eine Nachricht.
+- Im Audit sehen Sie je Link, ob er geöffnet oder eingereicht wurde, und können ihn erneut kopieren. Antworten, die über einen Link kamen, sind gekennzeichnet. Ändern Sie eine davon, gilt sie als Ihre.
+- Der Link gilt bis 14 Tage nach der Frist.
 
-Alle drei werden aus den selben Daten generiert.
+## Re-Audit ohne Anmeldung
 
-## Audit-Historie
+Ist ein Wiederholungstermin gesetzt, läuft die Erinnerung automatisch:
 
-Wiederholungs-Audits werden gebündelt: Sie sehen den Fortschritt pro Frage über mehrere Audits hinweg („Frage X war 2024 Nein, 2025 Teilweise, 2026 Ja“).
+| Zeitpunkt | Was passiert |
+|---|---|
+| 30 Tage vorher | Neues Re-Audit wird angelegt, Mail mit Link zum Fragebogen |
+| 14 Tage vorher | Erinnerung |
+| 3 Tage vorher | Letzte Erinnerung |
+| 3 Tage danach | Überfällig, Mail auch an die Administratoren |
+| 14 Tage danach | Eskalation an die Geschäftsleitung |
 
-## Tipps
+Die Mails gehen an die DSB-Adresse Ihres Unternehmens und an die für das Audit hinterlegten Adressen. Der Link funktioniert ohne Anmeldung und darf an die Person weitergegeben werden, die antworten soll. Bei jeder Frage steht die Antwort vom letzten Mal, und **Alle übernehmen** übernimmt sie in einem Schritt. Danach ändern Sie nur, was sich geändert hat. Nach dem Einreichen schließen Sie das Re-Audit in der App ab.
 
-- **Internes Audit jährlich**, idealerweise vor dem Jahresbericht.
-- **Externes Audit** (z.B. von Hugo gemacht) für eine zweite Meinung — siehe [Beratung → Service-Pakete](/beratung/beratung-und-add-ons/).
-- **Lieferanten-Audit** auch ohne deren Mitwirkung machbar (Schreibtisch-Audit), aber mit Vor-Ort-Besuch viel aussagekräftiger.
+## Bericht-Stile
+
+- **GF-1-Pager:** Kennzahlen und Ampeln für die Geschäftsleitung.
+- **Audit-Report:** ausführlicher Bericht mit allen Bereichen.
+- **Behörden-Bericht:** etwa vier Seiten mit Heatmap, für die Aufsichtsbehörde.

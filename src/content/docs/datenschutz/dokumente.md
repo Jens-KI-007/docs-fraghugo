@@ -42,6 +42,17 @@ Sie brauchen eine Mitarbeiter-Einwilligung für Foto-Veröffentlichung? Eine Ver
 3. Im Editor anpassen.
 4. PDF/Word herunterladen, drucken, unterschreiben.
 
+## Elektronisch unterschreiben lassen
+
+Unter **Meine Dokumente** schicken Sie ein erstelltes Dokument mit **E-Sign anfordern** zur Unterschrift:
+
+1. E-Mail-Adresse und Namen der Person eintragen, **Link senden**.
+2. Die Person öffnet den Link (14 Tage gültig), liest das Dokument, bestätigt E-Mail-Adresse und Namen und klickt **Verbindlich unterzeichnen**.
+3. Hugo erzeugt das PDF, bildet eine SHA-256-Prüfsumme und holt einen RFC-3161-Zeitstempel. Zeitpunkt, IP-Adresse und Browser werden protokolliert.
+4. Über **Öffentlich verifizieren** lässt sich die Unterschrift später jederzeit nachprüfen.
+
+Das ist eine Unterschrift in **Textform nach § 126b BGB**. Sie reicht für Verpflichtungserklärungen, Richtlinien-Bestätigungen und die meisten Verträge ohne Formvorschrift. Eine qualifizierte elektronische Signatur (QES) bietet Hugo nicht. Wo das Gesetz Schriftform verlangt, brauchen Sie einen QES-Dienst oder eine Unterschrift auf Papier.
+
 ## Eigene Vorlagen
 
 „+ Neue Vorlage“ oben rechts — Sie können eigene Templates speichern, mit Variablen (z.B. `{{firma}}`, `{{datum}}`, `{{mitarbeitername}}`).
