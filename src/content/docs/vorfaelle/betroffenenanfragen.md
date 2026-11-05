@@ -41,7 +41,7 @@ Vier Wege, wie eine DSAR auf der Plattform landet:
 - Bei Berichtigung: Änderungsnachweis.
 
 ### 4. Sicher zustellen
-- **Secure-Reply-Portal**: Antwort liegt verschlüsselt auf einer URL, Betroffener loggt sich mit Code ein (keine personenbezogenen Daten per offener Mail!).
+- **Geschützte Antwort**: Die Antwort geht nicht als offene Mail raus. Die Person bekommt einen Link, der 7 Tage gilt; der Abruf wird mit Zeitpunkt protokolliert.
 - Alternativ: per Post.
 
 ### 5. Schließen

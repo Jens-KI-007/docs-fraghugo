@@ -1,46 +1,49 @@
 ---
-title: Public-DSAR-Portal
-description: Self-Service-Portal für Ihre Website — Betroffene reichen DSAR direkt ein. Setup in 30 Sekunden.
+title: Portal für Datenschutz-Anfragen
+description: Öffentliches Formular für Betroffenenanfragen. Per Link, Iframe oder Skript auf Ihrer Website, ohne DNS-Eintrag.
 ---
 
-![Public-DSAR-Portal Konfigurator](/screenshots/vorfaelle/public-portal.png)
+Statt einer Mailadresse, an der alle möglichen Anliegen landen, schicken Sie Betroffene auf ein **strukturiertes Formular**. Die Person wählt, was sie möchte (Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit oder Widerspruch), und die Anfrage kommt vollständig bei Ihnen an.
 
-Statt eine „Datenschutz-Kontakt“-Mailadresse, an die alle möglichen Anfragen landen, können Sie Betroffene auf ein **strukturiertes Portal** schicken. Sie wählen Antrags-Typ aus, geben strukturiert Daten ein, Sie bekommen eine saubere Anfrage im System.
+Sie erreichen die Einstellungen über **Betroffenenanfragen** und dort die Kachel **Portal für Datenschutz-Anfragen**.
 
-## Setup
+## Einrichten
 
-1. **Subdomain wählen** — z.B. `datenschutz.Ihre-firma.de`. Plattform stellt Ihnen auch eine generische bereit (`dsar.fraghugo.de/Ihre-firma`).
-2. **Branding** — Logo, Farben, Footer-Text. Sieht aus wie Ihre Website.
-3. **Formular-Felder** — Standard reicht: Name, E-Mail, Antrags-Typ, Beschreibung. Sie können zusätzliche Felder anhängen.
-4. **Verifizierungs-Methode** — Mail-Bestätigungslink (Standard) oder Ausweis-Upload (für besonders sensible Branchen).
-5. **Veröffentlichen** — Sie bekommen eine URL. Pack die in Ihre Datenschutzerklärung und in den Footer der Website.
+1. **Portal aktivieren.**
+2. **Adresse festlegen:** Ihr Portal liegt unter `https://app.fraghugo.de/m/<ihre-adresse>`. Erlaubt sind Kleinbuchstaben, Ziffern und Bindestriche.
+3. **Auftritt:** Firmenname, Logo (PNG, JPG, SVG oder WebP, bis 2 MB) und Akzentfarbe.
+4. **Links zu Datenschutzerklärung und Impressum:** Das Portal zeigt sie unter dem Formular.
+5. **Benachrichtigung:** eine oder mehrere E-Mail-Adressen, die bei jeder neuen Anfrage Bescheid bekommen.
+6. **Speichern.**
 
-Setup-Zeit: ca. 30 Sekunden bis 5 Minuten (je nachdem wie viel Sie branden).
+Eine eigene Subdomain (CNAME) gibt es nicht und ist auch nicht nötig.
 
-## So sieht's für den Betroffenen aus
+## Auf Ihrer Website einbinden
 
-1. Person geht auf `datenschutz.Ihre-firma.de`.
-2. Wählt: „Ich möchte Auskunft / Löschung / Berichtigung / Widerspruch“.
-3. Gibt Name, Mail, optional Geburtsdatum / Kundennummer ein.
-4. Erhält Verifizierungs-Mail. Klickt Link.
-5. Sieht „Eingang bestätigt. Sie hören innerhalb von 30 Tagen von uns.“
+![Drei Code-Varianten zum Kopieren: Link, Iframe und Skript](/screenshots/vorfaelle/public-portal-einbinden.png)
 
-Bei Ihnen im System: neuer DSAR-Eintrag, Status „Verifiziert“, Frist startet.
+Sobald das Portal aktiv ist, zeigt die Seite drei Varianten mit Ihrer Adresse. **kopieren** legt den Code in die Zwischenablage.
 
-## Aufsichtsbehörden Art. 77
+- **A: Link.** Für Datenschutzerklärung, Footer und Kontaktseite. Der einfachste Weg.
+- **B: Iframe mit fester Höhe.** Das Formular steht direkt auf Ihrer Seite. Für Baukästen, die keine Skripte erlauben.
+- **C: Skript (empfohlen).** Setzt das Iframe ein und passt seine Höhe automatisch an den Inhalt an, auch am Handy. Beim Wechsel zum nächsten Schritt holt es den Formularanfang ins Bild.
 
-Wenn ein Betroffener stattdessen über die Aufsichtsbehörde geht (Art. 77 — Beschwerderecht), zeigt das Portal Links zu den 16 Landesdatenschutzbeauftragten + dem BfDI. Transparenz ist Pflicht.
+Einbetten lässt sich das Portal auf jeder Seite, die per HTTPS ausgeliefert wird. Hat Ihre Website eine Content Security Policy, muss `frame-src` die Adresse `https://app.fraghugo.de` erlauben, für Variante C außerdem Inline-Skripte.
 
-## Secure-Reply
+## So sieht es für die anfragende Person aus
 
-Antworten an Betroffene gehen NICHT per offener Mail (würde wieder Datenpanne sein). Stattdessen: Hugo legt die Antwort verschlüsselt im Portal ab, Betroffener bekommt Link + Einmal-Code per Mail, loggt sich ein, sieht die Antwort. Auch Anhänge (z.B. Daten-Auszug) sind so sicher.
+1. Sie wählt, was sie möchte.
+2. Sie gibt Name, E-Mail-Adresse und Postleitzahl an und beschreibt ihr Anliegen.
+3. Optional lädt sie Nachweise hoch, zum Beispiel eine geschwärzte Ausweiskopie (bis 3 Dateien, je 5 MB).
+4. Eine Bot-Prüfung (Cloudflare Turnstile) läuft im Hintergrund.
+5. Sie bekommt eine Mail mit einem Bestätigungslink, der 7 Tage gilt.
 
-## Statistik
+Bei Ihnen erscheint eine neue [Betroffenenanfrage](/vorfaelle/betroffenenanfragen/). Antwort und Versand lassen sich erst freigeben, wenn die E-Mail-Adresse bestätigt ist.
 
-Im Portal-Dashboard sehen Sie:
-- Anfragen pro Monat (Trend)
-- Antrags-Typ-Verteilung (meiste sind Löschung, dann Auskunft, dann Berichtigung)
-- Durchschnittliche Antwortzeit
-- Verspätete Anfragen (Frist gerissen)
+## Aufsichtsbehörden (Art. 77)
 
-Wird Teil Ihres [Jahresberichts](/datenschutz/jahresbericht/).
+Das Portal nennt die für Ihr Unternehmen zuständige Aufsichtsbehörde und, anhand der Postleitzahl, die Landesbehörde am Wohnort der Person. Hinterlegt sind die 16 Landesbehörden und die Bundesbeauftragte.
+
+## Geschützte Antwort
+
+Antworten gehen nicht als offene Mail mit Anhang raus. Die Person bekommt einen Link, über den sie die Antwort abruft. Der Link gilt 7 Tage, der Abruf wird mit Zeitpunkt protokolliert.
