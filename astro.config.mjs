@@ -66,6 +66,19 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'KI-Assistent',
+					items: [
+						{ label: 'Mit Ihrem KI-Assistenten ausfüllen', slug: 'ki-assistent' },
+						{ label: 'Claude verbinden', slug: 'ki-assistent/verbinden-claude' },
+						{ label: 'ChatGPT verbinden', slug: 'ki-assistent/verbinden-chatgpt' },
+						{ label: 'Copilot verbinden', slug: 'ki-assistent/verbinden-copilot' },
+						{ label: 'Was der Assistent kann', slug: 'ki-assistent/was-der-assistent-kann' },
+						{ label: 'Beispielsätze', slug: 'ki-assistent/beispielsaetze' },
+						{ label: 'Protokoll und Rückgängig', slug: 'ki-assistent/protokoll-und-rueckgaengig' },
+						{ label: 'Datenschutz', slug: 'ki-assistent/datenschutz' },
+					],
+				},
+				{
 					label: 'Datenschutz',
 					items: [
 						{ label: 'Übersicht', slug: 'datenschutz/uebersicht' },

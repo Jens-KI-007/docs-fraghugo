@@ -3,6 +3,15 @@ title: Was ist neu
 description: Die App ist neu geordnet — Bereiche statt Einzelpunkte, „Ihr Weg“ auf der Startseite. Hier steht, wo Sie jeden bisherigen Menüpunkt finden.
 ---
 
+## November 2026: Ihr KI-Assistent füllt aus
+
+Sie können Claude oder ChatGPT (im Entwicklermodus) mit frag.hugo verbinden und im Gespräch eintragen lassen, was Ihr
+Konto in der App auch darf: Verarbeitungsverzeichnis, Dienstleister, TOMs, Mitarbeiterliste, Schulungen,
+Bestandsaufnahme und mehr. Microsoft 365 Copilot ist in Prüfung bei Microsoft. Mails an Menschen und Löschen gehen erst
+nach Ihrem Ja. Jede Änderung steht unter *Einstellungen → KI-Assistenten*, und Änderungen an Einträgen lassen sich 90
+Tage lang zurücknehmen. Ihr Datenschutzbeauftragter prüft wie
+bisher. So fangen Sie an: [Mit Ihrem KI-Assistenten ausfüllen](/ki-assistent/).
+
 ## Was sich ändert
 
 Links stehen jetzt **Bereiche** statt vieler Einzelpunkte — zum Beispiel „Unterlagen“, „Melden & Anfragen“ oder „Team & Schulung“. Auf der Startseite führt Sie **„Ihr Weg“** Schritt für Schritt durch die Einrichtung und zeigt, was als Nächstes ansteht. **Nichts ist weg:** Jede bisherige Seite gibt es weiter, nur an neuer Stelle und teils mit verständlicherem Namen.

@@ -1,0 +1,193 @@
+# frag.hugo Docs
+
+> Hilfe-Center der frag.hugo Plattform (app.fraghugo.de): Anleitungen für Datenschutz, Vorfälle, Website-Sicherheit,
+> Lieferkette, NIS2, Cyber Resilience Act, Arbeitsschutz, KI-Compliance und Schulungen. Für Kundinnen und Kunden von
+> frag.hugo, auf Deutsch.
+
+frag.hugo hat einen MCP-Server für KI-Assistenten: `https://mcp.fraghugo.de/mcp`. Ohne Konto beantwortet er Fragen zu
+DSGVO-Bußgeldern, Fristen, Aufsichtsbehörden und Software. Mit einem frag.hugo-Konto trägt der Assistent (Claude,
+ChatGPT; Microsoft 365 Copilot ist in Prüfung) Verarbeitungsverzeichnis, Dienstleister, TOMs, Mitarbeitende und Schulungen ein; der
+Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/. Produktseite: https://www.fraghugo.de/ki-assistent/
+
+## Erste Schritte
+
+- [Übersicht](https://docs.fraghugo.de/erste-schritte/uebersicht/): Account erstellen, Startseite und „Ihr Weg“ verstehen, Tarif wählen: was Sie als Erstes wissen müssen.
+- [Was ist neu](https://docs.fraghugo.de/erste-schritte/was-ist-neu/): Die App ist neu geordnet: Bereiche statt Einzelpunkte, „Ihr Weg“ auf der Startseite.
+- [Account erstellen](https://docs.fraghugo.de/erste-schritte/account-erstellen/): Registrierung, E-Mail-Bestätigung, erste Schritte.
+- [Startseite und Navigation](https://docs.fraghugo.de/erste-schritte/dashboard/): Die Startseite mit „Ihr Weg“ durch die Einrichtung, die Bereiche in der Seitenleiste, die Suche und der Schalter „Alle Funktionen“.
+- [Einstellungen](https://docs.fraghugo.de/erste-schritte/einstellungen/): Profil, Passwort, Firmendaten, Benachrichtigungen, Branding.
+- [Benachrichtigungen](https://docs.fraghugo.de/erste-schritte/notifications/): Die Glocke oben rechts: wann erscheint was, wie schalten Sie Lärm ab.
+- [Upgrade & Tarife](https://docs.fraghugo.de/erste-schritte/upgrade/): Wie Sie auf einen höheren Plan wechseln, was im Preis enthalten ist und wie das Stripe-Checkout läuft.
+- [AV-Vertrag mit frag.hugo](https://docs.fraghugo.de/erste-schritte/av-vertrag/): Den Auftragsverarbeitungsvertrag nach Art. 28 DSGVO für Hugo Safe, Hugo Learn oder beides selbst ausfüllen und als Word-Datei herunterladen.
+
+## KI-Assistent
+
+- [Mit Ihrem KI-Assistenten ausfüllen](https://docs.fraghugo.de/ki-assistent/): Verbinden Sie Claude, ChatGPT oder Microsoft 365 Copilot mit frag.hugo und lassen Sie Verarbeitungsverzeichnis, Dienstleister, TOMs, Mitarbeiterliste und Schulungen im Gespräch eintragen.
+- [Claude verbinden](https://docs.fraghugo.de/ki-assistent/verbinden-claude/): frag.hugo als Konnektor in Claude einrichten, im Browser, in der Desktop-App, auf dem Handy und in Claude Code.
+- [ChatGPT verbinden](https://docs.fraghugo.de/ki-assistent/verbinden-chatgpt/): Stand der App „frag.hugo“ in ChatGPT und wie Sie frag.hugo schon heute im Entwicklermodus als eigene App anlegen.
+- [Copilot verbinden](https://docs.fraghugo.de/ki-assistent/verbinden-copilot/): Stand des Agenten „frag.hugo Datenschutz“ für Microsoft 365 Copilot und was er nach der Freigabe kann.
+- [Was der Assistent kann](https://docs.fraghugo.de/ki-assistent/was-der-assistent-kann/): Alle Fähigkeiten des KI-Assistenten nach Bereichen, in Alltagssprache.
+- [Beispielsätze](https://docs.fraghugo.de/ki-assistent/beispielsaetze/): 30 Sätze zum Ausprobieren, nach Bereichen geordnet.
+- [Protokoll und Rückgängig](https://docs.fraghugo.de/ki-assistent/protokoll-und-rueckgaengig/): Wo Sie sehen, was Ihr KI-Assistent eingetragen, geändert oder verschickt hat, und wie Sie Änderungen in der App oder im Gespräch 90 Tage lang zurücknehmen.
+- [Datenschutz](https://docs.fraghugo.de/ki-assistent/datenschutz/): Was wohin fließt, wenn Sie Claude, ChatGPT oder Copilot mit frag.hugo verbinden, welchen Tarif Sie für Personendaten brauchen und was der Assistent nie zu sehen bekommt.
+
+## Datenschutz
+
+- [Übersicht](https://docs.fraghugo.de/datenschutz/uebersicht/): VVT, AVV, TOMs, Löschkonzept, DSFA, DSE: die Datenschutz-Pflichtmappe auf einen Blick.
+- [Bestandsaufnahme](https://docs.fraghugo.de/datenschutz/bestandsaufnahme/): Erstaudit Ihres Datenschutzes: Sie beantworten Fragen, die App bereitet Verzeichnis, Verträge, Löschfristen, Richtlinien und Maßnahmen vor, Ihr Datenschutzbeauftragter prüft und gibt frei.
+- [Verarbeitungsverzeichnis (VVT)](https://docs.fraghugo.de/datenschutz/vvt/): Pflicht-Liste aller Datenverarbeitungen nach Art. 30 DSGVO: mit KI-Vorschlägen, AVV-Verknüpfung und Behörden-Export.
+- [Auftragsverarbeiter (AVV)](https://docs.fraghugo.de/datenschutz/avv/): Externe Dienstleister mit Datenzugriff: Art. 28 DSGVO.
+- [Datenschutzerklärung](https://docs.fraghugo.de/datenschutz/dse/): Generator für die Website-Datenschutzerklärung: bleibt automatisch aktuell, wenn Sie AVV/VVT ändern.
+- [TOMs](https://docs.fraghugo.de/datenschutz/toms/): Sicherheits-Maßnahmen nach Art. 32 DSGVO: Vertraulichkeit, Integrität, Verfügbarkeit, Belastbarkeit.
+- [Löschkonzept](https://docs.fraghugo.de/datenschutz/loeschkonzept/): Aufbewahrungs- und Löschfristen für alle Datenkategorien: wann was warum gelöscht werden muss.
+- [DSFA](https://docs.fraghugo.de/datenschutz/dsfa/): Pflicht-Risiko-Analyse bei riskanten Verarbeitungen: Art. 35 DSGVO.
+- [Audits](https://docs.fraghugo.de/datenschutz/audits/): Datenschutz- und Sicherheits-Audits mit fertigen Fragenkatalogen, automatischen Maßnahmen, Fragen per Link an Externe und Re-Audits ohne Anmeldung.
+- [Dokumenten-Vorlagen](https://docs.fraghugo.de/datenschutz/dokumente/): Über 35 fertige Master-Templates für Einwilligungen, Vereinbarungen, Nachweise, Schulungs-Belege.
+- [Jahresbericht](https://docs.fraghugo.de/datenschutz/jahresbericht/): Jahresbericht aus Ihren Daten in drei Stilen, zum Drucken, Herunterladen und als Lese-Link für die Geschäftsführung.
+- [Mein Siegel](https://docs.fraghugo.de/datenschutz/siegel/): Verifiziertes Trust-Badge für Ihre Website: Sie zeigen, dass Sie Datenschutz ernst nehmen.
+
+## Vorfälle & Anfragen
+
+- [Übersicht](https://docs.fraghugo.de/vorfaelle/uebersicht/): Datenpannen, Betroffenenanfragen (DSAR), Hinweisgeber: Vorfall-Management mit harten Fristen.
+- [Datenpannen (72 h)](https://docs.fraghugo.de/vorfaelle/datenpannen/): Datenpanne dokumentieren, Schweregrad bewerten, an Behörde melden: alles mit Zeitstempel.
+- [Betroffenenanfragen (DSAR)](https://docs.fraghugo.de/vorfaelle/betroffenenanfragen/): Auskunft, Berichtigung, Löschung beantworten: 1-Monats-Frist, mit Verifizierung.
+- [Public-DSAR-Portal](https://docs.fraghugo.de/vorfaelle/public-portal/): Öffentliches Formular für Betroffenenanfragen.
+- [Hinweisgeberschutz](https://docs.fraghugo.de/vorfaelle/hinweisgeberschutz/): Internes Meldesystem nach HinSchG: anonyme Meldungen, Bearbeitungs-Frist, Schutz für Hinweisgeber.
+
+## Website & IT-Sicherheit
+
+- [Übersicht](https://docs.fraghugo.de/website-it-sicherheit/uebersicht/): DSGVO-Scanner, Monitoring, Konkurrenz-Vergleich, Bulk-Scan für Agenturen: alles um Ihre Website rechtssicher zu machen.
+- [Neuer Scan](https://docs.fraghugo.de/website-it-sicherheit/neuer-scan/): URL eingeben, 26 Prüfpunkte (bei Online-Shops 30) in unter 60 Sekunden: Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
+- [Scan-Übersicht](https://docs.fraghugo.de/website-it-sicherheit/scan-uebersicht/): Alle Scans im Blick: Score-Verlauf, Fortschritt, Nachverfolgung der Befunde.
+- [Shop-Check](https://docs.fraghugo.de/website-it-sicherheit/shop-check/): Vier Prüfpunkte für Online-Shops: EU-Gewährleistungslabel, Umweltaussagen, Produktsicherheit und KI-Hinweis am Chat.
+- [Trust-Badge einbinden](https://docs.fraghugo.de/website-it-sicherheit/trust-badge/): Schritt-für-Schritt-Anleitung: von der Anmeldung über den DSGVO-Scan bis zum eingebauten "Datenschutz geprüft"-Siegel im Footer.
+- [Monitoring](https://docs.fraghugo.de/website-it-sicherheit/monitoring/): Automatischer Re-Scan in Intervallen: Sie werden benachrichtigt, wenn der Score sinkt oder neue Tracker erscheinen.
+- [Agentur-Bereich](https://docs.fraghugo.de/website-it-sicherheit/agentur-bereich/): Spezielles Dashboard für Agenturen: alle Kunden-Websites auf einen Blick, Whitelabel-Reports.
+- [Bulk-Scan](https://docs.fraghugo.de/website-it-sicherheit/bulk-scan/): Bis zu 100 Websites parallel scannen: CSV-Upload, Ergebnis als Excel.
+- [Konkurrenz-Vergleich](https://docs.fraghugo.de/website-it-sicherheit/konkurrenz-vergleich/): Ihre Website neben Wettbewerbern: Score-Vergleich, Tracker-Vergleich, wer ist sauberer.
+- [API-Zugang](https://docs.fraghugo.de/website-it-sicherheit/api-zugang/): Eigene Integration ins CRM oder Reporting: Scan-API, Webhooks, OpenAPI-Spec.
+
+## Lieferkette
+
+- [Übersicht](https://docs.fraghugo.de/lieferkette/uebersicht/): Self-Assessment als Lieferant oder Zulieferer-Verwaltung als Auftraggeber: beides in einem Modul.
+- [Sicherheitsprofil](https://docs.fraghugo.de/lieferkette/sicherheitsprofil/): Eine Adresse, an der Ihre Auftraggeber die immer gleichen Sicherheitsfragen beantwortet finden: aus den Daten, die Sie ohnehin in der Plattform pflegen.
+- [Fragebögen beantworten](https://docs.fraghugo.de/lieferkette/fragebogen-beantworten/): Sicherheitsfragebogen hochladen, Spalten zuordnen, Antworten aus den eigenen Nachweisen erzeugen lassen, prüfen, freigeben, zurückexportieren: mit Quelle je Antwort und Hinweis nach Art. 50 Abs. 2 KI-VO.
+- [Mein Score](https://docs.fraghugo.de/lieferkette/mein-score/): Ihr Sicherheits-Profil als Lieferant: Score, Zertifikate, Self-Assessment-Resultate teilen.
+- [Self-Assessment](https://docs.fraghugo.de/lieferkette/self-assessment/): 50-Fragen-Fragebogen zur Sicherheits-Selbstbewertung: speichern, später weitermachen, KI-Hilfe.
+- [Auftraggeber-Dashboard](https://docs.fraghugo.de/lieferkette/dashboard/): Alle Ihre Zulieferer auf einen Blick: Scores, Risiken, fällige Re-Assessments.
+- [Profile lesen (Auftraggeber)](https://docs.fraghugo.de/lieferkette/fuer-auftraggeber-profile/): Wie Sie das Sicherheitsprofil eines Zulieferers lesen, was die Sichtbarkeitsstufen für Sie bedeuten, wie Sie das JSON in Ihren Prüfprozess übernehmen: und warum ein Profil eine Prüfung nicht ersetzt.
+- [Zulieferer verwalten](https://docs.fraghugo.de/lieferkette/zulieferer/): Lieferanten einladen, deren Profil prüfen, Re-Assessment anstoßen, Risiko-Klasse pflegen.
+- [Eigene Fragen](https://docs.fraghugo.de/lieferkette/eigene-fragen/): Standard-Fragebogen mit eigenen Fragen erweitern: z.B. branchen-spezifisch oder regulatorisch.
+- [Reports](https://docs.fraghugo.de/lieferkette/reports/): Compliance-Reports zum Versenden: Audit-Vorlage, Management-One-Pager, NIS2-Lieferantenbericht.
+
+## ISMS / NIS2
+
+- [Übersicht](https://docs.fraghugo.de/isms-nis2/uebersicht/): Informationssicherheits-Managementsystem mit allem was NIS2 / ISO 27001 verlangt: strukturiert in 11 Bausteinen.
+- [Hugo NIS2 Basis](https://docs.fraghugo.de/isms-nis2/nis2-basis/): Was Hugo NIS2 Basis abdeckt, was Hugo ISMS vorbehalten bleibt: und wie Sie zwischen beiden wechseln.
+- [Asset-Register](https://docs.fraghugo.de/isms-nis2/asset-register/): Alle Werte, die Sie schützen müssen: Hardware, Software, Daten, Prozesse, Menschen.
+- [Schutzbedarf](https://docs.fraghugo.de/isms-nis2/schutzbedarf/): Pro Asset die drei Dimensionen Vertraulichkeit, Integrität, Verfügbarkeit einschätzen.
+- [Risiko-Register](https://docs.fraghugo.de/isms-nis2/risiko-register/): Bedrohungen pro Asset identifizieren, bewerten, priorisieren.
+- [Maßnahmen](https://docs.fraghugo.de/isms-nis2/massnahmen/): Schutzmaßnahmen pro Risiko: aus BSI-Grundschutz / ISO 27001 Anhang A, plus eigene.
+- [Richtlinien](https://docs.fraghugo.de/isms-nis2/richtlinien/): Schriftliche Sicherheitsregeln Ihrer Firma: Passwort, Backup, Notfall, Off-Boarding, ...
+- [NIS2-Vorfälle](https://docs.fraghugo.de/isms-nis2/nis2-vorfaelle/): Schwerwiegende Sicherheitsvorfälle nach NIS2: 24-h-Erstmeldung, 72-h-Update, 1-Monat-Abschlussbericht.
+- [ISMS-Reports](https://docs.fraghugo.de/isms-nis2/isms-reports/): Management-Reports, Audit-Vorbereitungen, BSI-Berichte, ISO-27001-Statement of Applicability.
+- [NIS2-Dashboard](https://docs.fraghugo.de/isms-nis2/nis2-dashboard/): Ihr NIS2-Compliance-Stand auf einen Blick: Pflichten, Lücken, nächste Schritte.
+- [BSI-Registrierung](https://docs.fraghugo.de/isms-nis2/bsi-registrierung/): Pflicht-Anmeldung bei BSI nach NIS2: wer, wann, wie.
+- [Schulung der Geschäftsleitung](https://docs.fraghugo.de/isms-nis2/gf-schulung/): Personen einladen, Schulung absolvieren, Nachweis-Paket erzeugen: und was das BSI von der Dokumentation erwartet.
+
+## Hersteller & CRA
+
+- [Übersicht](https://docs.fraghugo.de/hersteller-cra/uebersicht/): Was der Bereich abdeckt, was Hugo ISMS vorbehalten bleibt, was er kostet: und was wir ausdrücklich nicht für Sie tun.
+- [Hersteller-Check](https://docs.fraghugo.de/hersteller-cra/hersteller-check/): Neun Fragen zu Rolle, Produktklasse und Pflichten: wie das Ergebnis zu lesen ist und wo seine Grenzen liegen.
+- [Produktregister](https://docs.fraghugo.de/hersteller-cra/produktregister/): Stammdaten je Produkt, Unterstützungszeitraum nach Art. 13 Abs. 8, Konformitätswege und die Frage, wo bei Software eigentlich das CE-Zeichen hinkommt.
+- [SBOM-Import](https://docs.fraghugo.de/hersteller-cra/sbom-import/): CycloneDX und SPDX einlesen, Grenzen des Imports, warum manche Komponenten nicht überwacht werden können: und wie die Datei in der Pipeline entsteht.
+- [Meldung erstellen](https://docs.fraghugo.de/hersteller-cra/meldung-erstellen/): Die vier Stufen einer CRA-Meldung, was in welche gehört, wohin sie geht, wie der Export in die Meldeplattform kommt und was „als eingereicht markieren" bedeutet.
+- [Bereitschaft](https://docs.fraghugo.de/hersteller-cra/bereitschaft/): Wer meldet, wer vertritt, wer entscheidet: Rollen besetzen, Erreichbarkeit außerhalb der Geschäftszeiten einstellen und mit einer Testmail prüfen, ob die Wege funktionieren.
+- [Richtlinien, CVD & security.txt](https://docs.fraghugo.de/hersteller-cra/richtlinien-cvd-security-txt/): Schwachstellen-Handhabungsrichtlinie, Strategie zur koordinierten Offenlegung, öffentliche CVD-Seite, security.txt einbauen: und der Kontaktweg, der nicht automatisiert sein darf.
+- [Fristen](https://docs.fraghugo.de/hersteller-cra/fristen/): Der Fristenkalender je Produkt, ICS-Export: und woher jeder Termin stammt.
+- [Prozessnachweis](https://docs.fraghugo.de/hersteller-cra/prozessnachweis/): Was im Nachweis-Paket steht, wie das Ereignisprotokoll mit seiner Hash-Kette funktioniert: und was ein solcher Nachweis belegt und was nicht.
+
+## Arbeitsschutz
+
+- [Übersicht](https://docs.fraghugo.de/arbeitsschutz/): Jährliche Pflicht-Unterweisungen im Arbeits- und Brandschutz online erledigen: DGUV-konform als Blended Learning, mit revisionssicherem Nachweis-Dossier für die Berufsgenossenschaft.
+- [Modulkatalog](https://docs.fraghugo.de/arbeitsschutz/modulkatalog/): Alle 156 Unterweisungen von Hugo Safe, sortiert nach 13 Branchen: mit Tarif-Zuordnung und Verweis auf den filterbaren Vollkatalog.
+- [Mitarbeiter anlegen & zuweisen](https://docs.fraghugo.de/arbeitsschutz/mitarbeiter-anlegen-zuweisen/): Beschäftigte in Hugo Safe importieren, Tätigkeitsbereiche festlegen und die Pflicht-Unterweisungen automatisch nach Büro, Lager, Fahrer oder Branche zuweisen.
+- [Unterweisung durchführen](https://docs.fraghugo.de/arbeitsschutz/unterweisung-durchfuehren/): Wie ein Mitarbeiter eine Arbeitsschutz-Unterweisung in Hugo Safe absolviert: vom Erklär-Einstieg über die Lern-Screens bis zur aktiven Verstanden-Bestätigung.
+- [Abschlusstest & Zertifikat](https://docs.fraghugo.de/arbeitsschutz/abschlusstest-zertifikat/): Verständnisprüfung mit 80-%-Bestehensgrenze, aktive Verstanden-Bestätigung und Zertifikat: die Bausteine, die jede Unterweisung in Hugo Safe nachweisbar machen.
+- [Nachweis-Dossier](https://docs.fraghugo.de/arbeitsschutz/nachweis-dossier/): Das revisionssichere PDF für die Berufsgenossenschaft: wer wann welche Unterweisung absolviert hat, mit Datum, Testergebnis und aktiver Bestätigung.
+- [Jahres-Erinnerung](https://docs.fraghugo.de/arbeitsschutz/jahres-erinnerung/): Automatische Erinnerung, wenn eine Pflicht-Unterweisung wieder fällig wird: damit Sie die jährliche Frist nach § 12 ArbSchG und § 4 DGUV Vorschrift 1 nie verpassen.
+- [KI-Erklärvideos](https://docs.fraghugo.de/arbeitsschutz/ki-videos/): Deutschsprachige Erklärvideos im Komplett-Tarif von Hugo Safe: sie holen auch Mitarbeiter ohne Lese-Routine ab und machen jede Unterweisung verständlicher.
+- [Gefährdungsbeurteilung verknüpfen](https://docs.fraghugo.de/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/): Unterweisungen in Hugo Safe an die Gefährdungsbeurteilung anbinden: mit klarer Abgrenzung: Hugo Safe ergänzt die Gefährdungsbeurteilung nach § 5 ArbSchG, ersetzt sie aber nicht.
+- [Rechtliche Hinweise](https://docs.fraghugo.de/arbeitsschutz/rechtliche-hinweise/): Rechtsgrundlagen rund um Hugo Safe: DGUV Regel 100-001-Kriterien für Online-Unterweisungen, Präsenz- und mündliche Pflichten, Aufbewahrung sowie die Paragrafen § 12, § 5, § 13 und § 25 ArbSchG.
+
+## KI-Compliance
+
+- [Übersicht](https://docs.fraghugo.de/ki-compliance/uebersicht/): AI Act umsetzen: KI-Register, Risiko-Klassifizierung, Doku-Pflichten für Hochrisiko-Systeme.
+- [KI-Register](https://docs.fraghugo.de/ki-compliance/ki-register/): Inventar aller KI-Systeme Ihrer Firma: Anbieter, Zweck, Risiko-Klasse, Betroffene.
+- [Schatten-KI-Radar](https://docs.fraghugo.de/ki-compliance/schatten-ki-radar/): Aus dem angebundenen Microsoft-365-Mandanten lesen, welche KI-Dienste mit Firmenkonten verbunden sind: Voraussetzungen, Berechtigungen, Funde, Personenbezug und Betriebsrat.
+- [Klassifizierung](https://docs.fraghugo.de/ki-compliance/klassifizierung/): Pro KI-System die Risiko-Klasse nach AI Act bestimmen: Verboten / Hochrisiko / Begrenzt / Minimal.
+- [KI-Dokumente](https://docs.fraghugo.de/ki-compliance/ki-dokumente/): Pflicht-Dokumentation für Hochrisiko-KI: Konformitätsbewertung, Logging, Risiko-Management.
+- [FRIA (Grundrechte, Art. 27)](https://docs.fraghugo.de/ki-compliance/fria/): Geführter Wizard für die Grundrechte-Folgenabschätzung nach Art. 27 EU-KI-VO: mit Betroffenheitscheck, allen Pflichtinhalten und PDF-Export.
+
+## Schulungen
+
+- [Übersicht](https://docs.fraghugo.de/schulungen/uebersicht/): Hugo Learn, Phishing-Simulation, M365-Integration: Mitarbeiter-Awareness automatisiert.
+- [Hugo Learn](https://docs.fraghugo.de/schulungen/hugo-learn/): 31 Module zu Datenschutz, Cyber-Sicherheit und KI: mit Quiz, Zertifikat und monatlicher KI-Lektion.
+- [Fortschritt im Blick](https://docs.fraghugo.de/schulungen/uebersicht-schulungen/): Wer hat welchen Kurs absolviert, wer ist überfällig: die Audit-Sicht aller Mitarbeiter.
+- [Mitarbeiter verwalten](https://docs.fraghugo.de/schulungen/mitarbeiter/): Mitarbeiter anlegen, Kurse zuweisen, einladen, Status verfolgen.
+- [Phishing-Simulation](https://docs.fraghugo.de/schulungen/phishing-simulation/): Live-Test mit gefälschten Phishing-Mails: wer klickt?
+- [Anruf-Drills](https://docs.fraghugo.de/schulungen/anruf-drills/): Vishing- und Deepfake-Training im Browser: vier Minuten, verzweigte Szene, KI-Stimme.
+- [Unterweisungs-Baukasten (KI)](https://docs.fraghugo.de/schulungen/unterweisungs-baukasten/): Eigene Unterweisungen mit KI-Hilfe erstellen: Stichpunkte oder vorhandenes Dokument rein, fertige interaktive Unterweisung mit Quiz raus.
+- [M365-Integration](https://docs.fraghugo.de/schulungen/m365-integration/): Mitarbeiter automatisch aus Microsoft 365 synchronisieren: keine manuelle Liste mehr pflegen.
+- [Ihre Beschäftigten schulen](https://docs.fraghugo.de/schulungen/beschaeftigte-schulen/): Was Ihre Mitarbeitenden bekommen, was von selbst läuft und an wen Sie sich wenden.
+
+## Hugo Phish (Phishing-Simulation)
+
+- [Übersicht](https://docs.fraghugo.de/hugo-phish/uebersicht/): Phishing-Simulation für deutsche Unternehmen: Programm läuft von allein, Betriebsrat sagt ja, Prüfer bekommt sein PDF.
+- [Schnellstart](https://docs.fraghugo.de/hugo-phish/schnellstart/): In fünf Schritten von null zur ersten sicher zugestellten Phishing-Simulation.
+- [Zustellbarkeit einrichten](https://docs.fraghugo.de/hugo-phish/zustellbarkeit/): Simulations-Mails ausdrücklich erlauben, damit sie im Posteingang ankommen und nicht in der Quarantäne landen.
+- [Jahresprogramm](https://docs.fraghugo.de/hugo-phish/programm/): Der Autopilot: Rhythmus, gestaffelter Versand, Sperrzeiten, Ausnahmen.
+- [Betriebsrat & Datenschutz](https://docs.fraghugo.de/hugo-phish/betriebsrat/): Anonymität technisch erzwungen, Musterbetriebsvereinbarung, verifizierte Rechtsgrundlagen.
+- [Berichte & Nachweis](https://docs.fraghugo.de/hugo-phish/berichte/): Report-PDF und Audit-Paket für NIS2, ISO 27001, DSGVO Art. 32 und § 391 SGB V.
+- [Meldebutton (Outlook)](https://docs.fraghugo.de/hugo-phish/meldebutton/): Ein-Klick-Meldung im Postfach ausrollen: erkennt Simulationen automatisch, leitet echte Verdachtsmails an die IT weiter.
+- [Häufige Fragen](https://docs.fraghugo.de/hugo-phish/faq/): Kurz beantwortet: Zustellung, Datenschutz, Betriebsrat, Nachweis.
+
+## Für Schulen & Träger
+
+- [Übersicht](https://docs.fraghugo.de/schulen/uebersicht/): Wie Schulen und Schulträger ihre Pflichtunterweisungen in frag.hugo organisieren: mehrere Schulen getrennt verwalten, Schüler-Unterweisungen protokollieren und Nachweise je Schule abrufen.
+- [Meine Schule (Träger)](https://docs.fraghugo.de/schulen/meine-schule/): Mehrere Schulen als getrennte Einheiten verwalten, Schulleitungen als Sub-Administratoren ernennen und den Unterweisungs-Stand samt Nachweis-Dossier je Schule abrufen.
+- [Mitarbeiter per CSV importieren](https://docs.fraghugo.de/schulen/csv-import/): Ganze Kollegien auf einmal anlegen: mit Schule und Bereich pro Person.
+- [Klassen & Schüler-Unterweisungen](https://docs.fraghugo.de/schulen/klassen-schueler/): Sicherheitsbelehrungen ganzer Klassen protokollieren: jährlich und vor Experimenten: und als revisionssicheren Klassenbuch-Nachweis mit Namensliste exportieren.
+- [Barrierefreiheit (BITV 2.0)](https://docs.fraghugo.de/schulen/barrierefreiheit/): Die Schul-Flows der frag.hugo-Plattform sind auf BITV 2.0 / WCAG 2.1 AA ausgelegt: wichtig für öffentliche Schulen und Ausschreibungen.
+
+## Beratung & Add-Ons
+
+- [Übersicht](https://docs.fraghugo.de/beratung/uebersicht/): Beratungsstunden-Kontingent, Add-Ons buchen, Reifegrad-Check: alles rund um persönliche Hilfe.
+- [Beratungsstunden & Add-Ons](https://docs.fraghugo.de/beratung/beratung-und-add-ons/): Ihr Beratungsstunden-Kontingent, Verbrauch im Blick behalten, Stundenpakete und Service-Pakete nachbuchen.
+- [Reifegrad-Check](https://docs.fraghugo.de/beratung/reifegrad-check/): 25 Fragen, am Ende ein Score 0–100 und eine konkrete Tarif-Empfehlung.
+
+## Für Mitarbeiter
+
+- [Übersicht](https://docs.fraghugo.de/fuer-mitarbeiter/uebersicht/): Ihr Arbeitgeber hat Sie auf die Plattform eingeladen?
+- [Schulung machen](https://docs.fraghugo.de/fuer-mitarbeiter/schulung-machen/): Wie Sie eine zugewiesene Schulung starten, durchgehen und abschließen.
+- [Anruf-Drill machen](https://docs.fraghugo.de/fuer-mitarbeiter/anruf-drill/): Eine Übung zu Anrufbetrug: vier Minuten im Browser.
+- [Quiz bestehen](https://docs.fraghugo.de/fuer-mitarbeiter/quiz-bestehen/): Wie das Abschlussquiz abläuft, wie viele Versuche Sie haben und was passiert, wenn Sie durchfallen.
+- [Zertifikat holen](https://docs.fraghugo.de/fuer-mitarbeiter/zertifikat/): Nach bestandenem Quiz gibt es ein Zertifikat als PDF: wo der Button steckt, was auf dem Dokument steht und wie Dritte seine Echtheit prüfen.
+- [Datenpanne melden](https://docs.fraghugo.de/fuer-mitarbeiter/datenpanne-melden/): Was eine Datenpanne ist, wann Sie melden müssen und wie die Meldung in zwei Minuten raus ist.
+
+## Für Partner (Systemhäuser)
+
+- [Übersicht](https://docs.fraghugo.de/partner/uebersicht/): IT-Systemhäuser, Webdesign-Agenturen und Datenschutz-Berater verdienen mit frag.hugo Provision: DATEV-konform, ohne Vertriebsaufwand.
+- [Empfehlungs-Programm](https://docs.fraghugo.de/partner/empfehlungs-programm/): Wie Mitarbeiter eines IT-Systemhauses Datenschutz-Mandanten an frag.hugo empfehlen, eine 12-monatige Provision verdienen und alles DATEV-konform per Lohnabrechnung läuft.
+- [Kunden registrieren](https://docs.fraghugo.de/partner/kunden-registrieren/): Als Partner einen Kunden im Portal anlegen: welche Angaben nötig sind, wann die Erst-Mail rausgeht und wie es danach weitergeht.
+- [Awareness: Kunden anlegen](https://docs.fraghugo.de/partner/awareness-kunden-anlegen/): Was Sie brauchen, um einen Kunden für Security-Awareness einzurichten, wie lange es dauert und was der Kunde danach bekommt.
+- [Awareness: Verkaufsleitfaden](https://docs.fraghugo.de/partner/awareness-verkaufsleitfaden/): Die sechs Argumente in der Reihenfolge, die funktioniert, plus die Zahlen, mit denen Sie beim Kunden rechnen.
+- [Awareness: Zustellung sicherstellen](https://docs.fraghugo.de/partner/awareness-zustellung/): Allowlisting in Microsoft 365 und Google Workspace, Prüfmail und was zu tun ist, wenn Übungs-Mails im Spam landen.
+- [Awareness: Support-Fälle](https://docs.fraghugo.de/partner/awareness-support/): Einladung erneut senden, Person deaktivieren, Plätze aufstocken: und woran Sie erkennen, wann frag.hugo übernimmt.
+
+## FAQ
+
+- [Preise & Abrechnung](https://docs.fraghugo.de/faq/preise/): Was kostet was, wie wird abgerechnet, wann kann ich kündigen.
+- [Datenschutz & Sicherheit](https://docs.fraghugo.de/faq/datenschutz/): Wo werden Daten gehostet, wer hat Zugriff, was passiert bei Kündigung.
+- [Technische Fragen](https://docs.fraghugo.de/faq/technik/): Browser-Support, App, Sprache, Single-Sign-On, Browser-Performance.
+- [Hersteller & CRA](https://docs.fraghugo.de/faq/hersteller-cra/): Kenntnisnahme, gerissene 24-Stunden-Frist, wer meldet, SBOM veröffentlichen, Bestandsprodukte, Open Source: die Fragen, die vor dem ersten Fall kommen.
