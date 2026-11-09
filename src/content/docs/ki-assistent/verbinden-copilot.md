@@ -9,7 +9,7 @@ Der Agent „frag.hugo Datenschutz“ für Microsoft 365 Copilot ist in Prüfung
 ihn im Agent Store mit einem Klick hinzu, und die Verwaltung Ihres Microsoft-365-Mandanten kann ihn für alle in der
 Firma freigeben. Diese Seite wird dann um die einzelnen Schritte ergänzt.
 
-Bis dahin nutzen Sie frag.hugo mit [Claude](/ki-assistent/verbinden-claude/) oder im Entwicklermodus von
+Bis dahin nutzen Sie frag.hugo mit [Claude](/ki-assistent/verbinden-claude/) oder als Plugin in
 [ChatGPT](/ki-assistent/verbinden-chatgpt/).
 
 ## Was der Agent kann

@@ -3,12 +3,14 @@ title: Mit Ihrem KI-Assistenten ausfüllen
 description: Verbinden Sie Claude, ChatGPT oder Microsoft 365 Copilot mit frag.hugo und lassen Sie Verarbeitungsverzeichnis, Dienstleister, TOMs, Mitarbeiterliste und Schulungen im Gespräch eintragen. Ihr Datenschutzbeauftragter prüft wie bisher.
 ---
 
-Sie können Ihren eigenen KI-Assistenten mit frag.hugo verbinden: Claude, ChatGPT im Entwicklermodus und, nach der
+Sie können Ihren eigenen KI-Assistenten mit frag.hugo verbinden: Claude, ChatGPT (als eigenes Plugin) und, nach der
 Freigabe durch Microsoft, Microsoft 365 Copilot. Danach sagen Sie ihm in normalen Sätzen, was eingetragen werden soll, und er legt die Einträge in Ihrem frag.hugo-Konto an.
 Statt Formulare an drei Abenden auszufüllen, erzählen Sie von Ihrer Firma, und der Assistent fragt nach, was noch fehlt.
 
 Was Sie zur Prüfung einreichen, landet bei Ihrem Datenschutzbeauftragten auf demselben Weg wie ein Eintrag aus der
 App. Er gibt frei oder fragt nach.
+
+![Ein Gespräch in Claude: Auf die Frage „Was ist bei uns im Datenschutz als Nächstes dran?“ nennt Claude aus frag.hugo den nächsten Schritt mit Link und den aktuellen Stand](/screenshots/ki-assistent/claude-gespraech-ergebnis.png)
 
 ## Was der Assistent für Sie eintragen kann
 

@@ -15,11 +15,13 @@ Einträge in Ihrem Konto entstehen, schickt Claude Sie einmal zur Anmeldung bei 
 
 ## Claude im Browser, in der Desktop-App und auf dem Handy
 
-1. Öffnen Sie in Claude die **Einstellungen** und dort **Konnektoren**.
-2. Wählen Sie **Benutzerdefinierten Konnektor hinzufügen**. Als Namen tragen Sie „frag.hugo“ ein, als Adresse
-   `https://mcp.fraghugo.de/mcp`.
-3. Stellen Sie im Gespräch eine Frage, zum Beispiel „Was fehlt bei uns noch im Datenschutz?“. Braucht Claude dafür Ihr
-   Konto, öffnet sich die Anmeldung bei frag.hugo.
+1. Öffnen Sie in Claude links **Anpassen** und dort **Konnektoren**.
+2. Wählen Sie **Hinzufügen** und dann **Benutzerdefinierten Konnektor hinzufügen**. Als Namen tragen Sie „frag.hugo“
+   ein, als Adresse `https://mcp.fraghugo.de/mcp`, und bestätigen mit **Weiter**.
+3. Mit **Verbinden** öffnet sich die Anmeldung bei frag.hugo (siehe unten). Danach steht frag.hugo in der Liste Ihrer
+   Konnektoren.
+
+![Claude: Fenster „Benutzerdefinierten Konnektor hinzufügen“ mit dem Namen frag.hugo und der Adresse https://mcp.fraghugo.de/mcp](/screenshots/ki-assistent/claude-konnektor-hinzufuegen.png)
 
 Einen Konnektor, den Sie im Browser eingerichtet haben, nutzt Claude auch in der Desktop-App und auf dem Handy.
 
@@ -34,6 +36,8 @@ Passwort, Google oder Microsoft. Danach sehen Sie die Seite **KI-Assistent verbi
 - welches Programm zugreifen möchte,
 - was der Assistent darf, in Alltagssprache (zum Beispiel „Ihre Einträge lesen“ und „Einträge anlegen und ändern“),
 - für welche Firma die Verbindung gilt. Gehören Sie zu mehreren Firmen, wählen Sie hier eine aus.
+
+![Die Seite „KI-Assistent verbinden“: claude.ai möchte auf frag.hugo zugreifen, mit den Rechten in Alltagssprache, der Firma und den Knöpfen Ablehnen und Erlauben](/screenshots/ki-assistent/anmeldung-ki-assistent-verbinden.png)
 
 Mit **Erlauben** ist Claude verbunden, mit **Ablehnen** passiert nichts. Danach können Sie das Fenster schließen und im
 Gespräch weitermachen.
@@ -77,5 +81,14 @@ auf derselben Seite, siehe [Protokoll und Rückgängig](/ki-assistent/protokoll-
 
 ## Erster Satz zum Ausprobieren
 
-„Was ist bei uns im Datenschutz als Nächstes dran?“ Claude liest dann Ihren Stand in „Ihr Weg“ und nennt den
-nächsten Schritt mit Link in die App. Weitere Sätze: [Beispielsätze](/ki-assistent/beispielsaetze/).
+„Was ist bei uns im Datenschutz als Nächstes dran?“ Bevor Claude ein Werkzeug von frag.hugo benutzt, fragt es Sie.
+Mit **Einmal erlauben** gilt die Erlaubnis für diesen Aufruf, mit **Immer erlauben** fragt Claude bei diesem Werkzeug
+nicht mehr nach.
+
+![Claude fragt: „Claude möchte What's next (Ihr Weg) von frag.hugo verwenden“, mit den Knöpfen Ablehnen, Immer erlauben und Einmal erlauben](/screenshots/ki-assistent/claude-werkzeug-erlauben.png)
+
+Claude liest dann Ihren Stand in „Ihr Weg“ und nennt den nächsten Schritt mit Link in die App.
+
+![Claudes Antwort: nächster Schritt „Firmenangaben und Betriebsprofil“ mit Link, dazu der Stand: 7 von 28 Pflichtschritten erledigt, keine offenen Fristen, 8 Verarbeitungstätigkeiten beim Datenschutzbeauftragten zur Prüfung](/screenshots/ki-assistent/claude-gespraech-ergebnis.png)
+
+Weitere Sätze: [Beispielsätze](/ki-assistent/beispielsaetze/).

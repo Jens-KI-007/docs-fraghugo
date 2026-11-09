@@ -1,6 +1,6 @@
 ---
 title: ChatGPT verbinden
-description: Stand der App „frag.hugo“ in ChatGPT und wie Sie frag.hugo schon heute im Entwicklermodus als eigene App anlegen.
+description: Stand der App „frag.hugo“ in ChatGPT und wie Sie frag.hugo schon heute als eigenes Plugin in ChatGPT hinzufügen.
 ---
 
 ## Stand
@@ -8,25 +8,25 @@ description: Stand der App „frag.hugo“ in ChatGPT und wie Sie frag.hugo scho
 Die App „frag.hugo“ für ChatGPT ist bei OpenAI in Prüfung. Nach der Freigabe finden Sie sie im App-Verzeichnis von
 ChatGPT und fügen sie mit einem Klick hinzu. Diese Seite wird dann ergänzt.
 
-Bis dahin geht es über den **Entwicklermodus** von ChatGPT. Dort legen Sie frag.hugo selbst als eigene App an und
-haben sofort alle Werkzeuge, die auch Claude bekommt.
+Bis dahin fügen Sie frag.hugo in ChatGPT selbst als Plugin hinzu. Das geht auch im kostenlosen Konto, und Sie haben
+sofort alle Werkzeuge, die auch Claude bekommt.
 
-## Im Entwicklermodus einrichten
+## Als Plugin hinzufügen
 
-1. Schalten Sie in den Einstellungen von ChatGPT bei den Apps den Entwicklermodus ein. Ob er in Ihrem Tarif und
-   Arbeitsbereich angeboten wird, legt OpenAI fest; in Firmen-Arbeitsbereichen kann die Verwaltung ihn freigeben
-   oder sperren.
-2. Legen Sie eine neue App an. Name: „frag.hugo“, Adresse des Servers:
+1. Öffnen Sie in ChatGPT den Bereich **Plugins** und wählen Sie **Hinzufügen** und dann **Benutzerdefinierten
+   MCP-Server hinzufügen**. In Firmen-Arbeitsbereichen kann die Verwaltung das freigeben oder sperren.
+2. Name: „frag.hugo“, Server-Adresse:
 
    ```
    https://mcp.fraghugo.de/mcp
    ```
 
-   Als Anmeldung wählen Sie OAuth.
-3. ChatGPT öffnet die Anmeldung bei frag.hugo. Sie sehen die Seite **KI-Assistent verbinden** mit den Rechten in
-   Alltagssprache und der Firma, für die die Verbindung gilt. Mit **Erlauben** ist ChatGPT verbunden.
-4. Wählen Sie die App im Gespräch aus und sagen Sie, was zu tun ist, zum Beispiel: „Was ist bei uns im Datenschutz als
-   Nächstes dran?“
+   Als Authentifizierung wählen Sie OAuth. ChatGPT zeigt einen Hinweis zu selbst hinzugefügten Servern; bestätigen
+   Sie ihn und wählen Sie **Als Plugin erstellen**.
+3. Mit **frag.hugo verbinden** öffnet ChatGPT die Anmeldung bei frag.hugo. Sie sehen die Seite **KI-Assistent
+   verbinden** mit den Rechten in Alltagssprache und der Firma, für die die Verbindung gilt. Mit **Erlauben** ist
+   ChatGPT verbunden, und frag.hugo steht unter den installierten Plugins.
+4. Sagen Sie im Gespräch, was zu tun ist, zum Beispiel: „Was ist bei uns im Datenschutz als Nächstes dran?“
 
 Die Anmeldeseite ist dieselbe wie bei Claude. Was dort zu beachten ist (zehn Minuten Zeit, zweiter Faktor, keine
 Anmeldung über das Firmenkonto per SSO), steht unter [Claude verbinden](/ki-assistent/verbinden-claude/#die-anmeldung-bei-fraghugo).
