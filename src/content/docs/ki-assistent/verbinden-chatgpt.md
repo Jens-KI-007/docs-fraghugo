@@ -28,6 +28,10 @@ sofort alle Werkzeuge, die auch Claude bekommt.
    ChatGPT verbunden, und frag.hugo steht unter den installierten Plugins.
 4. Sagen Sie im Gespräch, was zu tun ist, zum Beispiel: „Was ist bei uns im Datenschutz als Nächstes dran?“
 
+   ChatGPT holt sich den Stand aus frag.hugo und antwortet mit Ihren echten Zahlen:
+
+   ![ChatGPT-Antwort mit dem Stand aus frag.hugo: 1 von 9 Schritten erledigt, eine Tabelle mit Firmenangaben, Datenschutz-Ansprechperson (erledigt), Bestandsaufnahme (offen), 15 Verarbeitungstätigkeiten, davon 8 unvollständig, 13 Auftragsverarbeiter, 7 von 14 Maßnahmen bewertet](/screenshots/ki-assistent/chatgpt-gespraech-ergebnis.png)
+
 Die Anmeldeseite ist dieselbe wie bei Claude. Was dort zu beachten ist (zehn Minuten Zeit, zweiter Faktor, keine
 Anmeldung über das Firmenkonto per SSO), steht unter [Claude verbinden](/ki-assistent/verbinden-claude/#die-anmeldung-bei-fraghugo).
 
