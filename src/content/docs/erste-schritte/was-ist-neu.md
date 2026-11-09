@@ -5,7 +5,7 @@ description: Die App ist neu geordnet — Bereiche statt Einzelpunkte, „Ihr We
 
 ## November 2026: Ihr KI-Assistent füllt aus
 
-Sie können Claude oder ChatGPT (im Entwicklermodus) mit frag.hugo verbinden und im Gespräch eintragen lassen, was Ihr
+Sie können Claude oder ChatGPT mit frag.hugo verbinden und im Gespräch eintragen lassen, was Ihr
 Konto in der App auch darf: Verarbeitungsverzeichnis, Dienstleister, TOMs, Mitarbeiterliste, Schulungen,
 Bestandsaufnahme und mehr. Microsoft 365 Copilot ist in Prüfung bei Microsoft. Mails an Menschen und Löschen gehen erst
 nach Ihrem Ja. Jede Änderung steht unter *Einstellungen → KI-Assistenten*, und Änderungen an Einträgen lassen sich 90
