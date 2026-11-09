@@ -24,7 +24,7 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 
 - [Mit Ihrem KI-Assistenten ausfüllen](https://docs.fraghugo.de/ki-assistent/): Verbinden Sie Claude, ChatGPT oder Microsoft 365 Copilot mit frag.hugo und lassen Sie Verarbeitungsverzeichnis, Dienstleister, TOMs, Mitarbeiterliste und Schulungen im Gespräch eintragen.
 - [Claude verbinden](https://docs.fraghugo.de/ki-assistent/verbinden-claude/): frag.hugo als Konnektor in Claude einrichten, im Browser, in der Desktop-App, auf dem Handy und in Claude Code.
-- [ChatGPT verbinden](https://docs.fraghugo.de/ki-assistent/verbinden-chatgpt/): Stand der App „frag.hugo“ in ChatGPT und wie Sie frag.hugo schon heute im Entwicklermodus als eigene App anlegen.
+- [ChatGPT verbinden](https://docs.fraghugo.de/ki-assistent/verbinden-chatgpt/): Stand der App „frag.hugo“ in ChatGPT und wie Sie frag.hugo schon heute als eigenes Plugin in ChatGPT hinzufügen.
 - [Copilot verbinden](https://docs.fraghugo.de/ki-assistent/verbinden-copilot/): Stand des Agenten „frag.hugo Datenschutz“ für Microsoft 365 Copilot und was er nach der Freigabe kann.
 - [Was der Assistent kann](https://docs.fraghugo.de/ki-assistent/was-der-assistent-kann/): Alle Fähigkeiten des KI-Assistenten nach Bereichen, in Alltagssprache.
 - [Beispielsätze](https://docs.fraghugo.de/ki-assistent/beispielsaetze/): 30 Sätze zum Ausprobieren, nach Bereichen geordnet.
