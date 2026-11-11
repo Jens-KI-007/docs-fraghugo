@@ -1,13 +1,11 @@
 ---
 title: Shop-Check
-description: Vier Prüfpunkte für Online-Shops — EU-Gewährleistungslabel, Umweltaussagen, Produktsicherheit und KI-Hinweis am Chat. Was geprüft wird, wie Produktseiten gefunden werden, wo die Grenzen liegen.
+description: Fünf Prüfpunkte für Online-Shops — EU-Gewährleistungslabel, Widerrufsbutton, Produktsicherheit, Umweltaussagen und KI-Hinweis am Chat. Was geprüft wird, wie Produktseiten gefunden werden, wo die Grenzen liegen.
 ---
 
-![Die fünf Prüfpunkte der Kategorie „Shop & Werbung“ im Scan-Ergebnis: Online-Shop, EU-Gewährleistungslabel, Produktsicherheitsangaben, Umweltaussagen und KI-Hinweis](/screenshots/website-it-sicherheit/shop-check.png)
+<img src="/screenshots/website-it-sicherheit/shop-check.webp" alt="Die Kategorie „Shop & Werbung“ im Scan-Ergebnis eines Test-Shops: Zeile Online-Shop (Shopware 6 erkannt) und die fünf Prüfpunkte EU-Gewährleistungslabel, Widerrufsbutton, Produktsicherheitsangaben, Umweltaussagen und KI-Hinweis am Chat-Fenster, jeweils mit Ampel, Punktzahl und Befund" width="816" height="578" loading="lazy" />
 
-<!-- Screenshot wird nach dem Live-Deploy aus der Anwendung nachgereicht (1440 px, heller Modus). -->
-
-Wenn Hugo auf Ihrer Website einen Online-Shop erkennt, prüft er zusätzlich zu den DSGVO-Checks vier
+Wenn Hugo auf Ihrer Website einen Online-Shop erkennt, prüft er zusätzlich zu den DSGVO-Checks fünf
 Punkte, die für den Verkauf an Verbraucher gelten. Sie erscheinen im Scan-Ergebnis als eigene
 Kategorie **„Shop & Werbung“** mit einem eigenen **Shop-Score** von 0 bis 100.
 
@@ -28,6 +26,7 @@ B2B-Shops — kann er nicht zuverlässig erkennen.
 | Umweltaussagen | Anhang zu § 3 Abs. 3 UWG Nr. 2a, 4a, 4b, 4c, 10a in der ab dem 27.09.2026 geltenden Fassung | 27.09.2026 |
 | Produktsicherheitsangaben | Art. 19 Buchst. a–d der Verordnung (EU) 2023/988 | seit 13.12.2024 |
 | KI-Hinweis am Chat-Fenster | Art. 50 Abs. 1 der Verordnung (EU) 2024/1689 | seit 02.08.2026 |
+| Widerrufsbutton | § 356a BGB | seit 19.06.2026 |
 
 ### 1. EU-Gewährleistungslabel
 
@@ -101,6 +100,59 @@ Hugo erkennt gängige Chat-Widgets, öffnet das Fenster und prüft den Begrüßu
 Hinweis wie „KI“, „künstliche Intelligenz“, „virtueller Assistent“ oder „automatisiert“. Lässt
 sich das Widget nicht öffnen, meldet Hugo „nicht prüfbar“ statt eines Fehlers.
 
+### 5. Widerrufsbutton
+
+Seit dem **19.06.2026** muss ein Shop, der an Verbraucher verkauft, eine Widerrufsfunktion anbieten
+(§ 356a BGB): einen gut lesbaren Link **„Vertrag widerrufen“** oder eine gleichbedeutende, eindeutige
+Beschriftung, der während der Widerrufsfrist ständig verfügbar, hervorgehoben platziert und leicht
+zugänglich ist (Abs. 1). Er führt zu einem Formular, in dem der Kunde Namen, Angaben zum Vertrag und
+den Weg für die Bestätigung angibt und über **„Widerruf bestätigen“** absendet (Abs. 2 und 3). Danach
+bekommt er unverzüglich eine Eingangsbestätigung mit Inhalt, Datum und Uhrzeit (Abs. 4). Nach der
+Gesetzesbegründung (BT-Drs. 21/1856, S. 38) muss die Funktion grundsätzlich **ohne Anmeldung**
+erreichbar sein — außer, man kann bei Ihnen nur über ein Kundenkonto bestellen.
+
+<img src="/screenshots/website-it-sicherheit/shop-check-widerrufsbutton.webp" alt="Abschnitt „Widerrufsbutton“ im Scan-Ergebnis eines Test-Shops: Kennzeichnung „verbesserungswürdig“, Befund „Der Link steht in der Fußzeile und ist optisch nicht hervorgehoben“, Fundstelle mit Linktext „Vertrag widerrufen“, Bereich Fußzeile und Ziel, darunter drei Merkmale — eindeutig beschriftet ja, hervorgehoben nein, Formular zum Absenden ja — und die Liste der geprüften Seiten" width="744" height="417" loading="lazy" />
+
+**Was Hugo prüft:** Er ruft Ihren Shop von außen und ohne Anmeldung auf — die Startseite und bis zu
+zwei weitere schon geladene Seiten (die erste Produktseite und den Warenkorb, wenn er ohne Bestellung
+erreichbar ist). Dort sucht er Links mit „Vertrag widerrufen“ oder einer gleichbedeutenden Beschriftung,
+folgt dem besten Treffer einmal (auch auf eine andere Domain oder in einen eingebetteten Rahmen) und
+meldet drei Merkmale:
+
+- **Eindeutig beschriftet** — steht „Vertrag widerrufen“ oder etwas Gleichbedeutendes da?
+- **Hervorgehoben** — hebt sich der Link von den Nachbar-Links ab, oder steht er unscheinbar zwischen
+  Impressum und AGB?
+- **Formular zum Absenden** — führt er zu einem Formular mit „Widerruf bestätigen“ oder nur zur
+  Widerrufsbelehrung beziehungsweise zu einem PDF?
+
+Hugo schickt dabei **nie** ein Formular ab.
+
+**Bewertung:**
+
+| Was Hugo findet | Kennzeichnung | Ampel | Punkte |
+|---|---|---|---|
+| Eindeutig beschriftet, hervorgehoben, Formular zum Absenden | in Ordnung | grün | 100 |
+| Wie oben, aber nicht hervorgehoben | verbesserungswürdig | gelb | 70 |
+| Formular vorhanden, Beschriftung nicht eindeutig | verbesserungswürdig | gelb | 60 |
+| Nur nach Anmeldung erreichbar | nur nach Anmeldung | gelb | 40 |
+| Link führt nur zur Belehrung oder zu einem PDF | nur Belehrung | gelb | 30 |
+| Kein passender Link gefunden | nicht gefunden | **derzeit gelb** | 0 |
+| Seiten ließen sich nicht vollständig lesen | nicht prüfbar | gelb | 50 |
+| Kein Verbraucher-Shop erkannt (z. B. reiner B2B-Shop) | — | Info | 100 |
+
+:::note[Derzeit höchstens Gelb]
+Solange wir die Erkennung an echten Shops weiter abgleichen, meldet Hugo einen fehlenden Button als
+Hinweis (gelb) und nicht als Fehler (rot). Die Punktzahl 0 zählt trotzdem im Shop-Score.
+:::
+
+**Grenzen:** Kundenkonto, Bestellbestätigung und App sieht der Scan nicht. Ob für Ihr gesamtes Sortiment
+kein Widerrufsrecht besteht (dann brauchen Sie die Funktion nicht, § 312g Abs. 2 BGB), weiß er nicht.
+Ob die Eingangsbestätigung ankommt, prüft er nicht, weil er nichts absendet.
+
+Was das Gesetz genau verlangt, wie Shopify, WooCommerce und Shopware die Funktion mitbringen und welche
+Gestaltungen 2026 abgemahnt wurden, steht auf der Seite
+[Widerrufsbutton-Check](https://www.fraghugo.de/tools/widerrufsbutton-check/) auf fraghugo.de.
+
 ## Wie der Scanner Produktseiten findet
 
 Bevor geprüft wird, sucht Hugo Ihre Produktseiten — in dieser Reihenfolge:
@@ -121,7 +173,10 @@ Kaufbutton und Produktdaten. Wie viele Seiten geprüft werden, hängt vom Tarif 
 | Pro | 25 |
 | Agentur | 100 |
 
-Die Grenze ist eine Frage der Laufzeit, nicht des Funktionsumfangs: Alle vier Prüfpunkte sind in
+Den Widerrufsbutton sucht Hugo zusätzlich auf der Startseite und im Warenkorb — er hängt also nicht
+davon ab, dass Produktseiten gefunden werden.
+
+Die Grenze ist eine Frage der Laufzeit, nicht des Funktionsumfangs: Alle fünf Prüfpunkte sind in
 jedem Tarif vollständig sichtbar. Nur die **Fix-Anleitungen** — die konkreten Schritte je
 Shop-System — gibt es ab Pro.
 
@@ -159,7 +214,7 @@ Betrifft „nicht prüfbar“ einzelne Seiten, steht in den Details, welche das 
 Wenn Sie [Monitoring](/website-it-sicherheit/monitoring/) für eine Domain aktiviert haben (ab Pro),
 vergleicht Hugo bei jedem automatischen Scan auch die Shop-Kategorie mit dem Vorlauf.
 
-- **Alarmtyp `shop_regression`** — verschlechtert sich einer der vier Prüfpunkte, geht eine Mail
+- **Alarmtyp `shop_regression`** — verschlechtert sich einer der fünf Prüfpunkte, geht eine Mail
   an die hinterlegten Empfänger. Typischer Betreff: „Shop-Prüfung: ihr-shop.de — Gewährleistungslabel
   fehlt auf 3 Seiten.“ Damit fällt auf, wenn ein Theme-Update das Label aus der Produktseite wirft
   oder das Marketing eine neue Umweltaussage ergänzt.
@@ -185,7 +240,7 @@ vergleicht Hugo bei jedem automatischen Scan auch die Shop-Kategorie mit dem Vor
 
 **Warum sieht mein Shop keinen Shop-Score?**
 Weil Hugo Ihre Seite nicht als Shop erkannt hat. Die Erkennung greift erst ab einer **Konfidenz von
-0,5**: Ohne Warenkorb, Kaufbutton und Produktdaten gilt die Seite nicht als Shop, und die vier
+0,5**: Ohne Warenkorb, Kaufbutton und Produktdaten gilt die Seite nicht als Shop, und die fünf
 Prüfpunkte werden übersprungen — Sie sehen dann nur den Hinweis „Kein Online-Shop erkannt“. Das ist
 Absicht, damit Firmen-Websites keine Fehlalarme bekommen. Halten Sie das für ein Fehlurteil, melden
 Sie es uns bitte über das Feedback im Scan-Ergebnis; wir sehen uns die Domain an.
@@ -214,5 +269,5 @@ die Geschäftsführung.
 
 **Wo bekomme ich die Anleitungen zum Beheben?**
 Ab dem Pro-Tarif steht unter jedem Befund eine Anleitung für Ihr Shop-System — Shopware, Shopify,
-WooCommerce, JTL und andere — samt Textbausteinen für das Label, den Herstellerblock und den
-KI-Hinweis am Chat.
+WooCommerce, JTL und andere — samt Textbausteinen für das Label, den Herstellerblock, den
+KI-Hinweis am Chat und den Link „Vertrag widerrufen“.

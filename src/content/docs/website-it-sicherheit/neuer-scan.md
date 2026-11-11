@@ -1,6 +1,6 @@
 ---
 title: Neuer Scan starten
-description: URL eingeben, 26 Prüfpunkte (bei Online-Shops 30) in unter 60 Sekunden — Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
+description: URL eingeben, 26 Prüfpunkte (bei Online-Shops 31) in unter 60 Sekunden — Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
 ---
 
 ![Scan-Startseite](/screenshots/website-it-sicherheit/neuer-scan.png)
@@ -13,7 +13,7 @@ So scannen Sie eine Website:
 4. **Warten** — 30–60 Sekunden. Sie sehen Live, was geprüft wird.
 5. **Ergebnis** — Score 0–100, Ampelsystem, alle Befunde.
 
-## Was Hugo testet (26 Prüfpunkte, bei Online-Shops 30)
+## Was Hugo testet (26 Prüfpunkte, bei Online-Shops 31)
 
 Dazu kommen KI-Auswertungen: 5 im kostenlosen Tarif, bis zu 9 ab Pro.
 
