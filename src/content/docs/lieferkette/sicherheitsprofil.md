@@ -199,6 +199,8 @@ Prüfsoftware des Auftraggebers sie ohne Abtippen übernehmen kann.
 
 ## Verwandte Seiten
 
+- [Nachweismappe und Nur-Lese-Link](/lieferkette/nachweismappe/) — dasselbe Profil als PDF oder Link mit Ablauf, für Kunden, Versicherer und Zertifizierungsstelle
+- [Sicherheits-Check](/lieferkette/sicherheits-check/) — 30 Fragen; Ihr letzter Durchgang erscheint als Angabe im Profil
 - [Fragebögen beantworten](/lieferkette/fragebogen-beantworten/) — dieselbe Datenbasis, angewandt auf einen konkreten Bogen
 - [Für Auftraggeber: Profile lesen](/lieferkette/fuer-auftraggeber-profile/) — die andere Seite des Tisches
 - [Self-Assessment](/lieferkette/self-assessment/) — der Shield-Fragebogen mit 50 Fragen

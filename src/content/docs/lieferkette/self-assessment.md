@@ -40,3 +40,4 @@ Sie müssen nicht alles perfekt machen. Erstes Ausfüllen ist Status-Quo-Aufnahm
 - **Verteile auf mehrere Tage** — manche Fragen brauchen IT-Input („Was ist unser RPO?“), manche HR („Wie sieht das Off-Boarding aus?“).
 - **Mit Ihrem IT-Dienstleister machen** — wenn Sie keine eigene IT haben, sitzt Ihr IT-Systemhaus oder Ihr Cloud-Anbieter neben Ihnen am Tisch.
 - **Re-Assessment jährlich** — Sie starten dann mit Ihren alten Antworten und arbeiten nur die Veränderungen ein.
+- **Erst einen Überblick?** Der [Sicherheits-Check](/lieferkette/sicherheits-check/) zeigt mit 30 Fragen in rund 15 Minuten die wichtigsten Lücken, kostenlos in jedem Tarif.

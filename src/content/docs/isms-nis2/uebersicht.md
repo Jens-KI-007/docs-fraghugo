@@ -9,6 +9,7 @@ Wenn Ihre Firma unter **NIS2** fällt (Energie, Transport, Logistik, Wasser, Ges
 
 | Baustein | Wofür |
 |---|---|
+| [Fahrplan zur ISO 27001](/isms-nis2/fahrplan-iso-27001/) | Zwölf Schritte bis zum Audit: was erledigt ist, was fehlt, wo Sie es erledigen |
 | [Asset-Register](/isms-nis2/asset-register/) | Was müssen Sie schützen — Hardware, Software, Daten |
 | [Schutzbedarf](/isms-nis2/schutzbedarf/) | Wie wichtig ist welches Asset (CIA-Klassifizierung) |
 | [Risiko-Register](/isms-nis2/risiko-register/) | Welche Bedrohungen, wie wahrscheinlich, wie schlimm |

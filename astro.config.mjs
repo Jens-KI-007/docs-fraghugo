@@ -129,6 +129,8 @@ export default defineConfig({
 					items: [
 						{ label: 'Übersicht', slug: 'lieferkette/uebersicht' },
 						{ label: 'Sicherheitsprofil', slug: 'lieferkette/sicherheitsprofil' },
+						{ label: 'Sicherheits-Check', slug: 'lieferkette/sicherheits-check' },
+						{ label: 'Nachweismappe und Nur-Lese-Link', slug: 'lieferkette/nachweismappe' },
 						{ label: 'Fragebögen beantworten', slug: 'lieferkette/fragebogen-beantworten' },
 						{ label: 'Mein Score', slug: 'lieferkette/mein-score' },
 						{ label: 'Self-Assessment', slug: 'lieferkette/self-assessment' },
@@ -143,6 +145,7 @@ export default defineConfig({
 					label: 'ISMS / NIS2',
 					items: [
 						{ label: 'Übersicht', slug: 'isms-nis2/uebersicht' },
+						{ label: 'Fahrplan zur ISO 27001', slug: 'isms-nis2/fahrplan-iso-27001' },
 						{ label: 'Hugo NIS2 Basis', slug: 'isms-nis2/nis2-basis' },
 						{ label: 'Asset-Register', slug: 'isms-nis2/asset-register' },
 						{ label: 'Schutzbedarf', slug: 'isms-nis2/schutzbedarf' },

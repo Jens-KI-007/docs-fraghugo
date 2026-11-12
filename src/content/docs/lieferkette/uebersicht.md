@@ -13,6 +13,8 @@ NIS2 + DORA + Lieferkettengesetz: Mittelständler müssen prüfen, ob ihre Zulie
 | Funktion | Wer nutzt's |
 |---|---|
 | [Sicherheitsprofil](/lieferkette/sicherheitsprofil/) | Lieferanten — eine Adresse, die die immer gleichen Fragen beantwortet |
+| [Sicherheits-Check](/lieferkette/sicherheits-check/) | Jede Firma — 30 Fragen, die wichtigsten Lücken und was zuerst zu tun ist |
+| [Nachweismappe und Nur-Lese-Link](/lieferkette/nachweismappe/) | Lieferanten — PDF oder Link für Kunden, Cyberversicherer und Zertifizierungsstelle |
 | [Fragebögen beantworten](/lieferkette/fragebogen-beantworten/) | Lieferanten — fremden Bogen hochladen, aus den eigenen Nachweisen beantworten lassen |
 | [Mein Score](/lieferkette/mein-score/) | Lieferanten — eigenes Profil zeigen |
 | [Self-Assessment](/lieferkette/self-assessment/) | Lieferanten — Fragebogen ausfüllen |

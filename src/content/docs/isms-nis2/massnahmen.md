@@ -55,3 +55,4 @@ Maßnahmen sind das WAS, Richtlinien das WIE. Maßnahme „Passwort-Schutz“ �
 
 - **80/20-Regel** — die 20 wichtigsten Maßnahmen decken 80 % Ihres Risikos ab. Fangen Sie da an.
 - **Frist realistisch** — lieber 90 Tage und es wirklich tun als 14 Tage und nie liefern.
+- **Aus dem Fahrplan** — welche Maßnahmen für die ISO 27001 noch fehlen, zeigen Schritt 8 und 12 im [Fahrplan zur ISO 27001](/isms-nis2/fahrplan-iso-27001/). Maßnahmen aus dem [Sicherheits-Check](/lieferkette/sicherheits-check/) landen ebenfalls hier.

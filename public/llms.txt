@@ -72,6 +72,8 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 
 - [Übersicht](https://docs.fraghugo.de/lieferkette/uebersicht/): Self-Assessment als Lieferant oder Zulieferer-Verwaltung als Auftraggeber: beides in einem Modul.
 - [Sicherheitsprofil](https://docs.fraghugo.de/lieferkette/sicherheitsprofil/): Eine Adresse, an der Ihre Auftraggeber die immer gleichen Sicherheitsfragen beantwortet finden: aus den Daten, die Sie ohnehin in der Plattform pflegen.
+- [Sicherheits-Check](https://docs.fraghugo.de/lieferkette/sicherheits-check/): 30 Fragen in sieben Bereichen zeigen die wichtigsten Lücken Ihrer IT-Sicherheit und was Sie zuerst tun sollten: Vorschläge aus Ihren Daten, Einstufung, Maßnahmen übernehmen, Grenzen.
+- [Nachweismappe und Nur-Lese-Link](https://docs.fraghugo.de/lieferkette/nachweismappe/): Ein PDF aus dem, was in Hugo belegt ist, für Kunden, den Cyberversicherer oder die Zertifizierungsstelle: Vorschau, Fassungen, Nur-Lese-Link mit Ablauf, Widerrufen, 25er-Regel, Grenzen.
 - [Fragebögen beantworten](https://docs.fraghugo.de/lieferkette/fragebogen-beantworten/): Sicherheitsfragebogen hochladen, Spalten zuordnen, Antworten aus den eigenen Nachweisen erzeugen lassen, prüfen, freigeben, zurückexportieren: mit Quelle je Antwort und Hinweis nach Art. 50 Abs. 2 KI-VO.
 - [Mein Score](https://docs.fraghugo.de/lieferkette/mein-score/): Ihr Sicherheits-Profil als Lieferant: Score, Zertifikate, Self-Assessment-Resultate teilen.
 - [Self-Assessment](https://docs.fraghugo.de/lieferkette/self-assessment/): 50-Fragen-Fragebogen zur Sicherheits-Selbstbewertung: speichern, später weitermachen, KI-Hilfe.
@@ -84,6 +86,7 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 ## ISMS / NIS2
 
 - [Übersicht](https://docs.fraghugo.de/isms-nis2/uebersicht/): Informationssicherheits-Managementsystem mit allem was NIS2 / ISO 27001 verlangt: strukturiert in 11 Bausteinen.
+- [Fahrplan zur ISO 27001](https://docs.fraghugo.de/isms-nis2/fahrplan-iso-27001/): Zwölf Schritte bis zum Audit nach ISO 27001 ohne Berater: was jeder Schritt verlangt, Grundlagen, Anwendbarkeitserklärung, Managementbewertung, Unterlagen und die Suche nach einer Zertifizierungsstelle.
 - [Hugo NIS2 Basis](https://docs.fraghugo.de/isms-nis2/nis2-basis/): Was Hugo NIS2 Basis abdeckt, was Hugo ISMS vorbehalten bleibt: und wie Sie zwischen beiden wechseln.
 - [Asset-Register](https://docs.fraghugo.de/isms-nis2/asset-register/): Alle Werte, die Sie schützen müssen: Hardware, Software, Daten, Prozesse, Menschen.
 - [Schutzbedarf](https://docs.fraghugo.de/isms-nis2/schutzbedarf/): Pro Asset die drei Dimensionen Vertraulichkeit, Integrität, Verfügbarkeit einschätzen.

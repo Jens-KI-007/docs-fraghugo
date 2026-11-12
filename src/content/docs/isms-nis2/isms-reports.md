@@ -49,4 +49,4 @@ Hugo schickt automatisch zum eingestellten Zeitpunkt.
 ## Tipps
 
 - **Audit-Bereit-Bericht vor jedem externen Audit erzeugen** — Sie sehen Lücken bevor der Auditor sie findet.
-- **SoA mind. jährlich aktualisieren** — pflichtbestandteil ISO 27001.
+- **SoA mind. jährlich aktualisieren** — Pflichtbestandteil der ISO 27001. Die Anwendbarkeitserklärung mit Begründung je Maßnahme pflegen Sie im [Fahrplan zur ISO 27001](/isms-nis2/fahrplan-iso-27001/) (Schritt 7) und geben sie dort als PDF aus.

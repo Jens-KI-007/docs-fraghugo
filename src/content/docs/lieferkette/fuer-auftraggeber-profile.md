@@ -97,3 +97,4 @@ für Ihr konkretes Vorhaben zählt.
 - [Auftraggeber-Dashboard](/lieferkette/dashboard/) — Status aller Zulieferer auf einen Blick
 - [Eigene Fragen](/lieferkette/eigene-fragen/) — den Standardfragebogen um Ihre Punkte erweitern
 - [Sicherheitsprofil](/lieferkette/sicherheitsprofil/) — dieselbe Sache aus Sicht des Zulieferers
+- [Nachweismappe und Nur-Lese-Link](/lieferkette/nachweismappe/) — was Sie sehen, wenn ein Zulieferer Ihnen einen Link zu seiner Mappe schickt
