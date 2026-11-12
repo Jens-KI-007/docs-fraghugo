@@ -1,6 +1,6 @@
 ---
 title: Personal-Abgleich
-description: "Mitarbeitende automatisch aus Personio oder Microsoft 365 übernehmen: was der Abgleich tut und was nicht, welche Quelle was kann, wer ihn nutzen kann und wo Sie ihn finden."
+description: "Mitarbeitende automatisch aus Personio, Microsoft 365 oder Google Workspace übernehmen: was der Abgleich tut und was nicht, welche Quelle was kann, wer ihn nutzen kann und wo Sie ihn finden."
 sidebar:
   order: 7
 ---
@@ -23,26 +23,27 @@ Quelle gibt es eine Karte.
 
 ## Welche Quelle was kann
 
-| | Personio | Microsoft 365 |
-|---|---|---|
-| Mitarbeitende herein (Name, E-Mail, Abteilung) | ja | ja |
-| Eintritts- und Austrittsdatum | ja | nein |
-| Änderungen kommen sofort an | ja, mit Webhook-Recht; sonst nachts | nachts |
-| Ausgeschiedene stilllegen | ja (Status oder Austrittsdatum) | ja (deaktiviertes Konto) |
-| Nachweise zurück ins System (PDF in der Personalakte) | ja, auf Wunsch | nein |
-| Vorschau vor dem ersten Abgleich | ja | nein |
-| Bedingung beim Anbieter | Personio-Tarif „Core Pro“ | Zustimmung eines Administrators in Microsoft 365 |
-| In Hugo enthalten in | jedem bezahlten Tarif von Hugo Learn (Standard, Programm) und Hugo Safe (Basis, Komplett), auch als Teil eines Datenschutz-Tarifs oder einer Suite | Hugo Learn Programm, Datenschutz-Suite Pro und Premium, Compliance-Suite Pro und Enterprise |
+| | Personio | Microsoft 365 | Google Workspace |
+|---|---|---|---|
+| Mitarbeitende herein (Name, E-Mail, Abteilung) | ja | ja | ja |
+| Eintritts- und Austrittsdatum | ja | nein | nein |
+| Änderungen kommen sofort an | ja, mit Webhook-Recht; sonst nachts | nachts | nachts |
+| Ausgeschiedene stilllegen | ja (Status oder Austrittsdatum) | ja (deaktiviertes Konto) | ja (gesperrtes oder archiviertes Konto) |
+| Nachweise zurück ins System (PDF in der Personalakte) | ja, auf Wunsch | nein | nein |
+| Vorschau vor dem ersten Abgleich | ja | nein | ja |
+| Bedingung beim Anbieter | Personio-Tarif „Core Pro“ | Zustimmung eines Administrators in Microsoft 365 | Delegierung durch einen Super-Administrator in der Google-Admin-Konsole |
+| In Hugo enthalten in | jedem bezahlten Tarif von Hugo Learn (Standard, Programm) und Hugo Safe (Basis, Komplett), auch als Teil eines Datenschutz-Tarifs oder einer Suite | Hugo Learn Programm, Datenschutz-Suite Pro und Premium, Compliance-Suite Pro und Enterprise | wie Personio |
 
 Wie Sie die Quellen verbinden:
 
 - [Personio verbinden](/schulungen/personio/) — Zugangsdaten anlegen, Vorschau, Einstellungen, Nachweise ablegen.
 - [Microsoft 365 verbinden](/schulungen/m365-integration/) — Zustimmung im Microsoft-Dialog, Berechtigungen.
+- [Google Workspace verbinden](/schulungen/google-workspace/) — Delegierung in der Admin-Konsole, Domain, Vorschau.
 
 ## Was der Abgleich tut
 
 - **Neue Mitarbeitende** legt Hugo ohne Konto und ohne Mail an. Eine Einladung bekommen sie erst, wenn Sie ihnen eine
-  Schulung oder Unterweisung zuweisen. Bei Personio können Sie das automatische Einladen einschalten.
+  Schulung oder Unterweisung zuweisen. Bei Personio und Google Workspace können Sie das automatische Einladen einschalten.
 - **Ausgeschiedene** werden stillgelegt, nie gelöscht. Ihre Nachweise bleiben in Hugo.
 - **Geänderte Namen, Abteilungen und E-Mail-Adressen** ziehen nach.
 - **Plätze:** Hugo legt nur so viele Personen an, wie Ihr Tarif freie Plätze hat, und nennt die übrigen auf der Seite.
@@ -50,7 +51,7 @@ Wie Sie die Quellen verbinden:
 
 ## Was der Abgleich nicht tut
 
-- Er löscht niemanden und schreibt nichts in Microsoft 365. In Personio legt er nur PDF-Dokumente ab, wenn Sie das
+- Er löscht niemanden und schreibt nichts in Microsoft 365 oder Google Workspace. In Personio legt er nur PDF-Dokumente ab, wenn Sie das
   einschalten.
 - Er fasst von Hand angelegte Personen nicht an und legt nie Konten von Hauptadministratoren still.
 - Er liest keine Gehälter, Abwesenheiten, Geburtsdaten, Mails oder Kalender.
