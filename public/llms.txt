@@ -57,7 +57,7 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 
 ## Website & IT-Sicherheit
 
-- [Übersicht](https://docs.fraghugo.de/website-it-sicherheit/uebersicht/): DSGVO-Scanner, Monitoring, Konkurrenz-Vergleich, Bulk-Scan für Agenturen: alles um Ihre Website rechtssicher zu machen.
+- [Übersicht](https://docs.fraghugo.de/website-it-sicherheit/uebersicht/): DSGVO-Scanner, Monitoring, Konkurrenz-Vergleich, Bulk-Scan für Agenturen: alles, um Lücken auf Ihrer Website zu finden und zu schließen.
 - [Neuer Scan](https://docs.fraghugo.de/website-it-sicherheit/neuer-scan/): URL eingeben, 26 Prüfpunkte (bei Online-Shops 31) in unter 60 Sekunden: Ergebnis mit Ampel, Fehlerliste und Fix-Vorschlägen.
 - [Scan-Übersicht](https://docs.fraghugo.de/website-it-sicherheit/scan-uebersicht/): Alle Scans im Blick: Score-Verlauf, Fortschritt, Nachverfolgung der Befunde.
 - [Shop-Check](https://docs.fraghugo.de/website-it-sicherheit/shop-check/): Fünf Prüfpunkte für Online-Shops: EU-Gewährleistungslabel, Widerrufsbutton, Produktsicherheit, Umweltaussagen und KI-Hinweis am Chat.

@@ -5,7 +5,7 @@ sidebar:
   order: 1
 ---
 
-**Hugo Safe** ist der Arbeitsschutz-Bereich der frag.hugo-Plattform. Damit erledigen Sie die **jährlichen Pflicht-Unterweisungen** im Arbeits- und Brandschutz online: Ihre Mitarbeiter durchlaufen kurze, verständliche Unterweisungen (Erklär-Einstieg → Lern-Screens → Abschlusstest), und Sie erhalten einen **rechtssicher dokumentierten Nachweis** für die Berufsgenossenschaft.
+**Hugo Safe** ist der Arbeitsschutz-Bereich der frag.hugo-Plattform. Damit erledigen Sie die **jährlichen Pflicht-Unterweisungen** im Arbeits- und Brandschutz online: Ihre Mitarbeiter durchlaufen kurze, verständliche Unterweisungen (Erklär-Einstieg → Lern-Screens → Abschlusstest), und Sie erhalten einen **dokumentierten Nachweis** für die Berufsgenossenschaft.
 
 Abgerechnet wird **pro Mitarbeiter und Jahr** mit automatischem Mengenrabatt — fair und planbar.
 
@@ -66,4 +66,4 @@ Hugo Safe ist **DGUV-konform als Blended Learning** (DGUV Regel 100-001): arbeit
 2. **[Unterweisung durchführen](/arbeitsschutz/unterweisung-durchfuehren/)** — Mitarbeiter einladen, sie absolvieren die Unterweisung in rund 15 Minuten.
 3. **[Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/)** — am Jahresende oder bei einer Anfrage der Berufsgenossenschaft das PDF auf Knopfdruck erzeugen.
 
-Bei Fragen zur rechtssicheren Umsetzung Ihrer Unterweisungspflicht hilft Ihnen Nils Oehmichen — buchen Sie ein [15-minütiges Erstgespräch](https://meet.brevo.com/fraghugo/intro).
+Bei Fragen zur Umsetzung Ihrer Unterweisungspflicht hilft Ihnen Nils Oehmichen — buchen Sie ein [15-minütiges Erstgespräch](https://meet.brevo.com/fraghugo/intro).

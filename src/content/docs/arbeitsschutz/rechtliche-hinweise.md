@@ -15,7 +15,7 @@ Diese Seite fasst die rechtlichen Grundlagen zusammen, auf denen Hugo Safe aufse
 | **§ 4 DGUV Vorschrift 1** | Unterweisung **mindestens einmal jährlich**, dokumentiert. |
 | **§ 29 JArbSchG** | Jugendliche sind **halbjährlich** zu unterweisen. |
 
-## Wann eine Online-Unterweisung rechtssicher ist
+## Wann eine Online-Unterweisung ausreicht
 
 Die **DGUV Regel 100-001 „Grundsätze der Prävention“** (aktualisiert Juni 2025) beschreibt die Unterweisung ausführlich: Elektronische Hilfsmittel dürfen eingesetzt werden, ein reines Selbststudium reicht aber nicht. Vier Kriterien sind maßgeblich — Hugo Safe bildet alle vier ab:
 
@@ -70,5 +70,5 @@ In Deutschland ereignen sich weiterhin **mehrere hunderttausend meldepflichtige 
 - Bundesanstalt für Arbeitsschutz und Arbeitsmedizin: [baua.de](https://www.baua.de/)
 
 :::note[Kein Ersatz für individuelle Beratung]
-Diese Hinweise sind allgemeiner Natur und ersetzen keine individuelle rechtliche oder fachkundige Beratung. Bei konkreten Fragen zu Ihrem Betrieb wenden Sie sich an Ihre Sicherheitsfachkraft, Ihren Betriebsarzt oder eine fachkundige Stelle. Für die rechtssichere Umsetzung Ihrer Unterweisungspflicht unterstützt Sie gern Nils Oehmichen — [15-minütiges Erstgespräch buchen](https://meet.brevo.com/fraghugo/intro).
+Diese Hinweise sind allgemeiner Natur und ersetzen keine individuelle rechtliche oder fachkundige Beratung. Bei konkreten Fragen zu Ihrem Betrieb wenden Sie sich an Ihre Sicherheitsfachkraft, Ihren Betriebsarzt oder eine fachkundige Stelle. Bei der Umsetzung Ihrer Unterweisungspflicht unterstützt Sie gern Nils Oehmichen — [15-minütiges Erstgespräch buchen](https://meet.brevo.com/fraghugo/intro).
 :::

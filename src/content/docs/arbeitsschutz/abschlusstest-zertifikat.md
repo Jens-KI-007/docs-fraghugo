@@ -5,7 +5,7 @@ sidebar:
   order: 4
 ---
 
-Jede Unterweisung endet mit einer **Verständnisprüfung**. Das ist kein Selbstzweck: Die DGUV Regel 100-001 verlangt für eine rechtssichere Online-Unterweisung eine Erfolgskontrolle. Hugo Safe bildet das mit Abschlusstest, aktiver Bestätigung und Zertifikat ab.
+Jede Unterweisung endet mit einer **Verständnisprüfung**. Das ist kein Selbstzweck: Die DGUV Regel 100-001 verlangt für eine Online-Unterweisung eine Erfolgskontrolle. Hugo Safe bildet das mit Abschlusstest, aktiver Bestätigung und Zertifikat ab.
 
 ![Abschlusstest in Hugo Safe aus Mitarbeitersicht: Fortschritt „Frage 1 / 8“, eine Verständnisfrage mit vier Antwortmöglichkeiten (A–D) zum Auswählen](/screenshots/arbeitsschutz/abschlusstest-frage.png)
 
