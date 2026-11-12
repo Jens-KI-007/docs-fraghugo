@@ -47,17 +47,21 @@ konkreten Lücken.
 | Nr. | Schritt | Norm | Wo in Hugo |
 |---|---|---|---|
 | 1 | Geltungsbereich und Umfeld festlegen | 4.1–4.3 | Grundlagen |
-| 2 | Leitlinie beschließen | 5.2 | [Richtlinien](/isms-nis2/richtlinien/) |
+| 2 | Leitlinie beschließen | 5.2 | Richtlinien |
 | 3 | Zuständige benennen | 5.3 | Grundlagen |
 | 4 | Ziele setzen (mindestens drei, mit Messgröße, Verantwortlichem und Termin) | 6.2 | Grundlagen |
-| 5 | Werte erfassen und Schutzbedarf bestimmen | A.5.9, 8.1 | [Asset-Register](/isms-nis2/asset-register/), [Schutzbedarf](/isms-nis2/schutzbedarf/) |
-| 6 | Risiken beurteilen | 6.1.2, 8.2 | [Risiko-Register](/isms-nis2/risiko-register/) |
+| 5 | Werte erfassen und Schutzbedarf bestimmen | A.5.9, 8.1 | Asset-Register, Schutzbedarf |
+| 6 | Risiken beurteilen | 6.1.2, 8.2 | Risiko-Register |
 | 7 | Maßnahmen wählen (Anwendbarkeitserklärung) | 6.1.3 | Anwendbarkeit |
-| 8 | Maßnahmen umsetzen | 8.1, 8.3 | [Maßnahmen](/isms-nis2/massnahmen/) |
-| 9 | Regeln bekannt machen und schulen | 7.2, 7.3, 7.5 | [Richtlinien](/isms-nis2/richtlinien/), Hugo Learn |
-| 10 | Intern prüfen | 9.2 | [Audits](/datenschutz/audits/) mit Auditprogramm |
+| 8 | Maßnahmen umsetzen | 8.1, 8.3 | Maßnahmen |
+| 9 | Regeln bekannt machen und schulen | 7.2, 7.3, 7.5 | Richtlinien, Hugo Learn |
+| 10 | Intern prüfen | 9.2 | Audits mit Auditprogramm |
 | 11 | Leitung bewertet | 9.3 | Managementbewertung |
-| 12 | Abweichungen beheben | 10.2 | [Maßnahmen](/isms-nis2/massnahmen/) |
+| 12 | Abweichungen beheben | 10.2 | Maßnahmen |
+
+Was die einzelnen Seiten können, steht unter [Asset-Register](/isms-nis2/asset-register/),
+[Schutzbedarf](/isms-nis2/schutzbedarf/), [Risiko-Register](/isms-nis2/risiko-register/),
+[Maßnahmen](/isms-nis2/massnahmen/), [Richtlinien](/isms-nis2/richtlinien/) und [Audits](/datenschutz/audits/).
 
 Die Schwellen, ab wann ein Schritt als erledigt zählt (etwa 80 % der anwendbaren Maßnahmen umgesetzt oder in Umsetzung
 in Schritt 8), sind Arbeitsmaßstäbe von frag.hugo, keine Forderungen der Norm.
