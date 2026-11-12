@@ -54,7 +54,7 @@ Fundstelle. Fehlt eine Gefahr, legen Sie sie mit **Eigene Gefahr hinzufügen** a
 
 Jede zutreffende Gefahr bekommt eine von drei Stufen: **Sofort handeln** (es kann jederzeit jemand zu Schaden kommen),
 **Handeln** (verbessern, aber nicht von heute auf morgen) oder **In Ordnung** (die vorhandenen Maßnahmen reichen). Die
-drei Stufen sind eine Vereinfachung von frag.hugo, keine Vorgabe einer Regel. Im Zweifel wählen Sie „Handeln“.
+drei Stufen entsprechen den drei Ergebnissen der Beurteilung in der ASR V3 (Nr. 5.3.3). Im Zweifel wählen Sie „Handeln“.
 
 ### 4. Maßnahmen festlegen
 
