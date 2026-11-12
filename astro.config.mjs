@@ -177,7 +177,7 @@ export default defineConfig({
 						{ label: 'Nachweis-Dossier', slug: 'arbeitsschutz/nachweis-dossier' },
 						{ label: 'Jahres-Erinnerung', slug: 'arbeitsschutz/jahres-erinnerung' },
 						{ label: 'KI-Erklärvideos', slug: 'arbeitsschutz/ki-videos' },
-						{ label: 'Gefährdungsbeurteilung verknüpfen', slug: 'arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung' },
+						{ label: 'Gefährdungsbeurteilung erstellen', slug: 'arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung' },
 						{ label: 'Rechtliche Hinweise', slug: 'arbeitsschutz/rechtliche-hinweise' },
 					],
 				},

@@ -28,7 +28,7 @@ Hugo Safe digitalisiert genau das — von der automatischen Zuweisung nach Täti
 | [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) | Das revisionssichere PDF für die Berufsgenossenschaft |
 | [Jahres-Erinnerung](/arbeitsschutz/jahres-erinnerung/) | Automatische Erinnerung, wenn eine Unterweisung wieder fällig wird |
 | [KI-Erklärvideos](/arbeitsschutz/ki-videos/) | Deutschsprachige Erklärvideos im Komplett-Tarif |
-| [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/) | Unterweisungen an die Gefährdungsbeurteilung anbinden — mit klarer Abgrenzung |
+| [Gefährdungsbeurteilung erstellen](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/) | Arbeitsbereich wählen, Gefahren prüfen und bewerten, Maßnahmen festlegen, Fassung als PDF; Unterweisungen übernehmen (Komplett) |
 | [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/) | Kriterien der DGUV Regel 100-001, Präsenz- und mündliche Pflichten, Aufbewahrung |
 
 ## Die Tarife im Überblick
@@ -50,7 +50,7 @@ Buchen oder upgraden: [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghu
 Wir formulieren bewusst klar, damit Sie sich auf den Nachweis verlassen können. Diese Leitplanken gelten in der ganzen Doku:
 
 :::caution[Wichtige Abgrenzungen]
-- **Hugo Safe ergänzt die Gefährdungsbeurteilung — es ersetzt sie nicht.** Die Gefährdungsbeurteilung (§ 5 ArbSchG) bleibt Arbeitgeberpflicht. Mehr dazu unter [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/).
+- **Hugo Safe führt durch die Gefährdungsbeurteilung und dokumentiert sie — verantwortlich bleibt der Arbeitgeber** (§ 5, § 13 ArbSchG). Mehr dazu unter [Gefährdungsbeurteilung erstellen](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/).
 - **Praktische Übungen bleiben Präsenz vor Ort.** Feuerlöscher-Handhabung, PSA-Anlegen, Stapler-Fahren, Erste-Hilfe-Praxis und Räumungsübungen lassen sich nicht online ersetzen.
 - **Gefahrstoff-Unterweisungen brauchen zusätzlich eine mündliche, arbeitsplatzbezogene Komponente** (§ 14 GefStoffV). Der Online-Teil deckt die Theorie ab, nicht die mündliche Pflicht.
 - **Hugo Safe ist keine Rechtsberatung.** Die Verantwortung für den Arbeitsschutz verbleibt stets beim Arbeitgeber (§ 13 ArbSchG).

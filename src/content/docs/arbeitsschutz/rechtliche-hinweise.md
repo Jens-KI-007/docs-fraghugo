@@ -49,7 +49,7 @@ Die Unterweisung ist zu dokumentieren (**§ 4 DGUV Vorschrift 1**). Für die Au
 | Rechtsgrundlage | Bedeutung |
 |---|---|
 | **§ 13 ArbSchG** | Verantwortung für den Arbeitsschutz liegt beim Arbeitgeber (bzw. den verantwortlichen Personen). |
-| **§ 5 ArbSchG** | Die **Gefährdungsbeurteilung** ist eine eigenständige Arbeitgeberpflicht — Hugo Safe ergänzt sie, ersetzt sie nicht. Siehe [Verknüpfung mit der Gefährdungsbeurteilung](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/). |
+| **§ 5 ArbSchG** | Die **Gefährdungsbeurteilung** ist eine eigene Pflicht des Arbeitgebers. Hugo Safe führt durch die Schritte und dokumentiert sie; die Verantwortung bleibt beim Arbeitgeber (§ 13 ArbSchG). Siehe [Gefährdungsbeurteilung erstellen](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/). |
 | **§ 25 ArbSchG** | Ordnungswidrigkeit (Bußgeld) insbesondere bei **Missachtung einer vollziehbaren behördlichen Anordnung**. |
 
 :::caution[Bußgelder ehrlich einordnen]

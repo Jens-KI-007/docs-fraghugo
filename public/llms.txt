@@ -117,7 +117,7 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 - [Nachweis-Dossier](https://docs.fraghugo.de/arbeitsschutz/nachweis-dossier/): Das revisionssichere PDF für die Berufsgenossenschaft: wer wann welche Unterweisung absolviert hat, mit Datum, Testergebnis und aktiver Bestätigung.
 - [Jahres-Erinnerung](https://docs.fraghugo.de/arbeitsschutz/jahres-erinnerung/): Automatische Erinnerung, wenn eine Pflicht-Unterweisung wieder fällig wird: damit Sie die jährliche Frist nach § 12 ArbSchG und § 4 DGUV Vorschrift 1 nie verpassen.
 - [KI-Erklärvideos](https://docs.fraghugo.de/arbeitsschutz/ki-videos/): Deutschsprachige Erklärvideos im Komplett-Tarif von Hugo Safe: sie holen auch Mitarbeiter ohne Lese-Routine ab und machen jede Unterweisung verständlicher.
-- [Gefährdungsbeurteilung verknüpfen](https://docs.fraghugo.de/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/): Unterweisungen in Hugo Safe an die Gefährdungsbeurteilung anbinden: mit klarer Abgrenzung: Hugo Safe ergänzt die Gefährdungsbeurteilung nach § 5 ArbSchG, ersetzt sie aber nicht.
+- [Gefährdungsbeurteilung erstellen](https://docs.fraghugo.de/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/): Gefährdungsbeurteilung in Hugo Safe Schritt für Schritt: Arbeitsbereich wählen, Gefahren prüfen und bewerten, Maßnahmen festlegen, Pflichtteile, Abschluss mit PDF, Überprüfung und Unterweisungen.
 - [Rechtliche Hinweise](https://docs.fraghugo.de/arbeitsschutz/rechtliche-hinweise/): Rechtsgrundlagen rund um Hugo Safe: DGUV Regel 100-001-Kriterien für Online-Unterweisungen, Präsenz- und mündliche Pflichten, Aufbewahrung sowie die Paragrafen § 12, § 5, § 13 und § 25 ArbSchG.
 
 ## KI-Compliance

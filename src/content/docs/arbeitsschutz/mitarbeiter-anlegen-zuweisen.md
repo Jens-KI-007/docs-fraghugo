@@ -40,6 +40,12 @@ Sobald der Tätigkeitsbereich gesetzt ist, weist Hugo Safe die fälligen Unterwe
 
 Sie können die Zuweisung pro Mitarbeiter jederzeit verfeinern — einzelne Unterweisungen hinzufügen oder, wenn fachlich begründet, entfernen.
 
+## Aus der Gefährdungsbeurteilung zuweisen
+
+Welche Unterweisungen ein Bereich braucht, ergibt sich aus der Gefährdungsbeurteilung. Im Tarif Komplett übernehmen Sie
+die passenden Unterweisungen einer abgeschlossenen Beurteilung mit einem Klick als Pflichtthemen der zugeordneten
+Abteilung; vorher sehen Sie, wie viele Personen wie viele neue Pflichtthemen bekommen. Siehe [Gefährdungsbeurteilung erstellen](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/).
+
 ## Betriebsspezifische Ergänzung
 
 Jede Unterweisung lässt sich um **betriebsspezifische Hinweise** ergänzen (z. B. Ihre konkreten Fluchtwege, der Standort des Feuerlöschers, Ihre Hausordnung). Das macht die Unterweisung arbeitsplatzbezogen — ein Kriterium der DGUV Regel 100-001. Mehr dazu unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
