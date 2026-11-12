@@ -18,7 +18,7 @@ bestanden wird, entscheidet die Zertifizierungsstelle; deshalb gibt es keinen Be
 
 - Der Bereich **Informationssicherheit** (Hugo ISMS in jeder Stufe oder die Compliance Suite).
 - Ihre Rolle ist Hauptadministrator oder Administrator. Mitarbeitende ohne Verwaltungsrechte sehen den Fahrplan nicht.
-- Hilfreich: ein abgeschlossener [Sicherheits-Check](/lieferkette/sicherheits-check/). Er zeigt die größten Lücken,
+- Hilfreich: ein abgeschlossener [Sicherheits-Check](/lieferkette/sicherheits-check/). Er zeigt die wichtigsten Lücken,
   bevor Sie mit der Norm beginnen.
 
 ## Wo Sie den Fahrplan finden
