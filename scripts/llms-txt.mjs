@@ -60,6 +60,14 @@ const teile = [
   'ChatGPT; Microsoft 365 Copilot ist in Prüfung) Verarbeitungsverzeichnis, Dienstleister, TOMs, Mitarbeitende und Schulungen ein; der',
   'Datenschutzbeauftragte prüft. Anleitung: ' + `${BASIS}/ki-assistent/` + '. Produktseite: https://www.fraghugo.de/ki-assistent/',
   '',
+  // Ausbau X23 (Z07): Die kostenlosen Werkzeuge liegen auf der Website, nicht in der Doku — Agenten sollen sie trotzdem finden.
+  'Kostenlose Werkzeuge ohne Konto liegen auf der Website (Übersicht: https://www.fraghugo.de/tools/), u. a.:',
+  '[Muss ich KI-Inhalte kennzeichnen?](https://www.fraghugo.de/tools/ki-kennzeichnung/) (14 typische KI-Einsätze nach',
+  'Art. 50 KI-VO eingeordnet, mit Norm und Beispiel für den Hinweis),',
+  '[Widerrufsbutton-Check](https://www.fraghugo.de/tools/widerrufsbutton-check/) (§ 356a BGB),',
+  '[Gefährdungsbeurteilung für Büro und Homeoffice](https://www.fraghugo.de/tools/gefaehrdungsbeurteilung/) und',
+  '[IT-Sicherheits-Check für kleine Firmen](https://www.fraghugo.de/tools/it-sicherheitscheck/) (Selbstauskunft).',
+  '',
 ];
 for (const g of gruppen) {
   if (!g.seiten.length) continue;
