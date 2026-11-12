@@ -12,7 +12,8 @@ Unterweisung als Teilnahmebescheinigung (PDF) in der Personalakte in Personio ab
 Sie finden die Anbindung auf der Seite **Personal-Abgleich** (`app.fraghugo.de/team/abgleich`), erreichbar über das
 Menü „Personal-Abgleich“ oder in den Mitarbeiterlisten von Hugo Learn und Hugo Safe über **Hinzufügen → Aus Personio
 oder Microsoft 365 abgleichen**. Einen Überblick über alle Quellen gibt die Seite
-[Personal-Abgleich](/schulungen/personal-abgleich/).
+[Personal-Abgleich](/schulungen/personal-abgleich/); ohne Personio geht es auch mit
+[Google Workspace](/schulungen/google-workspace/) oder [Microsoft 365](/schulungen/m365-integration/).
 
 ## Voraussetzungen
 

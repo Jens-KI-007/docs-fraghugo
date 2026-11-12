@@ -17,7 +17,8 @@ CSV hochladen mit Spalten: Name, Mail, Abteilung, Position. Hugo legt alle an.
 
 ### Über den Personal-Abgleich
 Mit dem [Personal-Abgleich](/schulungen/personal-abgleich/) kommen Mitarbeiter automatisch aus
-[Personio](/schulungen/personio/) oder [Microsoft 365](/schulungen/m365-integration/): Neue erscheinen von selbst,
+[Personio](/schulungen/personio/), [Microsoft 365](/schulungen/m365-integration/) oder
+[Google Workspace](/schulungen/google-workspace/): Neue erscheinen von selbst,
 Ausgeschiedene werden stillgelegt. Sie finden ihn in der Mitarbeiterliste unter **Hinzufügen → Aus Personio oder
 Microsoft 365 abgleichen**.
 

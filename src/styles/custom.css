@@ -2284,8 +2284,7 @@ main:has(.fh-hero) .content-panel .sl-container {
 @media (min-width: 72rem) {
   /* sieben Bereichskacheln setzen sich 4 + 3 statt 5 + 2 */
   .bereich-grid { grid-template-columns: repeat(4, 1fr); }
-  /* sechs Neu-Kacheln (X25) setzen sich 3 + 3 */
-  .bereich-grid--neu { grid-template-columns: repeat(3, 1fr); }
+  /* sieben Neu-Kacheln (X25, Z07) setzen sich wie das übrige Raster 4 + 3 */
 }
 @media (min-width: 50.0625rem) {
   /* Tabellen am Desktop als echte Tabelle — Kopfband und Linien reichen bis zum Rahmen */

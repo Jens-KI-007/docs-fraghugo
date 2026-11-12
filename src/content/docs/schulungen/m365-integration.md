@@ -72,8 +72,9 @@ Wenn Sie Azure AD ohne M365 haben (z.B. nur für Single-Sign-On), funktioniert d
 ## Andere Personalsysteme
 
 **Personio** lässt sich direkt anbinden — mit Eintritts- und Austrittsdatum und auf Wunsch mit den
-Teilnahmebescheinigungen zurück in die Personalakte: [Personio verbinden](/schulungen/personio/). Für andere
-Personalsysteme legen Sie Mitarbeitende per CSV-Import in der [Mitarbeiterliste](/schulungen/mitarbeiter/) an.
+Teilnahmebescheinigungen zurück in die Personalakte: [Personio verbinden](/schulungen/personio/). Nutzen Sie Google
+Workspace statt Microsoft 365, kommen die Mitarbeitenden aus dem Google-Verzeichnis:
+[Google Workspace verbinden](/schulungen/google-workspace/). Für andere Personalsysteme legen Sie Mitarbeitende per CSV-Import in der [Mitarbeiterliste](/schulungen/mitarbeiter/) an.
 
 ## Tipps
 
