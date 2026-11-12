@@ -9,6 +9,11 @@ Der **Personal-Abgleich** holt Ihre Mitarbeitenden aus dem System, in dem Sie si
 von selbst in Hugo, Ausgeschiedene werden stillgelegt. Die Liste gilt für Hugo Learn und Hugo Safe zugleich, Sie
 pflegen sie also an einer Stelle.
 
+:::note[Wird gerade schrittweise freigeschaltet]
+Der Personal-Abgleich wird in der App gerade schrittweise freigeschaltet. Sehen Sie den Menüpunkt „Personal-Abgleich“
+noch nicht und möchten ihn sofort nutzen, schreiben Sie uns über das [Kontaktformular](https://www.fraghugo.de/kontakt/).
+:::
+
 Sie finden die Seite im Menü unter **Personal-Abgleich** (`app.fraghugo.de/team/abgleich`) oder in den
 Mitarbeiterlisten von Hugo Learn und Hugo Safe über **Hinzufügen → Aus Personio oder Microsoft 365 abgleichen**. Je
 Quelle gibt es eine Karte.
