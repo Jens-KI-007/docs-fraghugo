@@ -9,11 +9,6 @@ Mit der Google-Workspace-Anbindung kommen die Konten Ihrer Google-Domain von sel
 gesperrte und archivierte Konten werden stillgelegt, geänderte Namen und Abteilungen ziehen nach. Hugo liest dabei
 nur, und bei uns liegt kein Kennwort und kein Schlüssel von Ihnen.
 
-:::note[Wird gerade schrittweise freigeschaltet]
-Der Personal-Abgleich wird in der App gerade schrittweise freigeschaltet. Sehen Sie den Menüpunkt „Personal-Abgleich“
-noch nicht und möchten ihn sofort nutzen, schreiben Sie uns über das [Kontaktformular](https://www.fraghugo.de/kontakt/).
-:::
-
 Sie finden die Anbindung auf der Seite **Personal-Abgleich** (`app.fraghugo.de/team/abgleich`) in der Karte
 **Google Workspace**. Einen Überblick über alle Quellen gibt die Seite [Personal-Abgleich](/schulungen/personal-abgleich/).
 

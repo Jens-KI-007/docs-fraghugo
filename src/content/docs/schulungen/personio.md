@@ -9,11 +9,6 @@ Mit der Personio-Anbindung kommen Ihre Mitarbeitenden von selbst in Hugo: Neue e
 stillgelegt, geänderte Namen und Abteilungen ziehen nach. Auf Wunsch legt Hugo jede bestandene Schulung und jede
 Unterweisung als Teilnahmebescheinigung (PDF) in der Personalakte in Personio ab.
 
-:::note[Wird gerade schrittweise freigeschaltet]
-Der Personal-Abgleich wird in der App gerade schrittweise freigeschaltet. Sehen Sie den Menüpunkt „Personal-Abgleich“
-noch nicht und möchten ihn sofort nutzen, schreiben Sie uns über das [Kontaktformular](https://www.fraghugo.de/kontakt/).
-:::
-
 Sie finden die Anbindung auf der Seite **Personal-Abgleich** (`app.fraghugo.de/team/abgleich`), erreichbar über das
 Menü „Personal-Abgleich“ oder in den Mitarbeiterlisten von Hugo Learn und Hugo Safe über **Hinzufügen → Aus Personio
 oder Microsoft 365 abgleichen**. Einen Überblick über alle Quellen gibt die Seite
