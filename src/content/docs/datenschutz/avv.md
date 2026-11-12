@@ -7,6 +7,12 @@ description: Externe Dienstleister mit Datenzugriff — Art. 28 DSGVO. Mit Hugos
 
 Jeder externe Dienst, der personenbezogene Daten in Ihrem Auftrag verarbeitet (Cloud-Software, Newsletter-Versender, Buchhaltungsbüro), braucht einen **Auftragsverarbeitungsvertrag** nach Art. 28 DSGVO. Hier verwalten Sie sie.
 
+:::tip[Dienstleister nicht von Hand suchen]
+Über Ihrer Liste schlägt Hugo unter **Erkannte Dienste** Dienstleister vor, die aus Ihrer Website und den
+öffentlichen Einträgen Ihrer Domain erkennbar sind, jeweils mit Beleg. Ein Klick übernimmt den Dienst mit dem Vermerk
+„AV-Vertrag fehlt“. Mehr unter [Erkannte Dienste](/datenschutz/erkannte-dienste/).
+:::
+
 ## Was Sie hier machen
 
 ### Neuer Auftragsverarbeiter

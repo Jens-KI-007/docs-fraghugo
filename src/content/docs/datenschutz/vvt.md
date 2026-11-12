@@ -7,6 +7,9 @@ description: Pflicht-Liste aller Datenverarbeitungen nach Art. 30 DSGVO — mit 
 
 Die Pflicht-Übersicht aller Verarbeitungen personenbezogener Daten. Wenn die Aufsichtsbehörde anruft, ist das **das erste Dokument**, das sie sehen will.
 
+Übernehmen Sie einen Dienst unter [Erkannte Dienste](/datenschutz/erkannte-dienste/), legt Hugo auf Wunsch die
+passenden Entwürfe hier gleich mit an.
+
 ## Was Sie hier machen
 
 ### Neue Verarbeitung anlegen

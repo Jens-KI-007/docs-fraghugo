@@ -37,6 +37,7 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 - [Bestandsaufnahme](https://docs.fraghugo.de/datenschutz/bestandsaufnahme/): Erstaudit Ihres Datenschutzes: Sie beantworten Fragen, die App bereitet Verzeichnis, Verträge, Löschfristen, Richtlinien und Maßnahmen vor, Ihr Datenschutzbeauftragter prüft und gibt frei.
 - [Verarbeitungsverzeichnis (VVT)](https://docs.fraghugo.de/datenschutz/vvt/): Pflicht-Liste aller Datenverarbeitungen nach Art. 30 DSGVO: mit KI-Vorschlägen, AVV-Verknüpfung und Behörden-Export.
 - [Auftragsverarbeiter (AVV)](https://docs.fraghugo.de/datenschutz/avv/): Externe Dienstleister mit Datenzugriff: Art. 28 DSGVO.
+- [Erkannte Dienste](https://docs.fraghugo.de/datenschutz/erkannte-dienste/): Hugo schlägt Dienstleister vor, die aus Ihrer Website und den öffentlichen Einträgen Ihrer Domain erkennbar sind: was Hugo liest, was die Belege bedeuten, Übernehmen, Kein Auftragsverarbeiter, Grenzen.
 - [Datenschutzerklärung](https://docs.fraghugo.de/datenschutz/dse/): Generator für die Website-Datenschutzerklärung: bleibt automatisch aktuell, wenn Sie AVV/VVT ändern.
 - [TOMs](https://docs.fraghugo.de/datenschutz/toms/): Sicherheits-Maßnahmen nach Art. 32 DSGVO: Vertraulichkeit, Integrität, Verfügbarkeit, Belastbarkeit.
 - [Löschkonzept](https://docs.fraghugo.de/datenschutz/loeschkonzept/): Aufbewahrungs- und Löschfristen für alle Datenkategorien: wann was warum gelöscht werden muss.

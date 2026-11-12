@@ -11,6 +11,7 @@ Der Bereich **Datenschutz** ist das Herzstück der Plattform. Hier dokumentieren
 |---|---|
 | [Verarbeitungsverzeichnis (VVT)](/datenschutz/vvt/) | Pflicht-Liste aller Verarbeitungen — Art. 30 DSGVO |
 | [Auftragsverarbeiter (AVV)](/datenschutz/avv/) | Alle externen Dienstleister mit Datenzugriff — Art. 28 |
+| [Erkannte Dienste](/datenschutz/erkannte-dienste/) | Dienstleister, die Hugo aus Website und Domain erkennt, mit Beleg übernehmen |
 | [Datenschutzerklärung](/datenschutz/dse/) | Generator für die Website — immer aktuell halten |
 | [TOMs](/datenschutz/toms/) | Technisch-organisatorische Maßnahmen — Art. 32 |
 | [Löschkonzept](/datenschutz/loeschkonzept/) | Aufbewahrungs- und Löschfristen |
