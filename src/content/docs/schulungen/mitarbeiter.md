@@ -15,8 +15,11 @@ Klicken Sie „+ Mitarbeiter“. Sie geben Name, Mail, Abteilung, Position ein.
 ### Massen-Import
 CSV hochladen mit Spalten: Name, Mail, Abteilung, Position. Hugo legt alle an.
 
-### Über M365-Sync
-Wenn Sie die [M365-Integration](/schulungen/m365-integration/) aktivieren, werden Mitarbeiter automatisch synchronisiert.
+### Über den Personal-Abgleich
+Mit dem [Personal-Abgleich](/schulungen/personal-abgleich/) kommen Mitarbeiter automatisch aus
+[Personio](/schulungen/personio/) oder [Microsoft 365](/schulungen/m365-integration/): Neue erscheinen von selbst,
+Ausgeschiedene werden stillgelegt. Sie finden ihn in der Mitarbeiterliste unter **Hinzufügen → Aus Personio oder
+Microsoft 365 abgleichen**.
 
 ## Einladen
 

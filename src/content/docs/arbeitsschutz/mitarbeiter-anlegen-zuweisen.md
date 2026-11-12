@@ -13,7 +13,7 @@ Bevor jemand unterwiesen werden kann, müssen Ihre Mitarbeiter in Hugo Safe ange
 
 Über **„+ Hinzufügen“** erfassen Sie eine Person mit **Name, E-Mail und Tätigkeitsbereich**. Hugo Safe verschickt daraufhin automatisch eine Einladung per E-Mail; der Mitarbeiter meldet sich an und sieht seine offenen Unterweisungen.
 
-Die Mitarbeiterliste ist **organisationsweit geteilt**: Wer bereits in [Hugo Learn](/schulungen/mitarbeiter/) angelegt ist – auch über die [Microsoft-365-Integration](/schulungen/m365-integration/) automatisch synchronisiert – steht hier ebenfalls zur Verfügung und muss nicht erneut erfasst werden. So pflegen Sie Ihren Personalstamm an einer Stelle und nutzen ihn für Schulungen **und** Arbeitsschutz-Unterweisungen.
+Die Mitarbeiterliste ist **organisationsweit geteilt**: Wer bereits in [Hugo Learn](/schulungen/mitarbeiter/) angelegt ist – auch über den [Personal-Abgleich](/schulungen/personal-abgleich/) automatisch aus [Personio](/schulungen/personio/) oder [Microsoft 365](/schulungen/m365-integration/) übernommen – steht hier ebenfalls zur Verfügung und muss nicht erneut erfasst werden. So pflegen Sie Ihren Personalstamm an einer Stelle und nutzen ihn für Schulungen **und** Arbeitsschutz-Unterweisungen.
 
 Die Zahl der Plätze richtet sich nach Ihrem Tarif. Ist das Kontingent ausgeschöpft, weist Hugo Safe Sie darauf hin und Sie erweitern den Tarif unter [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghugo.de/upgrade/arbeitsschutz).
 
@@ -50,6 +50,14 @@ Abteilung; vorher sehen Sie, wie viele Personen wie viele neue Pflichtthemen bek
 
 Jede Unterweisung lässt sich um **betriebsspezifische Hinweise** ergänzen (z. B. Ihre konkreten Fluchtwege, der Standort des Feuerlöschers, Ihre Hausordnung). Das macht die Unterweisung arbeitsplatzbezogen — ein Kriterium der DGUV Regel 100-001. Mehr dazu unter [Rechtliche Hinweise](/arbeitsschutz/rechtliche-hinweise/).
 
+## Aus Personio übernehmen
+
+Nutzen Sie Personio, übernimmt der [Personal-Abgleich](/schulungen/personio/) neue Mitarbeitende von selbst. Heißt
+eine Abteilung in Hugo Safe genau wie die Abteilung in Personio, ordnet Hugo neue Mitarbeitende dort ein, und die
+automatische Zuweisung gibt ihnen die Erstunterweisung ihrer Abteilung. Auf Wunsch legt Hugo jeden
+Unterweisungsnachweis als PDF in der Personalakte in Personio ab. Der Einstieg steht in der Mitarbeiterliste unter
+**Hinzufügen → Aus Personio oder Microsoft 365 abgleichen**.
+
 ## Mitarbeiter einladen
 
 Nach dem Anlegen lädt Hugo Safe die Mitarbeiter per E-Mail ein. Sie melden sich an und sehen ihre offenen Unterweisungen. Den Ablauf aus Mitarbeitersicht beschreibt [Unterweisung durchführen](/arbeitsschutz/unterweisung-durchfuehren/).
@@ -57,5 +65,5 @@ Nach dem Anlegen lädt Hugo Safe die Mitarbeiter per E-Mail ein. Sie melden sich
 ## Tipps
 
 - **Mit den Tätigkeitsbereichen starten** — sie sind der Hebel für die richtige Zuweisung. Lieber einmal sauber pflegen, als später einzeln nachsortieren.
-- **Personalstamm zentral halten** — wer in Hugo Learn (ggf. via M365-Sync) gepflegt ist, taucht hier automatisch auf. Doppelte Pflege sparen Sie sich.
+- **Personalstamm zentral halten** — wer in Hugo Learn (oder über den Personal-Abgleich aus Personio bzw. Microsoft 365) gepflegt ist, taucht hier automatisch auf. Doppelte Pflege sparen Sie sich.
 - **Neue Mitarbeiter sofort anlegen** — die Erstunterweisung sollte vor Aufnahme der Tätigkeit erfolgen. Hugo Safe markiert neu Angelegte als „offen“ (noch nicht unterwiesen).
