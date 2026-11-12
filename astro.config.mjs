@@ -1,10 +1,13 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import rehypeTabellenRahmen from './src/plugins/rehype-tabellen-rahmen.mjs';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://docs.fraghugo.de',
+	// Tabellen in einen rollbaren, per Tastatur erreichbaren Rahmen (X06)
+	markdown: { rehypePlugins: [rehypeTabellenRahmen] },
 	integrations: [
 		starlight({
 			title: 'frag.hugo Docs',
@@ -259,7 +262,7 @@ export default defineConfig({
 						{ label: 'Kunden registrieren', slug: 'partner/kunden-registrieren' },
 						{ label: 'Awareness: Kunden anlegen', slug: 'partner/awareness-kunden-anlegen' },
 						{ label: 'Awareness: Verkaufsleitfaden', slug: 'partner/awareness-verkaufsleitfaden' },
-						{ label: 'Awareness: Zustellung sicherstellen', slug: 'partner/awareness-zustellung' },
+						{ label: 'Awareness: Zustellung einrichten', slug: 'partner/awareness-zustellung' },
 						{ label: 'Awareness: Support-Fälle', slug: 'partner/awareness-support' },
 					],
 				},

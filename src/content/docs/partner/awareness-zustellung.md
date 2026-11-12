@@ -1,5 +1,5 @@
 ---
-title: Zustellung sicherstellen
+title: Zustellung einrichten
 description: Allowlisting in Microsoft 365 und Google Workspace, Prüfmail und was zu tun ist, wenn Übungs-Mails im Spam landen.
 ---
 

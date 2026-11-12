@@ -354,6 +354,18 @@ const apps = [
     color: var(--hugo-teal, #0EA5E9);
   }
 
+  /* ─── Handy: Tippflächen ≥ 44 px (R §12.2, X06) ─── */
+  @media (max-width: 50rem) {
+    .fh-footer-col ul { gap: 0; }
+    .fh-footer-link,
+    .fh-social-link,
+    .fh-legal-link {
+      min-height: 2.75rem;
+      min-width: 2.75rem;
+    }
+    .fh-legal-links { gap: 0 1.25rem; }
+  }
+
   /* ─── Reduced Motion ─── */
   @media (prefers-reduced-motion: reduce) {
     .fh-brand-link,

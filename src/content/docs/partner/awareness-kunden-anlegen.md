@@ -42,7 +42,7 @@ weil ab dieser Größe niemand mehr Lust hat, Kampagnen von Hand zu starten.
    damit der Mailserver des Kunden nicht dichtmacht.
 3. **Vor der ersten Übung prüfen wir die Zustellung.** Solange die Prüfmail nicht ankommt,
    versendet die Plattform keine Übungs-Mail. Das ist Absicht — siehe
-   [Zustellung sicherstellen](/partner/awareness-zustellung/).
+   [Zustellung einrichten](/partner/awareness-zustellung/).
 4. **Die erste Übung läuft frühestens zwei Wochen nach der Einrichtung**, damit das
    Allowlisting vorher steht.
 

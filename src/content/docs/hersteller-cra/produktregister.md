@@ -32,7 +32,7 @@ Die Komponentenliste hängt an der Produktversion und kommt aus dem
 
 ## Unterstützungszeitraum
 
-Der Unterstützungszeitraum ist der Zeitraum, in dem Sie sicherstellen müssen, dass Schwachstellen
+Der Unterstützungszeitraum ist der Zeitraum, in dem Sie dafür sorgen müssen, dass Schwachstellen
 des Produkts wirksam behandelt werden (Art. 3 Nr. 20).
 
 :::caution[Fünf Jahre sind die Untergrenze, nicht die Regel]

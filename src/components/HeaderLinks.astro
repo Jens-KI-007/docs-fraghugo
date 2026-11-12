@@ -27,7 +27,9 @@
     color: var(--hugo-teal, #0EA5E9);
   }
 
-  @media (max-width: 50rem) {
+  /* Bis 64 rem kein Platz neben Suche und Logo: bei 844 px quer ragte die Kopfleiste 6 px über die Seite (X06).
+     Dieselben Ziele stehen in der Fußzeile unter „Direkt starten“. */
+  @media (max-width: 64rem) {
     .header-links {
       display: none;
     }

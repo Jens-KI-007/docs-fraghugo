@@ -2226,10 +2226,9 @@ main:has(.fh-hero) .content-panel .sl-container {
     font-weight: 450;
   }
 
-  /* Tabellen waagerecht scrollbar statt abgeschnitten (FD-003/039) */
-  .sl-markdown-content table {
-    display: block;
-    max-width: 100%;
+  /* Tabellen waagerecht scrollbar statt abgeschnitten (FD-003/039). Seit X06 rollt der Rahmen `.fh-tabelle`
+     (rehype-tabellen-rahmen.mjs, per Tastatur erreichbar), nicht mehr die Tabelle selbst. */
+  .sl-markdown-content .fh-tabelle {
     overflow-x: auto;
     /* Schatten am Rand zeigen, dass die Tabelle weiterrollt (D12) */
     background:
@@ -2241,8 +2240,27 @@ main:has(.fh-hero) .content-panel .sl-container {
     overscroll-behavior-x: contain;
     -webkit-overflow-scrolling: touch;
   }
+  .sl-markdown-content .fh-tabelle > table {
+    background: transparent;
+  }
   .sl-markdown-content table :is(th, td):first-child {
     min-width: 7.5rem;
+  }
+
+  /* Link als einziger Inhalt eines Listenpunkts („Siehe auch“) ist ein eigenes Ziel: 44 px hoch (X06) */
+  .sl-markdown-content a.fh-einzel-link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.75rem;
+    padding-block: 0;
+  }
+
+  /* Tippflächen ≥ 44 px (R §12.2, X06): Überschriften-Anker wachsen, ohne die Zeile höher zu machen */
+  .sl-markdown-content .sl-anchor-link {
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    margin-block: -0.625rem;
+    margin-inline-start: 0;
   }
 
   /* Suche: Eingabe nicht abgeschnitten, Abstand zu „Abbrechen“ (FD-010) */
@@ -2270,4 +2288,24 @@ main:has(.fh-hero) .content-panel .sl-container {
 @media (min-width: 50.0625rem) {
   /* Tabellen am Desktop als echte Tabelle — Kopfband und Linien reichen bis zum Rahmen */
   .sl-markdown-content table { display: table; }
+}
+
+/* ─── X06 Theme-Befunde (R §12.2) ─── */
+/* Rahmen um jede Markdown-Tabelle: trägt Abstand und Rundung, die Tabelle selbst sitzt bündig darin */
+.sl-markdown-content .fh-tabelle {
+  margin: 2rem 0;
+  border-radius: 10px;
+  /* auf jeder Breite: neben der Seitenleiste (50–72 rem) ist die Spalte schmaler als manche Tabelle */
+  overflow-x: auto;
+}
+.sl-markdown-content .fh-tabelle > table { margin: 0; }
+.sl-markdown-content .fh-tabelle:focus-visible {
+  outline: 2px solid var(--hugo-teal-300);
+  outline-offset: 3px;
+}
+/* Rechte Leiste: Starlight setzt sie `position: fixed; width: 100%` — das bezieht sich auf das Fenster, nicht auf
+   ihre Spalte, und ragt deshalb bis 2560 px hinaus. Mit der Spalte als Abfrage-Behälter misst 100cqw die Spalte. */
+@media (min-width: 72rem) {
+  .right-sidebar-container { container-type: inline-size; }
+  .right-sidebar { width: 100cqw; }
 }
