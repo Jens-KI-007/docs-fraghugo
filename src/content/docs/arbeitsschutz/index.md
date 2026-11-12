@@ -41,7 +41,7 @@ Alle Preise sind **Netto** (zzgl. 19 % USt), jährlich abgerechnet, 12 Monate Mi
 | **Basis** | ab 14,90 € | 25 Unterweisungen — die Branche „Alle / Büro“, also alles, was in jedem Betrieb gilt; unbegrenzte Mitarbeiterzahl |
 | **Komplett** | ab 34,90 € | alle 156 Unterweisungen aus 13 Branchen + KI-Erklärvideos |
 
-Der Mengenrabatt greift automatisch im Checkout: **Basis** 14,90 € → 9,90 € (ab 100 MA) → 7,90 € (ab 500 MA), **Komplett** 34,90 € → 24,90 € (ab 100 MA) → 16,90 € (ab 500 MA) — jeweils pro Mitarbeiter/Jahr. Die **Rechtssicherheits-Features** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos. Kurzformel: **Basis = die Branche „Alle / Büro“. Komplett = plus Ihre zwölf weiteren Branchen.**
+Der Mengenrabatt greift automatisch im Checkout: **Basis** 14,90 € → 9,90 € (ab 100 MA) → 7,90 € (ab 500 MA), **Komplett** 34,90 € → 24,90 € (ab 100 MA) → 16,90 € (ab 500 MA) — jeweils pro Mitarbeiter/Jahr. Die **Nachweis-Funktionen** (Abschlusstest, benannte Ansprechperson, betriebsspezifische Ergänzung, Nachweis-Dossier, Jahres-Erinnerung) sind bewusst in **allen** Tarifen enthalten — der Tarif-Unterschied liegt nur im Themen-Umfang und den KI-Videos. Kurzformel: **Basis = die Branche „Alle / Büro“. Komplett = plus Ihre zwölf weiteren Branchen.**
 
 Buchen oder upgraden: [app.fraghugo.de/upgrade/arbeitsschutz](https://app.fraghugo.de/upgrade/arbeitsschutz). DSB-Kunden erhalten mit dem Combo-Rabatt `COMBO-DSB-SAFE-15` 15 % auf Hugo Safe.
 
