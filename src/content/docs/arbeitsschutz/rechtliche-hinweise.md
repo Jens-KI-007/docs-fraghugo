@@ -24,7 +24,7 @@ Die **DGUV Regel 100-001 „Grundsätze der Prävention“** (aktualisiert Juni 
 | **Arbeitsplatzbezogen** | betriebsspezifische Ergänzung je Modul (Ihre Fluchtwege, Maschinen, Gefahrstoffe) |
 | **Verständnisprüfung / Erfolgskontrolle** | [Abschlusstest](/arbeitsschutz/abschlusstest-zertifikat/) mit 80-%-Bestehensgrenze |
 | **Jederzeitige Rückfragemöglichkeit bei benannter Person** | Rückfrage-Funktion + benannte Ansprechperson |
-| **Rechtssichere Dokumentation** | [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) mit Audit-Log und Zeitstempeln |
+| **Nachvollziehbare Dokumentation** | [Nachweis-Dossier](/arbeitsschutz/nachweis-dossier/) mit Audit-Log und Zeitstempeln |
 
 ![Einstellungs-Seite „Ansprechperson & Betrieb“ in Hugo Safe: oben das Pflichtfeld für die benannte Ansprechperson (Name, Funktion, E-Mail, Telefon), an die Rückfragen der Mitarbeiter geleitet werden; darunter der Bereich „Betriebsspezifische Ergänzungen“, mit dem sich jede Unterweisung um die konkreten betrieblichen Gegebenheiten erweitern lässt — beides Kriterien der DGUV Regel 100-001](/screenshots/arbeitsschutz/ansprechperson-betrieb.png)
 
