@@ -139,7 +139,7 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 - [Phishing-Simulation](https://docs.fraghugo.de/schulungen/phishing-simulation/): Live-Test mit gefälschten Phishing-Mails: wer klickt?
 - [Anruf-Drills](https://docs.fraghugo.de/schulungen/anruf-drills/): Vishing- und Deepfake-Training im Browser: vier Minuten, verzweigte Szene, KI-Stimme.
 - [Unterweisungs-Baukasten (KI)](https://docs.fraghugo.de/schulungen/unterweisungs-baukasten/): Eigene Unterweisungen mit KI-Hilfe erstellen: Stichpunkte oder vorhandenes Dokument rein, fertige interaktive Unterweisung mit Quiz raus.
-- [Personal-Abgleich](https://docs.fraghugo.de/schulungen/personal-abgleich/): Mitarbeitende automatisch aus Personio oder Microsoft 365 übernehmen: was der Abgleich tut und was nicht, welche Quelle was kann, wer ihn nutzen kann und wo Sie ihn finden.
+- [Personal-Abgleich](https://docs.fraghugo.de/schulungen/personal-abgleich/): Mitarbeitende automatisch aus Personio, Microsoft 365 oder Google Workspace übernehmen: was der Abgleich tut und was nicht, welche Quelle was kann, wer ihn nutzen kann und wo Sie ihn finden.
 - [Personio verbinden](https://docs.fraghugo.de/schulungen/personio/): Mitarbeitende automatisch aus Personio übernehmen und Teilnahmebescheinigungen als PDF in der Personalakte ablegen: Voraussetzungen, Zugangsdaten anlegen, Vorschau, Einstellungen, Trennen, häufige Fehler.
 - [Microsoft 365 verbinden](https://docs.fraghugo.de/schulungen/m365-integration/): Mitarbeiter automatisch aus Microsoft 365 synchronisieren: keine manuelle Liste mehr pflegen.
 - [Ihre Beschäftigten schulen](https://docs.fraghugo.de/schulungen/beschaeftigte-schulen/): Was Ihre Mitarbeitenden bekommen, was von selbst läuft und an wen Sie sich wenden.
@@ -185,7 +185,7 @@ Datenschutzbeauftragte prüft. Anleitung: https://docs.fraghugo.de/ki-assistent/
 - [Kunden registrieren](https://docs.fraghugo.de/partner/kunden-registrieren/): Als Partner einen Kunden im Portal anlegen: welche Angaben nötig sind, wann die Erst-Mail rausgeht und wie es danach weitergeht.
 - [Awareness: Kunden anlegen](https://docs.fraghugo.de/partner/awareness-kunden-anlegen/): Was Sie brauchen, um einen Kunden für Security-Awareness einzurichten, wie lange es dauert und was der Kunde danach bekommt.
 - [Awareness: Verkaufsleitfaden](https://docs.fraghugo.de/partner/awareness-verkaufsleitfaden/): Die sechs Argumente in der Reihenfolge, die funktioniert, plus die Zahlen, mit denen Sie beim Kunden rechnen.
-- [Awareness: Zustellung sicherstellen](https://docs.fraghugo.de/partner/awareness-zustellung/): Allowlisting in Microsoft 365 und Google Workspace, Prüfmail und was zu tun ist, wenn Übungs-Mails im Spam landen.
+- [Awareness: Zustellung einrichten](https://docs.fraghugo.de/partner/awareness-zustellung/): Allowlisting in Microsoft 365 und Google Workspace, Prüfmail und was zu tun ist, wenn Übungs-Mails im Spam landen.
 - [Awareness: Support-Fälle](https://docs.fraghugo.de/partner/awareness-support/): Einladung erneut senden, Person deaktivieren, Plätze aufstocken: und woran Sie erkennen, wann frag.hugo übernimmt.
 
 ## FAQ
