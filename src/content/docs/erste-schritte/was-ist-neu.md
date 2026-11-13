@@ -53,6 +53,7 @@ Jeder bisherige Menüpunkt und wo er jetzt steht. Sie sehen nur die Bereiche, di
 | Meine Schule › Klassen & Schüler | Meine Schule › Klassen & Schüler |
 | Beratung › Beratung & Add-Ons | Ihr Datenschutzbeauftragter › Beratung & Stunden |
 | Beratung › Reifegrad-Check | Ihr Datenschutzbeauftragter › Bestandsaufnahme |
+| Beratung › Bestandsaufnahme | Ihr Datenschutzbeauftragter › Bestandsaufnahme |
 | Datenschutz › Aufgaben | Aufgaben |
 | Datenschutz › Maßnahmenkatalog | Aufgaben › Maßnahmen aus Prüfungen |
 | Datenschutz › Verarbeitungsverzeichnis | Unterlagen › Verarbeitungen |
