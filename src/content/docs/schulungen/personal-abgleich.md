@@ -9,9 +9,10 @@ Der **Personal-Abgleich** holt Ihre Mitarbeitenden aus dem System, in dem Sie si
 von selbst in Hugo, Ausgeschiedene werden stillgelegt. Die Liste gilt für Hugo Learn und Hugo Safe zugleich, Sie
 pflegen sie also an einer Stelle.
 
-Sie finden die Seite im Menü unter **Personal-Abgleich** (`app.fraghugo.de/team/abgleich`) oder in den
-Mitarbeiterlisten von Hugo Learn und Hugo Safe über **Hinzufügen → Aus Personio oder Microsoft 365 abgleichen**. Je
-Quelle gibt es eine Karte.
+Sie finden die Seite im Menü unter **Team & Schulung › Personal-Abgleich** (`app.fraghugo.de/team/abgleich`), über die
+Suche oder in den Mitarbeiterlisten von Hugo Learn und Hugo Safe über **Hinzufügen → Aus Personio oder Microsoft 365
+abgleichen**. Der Menüpunkt erscheint, sobald Ihr Tarif mindestens eine Quelle enthält. Wer nur Hugo Safe gebucht hat,
+kommt über die Mitarbeiterliste hinein. Je Quelle gibt es eine Karte.
 
 <img src="/screenshots/schulungen/personal-abgleich-1-seite.webp" alt="Seite „Personal-Abgleich“ mit dem Satz „Mitarbeitende kommen automatisch aus Ihrem Personalsystem. Neue erscheinen von selbst, Ausgeschiedene werden stillgelegt.“ und der Karte „Personio“ im Zustand „Verbunden“ mit letztem Abgleich, Zahlen, Knöpfen und dem Abschnitt „Schulungsnachweise in Personio ablegen“" width="1184" height="900" loading="lazy" />
 
@@ -66,7 +67,7 @@ Für andere Personalsysteme gibt es keine direkte Anbindung. Legen Sie Mitarbeit
 
 | Was Sie sehen | Ursache | Lösung |
 |---|---|---|
-| Menüpunkt „Personal-Abgleich“ fehlt | Ihr Tarif enthält Microsoft 365 nicht oder Ihnen fehlt das Recht, Schulungen zu verwalten. | Personio-Kunden kommen über **Hinzufügen** in der Mitarbeiterliste hinein; sonst Tarif oder Recht prüfen. |
+| Menüpunkt „Personal-Abgleich“ fehlt | Ihr Tarif enthält keine Quelle (zum Beispiel Hugo Learn kostenlos oder Datenschutz Lite), Sie haben nur Hugo Safe gebucht, oder Sie sind als Mitarbeiterin oder Mitarbeiter angemeldet. | Mit Hugo Safe über **Hinzufügen** in der Mitarbeiterliste; sonst Tarif prüfen oder einen Hauptadministrator fragen. |
 | „Keine Berechtigung“ | Ihre Rolle darf Schulungen nicht verwalten. | Einen Hauptadministrator bitten, das Recht zu geben. |
 | Personen erscheinen nicht | Keine freien Plätze, fehlende E-Mail-Adresse oder ausgeschlossene Abteilung. | Der Grund steht auf der Karte bzw. in der Vorschau. |
 | Eine Person steht doppelt | Sie wurde von Hand mit anderer E-Mail-Adresse angelegt. | Die von Hand angelegte Person stilllegen; der Abgleich fasst sie nicht an. |
