@@ -38,6 +38,11 @@ Kostenlos und ohne Anmeldung:
 - Dienstleister mit Auftragsverarbeitungsvertrag
 - TOMs, Löschkonzept, Datenschutzerklärung, Datenschutz-Folgenabschätzung
 - Vorlagen gesammelt übernehmen. Was es schon gibt, legt er kein zweites Mal an und sagt Ihnen das.
+- die [erkannten Dienste](/datenschutz/erkannte-dienste/) zeigen: was Hugo an Ihrer Website und an den öffentlichen
+  Einträgen Ihrer Domain gefunden hat, mit Beleg und dem Hinweis, ob in der Regel ein AV-Vertrag nötig ist
+- erkannte Dienste als Dienstleister übernehmen. Sie entstehen als Entwurf mit dem Vermerk „AV-Vertrag fehlt“, auf
+  Wunsch mit Entwürfen im Verarbeitungsverzeichnis. Dienste ohne öffentliche Spur, etwa Lohnbüro oder Steuerberatung,
+  nennen Sie ihm selbst.
 - Einträge zur Prüfung an Ihren Datenschutzbeauftragten geben
 
 ### Vorfälle
@@ -52,6 +57,23 @@ Kostenlos und ohne Anmeldung:
 - Mitarbeitende einladen
 - Schulungen von Hugo Learn und Unterweisungen von Hugo Safe zuweisen, erinnern oder die Frist ändern
 - den Stand der Schulungen abfragen, so weit Ihre Rolle ihn in der App sieht
+- sehen, wer über den [Personal-Abgleich](/schulungen/personal-abgleich/) aus Personio, Google Workspace oder
+  Microsoft 365 kommt. Name, E-Mail-Adresse und Abteilung dieser Personen pflegt die Quelle. Den Abgleich richten Sie
+  in der App ein; der Assistent kann ihn weder einrichten noch anstoßen.
+
+### Gefährdungsbeurteilung (Hugo Safe)
+
+- Ihre Gefährdungsbeurteilungen mit Stand ansehen: beantwortete Gefahren, offene und überfällige Maßnahmen, was zum
+  Abschließen noch fehlt, und die nächste Überprüfung
+- eine Beurteilung aus einer Vorlage anlegen und im Gespräch ausfüllen: Gefahren beantworten und bewerten, eigene
+  Gefahren ergänzen, Maßnahmen mit Verantwortlichen und Termin festhalten, die Pflichtteile beantworten, etwa zur
+  psychischen Belastung
+- eine Beurteilung abschließen oder nach einer Überprüfung neu festhalten und, in Hugo Safe Komplett, die passenden
+  Unterweisungen für die Abteilung übernehmen
+
+Wie viele Beurteilungen Ihr Tarif erlaubt, sagt er Ihnen. Beurteilen und entscheiden bleibt Sache des Arbeitgebers;
+der Assistent hält fest, was Sie entscheiden. Mehr unter
+[Gefährdungsbeurteilung erstellen](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/).
 
 ### Bestandsaufnahme
 
@@ -90,13 +112,16 @@ Kostenlos und ohne Anmeldung:
 ## Was sofort geschieht und was eine Bestätigung braucht
 
 **Sofort, mit Protokoll:** Einträge anlegen und ändern. Jede Änderung steht unter *Was Ihr Assistent geändert hat*
-und lässt sich zurücknehmen.
+und lässt sich zurücknehmen. Ausnahme: Eine neu angelegte Gefährdungsbeurteilung steht im Protokoll, lässt sich dort
+aber nicht zurücknehmen. Einen Entwurf ohne abgeschlossene Fassung archivieren Sie in der App; Antworten und Maßnahmen
+nimmt das Protokoll wie gewohnt zurück.
 
 **Erst nach einer Vorschau und Ihrem Ja:** alles, wobei eine Mail an Menschen geht oder etwas verschwindet. Das sind
 Einladungen, das Zuweisen von Schulungen und Unterweisungen, Richtlinien an Mitarbeitende, Phishing-Wellen, eigene
 Übungsmails, der Phishing-Autopilot, Mails an Dienstleister, das Veröffentlichen des Sicherheitsprofils, das Einreichen
 zur Prüfung, Datenpannen, Betroffenenanfragen und Software-Einführungen, eine neue E-Mail-Adresse Ihres
-Datenschutzbeauftragten in den Stammdaten, das Löschen und das Zurücknehmen selbst. Auch eine Aufgabe, die einer anderen Person
+Datenschutzbeauftragten in den Stammdaten, das Abschließen einer Gefährdungsbeurteilung und das Übernehmen ihrer
+Unterweisungen, mehr als zehn erkannte Dienste auf einmal, das Löschen und das Zurücknehmen selbst. Auch eine Aufgabe, die einer anderen Person
 zugewiesen wird, gehört dazu, weil diese Person eine Mail bekommt.
 
 Die Vorschau nennt, was genau passiert, wer wie viele Mails bekommt und was sich danach nicht mehr zurückholen lässt.

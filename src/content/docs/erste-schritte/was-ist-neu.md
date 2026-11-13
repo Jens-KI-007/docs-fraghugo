@@ -3,6 +3,29 @@ title: Was ist neu
 description: Die App ist neu geordnet — Bereiche statt Einzelpunkte, „Ihr Weg“ auf der Startseite. Hier steht, wo Sie jeden bisherigen Menüpunkt finden.
 ---
 
+## November 2026: Fünf neue Bausteine
+
+- **Gefährdungsbeurteilung in Hugo Safe.** Ein Assistent führt Schritt für Schritt durch die Gefährdungsbeurteilung:
+  Arbeitsbereich wählen, Gefahren prüfen und bewerten, Maßnahmen mit Verantwortlichen und Termin festlegen, Abschluss
+  mit PDF. Die passenden Unterweisungen übernehmen Sie in Hugo Safe Komplett mit einem Klick für die Abteilung.
+  [Gefährdungsbeurteilung erstellen](/arbeitsschutz/gefaehrdungsbeurteilung-verknuepfung/)
+- **Erkannte Dienste.** Auf der Seite „Dienstleister“ schlägt Hugo Dienste vor, die an Ihrer Website und an den
+  öffentlichen Einträgen Ihrer Domain zu erkennen sind, jeweils mit Beleg. Ein Klick übernimmt einen Dienst mit dem
+  Vermerk „AV-Vertrag fehlt“. [Erkannte Dienste](/datenschutz/erkannte-dienste/)
+- **Personal-Abgleich.** Mitarbeitende kommen automatisch aus Personio, Google Workspace oder Microsoft 365. Neue
+  erscheinen von selbst, Ausgeschiedene werden stillgelegt. Aus Hugo geht auf Wunsch die Teilnahmebescheinigung als PDF
+  in die Personalakte in Personio. [Personal-Abgleich](/schulungen/personal-abgleich/) ·
+  [Personio verbinden](/schulungen/personio/) · [Google Workspace verbinden](/schulungen/google-workspace/)
+- **Sicherheits-Nachweis.** Der [Sicherheits-Check](/lieferkette/sicherheits-check/) zeigt mit 30 Fragen die
+  wichtigsten Lücken Ihrer IT-Sicherheit. Was in Hugo belegt ist, geht als
+  [Nachweismappe](/lieferkette/nachweismappe/) an Kunden oder Ihren Cyberversicherer, auch über einen Nur-Lese-Link.
+  Wer eine ISO 27001 anstrebt, geht den [Fahrplan zur ISO 27001](/isms-nis2/fahrplan-iso-27001/) in zwölf Schritten.
+- **Widerrufsbutton im Shop-Check.** Der Website-Check prüft bei Onlineshops, ob der Widerrufsbutton nach § 356a BGB
+  zu finden ist. [Shop-Check: Widerrufsbutton](/website-it-sicherheit/shop-check/#5-widerrufsbutton)
+
+Was davon Sie sehen, hängt von Ihrem Tarif ab. Ihr KI-Assistent kennt die Gefährdungsbeurteilung und die erkannten
+Dienste ebenfalls: [Was der Assistent kann](/ki-assistent/was-der-assistent-kann/).
+
 ## November 2026: Ihr KI-Assistent füllt aus
 
 Sie können Claude oder ChatGPT mit frag.hugo verbinden und im Gespräch eintragen lassen, was Ihr
