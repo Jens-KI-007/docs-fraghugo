@@ -18,7 +18,7 @@ darauf hin, dass er seine Daten **vor** der Kündigung exportieren muss.
 **2. „Es kostet einen Bruchteil.“**
 Rechnen Sie mit der Mitarbeiterzahl des Kunden, nicht mit Prozenten. Marktübliche
 Awareness-Abonnements liegen im Bereich weniger Euro **je Person und Monat**. Hugo Learn
-kostet ab 14,90 € **je Person und Jahr** (Standard) bzw. ab 15 € je Person und Jahr im Programm
+kostet ab 14,90 € **je Person und Jahr** (Standard) bzw. ab 15 € je Person und Jahr in Premium
 bei großen Belegschaften.
 
 **3. „Sie bekommen mehr Inhalt.“**
@@ -60,11 +60,11 @@ So rechnen Sie live mit:
 Staffel Standard (netto, je Person und Jahr): 14,90 € · ab 25 Personen 12,90 € · ab 50 Personen
 11,90 € · ab 100 Personen 10,90 € · ab 250 Personen 9,90 €.
 
-Staffel Programm (ab 26 Personen, netto, je Person und Jahr): 24 € · ab 101 Personen 21 € ·
+Staffel Premium (ab 26 Personen, netto, je Person und Jahr): 24 € · ab 101 Personen 21 € ·
 ab 251 Personen 18 € · ab 501 Personen 15 €.
 
 Für Kunden, die bereits einen Datenschutz-Tarif haben, gibt es den Kombi-Rabatt
-`COMBO-DSB-LEARN-15` auf das Programm.
+`COMBO-DSB-LEARN-15` auf Premium.
 
 ## Der Umstieg
 

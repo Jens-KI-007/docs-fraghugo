@@ -20,7 +20,7 @@ oder Microsoft 365 abgleichen**. Einen Überblick über alle Quellen gibt die Se
 - **Personio-Tarif „Core Pro“.** Nur damit lassen sich in Personio eigene Zugangsdaten für eine Anbindung anlegen.
   Im Tarif „Core“ fehlt der Knopf „Individuelle Integration erstellen“; die Administrator-Rolle allein reicht nicht.
 - In Personio ein Konto, das Integrationen anlegen darf (in der Regel die Administration).
-- In Hugo ein bezahlter Tarif, der Mitarbeitende verwaltet: Hugo Learn Standard oder Programm (auch als Teil eines
+- In Hugo ein bezahlter Tarif, der Mitarbeitende verwaltet: Hugo Learn Standard oder Premium (auch als Teil eines
   Datenschutz-Tarifs oder einer Suite) oder Hugo Safe Basis oder Komplett. In den kostenlosen Stufen gibt es die
   Anbindung nicht.
 - In Hugo die Rolle Hauptadministrator oder das Recht, Schulungen zu verwalten.

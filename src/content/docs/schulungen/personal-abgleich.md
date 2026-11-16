@@ -33,7 +33,7 @@ kommt über die Mitarbeiterliste hinein. Je Quelle gibt es eine Karte.
 | Nachweise zurück ins System (PDF in der Personalakte) | ja, auf Wunsch | nein | nein |
 | Vorschau vor dem ersten Abgleich | ja | nein | ja |
 | Bedingung beim Anbieter | Personio-Tarif „Core Pro“ | Zustimmung eines Administrators in Microsoft 365 | Delegierung durch einen Super-Administrator in der Google-Admin-Konsole |
-| In Hugo enthalten in | jedem bezahlten Tarif von Hugo Learn (Standard, Programm) und Hugo Safe (Basis, Komplett), auch als Teil eines Datenschutz-Tarifs oder einer Suite | Hugo Learn Programm, Datenschutz-Suite Pro und Premium, Compliance-Suite Pro und Enterprise | wie Personio |
+| In Hugo enthalten in | jedem bezahlten Tarif von Hugo Learn (Standard, Premium) und Hugo Safe (Basis, Komplett), auch als Teil eines Datenschutz-Tarifs oder einer Suite | Hugo Learn Premium, Datenschutz-Suite Pro und Premium, Compliance-Suite Pro und Enterprise | wie Personio |
 
 Wie Sie die Quellen verbinden:
 

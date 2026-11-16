@@ -20,7 +20,7 @@ Sie finden die Anbindung auf der Seite **Personal-Abgleich** (`app.fraghugo.de/t
   Google-Admin-Konsole eine domainweite Delegierung eintragen.
 - **Die Adresse eines Administrators, der die Nutzer Ihrer Domain sehen darf.** In seinem Namen liest Hugo die
   Nutzerliste. Ein Super-Administrator ist dafür nicht nötig.
-- In Hugo ein bezahlter Tarif, der Mitarbeitende verwaltet: Hugo Learn Standard oder Programm (auch als Teil eines
+- In Hugo ein bezahlter Tarif, der Mitarbeitende verwaltet: Hugo Learn Standard oder Premium (auch als Teil eines
   Datenschutz-Tarifs oder einer Suite) oder Hugo Safe Basis oder Komplett. In den kostenlosen Stufen gibt es die
   Anbindung nicht.
 - In Hugo die Rolle Hauptadministrator oder das Recht, Schulungen zu verwalten.

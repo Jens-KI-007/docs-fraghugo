@@ -7,7 +7,7 @@ Betrug am Telefon ist die Lücke, die eine reine Mail-Simulation offen lässt. W
 E-Mail erkennt, erkennt deshalb noch lange keinen Anruf, in dem jemand unter Zeitdruck eine
 Überweisung verlangt. **Anruf-Drills** trainieren genau diese Situation — als Übung im Browser.
 
-Sie gehören zur **Programm-Stufe von Hugo Learn**. In der Standard-Stufe ist der Reiter sichtbar,
+Sie gehören zur **Premium-Stufe von Hugo Learn**. In der Standard-Stufe ist der Reiter sichtbar,
 aber gesperrt; in der Free-Stufe erscheint er nicht. Sie finden ihn in der Anwendung unter
 *Schulungen & Simulation → Anruf-Drills*.
 
@@ -206,11 +206,11 @@ ungeprüfter gesprochener Text in Umlauf kommt.
 
 ## Was es kostet
 
-**Nichts zusätzlich.** Anruf-Drills sind in der Programm-Stufe von Hugo Learn enthalten. Es gibt
+**Nichts zusätzlich.** Anruf-Drills sind in der Premium-Stufe von Hugo Learn enthalten. Es gibt
 keinen eigenen Preis, keine Abrechnung je Übung und keine Minutenkosten — es wird ja auch nicht
 telefoniert. Die Vertonung fällt einmalig je Szenario an und wird von frag.hugo getragen.
 
-Partner-Mandanten in der Programm-Stufe bekommen Drills automatisch; an der Abrechnung ändert
+Partner-Mandanten in der Premium-Stufe bekommen Drills automatisch; an der Abrechnung ändert
 sich nichts.
 
 ## Warum kein echter Anruf?

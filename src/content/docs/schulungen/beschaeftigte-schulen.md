@@ -22,7 +22,7 @@ Nachweis; den brauchen **Sie**, nicht Ihre Mitarbeitenden.
   Lernseite, die erklärt, woran die Mail zu erkennen gewesen wäre — nicht auf einer
   Verwarnung.
 * **Neue Lektionen**, monatlich, zu dem, was gerade tatsächlich passiert.
-* Im Programm-Tarif zusätzlich ein **Quartalsbericht** an Sie, ohne dass Sie ihn anfordern.
+* Im Premium-Tarif zusätzlich ein **Quartalsbericht** an Sie, ohne dass Sie ihn anfordern.
 
 ## Was Sie sehen — und was nicht
 

@@ -23,7 +23,7 @@ Wenn Ihre Firma Microsoft 365 nutzt, haben Sie dort schon alle Mitarbeiter mit M
 3. **Erster Abgleich** — dauert je nach Größe des Verzeichnisses 1–5 Minuten.
 4. Danach gleicht Hugo **jede Nacht** ab; „Jetzt abgleichen“ startet einen Lauf von Hand.
 
-Microsoft 365 gehört zu Hugo Learn Programm, zur Datenschutz-Suite Pro und Premium und zur Compliance-Suite Pro und
+Microsoft 365 gehört zu Hugo Learn Premium, zur Datenschutz-Suite Pro und Premium und zur Compliance-Suite Pro und
 Enterprise.
 
 ## Die drei Berechtigungssätze

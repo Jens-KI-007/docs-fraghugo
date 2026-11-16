@@ -48,7 +48,7 @@ Vorgang. Das Rechtspaket enthält dafür den Abschnitt § 4a. Beim Anlegen eine
 verlangt die Plattform eine ausdrückliche Bestätigung.
 
 **Was kostet ein Anruf-Drill zusätzlich?**
-Nichts. Er ist in der Programm-Stufe von Hugo Learn enthalten — kein Preis je Übung, keine
+Nichts. Er ist in der Premium-Stufe von Hugo Learn enthalten — kein Preis je Übung, keine
 Minutenkosten.
 
 **Was passiert, wenn jemand die Übung abbricht?**

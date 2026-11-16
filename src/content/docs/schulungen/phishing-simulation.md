@@ -65,5 +65,5 @@ Beides lässt sich verbinden: In einer Mail-Kampagne können Sie einen **Nachfol
 hinterlegen. Wer auf den Link in der Testmail klickt, landet dann sofort in der Anruf-Übung zum
 selben Vorwand — genau so läuft die reale Angriffskette ab.
 
-Anruf-Drills gehören zur **Programm-Stufe** und sind ein eigener mitbestimmungspflichtiger
+Anruf-Drills gehören zur **Premium-Stufe** und sind ein eigener mitbestimmungspflichtiger
 Vorgang: Eine Betriebsvereinbarung, die nur simulierte E-Mails nennt, deckt sie nicht ab.

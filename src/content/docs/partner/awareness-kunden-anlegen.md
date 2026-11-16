@@ -15,7 +15,7 @@ Mandanten-Konsole.
 | Firmenname | steht auf jedem Nachweis, den der Kunde später vorlegt |
 | Kundennummer aus Ihrer Abrechnung | ohne sie lässt sich die Zeile im Monatsexport nicht importieren |
 | Zahl der Beschäftigten **mit dienstlicher E-Mail-Adresse** | das ist die Zahl der Plätze und zugleich die Rechnungsgrundlage |
-| Stufe: Standard oder Programm | Programm gibt es ab 26 Beschäftigten |
+| Stufe: Standard oder Premium | Premium gibt es ab 26 Beschäftigten |
 | E-Mail einer Ansprechperson beim Kunden | optional — ohne sie entsteht kein Kunden-Login, und Sie betreuen allein |
 
 Zur Zahl der Plätze: Gemeint ist **jede Person mit einem dienstlichen Postfach**, nicht nur die
@@ -27,7 +27,7 @@ Kunden ab — sie steht später auf der Rechnung.
 **Standard** enthält den Schulungskatalog und Übungs-Mails; Sie stoßen die Übungen über die
 Konsole an.
 
-**Programm** enthält zusätzlich den Autopiloten (die Übungen laufen quartalsweise von selbst),
+**Premium** enthält zusätzlich den Autopiloten (die Übungen laufen quartalsweise von selbst),
 den adaptiven Schwierigkeitsgrad, den Betriebsrats-Modus mit protokollierter Anonymität, das
 Audit-Paket als PDF und den Quartalsbericht. Ab 26 Beschäftigten ist das die sinnvollere Wahl,
 weil ab dieser Größe niemand mehr Lust hat, Kampagnen von Hand zu starten.
@@ -52,7 +52,7 @@ weil ab dieser Größe niemand mehr Lust hat, Kampagnen von Hand zu starten.
 * Nachweise je Person, die er bei einer Prüfung vorlegen kann.
 * Eine Melde- und Klickrate, die zeigt, ob die Sensibilisierung wirkt — als Beleg für die
   Wirksamkeitsprüfung nach Art. 32 Abs. 1 lit. d DSGVO.
-* Bei der Programm-Stufe zusätzlich einen Quartalsbericht, der ohne Zutun ankommt.
+* Bei der Premium-Stufe zusätzlich einen Quartalsbericht, der ohne Zutun ankommt.
 
 Wir sagen **nicht** „rechtssicher“ und **nicht** „abmahnsicher“. Was das Produkt tut, ist den
 Nachweis unterstützen — und das ist in einer Prüfung genau das, worauf es ankommt.
