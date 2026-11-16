@@ -1,6 +1,6 @@
 ---
 title: Hugo Phish — Zustellbarkeit einrichten
-description: Simulations-Mails ausdrücklich erlauben, damit sie im Posteingang ankommen und nicht in der Quarantäne landen. Schritt für Schritt für Microsoft 365, Google Workspace und vorgelagerte Gateways.
+description: Simulations-Mails ausdrücklich erlauben, damit sie im Posteingang ankommen und nicht in der Quarantäne landen. Schritt für Schritt für Microsoft 365, Exchange Server im eigenen Haus, Google Workspace und vorgelagerte Gateways.
 ---
 
 Ohne diese einmalige Freigabe behandeln Sicherheitsfilter die Übungs-Mails wie echtes Phishing und
@@ -62,6 +62,54 @@ erscheinen dann Klicks, die kein Mensch gemacht hat. Nehmen Sie die Simulations-
 rechnet sie heraus — sauber ist die Messung aber nur, wenn der Scanner gar nicht erst klickt.
 :::
 
+## Exchange Server im eigenen Haus
+
+Für einen Exchange Server, den Sie selbst betreiben (2016, 2019 oder Subscription Edition), gibt es
+weder die erweiterte Zustellung noch die Ein-Klick-Freischaltung. Der Weg ist eine
+**Nachrichtenflussregel**, die Mails von unserer Sende-IP **und** einer unserer Absender-Domains am
+Spamfilter vorbeiführt. In der Plattform steht dafür unter *Simulation → Zustellung prüfen*, Reiter
+**Exchange Server (lokal)**, ein fertiger Befehl mit Ihren Werten zum Kopieren.
+
+**Im Exchange Admin Center** (`https://<Ihr-Exchange-Server>/ecp`):
+
+1. *Nachrichtenfluss → Regeln → „+“ → Neue Regel erstellen… → Weitere Optionen…*
+2. Bedingung: *Der Absender … → IP-Adresse liegt in einem dieser Bereiche* = `116.203.38.76`.
+3. Zweite Bedingung: *Der Absender … → Domäne ist* = die Absender-Domain(s) aus dem Cockpit.
+4. Aktion: *Nachrichteneigenschaften ändern → SCL (Spam Confidence Level) festlegen → Spamfilter umgehen*.
+5. Regel ganz nach oben setzen und speichern.
+
+**Oder in der Exchange-Verwaltungsshell** (Domains aus dem Cockpit einsetzen):
+
+```powershell
+New-TransportRule -Name "frag.hugo Phishing-Simulation" -Priority 0 `
+  -SenderIpRanges 116.203.38.76 `
+  -SenderDomainIs "ihre-absender-domain.de" `
+  -SetSCL -1 `
+  -SetHeaderName "X-MS-Exchange-Organization-BypassClutter" -SetHeaderValue "true"
+```
+
+Zurücknehmen lässt sich das jederzeit mit `Remove-TransportRule "frag.hugo Phishing-Simulation"`.
+
+:::caution[Gateway oder Spamfilter vor dem Exchange]
+Steht ein Edge-Transport-Server, ein Spamfilter oder ein Mail-Gateway davor (z. B. NoSpamProxy,
+Sophos, Hornetsecurity), filtert dieses **zuerst**: Sende-IP und Absender-Domains dort ebenfalls
+zulassen, Link-Prüfung für die Simulations-URLs abschalten. Sieht der Exchange nur die Adresse des
+Gateways, greift die IP-Bedingung nicht — dann in der Regel nur die Domains als Bedingung nehmen.
+:::
+
+**Meldungen:** Der Outlook-Meldeknopf läuft mit einem lokalen Exchange nicht (siehe
+[Meldebutton](/hugo-phish/meldebutton/)). Meldungen fließen stattdessen über das **Melde-Postfach**
+automatisch in die Auswertung: Beschäftigte leiten verdächtige Mails an ein Postfach wie
+`phishing@ihre-firma.de` weiter — am besten *als Anlage*, dann ist die Zuordnung eindeutig; beim
+gewöhnlichen Weiterleiten ordnet Hugo über Absender und Betreff zu. Hugo ruft das Postfach alle
+15 Minuten per IMAP ab. Dafür braucht es:
+
+- ein eigenes Postfach mit Kennwort,
+- die gestarteten Dienste „Microsoft Exchange IMAP4“ und „Microsoft Exchange IMAP4-Back-End“
+  (ab Werk aus),
+- ein gültiges, nicht selbstsigniertes Zertifikat für IMAP,
+- Port 993, erreichbar von unserer Abruf-Adresse `195.201.6.146`.
+
 ## Google Workspace
 
 **Admin-Konsole** ([admin.google.com](https://admin.google.com)) → *Apps → Google Workspace → Gmail*:
@@ -101,6 +149,7 @@ und eine ein Jahr alte Freigabe sagt nichts über heute.
 | Beobachtung | Ursache | Was hilft |
 |---|---|---|
 | Mail kommt gar nicht an | Ein Gateway davor (Hornetsecurity, Mimecast, Proofpoint) filtert vorher | Dort dieselben Werte eintragen — die Microsoft-Einstellung greift erst danach |
+| Exchange im Haus: Mail im Junk-Ordner trotz Regel | Regel greift nicht, weil der Exchange nur die Gateway-Adresse sieht, oder sie steht nicht ganz oben | Regel nach oben setzen; IP-Bedingung durch Domain-Bedingung ersetzen und am Gateway freigeben |
 | Mail im Junk-Ordner | Freigabe fehlt oder steht auf der falschen Domain | Absender-Domain prüfen: Sie steht im Kopf der Prüfmail |
 | Links werden sofort „geklickt“ | Sichere Links / URL-Rewriting ist aktiv | Domain von Safe Links / URL-Schutz ausnehmen |
 | Nur einzelne Postfächer betroffen | persönliche Blockierliste der Person | Über das Postfach der Person entfernen |

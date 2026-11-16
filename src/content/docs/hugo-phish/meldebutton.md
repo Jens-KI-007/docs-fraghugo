@@ -8,6 +8,14 @@ Simulationen automatisch (und wertet sie als Meldung) und leitet **echte** verd�
 IT-Sicherheit weiter.
 
 ## Microsoft 365 / Outlook — zentral ausrollen
+
+:::note[Nur mit Microsoft 365 (Exchange Online)]
+Mit einem **Exchange Server im eigenen Haus** (2016, 2019, Subscription Edition) lädt Outlook den
+Knopf nicht: Microsoft lässt dort nur ältere Add-in-Versionen zu, der Knopf braucht eine neuere.
+Nutzen Sie in diesem Fall das **Melde-Postfach** — Meldungen fließen darüber genauso automatisch in die
+Auswertung (siehe [Zustellbarkeit → Exchange Server im eigenen Haus](/hugo-phish/zustellbarkeit/#exchange-server-im-eigenen-haus)).
+:::
+
 1. Microsoft 365 Admin Center öffnen → *Einstellungen → Integrierte Apps*.
 2. *Benutzerdefinierte App hochladen* → *Manifestdatei (.xml)*.
 3. Manifest-URL angeben: `https://app.fraghugo.de/phish-addin/manifest.xml`
