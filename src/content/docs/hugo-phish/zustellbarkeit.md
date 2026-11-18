@@ -48,7 +48,7 @@ erweiterte Zustellung hat dieses Problem nicht.
    falls schon ein Eintrag besteht).
 5. Eintragen — die Werte stehen im Cockpit:
    - **Domain:** die Absender-Domain(en) Ihres Kontos (dazu ggf. die genannten Ausweich-Adressen).
-   - **Sendende IP:** `116.203.38.76`.
+   - **Sendende IP:** `195.201.6.146`.
    - **Simulations-URLs:** das URL-Muster der Landing-Seite (z. B. `ihre-domain.de/*`).
 6. **Speichern.** Die Regel ist nach **bis zu einer Stunde** aktiv.
 7. **Safe Links und Safe Attachments für dieselbe Domain ausnehmen** (siehe unten) — sonst klickt der
@@ -73,7 +73,7 @@ Spamfilter vorbeiführt. In der Plattform steht dafür unter *Simulation → Zus
 **Im Exchange Admin Center** (`https://<Ihr-Exchange-Server>/ecp`):
 
 1. *Nachrichtenfluss → Regeln → „+“ → Neue Regel erstellen… → Weitere Optionen…*
-2. Bedingung: *Der Absender … → IP-Adresse liegt in einem dieser Bereiche* = `116.203.38.76`.
+2. Bedingung: *Der Absender … → IP-Adresse liegt in einem dieser Bereiche* = `195.201.6.146`.
 3. Zweite Bedingung: *Der Absender … → Domäne ist* = die Absender-Domain(s) aus dem Cockpit.
 4. Aktion: *Nachrichteneigenschaften ändern → SCL (Spam Confidence Level) festlegen → Spamfilter umgehen*.
 5. Regel ganz nach oben setzen und speichern.
@@ -82,7 +82,7 @@ Spamfilter vorbeiführt. In der Plattform steht dafür unter *Simulation → Zus
 
 ```powershell
 New-TransportRule -Name "frag.hugo Phishing-Simulation" -Priority 0 `
-  -SenderIpRanges 116.203.38.76 `
+  -SenderIpRanges 195.201.6.146 `
   -SenderDomainIs "ihre-absender-domain.de" `
   -SetSCL -1 `
   -SetHeaderName "X-MS-Exchange-Organization-BypassClutter" -SetHeaderValue "true"
@@ -115,7 +115,7 @@ gewöhnlichen Weiterleiten ordnet Hugo über Absender und Betreff zu. Hugo ruft 
 **Admin-Konsole** ([admin.google.com](https://admin.google.com)) → *Apps → Google Workspace → Gmail*:
 
 1. **Zugelassene Absender** (*Email Allowlist*, unter *Spam, Phishing und Malware*): die Sende-IP
-   `116.203.38.76` eintragen.
+   `195.201.6.146` eintragen.
 2. **Spam** → neue Regel mit **„Absender-Domain überschreiben“** für Ihre Simulations-Domain; Option
    **„Interne Absender-Authentifizierung umgehen“** aktivieren.
 3. Ist der **erweiterte Phishing- und Malware-Schutz** aktiv: dieselbe Domain dort ausnehmen.
@@ -128,7 +128,7 @@ Sitzt vor Microsoft 365 oder Google ein eigenes Secure-E-Mail-Gateway, **filtert
 die Microsoft-/Google-Einstellung greift dann gar nicht mehr. Tragen Sie dieselben Werte deshalb
 **auch dort** ein:
 
-- **Absender-Domain** und **Sende-IP** `116.203.38.76` auf die **Permit-/Allowlist**.
+- **Absender-Domain** und **Sende-IP** `195.201.6.146` auf die **Permit-/Allowlist**.
 - **URL-Rewriting / URL-Protection / ATP** (bei Mimecast *URL Protect*, bei Proofpoint *URL Defense*,
   bei Hornetsecurity die *Web-/Link-Prüfung*) für die **Landing-Domain deaktivieren** — sonst wird
   auch hier die URL maschinell geklickt.
