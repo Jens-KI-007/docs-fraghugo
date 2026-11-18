@@ -60,7 +60,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Übersicht', slug: 'erste-schritte/uebersicht' },
 						{ label: 'Was ist neu', slug: 'erste-schritte/was-ist-neu' },
-						{ label: 'Account erstellen', slug: 'erste-schritte/account-erstellen' },
+						{ label: 'Konto anlegen', slug: 'erste-schritte/account-erstellen' },
 						{ label: 'Startseite und Navigation', slug: 'erste-schritte/dashboard' },
 						{ label: 'Einstellungen', slug: 'erste-schritte/einstellungen' },
 						{ label: 'Benachrichtigungen', slug: 'erste-schritte/notifications' },

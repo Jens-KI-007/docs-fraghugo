@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte
-description: Account erstellen, Startseite und „Ihr Weg“ verstehen, Tarif wählen — was Sie als Erstes wissen müssen.
+description: Konto anlegen, Startseite und „Ihr Weg“ verstehen, Tarif wählen — was Sie als Erstes wissen müssen.
 ---
 
 Willkommen bei frag.hugo. Nach der Anmeldung zeigt Ihnen die Startseite mit **„Ihr Weg“**, welche Schritte für Ihre Buchung anstehen — in der richtigen Reihenfolge, mit ungefährer Dauer. Erledigte Schritte haken sich selbst ab. Links in der Seitenleiste stehen Ihre **Bereiche**; jede Seite finden Sie außerdem über die Suche (<kbd>⌘</kbd> <kbd>K</kbd> bzw. <kbd>Strg</kbd> <kbd>K</kbd>).
@@ -9,7 +9,7 @@ Sie kennen die App von früher? Auf **[Was ist neu](/erste-schritte/was-ist-neu/
 
 ## Schnelles Onboarding
 
-1. **[Account erstellen](/erste-schritte/account-erstellen/)** — Registrierung, Bestätigungs-Mail, Onboarding-Fragen.
+1. **[Konto anlegen](/erste-schritte/account-erstellen/)** — Anmeldung, Bestätigungsmail und die vier Schritte zum Ankommen.
 2. **[Startseite und Navigation](/erste-schritte/dashboard/)** — „Ihr Weg“, Bereiche, Suche, Schalter „Alle Funktionen“.
 3. **[Einstellungen](/erste-schritte/einstellungen/)** — Profil, Firmendaten, Logo, Mandanten.
 4. **[Tarif wählen / Upgrade](/erste-schritte/upgrade/)** — was kostet was, wie Plan wechseln.
