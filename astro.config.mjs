@@ -179,7 +179,6 @@ export default defineConfig({
 						{ label: 'Übersicht', slug: 'arbeitsschutz' },
 						{ label: 'Modulkatalog', slug: 'arbeitsschutz/modulkatalog' },
 						{ label: 'Mitarbeiter anlegen & zuweisen', slug: 'arbeitsschutz/mitarbeiter-anlegen-zuweisen' },
-						{ label: 'Sprachen für Mitarbeitende', slug: 'schulungen/sprachen' },
 						{ label: 'Unterweisung durchführen', slug: 'arbeitsschutz/unterweisung-durchfuehren' },
 						{ label: 'Abschlusstest & Zertifikat', slug: 'arbeitsschutz/abschlusstest-zertifikat' },
 						{ label: 'Nachweis-Dossier', slug: 'arbeitsschutz/nachweis-dossier' },
