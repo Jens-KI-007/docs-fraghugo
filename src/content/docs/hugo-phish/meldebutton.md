@@ -7,6 +7,9 @@ Der Meldebutton bringt das Melden dorthin, wo die Mail ankommt: ins Postfach. Er
 Simulationen automatisch (und wertet sie als Meldung) und leitet **echte** verdächtige Mails an die
 IT-Sicherheit weiter.
 
+Wie der Knopf im Postfach aussieht und was Mitarbeitende nach dem Melden lesen, zeigt der
+[Rundgang in Bildern](https://www.fraghugo.de/hugo-phish/rundgang/#melden).
+
 ## Microsoft 365 / Outlook — zentral ausrollen
 
 :::note[Nur mit Microsoft 365 (Exchange Online)]

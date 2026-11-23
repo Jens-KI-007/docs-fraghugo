@@ -18,5 +18,9 @@ description: In fünf Schritten von null zur ersten sicher zugestellten Phishing
    Wellen automatisch — Sie müssen nichts weiter tun.
 5. **Ergebnisse verfolgen.** Im Cockpit sehen Sie Melderate, Klickrate und den Resilienz-Index.
 
+> **Vorab zeigen:** Solange die Zustellung noch nicht freigegeben ist, können Sie der Geschäftsleitung
+> und dem Betriebsrat den [Rundgang in Bildern](https://www.fraghugo.de/hugo-phish/rundgang/) geben —
+> er zeigt Mail, Meldeknopf, Aufklärungsseite und Auswertung, auch als PDF.
+
 > **Tipp:** Starten Sie mit einer *Baseline-Welle*, um Ihren Ausgangswert zu messen. Nach zwölf
 > Monaten Programm sinkt die Klickrate erfahrungsgemäß deutlich.

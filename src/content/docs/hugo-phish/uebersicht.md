@@ -9,10 +9,18 @@ nicht, wer versagt, sondern wer **schützt**: die Melderate ist die Leitkennzahl
 
 ![Cockpit der Phishing-Simulation: die vier Kennzahlen Melderate (30 %), Klickrate (19 %), Resilienz-Index (74 von 100) und Öffnungsrate (79 %), darunter der Resilienz-Verlauf über die bisherigen Wellen, der Zustellbarkeits-Status für Microsoft 365 und die Liste der vier abgeschlossenen Kampagnen](/screenshots/hugo-phish/cockpit.jpg)
 
+:::tip[Erst ansehen: der Rundgang in Bildern]
+Wie die Übungs-Mail in Outlook aussieht, wo der Meldeknopf sitzt, was nach einem Klick erscheint und
+was bei der Geschäftsleitung ankommt, zeigt der
+[Rundgang auf fraghugo.de](https://www.fraghugo.de/hugo-phish/rundgang/) — auch als PDF zum
+Weitergeben an Geschäftsleitung, Betriebsrat oder IT, noch bevor die erste Übung verschickt ist.
+:::
+
 ## Die Bausteine
 
 | Bereich | Wofür |
 |---|---|
+| [Rundgang in Bildern](https://www.fraghugo.de/hugo-phish/rundgang/) | Was Mitarbeitende sehen: Mail, Meldeknopf, Seite nach dem Klick, Auswertung |
 | [Schnellstart](/hugo-phish/schnellstart/) | In fünf Schritten zur ersten Kampagne |
 | [Zustellbarkeit](/hugo-phish/zustellbarkeit/) | Allowlisting, damit die Mails ankommen (Pflicht) |
 | [Jahresprogramm](/hugo-phish/programm/) | Der Autopilot: Wellen, Rhythmus, Sperrzeiten |
