@@ -44,6 +44,11 @@ oben und lässt sich als Pflicht oder als freiwillig einstufen. Erklärvideos si
 Mit dem [Unterweisungs-Baukasten](/schulungen/unterweisungs-baukasten/) legen Sie eigene
 Unterweisungen an — für firmenspezifische Themen, die kein Standardmodul abdeckt.
 
+## Sprachen
+
+Alle Module gibt es auf Deutsch und Englisch. Mit dem Sprachpaket kommen acht weitere Sprachen dazu,
+von Türkisch bis Bulgarisch — siehe [Sprachen für Ihre Mitarbeitenden](/schulungen/sprachen/).
+
 ## Zertifikate
 
 - **Automatisch** nach bestandenem Quiz

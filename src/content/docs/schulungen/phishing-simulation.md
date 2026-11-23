@@ -47,6 +47,11 @@ NIS2 + ISO 27001 erwarten Phishing-Simulation als Awareness-Maßnahme. Sie dokum
 - Aggregierte Trefferquote
 - Folgemaßnahmen
 
+## Erst ausprobieren
+
+Eine Kampagne startet ab 5 angemeldeten Personen. Vorher können Sie mit dem
+[Probelauf](/hugo-phish/probelauf/) eine Übungsmail an 1 bis 4 eingeweihte Personen schicken.
+
 ## Tipps
 
 - **Erstmal nicht zu hart** — sehr realistische Kampagne ohne Vor-Ankündigung kann Mitarbeiter verärgern. Erst Sanftes, dann steigern.

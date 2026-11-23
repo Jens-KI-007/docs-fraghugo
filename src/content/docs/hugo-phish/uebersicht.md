@@ -25,6 +25,7 @@ Weitergeben an Geschäftsleitung, Betriebsrat oder IT, noch bevor die erste Übu
 | [Zustellbarkeit](/hugo-phish/zustellbarkeit/) | Allowlisting, damit die Mails ankommen (Pflicht) |
 | [Jahresprogramm](/hugo-phish/programm/) | Der Autopilot: Wellen, Rhythmus, Sperrzeiten |
 | [Anruf-Drills](/schulungen/anruf-drills/) | Der zweite Kanal: Vishing und Deepfakes im Browser (Premium-Stufe) |
+| [Probelauf](/hugo-phish/probelauf/) | Übungsmail an 1 bis 4 Personen, bevor 5 Personen beisammen sind |
 | [Betriebsrat & Datenschutz](/hugo-phish/betriebsrat/) | Anonymität, Musterbetriebsvereinbarung, Rechtsgrundlagen |
 | [Berichte & Nachweis](/hugo-phish/berichte/) | Report-PDF, Audit-Paket für NIS2/ISO/Versicherung |
 | [Häufige Fragen](/hugo-phish/faq/) | Kurz beantwortet |

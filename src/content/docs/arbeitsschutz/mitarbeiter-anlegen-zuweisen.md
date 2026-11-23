@@ -62,6 +62,12 @@ Unterweisungsnachweis als PDF in der Personalakte in Personio ab. Der Einstieg s
 
 Nach dem Anlegen lädt Hugo Safe die Mitarbeiter per E-Mail ein. Sie melden sich an und sehen ihre offenen Unterweisungen. Den Ablauf aus Mitarbeitersicht beschreibt [Unterweisung durchführen](/arbeitsschutz/unterweisung-durchfuehren/).
 
+## Sprache je Mitarbeiter
+
+Unterweisungen gibt es auf Deutsch und Englisch, mit dem Sprachpaket in acht weiteren Sprachen. Die Sprache
+legen Sie je Person beim Einladen, bei „Ohne E-Mail anlegen“ oder später über **Bearbeiten** fest. Details:
+[Sprachen für Ihre Mitarbeitenden](/schulungen/sprachen/).
+
 ## Tipps
 
 - **Mit den Tätigkeitsbereichen starten** — sie sind der Hebel für die richtige Zuweisung. Lieber einmal sauber pflegen, als später einzeln nachsortieren.

@@ -179,6 +179,7 @@ export default defineConfig({
 						{ label: 'Übersicht', slug: 'arbeitsschutz' },
 						{ label: 'Modulkatalog', slug: 'arbeitsschutz/modulkatalog' },
 						{ label: 'Mitarbeiter anlegen & zuweisen', slug: 'arbeitsschutz/mitarbeiter-anlegen-zuweisen' },
+						{ label: 'Sprachen für Mitarbeitende', slug: 'schulungen/sprachen' },
 						{ label: 'Unterweisung durchführen', slug: 'arbeitsschutz/unterweisung-durchfuehren' },
 						{ label: 'Abschlusstest & Zertifikat', slug: 'arbeitsschutz/abschlusstest-zertifikat' },
 						{ label: 'Nachweis-Dossier', slug: 'arbeitsschutz/nachweis-dossier' },
@@ -204,6 +205,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Übersicht', slug: 'schulungen/uebersicht' },
 						{ label: 'Hugo Learn', slug: 'schulungen/hugo-learn' },
+						{ label: 'Sprachen für Mitarbeitende', slug: 'schulungen/sprachen' },
 						{ label: 'Fortschritt im Blick', slug: 'schulungen/uebersicht-schulungen' },
 						{ label: 'Mitarbeiter verwalten', slug: 'schulungen/mitarbeiter' },
 						{ label: 'Phishing-Simulation', slug: 'schulungen/phishing-simulation' },
@@ -221,6 +223,7 @@ export default defineConfig({
 						{ label: 'Übersicht', slug: 'hugo-phish/uebersicht' },
 						{ label: 'Schnellstart', slug: 'hugo-phish/schnellstart' },
 						{ label: 'Zustellbarkeit einrichten', slug: 'hugo-phish/zustellbarkeit' },
+						{ label: 'Probelauf mit bis zu 4 Personen', slug: 'hugo-phish/probelauf' },
 						{ label: 'Jahresprogramm', slug: 'hugo-phish/programm' },
 						{ label: 'Betriebsrat & Datenschutz', slug: 'hugo-phish/betriebsrat' },
 						{ label: 'Berichte & Nachweis', slug: 'hugo-phish/berichte' },

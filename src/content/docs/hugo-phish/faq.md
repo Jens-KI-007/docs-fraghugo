@@ -25,6 +25,10 @@ Eine Kennzahl von 0–100 je Person, Abteilung und Organisation, die vor allem M
 Klicken abzieht. Die Formel ist offengelegt. Abgeschlossene [Anruf-Drills](/schulungen/anruf-drills/)
 zählen mit — es gibt einen Index, nicht zwei.
 
+**Wir sind noch keine 5 Personen. Können wir trotzdem testen?**
+Ja, mit dem [Probelauf](/hugo-phish/probelauf/): 1 bis 4 Personen, die Bescheid wissen, eine Vorlage,
+höchstens 3 Probeläufe in 30 Tagen. Er zählt nicht in Ihre Auswertung.
+
 ## Anruf-Drills
 
 **Ruft die Plattform meine Mitarbeiter wirklich an?**

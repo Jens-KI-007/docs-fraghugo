@@ -18,6 +18,10 @@ description: In fünf Schritten von null zur ersten sicher zugestellten Phishing
    Wellen automatisch — Sie müssen nichts weiter tun.
 5. **Ergebnisse verfolgen.** Im Cockpit sehen Sie Melderate, Klickrate und den Resilienz-Index.
 
+> **Noch keine 5 Personen?** Eine Kampagne startet erst ab 5 angemeldeten Personen. Mit dem
+> [Probelauf](/hugo-phish/probelauf/) schicken Sie vorher eine Übungsmail an 1 bis 4 Personen, die
+> Bescheid wissen.
+
 > **Vorab zeigen:** Solange die Zustellung noch nicht freigegeben ist, können Sie der Geschäftsleitung
 > und dem Betriebsrat den [Rundgang in Bildern](https://www.fraghugo.de/hugo-phish/rundgang/) geben —
 > er zeigt Mail, Meldeknopf, Aufklärungsseite und Auswertung, auch als PDF.

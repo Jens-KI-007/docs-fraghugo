@@ -35,6 +35,9 @@ Schulungs-Pflichten sind echt: DSGVO Art. 39, NIS2 Awareness-Pflicht, branchensp
 
 Jeder Kurs: Video + interaktive Übung + Quiz. Bestehen mit 80 %, dann Zertifikat.
 
+Arbeiten bei Ihnen Menschen, die besser in einer anderen Sprache lesen? Neben Deutsch und Englisch gibt es
+acht weitere Sprachen im [Sprachpaket](/schulungen/sprachen/).
+
 ## Compliance-Nachweis
 
 Pro Mitarbeiter sehen Sie:
