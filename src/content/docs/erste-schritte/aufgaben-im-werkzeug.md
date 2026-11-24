@@ -1,15 +1,14 @@
 ---
 title: Aufgaben in Ihrem Werkzeug
-description: "Hugo schreibt, was als Nächstes fällig ist, als Aufgaben in Microsoft Planner oder über eine Web-Adresse in Make, Zapier oder n8n. Was mitgeht, was nicht und wie Sie verbinden."
+description: "Hugo schreibt, was als Nächstes fällig ist, als Aufgaben in Trello, monday.com, Asana oder Microsoft Planner oder über eine Web-Adresse in Make, Zapier oder n8n. Was mitgeht, was nicht und wie Sie verbinden."
 ---
 
 Wer seine Arbeit in einem Aufgaben-Werkzeug plant, muss für den Datenschutz nicht in zwei Listen schauen. Hugo
 schreibt, was als Nächstes fällig ist, als Aufgaben in Ihr Werkzeug — mit Fälligkeit und einem Link zurück in Hugo.
 Es ist dieselbe Liste, die Ihre Startseite unter „Als Nächstes“ zeigt, nur vollständig.
 
-Eingebaut ist **Microsoft Planner**. Alle anderen Werkzeuge, etwa Jira, ClickUp, Notion oder MeisterTask, erreichen
-Sie über eine **Web-Adresse** in Make, Zapier oder n8n. Trello, monday.com und Asana stehen in der Karte als
-„In Kürze“; bis dahin verbinden Sie sie ebenfalls über Make, Zapier oder n8n.
+Eingebaut sind **Trello**, **monday.com**, **Asana** und **Microsoft Planner**. Alle anderen Werkzeuge, etwa Jira,
+ClickUp, Notion oder MeisterTask, erreichen Sie über eine **Web-Adresse** in Make, Zapier oder n8n.
 
 ## Wer es nutzen kann
 
@@ -44,6 +43,33 @@ Auftragsverarbeitungsverträgen steht der Name des Dienstleisters im Titel; das 
    klicken.
 
 Ist eine Sache in Hugo erledigt, setzt Hugo die Aufgabe in Planner auf erledigt.
+
+## Trello verbinden
+
+1. Wählen Sie in der Karte **Trello** und klicken Sie **„Bei Trello anmelden“**. Trello fragt, ob Hugo Karten lesen
+   und anlegen darf. Trello erteilt diese Freigabe immer für alle Boards Ihres Kontos; Hugo schreibt trotzdem nur in
+   die Liste, die Sie danach wählen.
+2. Zurück in Hugo klicken Sie **„Mit Trello verbinden“**.
+3. Wählen Sie **Board** und **Liste**. Wählen Sie dazu eine Liste für Erledigtes, verschiebt Hugo erledigte Karten
+   dorthin; sonst hakt Hugo sie ab und archiviert sie.
+4. Prüfen Sie die **Vorschau** und klicken Sie **Übernehmen**.
+
+## monday.com verbinden
+
+1. Wählen Sie **monday.com** und klicken Sie **„Bei monday.com anmelden“**. Ein Administrator Ihres
+   monday.com-Kontos muss der Anmeldung zustimmen.
+2. Wählen Sie **Board** und **Gruppe**. Auf Wunsch wählen Sie eine **Datums-Spalte** für die Fälligkeit und eine
+   **Status-Spalte** mit dem Wert, der „erledigt“ bedeutet. Ohne Status-Spalte archiviert Hugo erledigte Einträge.
+3. Prüfen Sie die **Vorschau** und klicken Sie **Übernehmen**.
+
+## Asana verbinden
+
+1. Wählen Sie **Asana** und klicken Sie **„Bei Asana anmelden“**.
+2. Wählen Sie das **Projekt**.
+3. Prüfen Sie die **Vorschau** und klicken Sie **Übernehmen**. Erledigtes setzt Hugo in Asana auf erledigt.
+
+Bei allen drei sieht Hugo kein Kennwort. Den Zugriff können Sie jederzeit in Ihrem Werkzeug widerrufen; die Karte
+zeigt dann, dass neu verbunden werden muss.
 
 ## Über Make, Zapier oder n8n verbinden
 
@@ -83,11 +109,12 @@ etwa wenn der Zugriff entzogen wurde oder Ihr Werkzeug die Adresse nicht annimmt
 
 ## Im Werkzeug als erledigt markiert
 
-- **Eigene Aufgaben** aus Hugo: Haken Sie die Aufgabe in Planner ab, schließt Hugo sie auch in Hugo, mit dem Vermerk
-  „In Microsoft Planner erledigt“. Ausnahme sind Aufgaben, die gerade geprüft werden; dort sehen Sie nur einen Hinweis.
+- **Eigene Aufgaben** aus Hugo: Haken Sie die Aufgabe in Ihrem Werkzeug ab, schließt Hugo sie auch in Hugo, mit
+  einem Vermerk wie „In Microsoft Planner erledigt“. Als abgehakt gilt in Trello eine erledigte, archivierte oder in
+  die Erledigt-Liste verschobene Karte, in monday.com ein archivierter Eintrag oder der gewählte Status, in Asana und
+  Planner eine erledigte Aufgabe. Ausnahme sind Aufgaben, die gerade geprüft werden; dort sehen Sie nur einen Hinweis.
 - **Alles andere** (Anfragen, Datenpannen, Verträge, Unterweisungen) ist erst erledigt, wenn es in Hugo erledigt ist.
-  Auf der Startseite und unter **Aufgaben** steht dann „In Microsoft Planner als erledigt markiert — hier
-  abschließen“.
+  Auf der Startseite und unter **Aufgaben** steht dann etwa „In Trello als erledigt markiert — hier abschließen“.
 
 Über die Web-Adresse kommt nichts zurück. Make, Zapier und n8n empfangen nur.
 
