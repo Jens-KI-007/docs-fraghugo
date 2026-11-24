@@ -63,6 +63,7 @@ export default defineConfig({
 						{ label: 'Konto anlegen', slug: 'erste-schritte/account-erstellen' },
 						{ label: 'Startseite und Navigation', slug: 'erste-schritte/dashboard' },
 						{ label: 'Einstellungen', slug: 'erste-schritte/einstellungen' },
+						{ label: 'Aufgaben in Ihrem Werkzeug', slug: 'erste-schritte/aufgaben-im-werkzeug' },
 						{ label: 'Benachrichtigungen', slug: 'erste-schritte/notifications' },
 						{ label: 'Upgrade & Tarife', slug: 'erste-schritte/upgrade' },
 						{ label: 'AV-Vertrag mit frag.hugo', slug: 'erste-schritte/av-vertrag' },

@@ -17,6 +17,11 @@ Unter **Einstellungen** (oben rechts unter Ihrem Avatar) finden Sie alles, was S
 - Firmenname, Anschrift, Handelsregister, USt-ID — wird für PDF-Header in allen Dokumenten verwendet.
 - **Logo** — wird auf Reports, Schulungs-Zertifikaten und im Mein-Siegel verwendet.
 
+## Aufgaben in Ihrem Werkzeug
+
+Unter **Organisation** verbinden Sie Microsoft Planner oder über eine Web-Adresse Make, Zapier oder n8n. Hugo schreibt
+dann, was als Nächstes fällig ist, als Aufgaben in Ihr Werkzeug. [Aufgaben in Ihrem Werkzeug](/erste-schritte/aufgaben-im-werkzeug/)
+
 ## Benachrichtigungen
 
 Pro Ereignis getrennt einstellbar:

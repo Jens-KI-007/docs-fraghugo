@@ -3,6 +3,12 @@ title: Was ist neu
 description: Die App ist neu geordnet — Bereiche statt Einzelpunkte, „Ihr Weg“ auf der Startseite. Hier steht, wo Sie jeden bisherigen Menüpunkt finden.
 ---
 
+## November 2026: Aufgaben in Ihrem Werkzeug
+
+Hugo schreibt, was als Nächstes fällig ist, als Aufgaben in Microsoft Planner oder über eine Web-Adresse in Make,
+Zapier oder n8n — mit Fälligkeit und Link zurück in Hugo, ohne Namen von Personen. In jedem bezahlten Tarif enthalten.
+[Aufgaben in Ihrem Werkzeug](/erste-schritte/aufgaben-im-werkzeug/)
+
 ## November 2026: Fünf neue Bausteine
 
 - **Gefährdungsbeurteilung in Hugo Safe.** Ein Assistent führt Schritt für Schritt durch die Gefährdungsbeurteilung:
