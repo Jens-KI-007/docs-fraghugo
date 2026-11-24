@@ -100,3 +100,4 @@ die schon dort stehen, bleiben stehen; löschen Sie sie bei Bedarf selbst.
 
 - [Startseite und Navigation](/erste-schritte/dashboard/)
 - [Einstellungen](/erste-schritte/einstellungen/)
+- [DSGVO-Fristen im Überblick](https://www.fraghugo.de/dsgvo-fristen-uebersicht-nicht-verpassen/) (Blog)
