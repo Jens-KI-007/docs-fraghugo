@@ -128,3 +128,4 @@ die schon dort stehen, bleiben stehen; löschen Sie sie bei Bedarf selbst.
 - [Startseite und Navigation](/erste-schritte/dashboard/)
 - [Einstellungen](/erste-schritte/einstellungen/)
 - [DSGVO-Fristen im Überblick](https://www.fraghugo.de/dsgvo-fristen-uebersicht-nicht-verpassen/) (Blog)
+- [Trello und Datenschutz: Trello, Asana, monday.com und Planner DSGVO-konform nutzen](https://www.fraghugo.de/trello-datenschutz-dsgvo/) (Blog)
