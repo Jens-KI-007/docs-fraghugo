@@ -232,6 +232,16 @@ export default defineConfig({
 					],
 				},
 				{
+					// GOAL-HUGO-PRUEFT P29 — Seiten tragen bis zur Freischaltung (P31) robots noindex.
+					label: 'Hugo prüft (Betrug erkennen)',
+					items: [
+						{ label: 'Einrichten', slug: 'hugo-prueft/einrichten' },
+						{ label: 'Mail an Hugo weiterleiten', slug: 'hugo-prueft/mail-weiterleiten' },
+						{ label: 'Chef-Anruf-Bestätigung', slug: 'hugo-prueft/chef-anruf' },
+						{ label: 'Datenschutz', slug: 'hugo-prueft/datenschutz' },
+					],
+				},
+				{
 					label: 'Für Schulen & Träger',
 					items: [
 						{ label: 'Übersicht', slug: 'schulen/uebersicht' },
