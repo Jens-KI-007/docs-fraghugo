@@ -8,13 +8,22 @@ description: Stand der App „frag.hugo“ in ChatGPT und wie Sie frag.hugo scho
 Die App „frag.hugo“ für ChatGPT ist bei OpenAI in Prüfung. Nach der Freigabe finden Sie sie im App-Verzeichnis von
 ChatGPT und fügen sie mit einem Klick hinzu. Diese Seite wird dann ergänzt.
 
-Bis dahin fügen Sie frag.hugo in ChatGPT selbst als Plugin hinzu. Das geht auch im kostenlosen Konto, und Sie haben
-sofort alle Werkzeuge, die auch Claude bekommt.
+Bis dahin fügen Sie frag.hugo in ChatGPT selbst als Plugin hinzu. Was ChatGPT dann darf, legt OpenAI je Tarif fest
+(Stand 24.11.2026, laut [Hilfe von OpenAI](https://help.openai.com/en/articles/12584461)):
+
+| Tarif | Mit frag.hugo |
+|---|---|
+| ChatGPT Business | Lesen und eintragen. Einrichten dürfen nur Admins und Owner des Arbeitsbereichs. |
+| ChatGPT Enterprise / Edu | Lesen und eintragen. Admins oder von ihnen berechtigte Mitglieder richten ein. |
+| ChatGPT Pro | Nur lesen. Einträge anlegen oder ändern lässt OpenAI bei selbst hinzugefügten Servern nicht zu. |
+
+Eingerichtet wird im Browser auf chatgpt.com, nicht in der Handy-App. Wer mit einem Einzeltarif auch eintragen will,
+nimmt [Claude](/ki-assistent/verbinden-claude/): Dort geht das schon mit Claude Pro.
 
 ## Als Plugin hinzufügen
 
-1. Öffnen Sie in ChatGPT den Bereich **Plugins** und wählen Sie **Hinzufügen** und dann **Benutzerdefinierten
-   MCP-Server hinzufügen**. In Firmen-Arbeitsbereichen kann die Verwaltung das freigeben oder sperren.
+1. Öffnen Sie ChatGPT im Browser, dort den Bereich **Plugins**, und wählen Sie das Plus und dann
+   **Benutzerdefinierten MCP-Server hinzufügen**. In Firmen-Arbeitsbereichen kann die Verwaltung das freigeben oder sperren.
 2. Name: „frag.hugo“, Server-Adresse:
 
    ```
@@ -26,7 +35,7 @@ sofort alle Werkzeuge, die auch Claude bekommt.
 3. Mit **frag.hugo verbinden** öffnet ChatGPT die Anmeldung bei frag.hugo. Sie sehen die Seite **KI-Assistent
    verbinden** mit den Rechten in Alltagssprache und der Firma, für die die Verbindung gilt. Mit **Erlauben** ist
    ChatGPT verbunden, und frag.hugo steht unter den installierten Plugins.
-4. Sagen Sie im Gespräch, was zu tun ist, zum Beispiel: „Was ist bei uns im Datenschutz als Nächstes dran?“
+4. Tippen Sie im Gespräch **@frag.hugo** ein und sagen Sie, was zu tun ist, zum Beispiel: „Was ist bei uns im Datenschutz als Nächstes dran?“
 
    ChatGPT holt sich den Stand aus frag.hugo und antwortet mit Ihren echten Zahlen:
 
