@@ -40,9 +40,11 @@ die Zuordnung zur Firma und den Versand der Antwort genutzt; in der gespeicherte
 Hugo prüft zuerst mit festen Regeln — etwa ob ein Link eine bekannte Marke nachahmt, wie alt eine Domain ist oder ob
 ein Kurzlink das Ziel versteckt. Danach fasst eine KI von OpenAI das Ergebnis zusammen und liest Bilder.
 
-* **Text wird vorher geschwärzt.** Namen, Telefonnummern und Kontodaten werden unkenntlich gemacht, bevor der Text an
-  OpenAI geht.
-* **Bilder gehen ungeschwärzt an OpenAI** — Bildschirmfotos, Fotos von Briefen und Rechnungen.
+* **Text aus Mails und Eingabefeldern wird vorher geschwärzt.** Rufnummern, Kontodaten, E-Mail-Adressen bis auf die
+  Domain und die Namen Ihrer Beschäftigten werden unkenntlich gemacht, bevor der Text an OpenAI geht. Namen anderer
+  Personen erkennt Hugo nur in Anreden wie „Sehr geehrter Herr …“.
+* **Bilder, PDF-Dateien und der Inhalt von QR-Codes gehen ungeschwärzt an OpenAI** — Bildschirmfotos, Fotos von
+  Briefen und Rechnungen, angehängte PDF-Rechnungen. Auch die Dateinamen von Anhängen gehen mit.
 * **OpenAI kann Anfragen bis zu 30 Tage aufbewahren**, um Missbrauch zu erkennen. Danach werden sie gelöscht.
 
 **KI abschalten:** Hat Ihre Firma die KI in den Einstellungen abgeschaltet, urteilt Hugo nur mit den festen Regeln.
@@ -73,7 +75,7 @@ gespeichert; das PDF lässt sich in der App jederzeit öffnen. Er nennt als Unte
 
 | Unterauftragnehmer | Wofür |
 |---|---|
-| OpenAI Ireland Ltd | Beurteilung von Nachrichten, die Beschäftigte zur Prüfung einreichen; Text vorher geschwärzt, Bilder ungeschwärzt; Speicherung bei OpenAI bis zu 30 Tage zur Missbrauchserkennung |
+| OpenAI Ireland Ltd | Beurteilung von Nachrichten, die Beschäftigte zur Prüfung einreichen; Text vorher geschwärzt, Bilder, PDF-Dateien und QR-Inhalte ungeschwärzt; Speicherung bei OpenAI bis zu 30 Tage zur Missbrauchserkennung |
 | Resend | Versand der Antwortmails |
 | Hetzner (Deutschland) | Server für Mail-Eingang und Datenbank |
 
