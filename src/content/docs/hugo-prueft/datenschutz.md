@@ -1,9 +1,6 @@
 ---
 title: Datenschutz bei Hugo prüft
 description: Was Hugo prüft speichert und was nicht, was an OpenAI geht, warum die Firma nie sieht, wer was geprüft hat — und was im AV-Vertrag steht.
-head:
-  - tag: meta
-    attrs: { name: robots, content: noindex }
 ---
 
 Mitarbeitende prüfen nur dann ehrlich, wenn sie sicher sein können, dass niemand mitliest. Deshalb ist Hugo prüft

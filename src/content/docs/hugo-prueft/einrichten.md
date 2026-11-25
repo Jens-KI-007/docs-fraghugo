@@ -1,10 +1,6 @@
 ---
 title: Hugo prüft einrichten
 description: Betrugs-Check für Ihre ganze Firma einschalten — Weiterleitungs-Adresse, Firmen-Link mit Plakat, Chef-Anruf-Bestätigung und Monatsblick. Kostenlos, 300 Prüfungen im Monat.
-head:
-  # Bis zur Freischaltung von „Hugo prüft“ nicht in Suchmaschinen (wie die Produktseite auf fraghugo.de).
-  - tag: meta
-    attrs: { name: robots, content: noindex }
 ---
 
 Komische Mail, seltsame SMS, ein Anruf vom angeblichen Chef? Mit **Hugo prüft** leiten Ihre Leute die Nachricht

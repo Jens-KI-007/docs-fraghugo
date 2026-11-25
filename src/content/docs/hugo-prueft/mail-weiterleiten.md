@@ -1,9 +1,6 @@
 ---
 title: Mail an Hugo weiterleiten
 description: So leiten Sie eine verdächtige Mail an hugo@pruefen.fraghugo.de weiter — in Outlook, Gmail und Apple Mail, am Computer und am Handy. Die Antwort mit Urteil kommt per Mail zurück.
-head:
-  - tag: meta
-    attrs: { name: robots, content: noindex }
 ---
 
 Eine Mail kommt Ihnen komisch vor? Leiten Sie sie an **`hugo@pruefen.fraghugo.de`** weiter. Nach wenigen Minuten

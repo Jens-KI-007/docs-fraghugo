@@ -1,9 +1,6 @@
 ---
 title: Chef-Anruf-Bestätigung einrichten
 description: Ruft angeblich die Chefin an und will eine Überweisung? Mit Hugo prüft fragt die angerufene Person nach, die Chefin bestätigt mit Face ID oder Fingerabdruck. Einrichtung auf iPhone und Android.
-head:
-  - tag: meta
-    attrs: { name: robots, content: noindex }
 ---
 
 Beim **Chef-Betrug** (auch CEO-Fraud) gibt sich jemand am Telefon, per Mail oder mit nachgemachter Stimme als Chefin

@@ -232,7 +232,7 @@ export default defineConfig({
 					],
 				},
 				{
-					// GOAL-HUGO-PRUEFT P29 — Seiten tragen bis zur Freischaltung (P31) robots noindex.
+					// GOAL-HUGO-PRUEFT P29, freigeschaltet mit P31 (25.11.2026).
 					label: 'Hugo prüft (Betrug erkennen)',
 					items: [
 						{ label: 'Einrichten', slug: 'hugo-prueft/einrichten' },
