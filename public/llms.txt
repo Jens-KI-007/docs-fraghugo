@@ -18,11 +18,12 @@ Art. 50 KI-VO eingeordnet, mit Norm und Beispiel für den Hinweis),
 
 ## Erste Schritte
 
-- [Übersicht](https://docs.fraghugo.de/erste-schritte/uebersicht/): Account erstellen, Startseite und „Ihr Weg“ verstehen, Tarif wählen: was Sie als Erstes wissen müssen.
+- [Übersicht](https://docs.fraghugo.de/erste-schritte/uebersicht/): Konto anlegen, Startseite und „Ihr Weg“ verstehen, Tarif wählen: was Sie als Erstes wissen müssen.
 - [Was ist neu](https://docs.fraghugo.de/erste-schritte/was-ist-neu/): Die App ist neu geordnet: Bereiche statt Einzelpunkte, „Ihr Weg“ auf der Startseite.
-- [Account erstellen](https://docs.fraghugo.de/erste-schritte/account-erstellen/): Registrierung, E-Mail-Bestätigung, erste Schritte.
+- [Konto anlegen](https://docs.fraghugo.de/erste-schritte/account-erstellen/): Kostenloses Konto anlegen, E-Mail bestätigen und in vier kurzen Schritten sehen, was Ihre Mitarbeitenden bekommen.
 - [Startseite und Navigation](https://docs.fraghugo.de/erste-schritte/dashboard/): Die Startseite mit „Ihr Weg“ durch die Einrichtung, die Bereiche in der Seitenleiste, die Suche und der Schalter „Alle Funktionen“.
 - [Einstellungen](https://docs.fraghugo.de/erste-schritte/einstellungen/): Profil, Passwort, Firmendaten, Benachrichtigungen, Branding.
+- [Aufgaben in Ihrem Werkzeug](https://docs.fraghugo.de/erste-schritte/aufgaben-im-werkzeug/): Hugo schreibt, was als Nächstes fällig ist, als Aufgaben in Trello, monday.com, Asana oder Microsoft Planner oder über eine Web-Adresse in Make, Zapier oder n8n.
 - [Benachrichtigungen](https://docs.fraghugo.de/erste-schritte/notifications/): Die Glocke oben rechts: wann erscheint was, wie schalten Sie Lärm ab.
 - [Upgrade & Tarife](https://docs.fraghugo.de/erste-schritte/upgrade/): Wie Sie auf einen höheren Plan wechseln, was im Preis enthalten ist und wie das Stripe-Checkout läuft.
 - [AV-Vertrag mit frag.hugo](https://docs.fraghugo.de/erste-schritte/av-vertrag/): Den Auftragsverarbeitungsvertrag nach Art. 28 DSGVO für Hugo Safe, Hugo Learn oder beides selbst ausfüllen und als Word-Datei herunterladen.
@@ -144,6 +145,7 @@ Art. 50 KI-VO eingeordnet, mit Norm und Beispiel für den Hinweis),
 
 - [Übersicht](https://docs.fraghugo.de/schulungen/uebersicht/): Hugo Learn, Phishing-Simulation, M365-Integration: Mitarbeiter-Awareness automatisiert.
 - [Hugo Learn](https://docs.fraghugo.de/schulungen/hugo-learn/): 31 Module zu Datenschutz, Cyber-Sicherheit und KI: mit Quiz, Zertifikat und monatlicher KI-Lektion.
+- [Sprachen für Mitarbeitende](https://docs.fraghugo.de/schulungen/sprachen/): Deutsch und Englisch sind immer enthalten.
 - [Fortschritt im Blick](https://docs.fraghugo.de/schulungen/uebersicht-schulungen/): Wer hat welchen Kurs absolviert, wer ist überfällig: die Audit-Sicht aller Mitarbeiter.
 - [Mitarbeiter verwalten](https://docs.fraghugo.de/schulungen/mitarbeiter/): Mitarbeiter anlegen, Kurse zuweisen, einladen, Status verfolgen.
 - [Phishing-Simulation](https://docs.fraghugo.de/schulungen/phishing-simulation/): Live-Test mit gefälschten Phishing-Mails: wer klickt?
@@ -159,11 +161,19 @@ Art. 50 KI-VO eingeordnet, mit Norm und Beispiel für den Hinweis),
 - [Übersicht](https://docs.fraghugo.de/hugo-phish/uebersicht/): Phishing-Simulation für deutsche Unternehmen: Programm läuft von allein, Betriebsrat sagt ja, Prüfer bekommt sein PDF.
 - [Schnellstart](https://docs.fraghugo.de/hugo-phish/schnellstart/): In fünf Schritten von null zur ersten sicher zugestellten Phishing-Simulation.
 - [Zustellbarkeit einrichten](https://docs.fraghugo.de/hugo-phish/zustellbarkeit/): Simulations-Mails ausdrücklich erlauben, damit sie im Posteingang ankommen und nicht in der Quarantäne landen.
+- [Probelauf mit bis zu 4 Personen](https://docs.fraghugo.de/hugo-phish/probelauf/): Kampagnen starten erst ab 5 Personen.
 - [Jahresprogramm](https://docs.fraghugo.de/hugo-phish/programm/): Der Autopilot: Rhythmus, gestaffelter Versand, Sperrzeiten, Ausnahmen.
 - [Betriebsrat & Datenschutz](https://docs.fraghugo.de/hugo-phish/betriebsrat/): Anonymität technisch erzwungen, Musterbetriebsvereinbarung, verifizierte Rechtsgrundlagen.
 - [Berichte & Nachweis](https://docs.fraghugo.de/hugo-phish/berichte/): Report-PDF und Audit-Paket für NIS2, ISO 27001, DSGVO Art. 32 und § 391 SGB V.
 - [Meldebutton (Outlook)](https://docs.fraghugo.de/hugo-phish/meldebutton/): Ein-Klick-Meldung im Postfach ausrollen: erkennt Simulationen automatisch, leitet echte Verdachtsmails an die IT weiter.
 - [Häufige Fragen](https://docs.fraghugo.de/hugo-phish/faq/): Kurz beantwortet: Zustellung, Datenschutz, Betriebsrat, Nachweis.
+
+## Hugo prüft (Betrug erkennen)
+
+- [Einrichten](https://docs.fraghugo.de/hugo-prueft/einrichten/): Betrugs-Check für Ihre ganze Firma einschalten: Weiterleitungs-Adresse, Firmen-Link mit Plakat, Chef-Anruf-Bestätigung und Monatsblick.
+- [Mail an Hugo weiterleiten](https://docs.fraghugo.de/hugo-prueft/mail-weiterleiten/): So leiten Sie eine verdächtige Mail an hugo@pruefen.fraghugo.de weiter: in Outlook, Gmail und Apple Mail, am Computer und am Handy.
+- [Chef-Anruf-Bestätigung](https://docs.fraghugo.de/hugo-prueft/chef-anruf/): Ruft angeblich die Chefin an und will eine Überweisung?
+- [Datenschutz](https://docs.fraghugo.de/hugo-prueft/datenschutz/): Was Hugo prüft speichert und was nicht, was an OpenAI geht, warum die Firma nie sieht, wer was geprüft hat: und was im AV-Vertrag steht.
 
 ## Für Schulen & Träger
 

@@ -35,7 +35,7 @@ können wieder einschalten.
 ## 2. Weiterleiten
 
 Die Adresse für alle ist **`hugo@pruefen.fraghugo.de`**. Wer eine verdächtige Mail dorthin weiterleitet, bekommt
-Hugos Antwort nach wenigen Minuten zurück — ganz ohne Konto. Wie das in Outlook, Gmail und Apple Mail geht, steht in
+Hugos Antwort meist nach wenigen Sekunden zurück — ganz ohne Konto. Wie das in Outlook, Gmail und Apple Mail geht, steht in
 [Mail an Hugo weiterleiten](/hugo-prueft/mail-weiterleiten/).
 
 Damit eine Prüfung **für Ihre Firma zählt**, muss Hugo den Absender Ihrer Firma zuordnen können. Das klappt, wenn
