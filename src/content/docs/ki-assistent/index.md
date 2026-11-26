@@ -69,6 +69,8 @@ mit einem passenden Beispielsatz. Mit dem Kreuz schließen Sie ihn; die App merk
 
 ## So verbinden Sie Ihren Assistenten
 
+Der kürzeste Weg bis zum ersten Eintrag steht im [Schnellstart in zehn Minuten](/ki-assistent/schnellstart/).
+
 - [Claude verbinden](/ki-assistent/verbinden-claude/): im Browser, in der Desktop-App, auf dem Handy und in Claude Code
 - [ChatGPT verbinden](/ki-assistent/verbinden-chatgpt/)
 - [Microsoft 365 Copilot verbinden](/ki-assistent/verbinden-copilot/)

@@ -73,6 +73,7 @@ export default defineConfig({
 					label: 'KI-Assistent',
 					items: [
 						{ label: 'Mit Ihrem KI-Assistenten ausfüllen', slug: 'ki-assistent' },
+						{ label: 'Schnellstart in zehn Minuten', slug: 'ki-assistent/schnellstart' },
 						{ label: 'Claude verbinden', slug: 'ki-assistent/verbinden-claude' },
 						{ label: 'ChatGPT verbinden', slug: 'ki-assistent/verbinden-chatgpt' },
 						{ label: 'Copilot verbinden', slug: 'ki-assistent/verbinden-copilot' },
